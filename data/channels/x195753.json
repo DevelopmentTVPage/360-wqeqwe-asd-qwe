@@ -1,0 +1,32 @@
+{
+    "title": "Stance",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1407042825",
+    "date_modified": "1421713896",
+    "tags": "",
+    "sourceId": null,
+    "status": "approved",
+    "visibility": "1",
+    "id": "195753",
+    "loginId": "753",
+    "entityType": "3",
+    "titleTextEncoded": "Stance",
+    "category": null,
+    "duration": null,
+    "settings": {
+        "canvasImage": "242902018-0.jpg",
+        "colorClass": "light",
+        "canvasType": "cropped",
+        "canvasCropped": "242902018-001500846.jpg",
+        "autoPlay": 1,
+        "autoNext": 1,
+        "hideoos": 1,
+        "auto": {
+            "dynamic": 0,
+            "limit": 16
+        },
+        "optimize": 1
+    },
+    "transcripts": null
+}

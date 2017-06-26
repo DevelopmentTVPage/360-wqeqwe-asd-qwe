@@ -1,0 +1,48 @@
+{
+    "pageNumber": 0,
+    "data": [
+        {
+            "id": "3816995",
+            "title": "Rusty \/\/ Our Kind \/\/ Summer 2015",
+            "date_created": "1423181852",
+            "loginId": "753",
+            "tags": "Rusty, surfing, clothing, boardshorts, bikini",
+            "description": "Rusty Summer 2015 featuring Noa Deane and Olive Cooke.",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "62"
+                },
+                "thumbnailUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/3816995\/4ac112f268cc35aeb76a93402e8f7c46.png",
+                "hookText": "Rusty Summer 2015 featuring Noa Deane and Olive Cooke",
+                "type": "mp4",
+                "mediaDuration": "62",
+                "prettyDuration": "00:01:02",
+                "tags": "Rusty, surfing, clothing, boardshorts, bikini",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/3816995\/720p_4ac112f268cc35aeb76a93402e8f7c46.mov",
+                        "quality": "720p"
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/3816995\/480p_4ac112f268cc35aeb76a93402e8f7c46.mov",
+                        "quality": "480p",
+                        "tvpdefault": true
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/3816995\/360p_4ac112f268cc35aeb76a93402e8f7c46.mov",
+                        "quality": "360p"
+                    }
+                ]
+            },
+            "parentId": "3764426",
+            "url": "\/rusty\/rusty-our-kind-summer-2015\/3764426-3816995"
+        }
+    ]
+}

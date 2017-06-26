@@ -1,0 +1,55 @@
+{
+    "title": "Dakine Quest Photo Pack",
+    "description": "Check out 360\u00b0 views of the 2012 Quest Photo Pack, shown in Black.\nPack features:\n- Padded sleeve fits most 15\" laptops\n- Dual access padded camera block\n- Deployable rain cover\n- Separate top compartment\n- Pre-curved weight distributing waist belt\n- Tripod carry system\n- Vertical board carry straps\n- Water bottle pocket\n- Customizable padded camera partitions",
+    "referenceId": "37335012",
+    "date_created": "1443633977",
+    "date_modified": "1448310803",
+    "tags": "",
+    "sourceId": "3",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "4",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6418085",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "100",
+    "entityIdParent": "168543",
+    "titleTextEncoded": "Dakine-Quest-Photo-Pack",
+    "category": null,
+    "duration": 40,
+    "settings": {},
+    "asset": {
+        "type": "mp4",
+        "hdvFlag": 1,
+        "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/256439314_1280x719.jpg",
+        "mediaDuration": 40,
+        "prettyDuration": "00:40",
+        "uploadDate": 1330029270,
+        "tags": "",
+        "hookText": "Check out 360\u00b0 views of the 2012 Quest Photo Pack, shown in Black.\n\nPack features:\n- Padded sleeve fits most 15\" laptops\n- Dual access padded camera block\n- Deployable rain cover\n- Separate top compartment\n- Pre-curved weight distributing waist belt\n- Tri",
+        "sources": [
+            {
+                "file": "https:\/\/player.vimeo.com\/external\/37335012.hd.mp4?s=c8b62bba21618e4f4b58da5b354058e8&profile_id=113&oauth2_token_id=56801069"
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

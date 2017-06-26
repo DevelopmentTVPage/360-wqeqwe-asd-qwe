@@ -1,0 +1,55 @@
+{
+    "title": "Andre Phillip - \"My Ride\"",
+    "description": "",
+    "referenceId": "47042280",
+    "date_created": "1443632586",
+    "date_modified": "1443632586",
+    "tags": "",
+    "sourceId": "3",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "2",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6418031",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "134",
+    "entityIdParent": "168543",
+    "titleTextEncoded": "Andre-Phillip-My-Ride",
+    "category": null,
+    "duration": 73,
+    "settings": {},
+    "asset": {
+        "type": "mp4",
+        "sources": [
+            {
+                "file": "https:\/\/player.vimeo.com\/external\/47042280.hd.mp4?s=b867bb2241b0dd9c890878eca3ee59de&profile_id=113&oauth2_token_id=56801069"
+            }
+        ],
+        "hdvFlag": 1,
+        "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/327644973_1280x960.jpg",
+        "mediaDuration": 73,
+        "prettyDuration": "01:13",
+        "uploadDate": 1344283000,
+        "tags": "",
+        "hookText": ""
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

@@ -1,0 +1,53 @@
+{
+    "title": "Cody Hudson in Toronto - Converse Blank Canvas",
+    "description": "Cody Hudson in Toronto - Converse Blank Canvas.",
+    "referenceId": "dtookT0rCew",
+    "date_created": "1441408298",
+    "date_modified": "1441408298",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "1",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6390352",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "520",
+    "entityIdParent": "168524",
+    "titleTextEncoded": "Cody-Hudson-in-Toronto-Converse-Blank-Canvas",
+    "category": null,
+    "duration": "136",
+    "settings": {},
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/dtookT0rCew\/hqdefault.jpg",
+        "uploadDate": 1425045149,
+        "videoId": "dtookT0rCew",
+        "title": "Cody Hudson in Toronto - Converse Blank Canvas",
+        "description": "Cody Hudson in Toronto - Converse Blank Canvas.",
+        "author": "converse",
+        "mediaDuration": "136",
+        "prettyDuration": "00:02:16",
+        "views": "2583",
+        "hookText": "Cody Hudson in Toronto - Converse Blank Canvas."
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

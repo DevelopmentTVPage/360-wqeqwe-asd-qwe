@@ -1,0 +1,53 @@
+{
+    "title": "adidas Skateboarding SF Feature",
+    "description": "San Francisco campaign shoot in September 2009 with Mark Gonzales, Dennis Busenitz, Silas Baxter-Neal, Tim O'Connor, Pete Eldridge, Benny Fairfax, Dave Bachinsky, Nestor Judkins, Lem Villemin, Vince del Valle and Jake Donnelly.",
+    "referenceId": "xCygKuSJu24",
+    "date_created": "1441409252",
+    "date_modified": "1455844989",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "4",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6390506",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "57",
+    "entityIdParent": "168510",
+    "titleTextEncoded": "adidas-Skateboarding-SF-Feature",
+    "category": null,
+    "duration": "211",
+    "settings": {},
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/xCygKuSJu24\/hqdefault.jpg",
+        "uploadDate": 1317258014,
+        "videoId": "xCygKuSJu24",
+        "title": "adidas Skateboarding SF Feature",
+        "description": "San Francisco campaign shoot in September 2009 with Mark Gonzales, Dennis Busenitz, Silas Baxter-Neal, Tim O'Connor, Pete Eldridge, Benny Fairfax, Dave ...",
+        "author": "adidasSkateboarding",
+        "mediaDuration": "211",
+        "prettyDuration": "00:03:31",
+        "views": "28905",
+        "hookText": "San Francisco campaign shoot in September 2009 with Mark Gonzales, Dennis Busenitz, Silas Baxter-Neal, Tim O'Connor, Pete Eldridge, Benny Fairfax, Dave ..."
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

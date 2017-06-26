@@ -1,0 +1,70 @@
+{
+    "title": "Whatever It Takes: Lil Durk",
+    "description": "Young & Reckless delves deep with Chicago native, Lil Durk, who has been heating up the mixtape circuit for the past few years. Hailing from the south side of Chicago, saying Durk grew up in a tumultuous environment would be an understatement.",
+    "referenceId": null,
+    "date_created": "1440446171",
+    "date_modified": "1445967723",
+    "tags": "",
+    "sourceId": "1",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "2",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6380382",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "5",
+    "entityIdParent": "168529",
+    "titleTextEncoded": "Whatever-It-Takes-Lil-Durk",
+    "category": null,
+    "duration": "282",
+    "settings": {},
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "282"
+        },
+        "thumbnailUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/6380382\/d6d005d5a384d1385c5e9cd34c98b440.png",
+        "hookText": "",
+        "type": "mp4",
+        "mediaDuration": "282",
+        "prettyDuration": "00:04:42",
+        "tags": "",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/6380382\/720p_d6d005d5a384d1385c5e9cd34c98b440.mp4",
+                "quality": "720p"
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/6380382\/480p_d6d005d5a384d1385c5e9cd34c98b440.mp4",
+                "quality": "480p"
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/6380382\/360p_d6d005d5a384d1385c5e9cd34c98b440.mp4",
+                "quality": "360p"
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

@@ -1,0 +1,70 @@
+{
+    "title": "Sector 9 - Victor Earhart Finds a New Hill",
+    "description": "Age is only a number, fear is only relative. Victor Earhart is a shining example of living life to the fullest and neither age nor fear will stop him. 61 years of skateboarding and counting.\n\n\n**Disclaimer** - Just because Victor doesn't wear safety gear doesn't mean you shouldn't! Skate safe!!",
+    "referenceId": null,
+    "date_created": "1440446458",
+    "date_modified": "1450471926",
+    "tags": "",
+    "sourceId": "1",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "3",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6380397",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "3",
+    "entityIdParent": "3764445",
+    "titleTextEncoded": "Sector-9-Victor-Earhart-Finds-a-New-Hill",
+    "category": null,
+    "duration": "147",
+    "settings": {},
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "147"
+        },
+        "thumbnailUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/6380397\/8664100ac0ecfbac0e7438feb47ad757.png",
+        "hookText": "",
+        "type": "mp4",
+        "mediaDuration": "147",
+        "prettyDuration": "00:02:27",
+        "tags": "",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/6380397\/720p_8664100ac0ecfbac0e7438feb47ad757.mp4",
+                "quality": "720p"
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/6380397\/480p_8664100ac0ecfbac0e7438feb47ad757.mp4",
+                "quality": "480p"
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/6380397\/360p_8664100ac0ecfbac0e7438feb47ad757.mp4",
+                "quality": "360p"
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

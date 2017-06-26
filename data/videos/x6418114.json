@@ -1,0 +1,55 @@
+{
+    "title": "Element",
+    "description": "The Element has a standard-width mountain-twin shape and medium flex. The ride-it-all addiction of today's all-mountain snowboarder is nicely fed with the Element, which is designed to deliver rootsy style and high-end performance in the trees, steeps, po",
+    "referenceId": "75453143",
+    "date_created": "1443634306",
+    "date_modified": "1443634306",
+    "tags": "Arbor,Arbor Element,Arbor Snowboards,Snowboarding,Product Profiles",
+    "sourceId": "3",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "1",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6418114",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "136",
+    "entityIdParent": "3763991",
+    "titleTextEncoded": "Element",
+    "category": null,
+    "duration": 101,
+    "settings": {},
+    "asset": {
+        "type": "mp4",
+        "sources": [
+            {
+                "file": "https:\/\/player.vimeo.com\/external\/75453143.hd.mp4?s=9154cb1c0f89bc01375a45620baba33b&profile_id=113&oauth2_token_id=74680278"
+            }
+        ],
+        "hdvFlag": 1,
+        "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/451155169_1280x720.jpg",
+        "mediaDuration": 101,
+        "prettyDuration": "01:41",
+        "uploadDate": 1380158957,
+        "tags": "Arbor,Arbor Element,Arbor Snowboards,Snowboarding,Product Profiles",
+        "hookText": "The Element has a standard-width mountain-twin shape and medium flex. The ride-it-all addiction of today's all-mountain snowboarder is nicely fed with the Element, which is designed to deliver rootsy style and high-end performance in the trees, steeps, po"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

@@ -1,0 +1,72 @@
+{
+    "title": "Filtrate - Sun Bum Hawaii Grom",
+    "description": "Filtrate - Sun Bum Hawaii Grom",
+    "referenceId": null,
+    "date_created": "1424901842",
+    "date_modified": "1470266625",
+    "tags": "",
+    "sourceId": "1",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": "Filtrate",
+    "video_celeb": null,
+    "video_activity": "Surfing",
+    "VV_VI": "15",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "3826270",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "0",
+    "entityIdParent": "3764298",
+    "titleTextEncoded": "Filtrate-Sun-Bum-Hawaii-Grom",
+    "category": null,
+    "duration": "104",
+    "settings": [],
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "104"
+        },
+        "thumbnailUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/3826270\/0aa34cfebf8a20248137adf5cd181dd3.png",
+        "hookText": "Filtrate - Sun Bum Hawaii Grom",
+        "type": "mp4",
+        "mediaDuration": "104",
+        "prettyDuration": "00:01:44",
+        "tags": "",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/3826270\/720p_0aa34cfebf8a20248137adf5cd181dd3.mp4",
+                "quality": "720p"
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/3826270\/480p_0aa34cfebf8a20248137adf5cd181dd3.mp4",
+                "quality": "480p"
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/3826270\/360p_0aa34cfebf8a20248137adf5cd181dd3.mp4",
+                "quality": "360p"
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

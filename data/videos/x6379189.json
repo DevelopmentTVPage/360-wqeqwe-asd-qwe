@@ -1,0 +1,55 @@
+{
+    "title": "Future Heritage: Croatian Workation",
+    "description": "Future Heritage: Croatian Workation - featuring Albert Nyberg & Axel Cruysberghs celebrating their signature colorways of the Rap CM & Rap CL.",
+    "referenceId": null,
+    "date_created": "1440443010",
+    "date_modified": "1449613317",
+    "tags": "etnies,mike manzoori,skate videos,albert nyberg,skateboarding,skater,sk8,skateboard,skating,axel cruysberghs,RVCA,stairs,kickflip,flip,ollie,manual,volcom,marana,Croatia",
+    "sourceId": "3",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "3",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6379189",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "276",
+    "entityIdParent": "168527",
+    "titleTextEncoded": "Future-Heritage-Croatian-Workation",
+    "category": null,
+    "duration": 203,
+    "settings": {},
+    "asset": {
+        "type": "mp4",
+        "hdvFlag": 0,
+        "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/513241847_1280x720.jpg",
+        "mediaDuration": 203,
+        "prettyDuration": "03:23",
+        "uploadDate": 1427832383,
+        "tags": "etnies,mike manzoori,skate videos,albert nyberg,skateboarding,skater,sk8,skateboard,skating,axel cruysberghs,RVCA,stairs,kickflip,flip,ollie,manual,volcom,marana,Croatia",
+        "hookText": "Future Heritage: Croatian Workation - featuring Albert Nyberg & Axel Cruysberghs celebrating their signature colorways of the Rap CM & Rap CL.",
+        "sources": [
+            {
+                "file": "https:\/\/player.vimeo.com\/external\/123772713.sd.mp4?s=d6ce7f78aacb8b8d3ed4622cfeb7e36d&profile_id=112&oauth2_token_id=62432308"
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

@@ -1,0 +1,54 @@
+{
+    "title": "Greyson Fletcher - Welcome to the Pro Team",
+    "description": "Greyson Fletcher - Welcome to the Pro Team",
+    "referenceId": "CYcSobiKcEg",
+    "date_created": "1445019622",
+    "date_modified": "1470263485",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": "Element",
+    "video_celeb": null,
+    "video_activity": "Skating",
+    "VV_VI": "3",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6672924",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "3",
+    "entityIdParent": "168534",
+    "titleTextEncoded": "Greyson-Fletcher-Welcome-to-the-Pro-Team",
+    "category": "",
+    "duration": "44",
+    "settings": "",
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/CYcSobiKcEg\/hqdefault.jpg",
+        "uploadDate": 1445019622,
+        "videoId": "CYcSobiKcEg",
+        "title": "Greyson Fletcher - Welcome to the Pro Team",
+        "description": "",
+        "author": "Element",
+        "mediaDuration": "44",
+        "prettyDuration": "00:00:44",
+        "views": "2291",
+        "uploadAsset": false,
+        "quality": ""
+    },
+    "transcripts": "",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

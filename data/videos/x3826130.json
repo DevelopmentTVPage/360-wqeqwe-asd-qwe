@@ -1,0 +1,55 @@
+{
+    "title": "Dakine - Winter 15 Lifestyle Video",
+    "description": "Dakine crew heads to Montana while shooting the Winter 15 catalog.",
+    "referenceId": null,
+    "date_created": "1424901645",
+    "date_modified": "1424901645",
+    "tags": "",
+    "sourceId": "3",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "66",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "3826130",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "380",
+    "entityIdParent": "168543",
+    "titleTextEncoded": "Dakine-Winter-15-Lifestyle-Video",
+    "category": null,
+    "duration": 232,
+    "settings": null,
+    "asset": {
+        "type": "mp4",
+        "sources": [
+            {
+                "file": "https:\/\/player.vimeo.com\/external\/99058413.hd.mp4?s=2d1e08862c11c13910967ccc540bac89&profile_id=113&oauth2_token_id=56801069"
+            }
+        ],
+        "hdvFlag": 1,
+        "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/484856074_1280x720.jpg",
+        "mediaDuration": 232,
+        "prettyDuration": "03:52",
+        "uploadDate": 1403632826,
+        "tags": "",
+        "hookText": "Dakine crew heads to Montana while shooting the Winter 15 catalog."
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

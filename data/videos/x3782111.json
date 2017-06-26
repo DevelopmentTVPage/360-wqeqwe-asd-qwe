@@ -1,0 +1,69 @@
+{
+    "title": "Tilly's Kids Holiday 2014",
+    "description": "Get the best out of the holidays with Tilly's. The best styles for all your holiday occasions.\n\nCreate the perfect outfit for the best moments. Create adventure. Create smiles. Create the holiday of all holidays. Make it special, make it fun. Get Creative. This holiday, let\u2019s #CreateMoments.",
+    "referenceId": null,
+    "date_created": "1415746354",
+    "date_modified": "1445036779",
+    "tags": "",
+    "sourceId": "1",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "854",
+    "CVV_VI": "77",
+    "engagement_score": "7",
+    "conversion_score": "6",
+    "id": "3782111",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "37",
+    "entityIdParent": "195929",
+    "titleTextEncoded": "Tilly-s-Kids-Holiday-2014",
+    "category": null,
+    "duration": "100",
+    "settings": [],
+    "asset": {
+        "type": "mp4",
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/753\/canvas\/655\/368\/982578312-920955485.png",
+        "mediaDuration": "100",
+        "prettyDuration": "00:01:40",
+        "sources": [
+            {
+                "file": "https:\/\/d2mhchrq41duh4.cloudfront.net\/753\/3782912\/cc1d4503_892e_4b45_d57a_38dae59a5a21.mp4"
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/3782912\/720p_cc1d4503_892e_4b45_d57a_38dae59a5a21.mp4",
+                "quality": "720p"
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/3782912\/480p_cc1d4503_892e_4b45_d57a_38dae59a5a21.mp4",
+                "quality": "480p"
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/3782912\/360p_cc1d4503_892e_4b45_d57a_38dae59a5a21.mp4",
+                "quality": "360p"
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "conversion_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

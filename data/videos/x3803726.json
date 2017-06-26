@@ -1,0 +1,68 @@
+{
+    "title": "Tilly's - Last Kings Meet & Greet with TYGA",
+    "description": "12\/06 marks the date that Tyga and a deep Last Kings crew rolled out to Long Beach Town Center in Long Beach, CA for an Exclusive Meet & Greet with over 600 fans. Autographs were being signed, photographs were being taken, memories were being made, and moments were being created. Take a look to see what you've missed out on. Stay Kingin.",
+    "referenceId": null,
+    "date_created": "1418431041",
+    "date_modified": "1470335729",
+    "tags": "Tyga, Last Kings, Tilly's, LK, T Raw, King, Rap, Hip Hop, Shopping, Street Wear",
+    "sourceId": "1",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": "Tyga",
+    "video_activity": "Meet_And_Greet",
+    "VV_VI": "122",
+    "CVV_VI": null,
+    "engagement_score": "1",
+    "conversion_score": null,
+    "id": "3803726",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "30",
+    "entityIdParent": "195870",
+    "titleTextEncoded": "Tilly-s-Last-Kings-Meet-Greet-with-TYGA",
+    "category": null,
+    "duration": "69",
+    "settings": [],
+    "asset": {
+        "type": "mp4",
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/753\/canvas\/655\/368\/809668938-13301275642.png",
+        "mediaDuration": "69",
+        "prettyDuration": "00:01:09",
+        "hookText": "Tilly's - Last Kings Meet & Greet with TYGA",
+        "tags": "Tyga, Last Kings, Tilly's, LK, T Raw, King, Rap, Hip Hop, Shopping, Street Wear",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "https:\/\/d2mhchrq41duh4.cloudfront.net\/753\/3803726\/306dd7a1_f525_4531_f8b6_faa37a5999dd.mp4"
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/3803726\/720p_306dd7a1_f525_4531_f8b6_faa37a5999dd.mp4",
+                "quality": "720p"
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/3803726\/480p_306dd7a1_f525_4531_f8b6_faa37a5999dd.mp4",
+                "quality": "480p",
+                "tvpdefault": true
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/3803726\/360p_306dd7a1_f525_4531_f8b6_faa37a5999dd.mp4",
+                "quality": "360p"
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

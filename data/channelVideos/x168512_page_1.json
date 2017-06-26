@@ -1,0 +1,70 @@
+{
+    "pageNumber": 1,
+    "data": [
+        {
+            "id": "170736",
+            "title": "Billabong Pro Tahiti 2013 - Wipeouts - Day 1",
+            "date_created": "1401414203",
+            "loginId": "753",
+            "tags": "",
+            "description": "Everyone loves a wipeout, heres a selection from day 1 of the Billabong Pro Tahiti, enjoy.",
+            "asset": {
+                "author": "billabong",
+                "hdvFlag": 1,
+                "hookText": "Everyone loves a wipeout, heres a selection from day 1 of the Billabong Pro Tahiti, enjoy.",
+                "tags": "",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/w1GBmRmZHiU\/sddefault.jpg",
+                "uploadDate": 1376642207,
+                "videoId": "w1GBmRmZHiU",
+                "mediaDuration": "138",
+                "prettyDuration": "00:02:18",
+                "uploadAsset": false,
+                "quality": ""
+            },
+            "parentId": "168512",
+            "url": "\/billabong\/billabong-pro-tahiti-2013-wipeouts-day-1\/168512-170736"
+        },
+        {
+            "id": "170738",
+            "title": "PARKO'S JOURNEY TO THE 2012 ASP WORLD CHAMPIONSHIP",
+            "date_created": "1401414248",
+            "loginId": "753",
+            "tags": "",
+            "description": "This video was made as part of a digital magazine to celebrate Joel Parkinson's maiden ASP World Title. A collection of clips that featuring online, including interviews from Billabong founder Gordon Merchant, and close friends and family, have been strung together for your viewing pleasure.",
+            "asset": {
+                "author": "billabong",
+                "hdvFlag": 1,
+                "hookText": "This video was made as part of a digital magazine to celebrate Joel Parkinson's maiden ASP World Title. A collection of clips that featuring online, includin...",
+                "tags": "",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/Txz02A6renk\/sddefault.jpg",
+                "uploadDate": 1361750517,
+                "videoId": "Txz02A6renk",
+                "mediaDuration": "1540",
+                "prettyDuration": "00:25:40"
+            },
+            "parentId": "168512",
+            "url": "\/billabong\/parko-s-journey-to-the-2012-asp-world-championship\/168512-170738"
+        },
+        {
+            "id": "170728",
+            "title": "North Shore Surf Trip",
+            "date_created": "1401414027",
+            "loginId": "753",
+            "tags": "",
+            "description": "The North Shore is a proving ground for every surfer and so many of our girls have been there countless times. This past December, Courtney Conlogue, Lindsay Perry, Ellie-Jean Coffey, Alessa Quizon, Frankie Harrer,& Justine Dupont gathered at the Billabong house for Pipe Masters. Theymade sure to sneak off for some fun: surfing their favorite waves, eating Boba in Chinatown and jumping off the rocks and Waimea Bay. Check out the video the learn more about our girls and their trip.",
+            "asset": {
+                "author": "billabongtv",
+                "hdvFlag": 1,
+                "hookText": "The North Shore is a proving ground for every surfer and so many of our girls have been there countless times. This past December, Courtney Conlogue, Lindsay...",
+                "tags": "",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/6R2OgT-m-7Q\/sddefault.jpg",
+                "uploadDate": 1366136048,
+                "videoId": "6R2OgT-m-7Q",
+                "mediaDuration": "226",
+                "prettyDuration": "00:03:46"
+            },
+            "parentId": "168512",
+            "url": "\/billabong\/north-shore-surf-trip\/168512-170728"
+        }
+    ]
+}

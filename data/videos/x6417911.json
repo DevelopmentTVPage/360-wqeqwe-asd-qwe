@@ -1,0 +1,55 @@
+{
+    "title": "etnies Helsinki Hookup Welcome with Barney Page",
+    "description": "The Helsinki Hookup, proudly supported by etnies, takes off on a crazy street course in the Helsinki Ice Arena. etnies is bringing a team of international skaters to the Helsinki Hookup on the first stop on the FU tour.",
+    "referenceId": "28237998",
+    "date_created": "1443564012",
+    "date_modified": "1449020249",
+    "tags": "etnies,Helsinki,Helsinki Hookup,Barney Page,skateboarding,skate,enjoi skateboards,RVCA",
+    "sourceId": "3",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "1",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6417911",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "121",
+    "entityIdParent": "168527",
+    "titleTextEncoded": "etnies-Helsinki-Hookup-Welcome-with-Barney-Page",
+    "category": null,
+    "duration": 30,
+    "settings": {},
+    "asset": {
+        "type": "mp4",
+        "hdvFlag": 1,
+        "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/188224091_295x166.jpg",
+        "mediaDuration": 30,
+        "prettyDuration": "00:30",
+        "uploadDate": 1314463432,
+        "tags": "etnies,Helsinki,Helsinki Hookup,Barney Page,skateboarding,skate,enjoi skateboards,RVCA",
+        "hookText": "The Helsinki Hookup, proudly supported by etnies, takes off on a crazy street course in the Helsinki Ice Arena. etnies is bringing a team of international skaters to the Helsinki Hookup on the first stop on the FU tour.\n\nJoin etnies Europe rider Barney Pa",
+        "sources": [
+            {
+                "file": "https:\/\/player.vimeo.com\/external\/28237998.hd.mp4?s=96170ffc3865b6fef08eb9b89effd90c&profile_id=113&oauth2_token_id=62432308"
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

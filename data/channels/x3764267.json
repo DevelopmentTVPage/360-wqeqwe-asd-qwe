@@ -1,0 +1,29 @@
+{
+    "title": "DVS",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1409938421",
+    "date_modified": "1409938846",
+    "tags": "",
+    "sourceId": null,
+    "status": "approved",
+    "visibility": "1",
+    "id": "3764267",
+    "loginId": "753",
+    "entityType": "3",
+    "titleTextEncoded": "DVS",
+    "category": null,
+    "duration": null,
+    "settings": {
+        "canvasImage": "476773302-0.jpg",
+        "colorClass": "light",
+        "canvasType": "cropped",
+        "canvasCropped": "476773302-035480305.jpg",
+        "hideoos": 1,
+        "auto": {
+            "dynamic": 0
+        },
+        "optimize": 1
+    },
+    "transcripts": null
+}

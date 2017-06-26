@@ -1,0 +1,59 @@
+{
+    "title": "LRG Skate Tokyo Weekend",
+    "description": "2 Days in Japan to celebrate the opening of our Flagship Retail location.",
+    "referenceId": null,
+    "date_created": "1413501033",
+    "date_modified": "1470271872",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": "LRG",
+    "video_celeb": null,
+    "video_activity": "Skating",
+    "VV_VI": "56",
+    "CVV_VI": "4",
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "3778029",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "2",
+    "entityIdParent": "168518",
+    "titleTextEncoded": "LRG-Skate-Tokyo-Weekend",
+    "category": null,
+    "duration": "168",
+    "settings": [],
+    "asset": {
+        "author": "LRG Clothing",
+        "hdvFlag": 1,
+        "hookText": "2 Days in Japan to celebrate the opening of our Flagship Retail location.",
+        "tags": "",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/xbUkrA1LLdg\/maxresdefault.jpg",
+        "uploadDate": 1408468621,
+        "videoId": "xbUkrA1LLdg",
+        "mediaDuration": "168",
+        "prettyDuration": "00:02:48",
+        "uploadAsset": false,
+        "quality": ""
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "conversion_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

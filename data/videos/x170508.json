@@ -1,0 +1,51 @@
+{
+    "title": "LEVI'S SKATEBOARDING COLLECTION",
+    "description": "Celebramos la llegada de Levi's Skateboarding Collection a la Argentina con\nSKATE O RAMA el primer juego de Skate de realidad aumentada.\n\nQuer\u00e9s saber m\u00e1s? \n\n#LevisSkateboarding",
+    "referenceId": null,
+    "date_created": "1401384454",
+    "date_modified": "1449879576",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "15",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "170508",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "3",
+    "entityIdParent": "195850",
+    "titleTextEncoded": "LEVI-S-SKATEBOARDING-COLLECTION",
+    "category": null,
+    "duration": "15",
+    "settings": [],
+    "asset": {
+        "author": "Levi's\u00ae",
+        "hdvFlag": 1,
+        "hookText": "Celebramos la llegada de Levi's Skateboarding Collection a la Argentina con SKATE O RAMA el primer juego de Skate de realidad aumentada. Quer\u00e9s saber m\u00e1s? In...",
+        "tags": "",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/7P9DVoCnsmk\/sddefault.jpg",
+        "uploadDate": 1398889067,
+        "videoId": "7P9DVoCnsmk",
+        "mediaDuration": "15",
+        "prettyDuration": "00:00:15"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

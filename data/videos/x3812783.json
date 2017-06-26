@@ -1,0 +1,59 @@
+{
+    "title": "I WANT MY FTV #144 \"Sk8 Team Chillin\"",
+    "description": "On this episode we chill with the Famous Sk8 Crew @OneFelix @SdiegoNajera & @YarielMelendez watch as Diego smashes through a few spots.",
+    "referenceId": null,
+    "date_created": "1419898414",
+    "date_modified": "1470266018",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": "Famous_Stars_and_Straps",
+    "video_celeb": null,
+    "video_activity": "Skating",
+    "VV_VI": "88",
+    "CVV_VI": "2",
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "3812783",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "1",
+    "entityIdParent": "168536",
+    "titleTextEncoded": "I-WANT-MY-FTV-144-Sk8-Team-Chillin",
+    "category": null,
+    "duration": "84",
+    "settings": null,
+    "asset": {
+        "author": "IWANTMYFTV",
+        "hdvFlag": 1,
+        "hookText": "On this episode we chill with the Famous Sk8 Crew @OneFelix @SdiegoNajera & @YarielMelendez watch as Diego smashes through a few spots. Follow the Fam @Famou...",
+        "tags": "",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/B9ggu3X4EWg\/maxresdefault.jpg",
+        "uploadDate": 1404549980,
+        "videoId": "B9ggu3X4EWg",
+        "mediaDuration": "84",
+        "prettyDuration": "00:01:24",
+        "uploadAsset": false,
+        "quality": ""
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "conversion_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

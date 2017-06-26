@@ -1,0 +1,29 @@
+{
+    "title": "Chocolate",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1409875999",
+    "date_modified": "1409876368",
+    "tags": "",
+    "sourceId": null,
+    "status": "approved",
+    "visibility": "1",
+    "id": "3764039",
+    "loginId": "753",
+    "entityType": "3",
+    "titleTextEncoded": "Chocolate",
+    "category": null,
+    "duration": null,
+    "settings": {
+        "canvasImage": "415772134-0.jpg",
+        "colorClass": "light",
+        "canvasType": "cropped",
+        "canvasCropped": "415772134-492618321.jpg",
+        "hideoos": 1,
+        "auto": {
+            "dynamic": 0
+        },
+        "optimize": 1
+    },
+    "transcripts": null
+}

@@ -1,0 +1,50 @@
+{
+    "title": "ASP NEW FORMAT: PANEL DISCUSSION",
+    "description": "ASP NEW FORMAT: PANEL DISCUSSION",
+    "referenceId": null,
+    "date_created": "1398361013",
+    "date_modified": "1456337362",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "61",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "159687",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "1",
+    "entityIdParent": "158318",
+    "titleTextEncoded": "ASP-NEW-FORMAT-PANEL-DISCUSSION",
+    "category": null,
+    "duration": "551",
+    "settings": [],
+    "asset": {
+        "author": "Hurley",
+        "videoId": "C4IBU0qv9ac",
+        "hookText": "",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/C4IBU0qv9ac\/hqdefault.jpg",
+        "mediaDuration": "551",
+        "hdvFlag": 0,
+        "uploadDate": 1285308643,
+        "prettyDuration": "00:09:11"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

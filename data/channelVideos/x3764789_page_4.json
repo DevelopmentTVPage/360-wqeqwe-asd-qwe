@@ -1,0 +1,415 @@
+{
+    "pageNumber": 4,
+    "data": [
+        {
+            "id": "3817012",
+            "title": "Converse x Warhol - Available at Tilly's",
+            "date_created": "1423262889",
+            "loginId": "753",
+            "tags": "Converse, Warhol, Andy Warhol, Shoes, Art, Pop Art",
+            "description": "Converse x Warhol - Available at Tilly's",
+            "asset": {
+                "type": "mp4",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/753\/canvas\/655\/368\/370978481-046977596.png",
+                "mediaDuration": "17",
+                "prettyDuration": "00:00:17",
+                "hookText": "Converse x Warhol - Available at Tilly's",
+                "tags": "Converse, Warhol, Andy Warhol, Shoes, Art, Pop Art",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "https:\/\/d2mhchrq41duh4.cloudfront.net\/753\/3817012\/7bf71b39_e5bb_40f7_dc50_de6f654839bb.mp4"
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/3817012\/720p_7bf71b39_e5bb_40f7_dc50_de6f654839bb.mp4",
+                        "quality": "720p"
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/3817012\/480p_7bf71b39_e5bb_40f7_dc50_de6f654839bb.mp4",
+                        "quality": "480p"
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/3817012\/360p_7bf71b39_e5bb_40f7_dc50_de6f654839bb.mp4",
+                        "quality": "360p"
+                    }
+                ]
+            },
+            "parentId": "3764789",
+            "url": "\/style\/converse-x-warhol-available-at-tilly-s\/3764789-3817012"
+        },
+        {
+            "id": "3812593",
+            "title": "Tilly's Spring Preview",
+            "date_created": "1419290639",
+            "loginId": "753",
+            "tags": "Tilly's, Spring, Spring Preview, Shop, Shopping, Swim Wear, Bikini, Boardshorts, Shoes, Tees, Tanks",
+            "description": "Take a peek at what we have coming for spring. Say goodbye to cold winter and hello to swim fashion, fun prints, jogger shorts, dresses and a lil' bit of sunshine - get excited.",
+            "asset": {
+                "type": "mp4",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/753\/canvas\/655\/368\/957093394-0-01093615.png",
+                "mediaDuration": "114",
+                "prettyDuration": "00:01:54",
+                "hookText": "Tilly's Spring Preview",
+                "tags": "Tilly's, Spring, Spring Preview, Shop, Shopping, Swim Wear, Bikini, Boardshorts, Shoes, Tees, Tanks",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/3812593\/720p_4e31527e_66ac_4d1d_c228_88912aa7a8f4.mp4",
+                        "quality": "720p"
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/3812593\/480p_4e31527e_66ac_4d1d_c228_88912aa7a8f4.mp4",
+                        "quality": "480p",
+                        "tvpdefault": true
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/3812593\/360p_4e31527e_66ac_4d1d_c228_88912aa7a8f4.mp4",
+                        "quality": "360p"
+                    }
+                ]
+            },
+            "parentId": "3764789",
+            "url": "\/style\/tilly-s-spring-preview\/3764789-3812593"
+        },
+        {
+            "id": "3782916",
+            "title": "Tilly's Gift Guide 2014",
+            "date_created": "1417553150",
+            "loginId": "753",
+            "tags": "",
+            "description": "Tilly's Gift Guide 2014",
+            "asset": {
+                "type": "mp4",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/753\/canvas\/655\/368\/212555777-79441252703.png",
+                "mediaDuration": "85",
+                "prettyDuration": "00:01:25",
+                "hookText": "Tilly's Gift Guide 2014",
+                "tags": "",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "https:\/\/d2mhchrq41duh4.cloudfront.net\/753\/3782916\/6bae3b99_af70_4909_dfbd_9609e2ee4f08.mp4"
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/3782916\/720p_6bae3b99_af70_4909_dfbd_9609e2ee4f08.mp4",
+                        "quality": "720p"
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/3782916\/480p_6bae3b99_af70_4909_dfbd_9609e2ee4f08.mp4",
+                        "quality": "480p",
+                        "default": true
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/3782916\/360p_6bae3b99_af70_4909_dfbd_9609e2ee4f08.mp4",
+                        "quality": "360p"
+                    }
+                ]
+            },
+            "parentId": "3764789",
+            "url": "\/style\/tilly-s-gift-guide-2014\/3764789-3782916"
+        },
+        {
+            "id": "3778447",
+            "title": "Tilly's Holiday 2014",
+            "date_created": "1415052805",
+            "loginId": "753",
+            "tags": "",
+            "description": "Tilly's Holiday 2014",
+            "asset": {
+                "type": "mp4",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/753\/canvas\/655\/368\/551215485-89191216653.png",
+                "mediaDuration": "106",
+                "prettyDuration": "01:46",
+                "hookText": "Tilly's Holiday 2014",
+                "tags": "",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/player.vimeo.com\/external\/110855018.sd.mp4?s=620af913c9a08c3e9f6b916a90a6b347"
+                    }
+                ]
+            },
+            "parentId": "3764789",
+            "url": "\/style\/tilly-s-holiday-2014\/3764789-3778447"
+        },
+        {
+            "id": "3778230",
+            "title": "Full Tilt Dream",
+            "date_created": "1414517719",
+            "loginId": "753",
+            "tags": "",
+            "description": "Hit the snooze and wake up slow in these lounge perfect pieces. Introducing Full Tilt Dream, an entire collection of the coziest pajamas. Wear them to bed, wear them while you drink your morning coffee, wear them whenever you please. Just be careful...you won't want to change out of them.",
+            "asset": {
+                "type": "mp4",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/753\/canvas\/655\/368\/942515334-166291225625.png",
+                "mediaDuration": "60",
+                "prettyDuration": "00:01:00",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "https:\/\/d2mhchrq41duh4.cloudfront.net\/753\/3782911\/6e704c77_0662_4f83_a65e_d36bf2e1e092.mp4"
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/3782911\/720p_6e704c77_0662_4f83_a65e_d36bf2e1e092.mp4",
+                        "quality": "720p"
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/3782911\/480p_6e704c77_0662_4f83_a65e_d36bf2e1e092.mp4",
+                        "quality": "480p"
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/3782911\/360p_6e704c77_0662_4f83_a65e_d36bf2e1e092.mp4",
+                        "quality": "360p"
+                    }
+                ]
+            },
+            "parentId": "3764789",
+            "url": "\/style\/full-tilt-dream\/3764789-3778230"
+        },
+        {
+            "id": "3803715",
+            "title": "TAVIK Holiday 2014 Lookbook Video",
+            "date_created": "1418333653",
+            "loginId": "753",
+            "tags": "",
+            "description": "Perennial classics never go out of style. The TAVIK Holiday 2014 collection features timeless winter styles for the modern individual.",
+            "asset": {
+                "author": "Tavik Brand",
+                "hdvFlag": 1,
+                "hookText": "Perennial classics never go out of style. The TAVIK Holiday 2014 collection features timeless winter styles for the modern individual. Shop all looks here: h...",
+                "tags": "",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/pNWgMFlWcRI\/maxresdefault.jpg",
+                "uploadDate": 1415300839,
+                "videoId": "pNWgMFlWcRI",
+                "mediaDuration": "49",
+                "prettyDuration": "00:00:49",
+                "uploadAsset": false,
+                "quality": ""
+            },
+            "parentId": "3764789",
+            "url": "\/style\/tavik-holiday-2014-lookbook-video\/3764789-3803715"
+        },
+        {
+            "id": "3765029",
+            "title": "Tilly's Late Fall Lookbook",
+            "date_created": "1411071874",
+            "loginId": "753",
+            "tags": "",
+            "description": "Check out Tilly's Latest Lookbook for everything you need to get through the days a head.",
+            "asset": {
+                "type": "mp4",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/753\/canvas\/655\/368\/381622468-01320180.jpg",
+                "mediaDuration": "74",
+                "prettyDuration": "01:14",
+                "hookText": "Check out Tilly's Latest Lookbook for everything you need to get through the days a head.",
+                "tags": "",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "http:\/\/player.vimeo.com\/external\/106480806.sd.mp4?s=3db273c206d0625f7fa9b62061959de6"
+                    }
+                ]
+            },
+            "parentId": "3764789",
+            "url": "\/style\/tilly-s-late-fall-lookbook\/3764789-3765029"
+        },
+        {
+            "id": "170523",
+            "title": "Nipsey Hussle x Young & Reckless",
+            "date_created": "1401386473",
+            "loginId": "753",
+            "tags": "",
+            "description": "Nipsey give us his own take on how important Crenshaw is to LA, why he sold \"Crenshaw\" for $100, and the significance of his collaboration with Young & Reckless.",
+            "asset": {
+                "author": "Young & Reckless",
+                "hdvFlag": 1,
+                "hookText": "Nipsey give us his own take on how important Crenshaw is to LA, why he sold \"Crenshaw\" for $100, and the significance of his collaboration with Young & Reckl...",
+                "tags": "",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/P-DM-zCLnjE\/sddefault.jpg",
+                "uploadDate": 1393960578,
+                "videoId": "P-DM-zCLnjE",
+                "mediaDuration": "123",
+                "prettyDuration": "00:02:03",
+                "uploadAsset": false,
+                "quality": ""
+            },
+            "parentId": "3764789",
+            "url": "\/style\/nipsey-hussle-x-young-reckless\/3764789-170523"
+        },
+        {
+            "id": "3765026",
+            "title": "Tilly's Early Fall 2014 Video Lookbook",
+            "date_created": "1411071679",
+            "loginId": "753",
+            "tags": "",
+            "description": "Fall is upon us and this time we're bringing you with us on a trip along the coastal Sunshine State to check out beautiful Santa Barbara, CA. See for yourself how Tilly's is taking on Central California in the freshest and newest arrivals, just for you.",
+            "asset": {
+                "type": "mp4",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/753\/canvas\/655\/368\/727036124-01320180.jpg",
+                "mediaDuration": "73",
+                "prettyDuration": "01:13",
+                "hookText": "Fall is upon us and this time we're bringing you with us on a trip along the coastal Sunshine State to check out beautiful Santa Barbara, CA. See for yourself how Tilly's is taking on Central California in the freshest and newest arrivals, just for you.",
+                "tags": "",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "http:\/\/player.vimeo.com\/external\/106480390.sd.mp4?s=afdd7b0449768d98032f6f2fb76e1542"
+                    }
+                ]
+            },
+            "parentId": "3764789",
+            "url": "\/style\/tilly-s-early-fall-2014-video-lookbook\/3764789-3765026"
+        },
+        {
+            "id": "3777665",
+            "title": "Girl In Motion",
+            "date_created": "1413415756",
+            "loginId": "753",
+            "tags": "",
+            "description": "Explore the laid-back trend that captures effortless style working in hints of fashion and mixing back to cozy lounge and active wear pieces. This look is great for layering over workout gear or perfect for some comfy weekend style. Kick back in comfort without sacrificing style.\n\nBe a girl in style, a girl in action and most of all... A GIRL IN MOTION",
+            "asset": {
+                "author": "tillys",
+                "hdvFlag": 1,
+                "hookText": "Explore the laid-back trend that captures effortless style working in hints of fashion and mixing back to cozy lounge and active wear pieces. This look is gr...",
+                "tags": "",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/TNU92oxpot0\/maxresdefault.jpg",
+                "uploadDate": 1406134553,
+                "videoId": "TNU92oxpot0",
+                "mediaDuration": "140",
+                "prettyDuration": "00:02:20",
+                "uploadAsset": false,
+                "quality": ""
+            },
+            "parentId": "3764789",
+            "url": "\/style\/girl-in-motion\/3764789-3777665"
+        },
+        {
+            "id": "3765030",
+            "title": "Ashley Smith Collection | Fall 2014",
+            "date_created": "1411072107",
+            "loginId": "753",
+            "tags": "",
+            "description": "Introducing the first RVCA x Ashley Smith signature collection for Fall 2014.\n\"I believe there are things in everyone's closet that they can't live without, things essential to their personal style. My first capsule collection with RVCA exemplifies my own essentials. My style is inspired by a Balance of Opposites: My childhood, growing up with a punk influence with multi-colored hair and living in band t-shirts, to now, being a model living in NYC and traveling the world on fashion shoots. This collection reflects this clash of urban street with a vintage twist, mixing an edgy leather jacket with a blush tone sweater knit dress, or a sweet daisy-printed chiffon blouse with high-waisted leather shorts. My friend, photographer Sandy Kim, and I collaborated on the following imagery to showcase how opposing styles can make these essentials work. No matter what you like or where you come from, wether you're feeling like a good girl or a bad girl, these pieces are meant to make you feel 100% rad and 100% you!\" - Ashley Smith\nVideo by Brandon Jensen, styled by Miyako Bellizzi, Music: What me Worry by the Cosmonauts courtesy of Burger Records",
+            "asset": {
+                "type": "mp4",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/753\/canvas\/655\/368\/534760350-01320180.jpg",
+                "mediaDuration": "86",
+                "prettyDuration": "01:26",
+                "hookText": "Introducing the first RVCA x Ashley Smith signature collection for Fall 2014.",
+                "tags": "",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "http:\/\/player.vimeo.com\/external\/106480185.sd.mp4?s=b9333874674308cd249d5852cb908b20"
+                    }
+                ]
+            },
+            "parentId": "3764789",
+            "url": "\/style\/ashley-smith-collection-fall-2014\/3764789-3765030"
+        },
+        {
+            "id": "3765084",
+            "title": "? AYC Nyjah Huston Collection",
+            "date_created": "1411077185",
+            "loginId": "753",
+            "tags": "",
+            "description": "Tilly\u2019s is excited to announce the AYC signature apparel line, the Nyjah Huston collection! Nyjah\u2019s new collection of shirts, hats, and raglans are available exclusively at Tillys locations.",
+            "asset": {
+                "type": "mp4",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/753\/canvas\/655\/368\/766501542-01320180.jpg",
+                "mediaDuration": "30",
+                "prettyDuration": "00:30",
+                "hookText": "Tilly\u2019s is excited to announce the AYC signature apparel line, the Nyjah Huston collection! Nyjah\u2019s new collection of shirts, hats, and raglans are available exclusively at Tillys locations and tillys.com.",
+                "tags": "",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "http:\/\/player.vimeo.com\/external\/106459184.sd.mp4?s=38b06f057757385005499ac40b9238fd"
+                    }
+                ]
+            },
+            "parentId": "3764789",
+            "url": "\/style\/ayc-nyjah-huston-collection\/3764789-3765084"
+        },
+        {
+            "id": "3765099",
+            "title": "Loving Lost in Venice",
+            "date_created": "1411155989",
+            "loginId": "753",
+            "tags": "",
+            "description": "Always prepared to drop everything when the time is right, we make time for the adventures that come with the changing seasons. From golden Indian summer sets and brisk autumn road trips, to riding the white waves that winter brings to the mountains, we are always chasing the epic moments we'll remember forever. While the end of the year is filled with reflective evenings, spring brings new life to our morning rituals. In the warm seasons of dawn patrol, every bright sunrise is inspiration for the perfect day. For us, the best times are ones that feel lived in and we have the stories to prove it.",
+            "asset": {
+                "type": "mp4",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/753\/canvas\/655\/368\/536208360-01320180.jpg",
+                "mediaDuration": "53",
+                "prettyDuration": "00:53",
+                "hookText": "Loving Lost in Venice",
+                "tags": "",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "http:\/\/player.vimeo.com\/external\/106627010.sd.mp4?s=26427ae286d2e5d8efac0c6343a0bdda"
+                    }
+                ]
+            },
+            "parentId": "3764789",
+            "url": "\/style\/loving-lost-in-venice\/3764789-3765099"
+        },
+        {
+            "id": "195759",
+            "title": "Burton Fall 2014 Collection -- Outdoors for all Seasons",
+            "date_created": "1407044300",
+            "loginId": "753",
+            "tags": "",
+            "description": "With 35 years of experience building the best products in the world, we believe in quality, craftsmanship, and progression. Our NEW Fall 2014 apparel and bags line brings it all together\u2014fit, fabrication, function and an uncompromised attention to detail, all combined with a healthy dose of attitude. It's not a reinvention of Burton, but a way to make our lifestyle complete.\n\nOutdoors for #allseasons.\n\nArtist: Old Man Canyon\nSong: Wiser\nAlbum Title: Phantoms & Friends\nIndependent",
+            "asset": {
+                "author": "Burton Snowboards",
+                "hdvFlag": 1,
+                "hookText": "With 35 years of experience building the best products in the world, we believe in quality, craftsmanship, and progression. Our NEW Fall 2014 apparel and bag...",
+                "tags": "",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/dj5ew-zJ470\/maxresdefault.jpg",
+                "uploadDate": 1405448254,
+                "videoId": "dj5ew-zJ470",
+                "mediaDuration": "30",
+                "prettyDuration": "00:00:30",
+                "uploadAsset": false,
+                "quality": ""
+            },
+            "parentId": "3764789",
+            "url": "\/style\/burton-fall-2014-collection-outdoors-for-all-seasons\/3764789-195759"
+        },
+        {
+            "id": "3764810",
+            "title": "Boots by Reef",
+            "date_created": "1410458209",
+            "loginId": "753",
+            "tags": "",
+            "description": "Year in and year out, boots are a classic look. They represent style where adventure meets sophistication - classic, like the sands of time and the mysteries of the sun-drenched desert. This season, Reef presents two new arrivals - the detailed textiles of the pull-on Reef Low Desert, and the sueded and braided Reef Arabian Braid, both featuring quilted PU footbed - as comfortable as your mattress, as alluring as the sun.",
+            "asset": {
+                "author": "Reef",
+                "hdvFlag": 1,
+                "hookText": "Year in and year out, boots are a classic look. They represent style where adventure meets sophistication - classic, like the sands of time and the mysteries...",
+                "tags": "",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/U1ARFcK_yr0\/sddefault.jpg",
+                "uploadDate": 1408988328,
+                "videoId": "U1ARFcK_yr0",
+                "mediaDuration": "71",
+                "prettyDuration": "00:01:11",
+                "uploadAsset": false,
+                "quality": ""
+            },
+            "parentId": "3764789",
+            "url": "\/style\/boots-by-reef\/3764789-3764810"
+        }
+    ]
+}

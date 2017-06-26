@@ -1,0 +1,55 @@
+{
+    "title": "Arbor Snowboards :: 2016 Product Profiles - Whiskey",
+    "description": "Here at Arbor, we appreciate a good whiskey. When distilling this fine corduroy crushing elixir, we work hard to elicit notes of all-mountain versatility and cross terrain mobility. Whether you prefer it on the rocks, in a straight shot down the steeps or barreling through the trees, we are confident that your palate will be pleased with the broad scope of performance that only the Whiskey can provide.",
+    "referenceId": "138345319",
+    "date_created": "1443460249",
+    "date_modified": "1454542546",
+    "tags": "Snowboarding,Product Video,Arbor,Rocker System,Arbor Snowboards,Whiskey,Snowboard,Product Profile",
+    "sourceId": "3",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "4",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6416503",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "228",
+    "entityIdParent": "3763991",
+    "titleTextEncoded": "Arbor-Snowboards-2016-Product-Profiles-Whiskey",
+    "category": null,
+    "duration": 150,
+    "settings": {},
+    "asset": {
+        "type": "mp4",
+        "hdvFlag": 1,
+        "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/533665017_1280x720.jpg",
+        "mediaDuration": 150,
+        "prettyDuration": "02:30",
+        "uploadDate": 1441396703,
+        "tags": "Snowboarding,Product Video,Arbor,Rocker System,Arbor Snowboards,Whiskey,Snowboard,Product Profile",
+        "hookText": "Here at Arbor, we appreciate a good whiskey. When distilling this fine corduroy crushing elixir, we work hard to elicit notes of all-mountain versatility and cross terrain mobility. Whether you prefer it on the rocks, in a straight shot down the steeps or",
+        "sources": [
+            {
+                "file": "https:\/\/player.vimeo.com\/external\/138345319.hd.mp4?s=cb437bbfbc8ac67f6ef9f6995d10e622&profile_id=113&oauth2_token_id=74680278"
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

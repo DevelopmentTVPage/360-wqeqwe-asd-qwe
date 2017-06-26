@@ -1,0 +1,70 @@
+{
+    "title": "86 Seconds - Lil Bibby",
+    "description": "86 Seconds - Lil Bibby",
+    "referenceId": null,
+    "date_created": "1440446179",
+    "date_modified": "1455841241",
+    "tags": "",
+    "sourceId": "1",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "2",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6380384",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "3",
+    "entityIdParent": "168529",
+    "titleTextEncoded": "86-Seconds-Lil-Bibby",
+    "category": null,
+    "duration": "97",
+    "settings": {},
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "97"
+        },
+        "thumbnailUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/6380384\/425cbb4b8e67b663fd60761a53625209.png",
+        "hookText": "",
+        "type": "mp4",
+        "mediaDuration": "97",
+        "prettyDuration": "00:01:37",
+        "tags": "",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/6380384\/720p_425cbb4b8e67b663fd60761a53625209.mp4",
+                "quality": "720p"
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/6380384\/480p_425cbb4b8e67b663fd60761a53625209.mp4",
+                "quality": "480p"
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/6380384\/360p_425cbb4b8e67b663fd60761a53625209.mp4",
+                "quality": "360p"
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

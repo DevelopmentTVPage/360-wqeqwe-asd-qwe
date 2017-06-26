@@ -1,0 +1,53 @@
+{
+    "title": "#TOURNOTES: BELLS ROUND 1",
+    "description": "The Hurley team heads to Bells for the Rip Curl Pro.",
+    "referenceId": "vVDs5YdevvM",
+    "date_created": "1443807338",
+    "date_modified": "1443807338",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "1",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6418829",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "322",
+    "entityIdParent": "158318",
+    "titleTextEncoded": "TOURNOTES-BELLS-ROUND-1",
+    "category": null,
+    "duration": "214",
+    "settings": {},
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/vVDs5YdevvM\/hqdefault.jpg",
+        "uploadDate": 1364604446,
+        "videoId": "vVDs5YdevvM",
+        "title": "#TOURNOTES: BELLS ROUND 1",
+        "description": "The Hurley team heads to Bells for the Rip Curl Pro.",
+        "author": "hurley",
+        "mediaDuration": "214",
+        "prettyDuration": "00:03:34",
+        "views": "11265",
+        "hookText": "The Hurley team heads to Bells for the Rip Curl Pro."
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

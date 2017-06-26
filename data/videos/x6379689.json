@@ -1,0 +1,53 @@
+{
+    "title": "Arnette Summer Collection Lookbook",
+    "description": "Music producers Treo take the Arnette Summer Sunglass Collection for a ride in between shows.",
+    "referenceId": null,
+    "date_created": "1440444242",
+    "date_modified": "1443487970",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "3",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6379689",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "40",
+    "entityIdParent": "168553",
+    "titleTextEncoded": "Arnette-Summer-Collection-Lookbook",
+    "category": null,
+    "duration": "60",
+    "settings": {},
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/wFKNtqnOH-A\/hqdefault.jpg",
+        "uploadDate": 1437173767,
+        "videoId": "wFKNtqnOH-A",
+        "title": "Arnette Summer Collection Lookbook",
+        "description": "Music producers Treo take the Arnette Summer Sunglass Collection for a ride in between shows",
+        "author": "Arnette",
+        "mediaDuration": "60",
+        "prettyDuration": "00:01:00",
+        "views": "12",
+        "hookText": "Music producers Treo take the Arnette Summer Sunglass Collection for a ride in between shows"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

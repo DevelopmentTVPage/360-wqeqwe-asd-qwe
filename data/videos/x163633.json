@@ -1,0 +1,50 @@
+{
+    "title": "Kolohe Andino",
+    "description": "Kolohe Andino",
+    "referenceId": null,
+    "date_created": "1398813969",
+    "date_modified": "1455926885",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "2",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "163633",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "24",
+    "entityIdParent": "168557",
+    "titleTextEncoded": "Kolohe-Andino",
+    "category": null,
+    "duration": "28",
+    "settings": [],
+    "asset": {
+        "author": "Volcom",
+        "videoId": "89dvmT7Biu4",
+        "hookText": "",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/89dvmT7Biu4\/maxresdefault.jpg",
+        "mediaDuration": "28",
+        "hdvFlag": 1,
+        "uploadDate": 1338019080,
+        "prettyDuration": "00:00:28"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

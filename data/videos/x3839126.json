@@ -1,0 +1,73 @@
+{
+    "title": "Y&R x Roids",
+    "description": "Y&R x Roids",
+    "referenceId": null,
+    "date_created": "1431625798",
+    "date_modified": "1470242708",
+    "tags": "",
+    "sourceId": "1",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": "Young___Reckless",
+    "video_celeb": null,
+    "video_activity": "Art___Design",
+    "VV_VI": "507",
+    "CVV_VI": "6",
+    "engagement_score": "4",
+    "conversion_score": null,
+    "id": "3839126",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "6",
+    "entityIdParent": "168529",
+    "titleTextEncoded": "Y-R-x-Roids",
+    "category": null,
+    "duration": "15",
+    "settings": [],
+    "asset": {
+        "type": "mp4",
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/753\/canvas\/655\/368\/197967607-0191524876.png",
+        "mediaDuration": "15",
+        "prettyDuration": "00:00:15",
+        "hookText": "Y&R x Roids",
+        "tags": "",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/3839126\/4521cd22_a66f_48a6_8085_04efa16dcc7f.mp4"
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/3839126\/720p_4521cd22_a66f_48a6_8085_04efa16dcc7f.mp4",
+                "quality": "720p"
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/3839126\/480p_4521cd22_a66f_48a6_8085_04efa16dcc7f.mp4",
+                "quality": "480p"
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/3839126\/360p_4521cd22_a66f_48a6_8085_04efa16dcc7f.mp4",
+                "quality": "360p"
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "conversion_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

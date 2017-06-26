@@ -1,0 +1,50 @@
+{
+    "title": "Arbor Snowboards :: The Postcard Series -  Minnesota",
+    "description": "They shoved grown men into the back of a U-Haul cargo van with sparse heat and no seat belts. They slept six to a room at the Minneapolis Airport La Quinta Inn. They weren\u2019t comfortable, but there\u2019s something about a lack of personal space mixed with a ca",
+    "referenceId": "99589855",
+    "date_created": "1443551024",
+    "date_modified": "1443551024",
+    "tags": "Arbor,Arbor Snowboards,Snowboarding,Postcard Series,Minnesota,Scotty Vine,Brandon Hammid,Erik Leon,Sammy Spiteri,Sean Black",
+    "sourceId": "3",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6417156",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "182",
+    "entityIdParent": "3763991",
+    "titleTextEncoded": "Arbor-Snowboards-The-Postcard-Series-Minnesota",
+    "category": null,
+    "duration": 387,
+    "settings": [],
+    "asset": {
+        "type": "mp4",
+        "sources": [
+            {
+                "file": "https:\/\/player.vimeo.com\/external\/99589855.hd.mp4?s=976f8714c16bfa6a2932c4c6e4ee1234&profile_id=113&oauth2_token_id=74680278"
+            }
+        ],
+        "hdvFlag": 1,
+        "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/481791111_1280x720.jpg",
+        "mediaDuration": 387,
+        "prettyDuration": "06:27",
+        "uploadDate": 1404174724,
+        "tags": "Arbor,Arbor Snowboards,Snowboarding,Postcard Series,Minnesota,Scotty Vine,Brandon Hammid,Erik Leon,Sammy Spiteri,Sean Black",
+        "hookText": "They shoved grown men into the back of a U-Haul cargo van with sparse heat and no seat belts. They slept six to a room at the Minneapolis Airport La Quinta Inn. They weren\u2019t comfortable, but there\u2019s something about a lack of personal space mixed with a ca"
+    },
+    "transcripts": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "25"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

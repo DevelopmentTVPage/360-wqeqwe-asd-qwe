@@ -1,0 +1,59 @@
+{
+    "title": "Skate With Nyjah Huston",
+    "description": "Win a trip to San Clemente, CA to skate with Nyjah at his new skatepark.",
+    "referenceId": null,
+    "date_created": "1414167843",
+    "date_modified": "1470244979",
+    "tags": "Nyjah, skateboarding, skateboard, AYC, Asphalt",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": "Asphalt_Yacht_Club",
+    "video_celeb": "Nyjah_Huston",
+    "video_activity": "Skating",
+    "VV_VI": "920",
+    "CVV_VI": "71",
+    "engagement_score": "8",
+    "conversion_score": "5",
+    "id": "3778168",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "27",
+    "entityIdParent": "195929",
+    "titleTextEncoded": "Skate-With-Nyjah-Huston",
+    "category": null,
+    "duration": "46",
+    "settings": [],
+    "asset": {
+        "author": "tillys",
+        "hdvFlag": 1,
+        "hookText": "Skate With Nyjah Huston",
+        "tags": "Nyjah, skateboarding, skateboard, AYC, Asphalt ",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/A6B9Z6py_Pg\/maxresdefault.jpg",
+        "uploadDate": 1413241276,
+        "videoId": "A6B9Z6py_Pg",
+        "mediaDuration": "46",
+        "prettyDuration": "00:00:46",
+        "uploadAsset": false,
+        "quality": ""
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "conversion_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

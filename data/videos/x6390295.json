@@ -1,0 +1,53 @@
+{
+    "title": "Kenny Hoyle for Altamont part 2",
+    "description": "http:\/\/altamontapparel.com.",
+    "referenceId": "6vaIu4oFmAo",
+    "date_created": "1441406578",
+    "date_modified": "1441406578",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "1",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6390295",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "33",
+    "entityIdParent": "168548",
+    "titleTextEncoded": "Kenny-Hoyle-for-Altamont-part-2",
+    "category": null,
+    "duration": "157",
+    "settings": {},
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/6vaIu4oFmAo\/hqdefault.jpg",
+        "uploadDate": 1286410984,
+        "videoId": "6vaIu4oFmAo",
+        "title": "Kenny Hoyle for Altamont part 2",
+        "description": "http:\/\/altamontapparel.com.",
+        "author": "Altamont",
+        "mediaDuration": "157",
+        "prettyDuration": "00:02:37",
+        "views": "10875",
+        "hookText": "http:\/\/altamontapparel.com."
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

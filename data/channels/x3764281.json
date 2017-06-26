@@ -1,0 +1,25 @@
+{
+    "title": "Enjoi",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1409941461",
+    "date_modified": "1409942410",
+    "tags": "",
+    "sourceId": null,
+    "status": "approved",
+    "visibility": "1",
+    "id": "3764281",
+    "loginId": "753",
+    "entityType": "3",
+    "titleTextEncoded": "Enjoi",
+    "category": null,
+    "duration": null,
+    "settings": {
+        "canvasImage": "927366159-0.jpg",
+        "colorClass": "light",
+        "canvasType": "cropped",
+        "canvasCropped": "927366159-024450277.jpg",
+        "autoPlay": 0
+    },
+    "transcripts": null
+}

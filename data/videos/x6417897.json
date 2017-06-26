@@ -1,0 +1,55 @@
+{
+    "title": "etnies European BMX tour",
+    "description": "A few months back some etnies BMX riders traveled to the UK, Holland and Germany for some demo's, signings and some street sessions. Check this video that covers the demo's on this tour!",
+    "referenceId": "30721815",
+    "date_created": "1443563987",
+    "date_modified": "1449017017",
+    "tags": "etnies,BMX,tour,Aaron Ross,Tom Dugan,Nathan Williams,Ashley Charles,Ben Lewis,Luc Legrand,Sergio Layos,Fabian Roethlisberger",
+    "sourceId": "3",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "1",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6417897",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "135",
+    "entityIdParent": "168527",
+    "titleTextEncoded": "etnies-European-BMX-tour",
+    "category": null,
+    "duration": 236,
+    "settings": {},
+    "asset": {
+        "type": "mp4",
+        "hdvFlag": 1,
+        "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/207769977_1280x699.jpg",
+        "mediaDuration": 236,
+        "prettyDuration": "03:56",
+        "uploadDate": 1318927183,
+        "tags": "etnies,BMX,tour,Aaron Ross,Tom Dugan,Nathan Williams,Ashley Charles,Ben Lewis,Luc Legrand,Sergio Layos,Fabian Roethlisberger",
+        "hookText": "A few months back some etnies BMX riders traveled to the UK, Holland and Germany for some demo's, signings and some street sessions. Check this video that covers the demo's on this tour!\n\nFollow etnies on www.etnies.com and\/or www.facebook.com\/etnieseurop",
+        "sources": [
+            {
+                "file": "https:\/\/player.vimeo.com\/external\/30721815.hd.mp4?s=5507e565263eab4640febe678fd96d4a&profile_id=113&oauth2_token_id=62432308"
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

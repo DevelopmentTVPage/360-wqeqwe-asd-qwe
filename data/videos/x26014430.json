@@ -1,0 +1,52 @@
+{
+    "title": "adidas Skateboarding Suciu ADV Philly",
+    "description": "adidas Skateboarding Suciu ADV Philly",
+    "referenceId": "anMhuYXmPHc",
+    "date_created": "1454296565",
+    "date_modified": "1455669578",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "10",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "26014430",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "21",
+    "entityIdParent": "168510",
+    "titleTextEncoded": "adidas-Skateboarding-Suciu-ADV-Philly",
+    "category": "",
+    "duration": "15",
+    "settings": "",
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/anMhuYXmPHc\/hqdefault.jpg",
+        "uploadDate": 1454296565,
+        "videoId": "anMhuYXmPHc",
+        "title": "adidas Skateboarding Suciu ADV Philly",
+        "description": "",
+        "author": "adidas Skateboarding",
+        "mediaDuration": "15",
+        "prettyDuration": "00:00:15",
+        "views": "1902"
+    },
+    "transcripts": "",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

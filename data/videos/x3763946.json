@@ -1,0 +1,52 @@
+{
+    "title": "No Hat Alt Ending '47 Brand",
+    "description": "'47 Brand is a sports lifestyle brand based out of Boston. We're a proud partner of the NFL, MLB, NBA, NHL and over 900 colleges. Established in 1947.\n\nMusic Credit: Track: Hipster by, Frantic Clam.",
+    "referenceId": null,
+    "date_created": "1409855140",
+    "date_modified": "1470267718",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": "Forty_Seven_Brand",
+    "video_celeb": null,
+    "video_activity": "Skating",
+    "VV_VI": "1",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "3763946",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "2",
+    "entityIdParent": "3763931",
+    "titleTextEncoded": "No-Hat-Alt-Ending-47-Brand",
+    "category": null,
+    "duration": "50",
+    "settings": [],
+    "asset": {
+        "author": "Forty Seven Brand",
+        "videoId": "erjrMPPRSmQ",
+        "hookText": "Music Credit: Track: Hipster by, Frantic Clam.",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/erjrMPPRSmQ\/hqdefault.jpg",
+        "mediaDuration": "50",
+        "hdvFlag": 0,
+        "uploadDate": 1379618972,
+        "prettyDuration": "00:00:50",
+        "uploadAsset": false,
+        "quality": ""
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

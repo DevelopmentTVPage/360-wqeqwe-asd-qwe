@@ -1,0 +1,53 @@
+{
+    "title": "Fox MX Presents | Pura Vida Motocross",
+    "description": "Ricky Carmichael and Fox Brigade rider Austin Forkner recently took a road trip to La Fortuna de San Carlos, Costa Rica. ",
+    "referenceId": null,
+    "date_created": "1430949976",
+    "date_modified": "1430949976",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "3",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "3837571",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "322",
+    "entityIdParent": "168514",
+    "titleTextEncoded": "Fox-MX-Presents-Pura-Vida-Motocross",
+    "category": null,
+    "duration": "206",
+    "settings": null,
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/uYklZb9hpLA\/hqdefault.jpg",
+        "uploadDate": 1427471789,
+        "videoId": "uYklZb9hpLA",
+        "title": "Fox MX Presents | Pura Vida Motocross",
+        "description": "Ricky Carmichael and Fox Brigade rider Austin Forkner recently took a road trip to La Fortuna de San Carlos, Costa Rica. Their plan, ride the Monta\u00f1a de Fuego ...",
+        "author": "FoxHeadInc",
+        "mediaDuration": "206",
+        "prettyDuration": "00:03:26",
+        "views": "70556",
+        "hookText": "Ricky Carmichael and Fox Brigade rider Austin Forkner recently took a road trip to La Fortuna de San Carlos, Costa Rica. "
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

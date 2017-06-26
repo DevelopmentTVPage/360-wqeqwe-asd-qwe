@@ -1,0 +1,53 @@
+{
+    "title": "#TOURNOTES: JBAY REACTIONS",
+    "description": "Nature comes face to face with instinct in the latest #TOURNOTES, featuring Mick Fanning and Julian Wilson.",
+    "referenceId": null,
+    "date_created": "1440439981",
+    "date_modified": "1440439981",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "2",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6378217",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "542",
+    "entityIdParent": "158318",
+    "titleTextEncoded": "TOURNOTES-JBAY-REACTIONS",
+    "category": null,
+    "duration": "138",
+    "settings": {},
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/XWPbwuQwbZc\/hqdefault.jpg",
+        "uploadDate": 1437518667,
+        "videoId": "XWPbwuQwbZc",
+        "title": "#TOURNOTES: JBAY REACTIONS",
+        "description": "Nature comes face to face with instinct in the latest #TOURNOTES, featuring Mick Fanning and Julian Wilson.",
+        "author": "Hurley",
+        "mediaDuration": "138",
+        "prettyDuration": "00:02:18",
+        "views": "16583",
+        "hookText": "Nature comes face to face with instinct in the latest #TOURNOTES, featuring Mick Fanning and Julian Wilson."
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

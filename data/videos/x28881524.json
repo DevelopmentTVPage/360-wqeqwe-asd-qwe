@@ -1,0 +1,54 @@
+{
+    "title": "THE LEGACY SHOW",
+    "description": "The Godfather of street wear, Bobby Tribal, and Hurley celebrate California culture with the Legacy Show.",
+    "referenceId": "6nnKleRrjWM",
+    "date_created": "1439588528",
+    "date_modified": "1468362400",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "8",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "28881524",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "551",
+    "entityIdParent": "158318",
+    "titleTextEncoded": "THE-LEGACY-SHOW",
+    "category": "",
+    "duration": 76,
+    "settings": "",
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/6nnKleRrjWM\/hqdefault.jpg",
+        "uploadDate": 1439588528,
+        "videoId": "6nnKleRrjWM",
+        "title": "THE LEGACY SHOW",
+        "description": "The Godfather of street wear, Bobby Tribal, and Hurley celebrate California culture with the Legacy Show. \n\nShop the Phantom Legacy Boardshorts here: http:\/\/swoo.sh\/1N0jbkc",
+        "author": "Hurley",
+        "mediaDuration": 76,
+        "prettyDuration": "00:01:16",
+        "views": "4729",
+        "uploadAsset": false,
+        "quality": ""
+    },
+    "transcripts": "[Music Playing]",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

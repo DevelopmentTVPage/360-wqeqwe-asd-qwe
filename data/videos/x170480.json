@@ -1,0 +1,53 @@
+{
+    "title": "ROXY POP SURF",
+    "description": "Roxy Pop Surf is an iconic swim collection - marrying fashion-forward design with technology that easily transition from water to sand. Pop Surf features bold bikinis, psychedelic maillots, cropped swim tops, leggy tank dresses, innovative rashguards, quick-dry boar dies and edgy surf leggings. Mix it, match it, and make it your own! Because every surfer has her own unique style on and off the board. \n\nATHLETES: \nStephanie Gilmore\nMonyca Oleogram \n\nLOCATION: \nWaikiki",
+    "referenceId": null,
+    "date_created": "1401379445",
+    "date_modified": "1470331618",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": "Roxy",
+    "video_celeb": null,
+    "video_activity": "Surfing",
+    "VV_VI": "15",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "170480",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "4",
+    "entityIdParent": "168532",
+    "titleTextEncoded": "ROXY-POP-SURF",
+    "category": null,
+    "duration": "73",
+    "settings": [],
+    "asset": {
+        "author": "Roxy",
+        "hdvFlag": 1,
+        "hookText": "Roxy Pop Surf is an iconic swim collection - marrying fashion-forward design with technology that easily transition from water to sand. Pop Surf features bol...",
+        "tags": "",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/LbMquDrkv7c\/sddefault.jpg",
+        "uploadDate": 1395158475,
+        "videoId": "LbMquDrkv7c",
+        "mediaDuration": "73",
+        "prettyDuration": "00:01:13",
+        "uploadAsset": false,
+        "quality": ""
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

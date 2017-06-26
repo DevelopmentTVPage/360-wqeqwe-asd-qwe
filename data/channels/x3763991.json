@@ -1,0 +1,36 @@
+{
+    "title": "Arbor ",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1409865430",
+    "date_modified": "1411753187",
+    "tags": "",
+    "sourceId": null,
+    "status": "approved",
+    "visibility": "1",
+    "id": "3763991",
+    "loginId": "753",
+    "entityType": "3",
+    "titleTextEncoded": "Arbor",
+    "category": null,
+    "duration": null,
+    "settings": {
+        "canvasImage": "885415249-0.jpg",
+        "colorClass": "light",
+        "canvasType": "cropped",
+        "canvasCropped": "885415249-01031280823.jpg",
+        "autoPlay": 0,
+        "hideoos": 1,
+        "auto": {
+            "dynamic": 0,
+            "limit": 12,
+            "excIds": [
+                "3763995",
+                "3763994",
+                "3763993"
+            ]
+        },
+        "optimize": 1
+    },
+    "transcripts": null
+}

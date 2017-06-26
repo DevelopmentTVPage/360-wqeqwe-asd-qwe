@@ -1,0 +1,55 @@
+{
+    "title": "Garrett Hill TF line",
+    "description": ".Garrett Hill TF line",
+    "referenceId": null,
+    "date_created": "1441131425",
+    "date_modified": "1470184722",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": "Altamont",
+    "video_celeb": "Garrett_Hill",
+    "video_activity": "Skating",
+    "VV_VI": "2",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6386014",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "108",
+    "entityIdParent": "168548",
+    "titleTextEncoded": "Garrett-Hill-TF-line",
+    "category": null,
+    "duration": "16",
+    "settings": {},
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/OgkEJKqKrsk\/hqdefault.jpg",
+        "uploadDate": 1318301924,
+        "videoId": "OgkEJKqKrsk",
+        "title": "Garrett Hill TF line",
+        "description": "http:\/\/facebook.com & http:\/\/twitter.com\/Altamont.",
+        "author": "Altamont",
+        "mediaDuration": "16",
+        "prettyDuration": "00:00:16",
+        "views": "10221",
+        "hookText": "http:\/\/facebook.com & http:\/\/twitter.com\/Altamont.",
+        "uploadAsset": false,
+        "quality": ""
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

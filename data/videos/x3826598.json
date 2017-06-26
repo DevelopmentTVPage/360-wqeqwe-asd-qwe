@@ -1,0 +1,71 @@
+{
+    "title": "Tilly's Spring 2015 - Joggers & Shorts",
+    "description": "Extra long days, extra long strides. Lighten up your wardrobe with some of our favorite shorts and joggers.",
+    "referenceId": null,
+    "date_created": "1426019314",
+    "date_modified": "1445037285",
+    "tags": "Tilly's, Shopping, Joggers, shorts, spring, shop",
+    "sourceId": "1",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "1373",
+    "CVV_VI": "168",
+    "engagement_score": "12",
+    "conversion_score": "14",
+    "id": "3826598",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "15",
+    "entityIdParent": "195929",
+    "titleTextEncoded": "Tilly-s-Spring-2015-Joggers-Shorts",
+    "category": null,
+    "duration": "60",
+    "settings": [],
+    "asset": {
+        "type": "mp4",
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/753\/canvas\/655\/368\/622256571-79381181658.png",
+        "mediaDuration": "60",
+        "prettyDuration": "00:01:00",
+        "hookText": "Tilly's Spring 2015 - Joggers & Shorts",
+        "tags": "Tilly's, Shopping, Joggers, shorts, spring, shop",
+        "sources": [
+            {
+                "file": "https:\/\/d2mhchrq41duh4.cloudfront.net\/753\/3826598\/66997631_7381_4f97_c50d_589a7fc3da2c.mp4"
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/3826598\/720p_66997631_7381_4f97_c50d_589a7fc3da2c.mp4",
+                "quality": "720p"
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/3826598\/480p_66997631_7381_4f97_c50d_589a7fc3da2c.mp4",
+                "quality": "480p"
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/3826598\/360p_66997631_7381_4f97_c50d_589a7fc3da2c.mp4",
+                "quality": "360p"
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "conversion_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

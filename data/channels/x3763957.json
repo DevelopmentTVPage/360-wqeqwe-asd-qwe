@@ -1,0 +1,34 @@
+{
+    "title": "9five",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1409856211",
+    "date_modified": "1409858721",
+    "tags": "",
+    "sourceId": null,
+    "status": "approved",
+    "visibility": "1",
+    "id": "3763957",
+    "loginId": "753",
+    "entityType": "3",
+    "titleTextEncoded": "9five",
+    "category": null,
+    "duration": null,
+    "settings": {
+        "canvasImage": "542263680-0.jpg",
+        "colorClass": "light",
+        "canvasType": "cropped",
+        "canvasCropped": "542263680-03480272.jpg",
+        "autoPlay": 0,
+        "hideoos": 0,
+        "auto": {
+            "dynamic": 0,
+            "limit": 16,
+            "cartIds": [
+                767
+            ]
+        },
+        "optimize": 1
+    },
+    "transcripts": null
+}

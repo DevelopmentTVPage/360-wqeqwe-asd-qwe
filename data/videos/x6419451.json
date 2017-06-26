@@ -1,0 +1,56 @@
+{
+    "title": "John John Florence - Hyperfreak",
+    "description": "John John Florence - Hyperfreak",
+    "referenceId": "f3nlWyS8Esc",
+    "date_created": "1444151719",
+    "date_modified": "1455923185",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "3",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6419451",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "36",
+    "entityIdParent": "168557",
+    "titleTextEncoded": "John-John-Florence-Hyperfreak",
+    "category": null,
+    "duration": "30",
+    "settings": [],
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/f3nlWyS8Esc\/hqdefault.jpg",
+        "uploadDate": 1355943483,
+        "videoId": "f3nlWyS8Esc",
+        "title": "John John Florence - Hyperfreak",
+        "description": "",
+        "author": "TeamONeill",
+        "mediaDuration": "30",
+        "prettyDuration": "00:00:30",
+        "views": "1033",
+        "hookText": ""
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": [
+        "2",
+        "17"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

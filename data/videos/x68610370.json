@@ -1,0 +1,53 @@
+{
+    "title": "Dog meets Hedgehog",
+    "description": "Dog meets Hedgehog",
+    "referenceId": "o_Hs10kF7D4",
+    "date_created": "1474408731",
+    "date_modified": "1474408975",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "2",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "68610370",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "157",
+    "entityIdParent": "3762188",
+    "titleTextEncoded": "Dog-meets-Hedgehog",
+    "category": null,
+    "duration": 33,
+    "settings": null,
+    "asset": {
+        "type": "youtube",
+        "author": "CTheadora",
+        "hdvFlag": 0,
+        "hookText": "",
+        "tags": "",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/o_Hs10kF7D4\/hqdefault.jpg",
+        "videoId": "o_Hs10kF7D4",
+        "mediaDuration": 33,
+        "prettyDuration": "00:00:33",
+        "uploadAsset": false,
+        "quality": ""
+    },
+    "transcripts": "Will you submit or either put them on Facebook, I\u2019ll look at it. Looks like she\u2019s going to bite it, she\u2019ll get hurt if she does haha.",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

@@ -1,0 +1,48 @@
+{
+    "title": "BK previews his Jameson 2 Mid Colorway",
+    "description": "BK previews his Jameson 2 Mid Colorway",
+    "referenceId": "25380741",
+    "date_created": "1443720329",
+    "date_modified": "1455901633",
+    "tags": "etnies bmx,Brian Kachinsky,The Bakery,Chicago bmx,etnies Jameson 2 Mid",
+    "sourceId": "3",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6418519",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "100",
+    "entityIdParent": "168527",
+    "titleTextEncoded": "BK-previews-his-Jameson-2-Mid-Colorway",
+    "category": null,
+    "duration": 44,
+    "settings": {},
+    "asset": {
+        "type": "mp4",
+        "hdvFlag": 0,
+        "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/167051265_960x540.jpg",
+        "mediaDuration": 44,
+        "prettyDuration": "00:44",
+        "uploadDate": 1308616554,
+        "tags": "etnies bmx,Brian Kachinsky,The Bakery,Chicago bmx,etnies Jameson 2 Mid",
+        "hookText": "www.facebook.com\/etnies",
+        "sources": [
+            {
+                "file": "https:\/\/player.vimeo.com\/external\/25380741.sd.mp4?s=b2f3f938a2ea5dc348e53fa32307901a&profile_id=112&oauth2_token_id=62432308"
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

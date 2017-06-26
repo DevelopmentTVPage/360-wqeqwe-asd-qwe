@@ -1,0 +1,53 @@
+{
+    "title": "Enjoy the Daze of Summer",
+    "description": "The Fallen Daze is here for Summer.",
+    "referenceId": null,
+    "date_created": "1440611361",
+    "date_modified": "1449010472",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "2",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6383015",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "14",
+    "entityIdParent": "3764287",
+    "titleTextEncoded": "Enjoy-the-Daze-of-Summer",
+    "category": null,
+    "duration": "23",
+    "settings": {},
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/CTy34y813z8\/hqdefault.jpg",
+        "uploadDate": 1344998929,
+        "videoId": "CTy34y813z8",
+        "title": "Enjoy the Daze of Summer",
+        "description": "The Fallen Daze is here for Summer.",
+        "author": "fallenfootweartv",
+        "mediaDuration": "23",
+        "prettyDuration": "00:00:23",
+        "views": "4669",
+        "hookText": "The Fallen Daze is here for Summer."
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

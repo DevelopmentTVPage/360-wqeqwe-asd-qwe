@@ -1,0 +1,53 @@
+{
+    "title": "38Special1",
+    "description": "38Special1",
+    "referenceId": null,
+    "date_created": "1409881071",
+    "date_modified": "1470256811",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": "Crooks___Castles",
+    "video_celeb": null,
+    "video_activity": "Art___Design",
+    "VV_VI": "1",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "3764052",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "1",
+    "entityIdParent": "3764050",
+    "titleTextEncoded": "38Special1",
+    "category": null,
+    "duration": "27",
+    "settings": [],
+    "asset": {
+        "author": "Crooks Castles",
+        "hdvFlag": 1,
+        "hookText": "",
+        "tags": "",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/uKGUcsdA4fg\/maxresdefault.jpg",
+        "uploadDate": 1359484412,
+        "videoId": "uKGUcsdA4fg",
+        "mediaDuration": "27",
+        "prettyDuration": "00:00:27",
+        "uploadAsset": false,
+        "quality": ""
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

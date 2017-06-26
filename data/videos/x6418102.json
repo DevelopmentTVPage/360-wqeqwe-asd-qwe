@@ -1,0 +1,55 @@
+{
+    "title": "DAKINE Eric Jackson Team Mission Pack",
+    "description": "Check out 360\u00b0 views of the 2012 Eric Jackson Team Mission Pack:\n\n- Padded sleeve fits most 15\" laptops\n- Vertical board carry straps\n- Fleece lined goggle pocket\n- Fleece lined sunglass pocket\n- Organizer pocket\n- Padded waist belt",
+    "referenceId": "29380763",
+    "date_created": "1443633994",
+    "date_modified": "1448054713",
+    "tags": "Array,Array,Array,Array,Array",
+    "sourceId": "3",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "1",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6418102",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "83",
+    "entityIdParent": "168543",
+    "titleTextEncoded": "DAKINE-Eric-Jackson-Team-Mission-Pack",
+    "category": null,
+    "duration": 37,
+    "settings": {},
+    "asset": {
+        "type": "mp4",
+        "hdvFlag": 1,
+        "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/196746713_1280x720.jpg",
+        "mediaDuration": 37,
+        "prettyDuration": "00:37",
+        "uploadDate": 1316620188,
+        "tags": "Array,Array,Array,Array,Array",
+        "hookText": "Check out 360\u00b0 views of the 2012 Eric Jackson Team Mission Pack:\n\n- Padded sleeve fits most 15\" laptops\n- Vertical board carry straps\n- Fleece lined goggle pocket\n- Fleece lined sunglass pocket\n- Organizer pocket\n- Padded waist belt",
+        "sources": [
+            {
+                "file": "https:\/\/player.vimeo.com\/external\/29380763.hd.mp4?s=7526fc35d98f48f93e9644e08886ca88&profile_id=113&oauth2_token_id=56801069"
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

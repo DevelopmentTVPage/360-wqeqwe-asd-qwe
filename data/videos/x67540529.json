@@ -1,0 +1,54 @@
+{
+    "title": "Nike: Unlimited Courage",
+    "description": "Your limits are only defined by you.",
+    "referenceId": "_gq8PO9XK2Y",
+    "date_created": "1470694141",
+    "date_modified": "1471539960",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "18",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "67540529",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "15",
+    "entityIdParent": "168513",
+    "titleTextEncoded": "Nike-Unlimited-Courage",
+    "category": "",
+    "duration": 40,
+    "settings": "",
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/_gq8PO9XK2Y\/hqdefault.jpg",
+        "uploadDate": 1470694141,
+        "videoId": "_gq8PO9XK2Y",
+        "title": "Nike: Unlimited Courage",
+        "description": "Your limits are only defined by you.\nBegin your story here. http:\/\/gonike.me\/justdoit.",
+        "author": "Nike",
+        "mediaDuration": 40,
+        "prettyDuration": "00:00:40",
+        "views": "2525063",
+        "uploadAsset": false,
+        "quality": ""
+    },
+    "transcripts": "CHRIS MOSIER DUATHLETE \nThis is Chris Mosier. Morning, Chris! Morning! Chris is the first transgender athlete to make the men's national team. Hey, Chris? How'd you know you'd be fast enough to compete against men? I didn't! Or strong enough? I didn't. Yeah, but how'd you know the team would accept you? I didn't. Or that you'd even be allowed to compete? I didn't. That must have been tough! Didn't you ever just want to give up? Yeah! But I didn't! UNLIMITED COURAGE JUST DO IT.",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

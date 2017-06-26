@@ -1,0 +1,53 @@
+{
+    "title": "SXSW tour part 3",
+    "description": "http:\/\/altamontapparel.com",
+    "referenceId": "MF7DqrYVpx0",
+    "date_created": "1441406578",
+    "date_modified": "1444934739",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "1",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6390303",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "25",
+    "entityIdParent": "168548",
+    "titleTextEncoded": "SXSW-tour-part-3",
+    "category": null,
+    "duration": "99",
+    "settings": {},
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/MF7DqrYVpx0\/hqdefault.jpg",
+        "uploadDate": 1286408288,
+        "videoId": "MF7DqrYVpx0",
+        "title": "SXSW tour part 3",
+        "description": "http:\/\/altamontapparel.com.",
+        "author": "Altamont",
+        "mediaDuration": "99",
+        "prettyDuration": "00:01:39",
+        "views": "2940",
+        "hookText": "http:\/\/altamontapparel.com."
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

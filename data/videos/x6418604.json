@@ -1,0 +1,55 @@
+{
+    "title": "Sean Malto for STI Fusion",
+    "description": "Sean Malto for STI Fusion",
+    "referenceId": "23256994",
+    "date_created": "1443727451",
+    "date_modified": "1450471786",
+    "tags": "sti lab,fusion,sean malto,etnies,skateboarding,high speed video",
+    "sourceId": "3",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "1",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6418604",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "81",
+    "entityIdParent": "168527",
+    "titleTextEncoded": "Sean-Malto-for-STI-Fusion",
+    "category": null,
+    "duration": 75,
+    "settings": {},
+    "asset": {
+        "type": "mp4",
+        "hdvFlag": 1,
+        "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/151267859_1280x720.jpg",
+        "mediaDuration": 75,
+        "prettyDuration": "01:15",
+        "uploadDate": 1304503848,
+        "tags": "sti lab,fusion,sean malto,etnies,skateboarding,high speed video",
+        "hookText": "facebook.com\/etnies, stifusion.com",
+        "sources": [
+            {
+                "file": "https:\/\/player.vimeo.com\/external\/23256994.hd.mp4?s=50819b2a481a5e18010dc971769b72a2&profile_id=113&oauth2_token_id=62432308"
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

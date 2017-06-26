@@ -1,0 +1,35 @@
+{
+    "title": "Levi's",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1401128884",
+    "date_modified": "1419892474",
+    "tags": "",
+    "sourceId": null,
+    "status": "approved",
+    "visibility": "1",
+    "id": "168530",
+    "loginId": "753",
+    "entityType": "3",
+    "titleTextEncoded": "Levi-s",
+    "category": null,
+    "duration": null,
+    "settings": {
+        "canvasImage": "348117628-0.png",
+        "colorClass": "light",
+        "canvasType": "cropped",
+        "canvasCropped": "348117628-001600899.png",
+        "auto": {
+            "dynamic": 0,
+            "limit": 8,
+            "excIds": [
+                "170513"
+            ]
+        },
+        "optimize": 1,
+        "autoPlay": 1,
+        "autoNext": 1,
+        "hideoos": 1
+    },
+    "transcripts": null
+}

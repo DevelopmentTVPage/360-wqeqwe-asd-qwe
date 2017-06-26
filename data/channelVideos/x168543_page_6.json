@@ -1,0 +1,505 @@
+{
+    "pageNumber": 6,
+    "data": [
+        {
+            "id": "6418065",
+            "title": "Ian Gentil",
+            "date_created": "1443633935",
+            "loginId": "753",
+            "tags": "",
+            "description": "Ian Gentil",
+            "asset": {
+                "type": "mp4",
+                "hdvFlag": 1,
+                "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/280155556_295x166.jpg",
+                "mediaDuration": 60,
+                "prettyDuration": "01:00",
+                "uploadDate": 1334685410,
+                "tags": "",
+                "hookText": "",
+                "sources": [
+                    {
+                        "file": "https:\/\/player.vimeo.com\/external\/40538220.hd.mp4?s=c33355cbbe9e01e7a1d1bad1c396f5a9&profile_id=113&oauth2_token_id=56801069"
+                    }
+                ]
+            },
+            "parentId": "168543",
+            "url": "\/dakine\/ian-gentil\/168543-6418065"
+        },
+        {
+            "id": "6418064",
+            "title": "DAKINE ISA World Juniors Surfing Championship",
+            "date_created": "1443633935",
+            "loginId": "753",
+            "tags": "Array,Array,Array,Array,Array",
+            "description": "Watch this collaboration of the world's best Juniors (18 and under) battle it out for the ISA gold medal! Brazil, Japan, Costa Rica, Hawaii, California, Portugal, and many more countries all took part in sending their best of the best to Panama for the go.",
+            "asset": {
+                "type": "mp4",
+                "hdvFlag": 1,
+                "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/293462267_1280x720.jpg",
+                "mediaDuration": 427,
+                "prettyDuration": "07:07",
+                "uploadDate": 1337205241,
+                "tags": "Array,Array,Array,Array,Array",
+                "hookText": "Watch this collaboration of the world's best Juniors (18 and under) battle it out for the ISA gold medal! Brazil, Japan, Costa Rica, Hawaii, California, Portugal, and many more countries all took part in sending their best of the best to Panama for the go",
+                "sources": [
+                    {
+                        "file": "https:\/\/player.vimeo.com\/external\/42303725.hd.mp4?s=3f2c6bfe89b2f9ac48c07edf281c5f5c&profile_id=113&oauth2_token_id=56801069"
+                    }
+                ]
+            },
+            "parentId": "168543",
+            "url": "\/dakine\/dakine-isa-world-juniors-surfing-championship\/168543-6418064"
+        },
+        {
+            "id": "6418063",
+            "title": "Dakine X Thrasher Collab Video",
+            "date_created": "1443633935",
+            "loginId": "753",
+            "tags": "Array,Array,Array,Array,Array,Array",
+            "description": "In this epic saga we follow Paul Machnau, Canadian rail destroyer and cornerstone to the Dakine skateboard team. Given one week by our crackpot mad scientist to deliver the only two packs in existence to Thrasher, we watch as Paul and other Dakine athletes follow a trail of near misses throughout Portland and San Francisco. The team skates and destroys everything in their path and hits a few legendary spots along the way. Will Paul and the boys make it in time? Watch and find out.",
+            "asset": {
+                "type": "mp4",
+                "hdvFlag": 1,
+                "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/296879666_1280x720.jpg",
+                "mediaDuration": 413,
+                "prettyDuration": "06:53",
+                "uploadDate": 1337878574,
+                "tags": "Array,Array,Array,Array,Array,Array",
+                "hookText": "In this epic saga we follow Paul Machnau, Canadian rail destroyer and cornerstone to the Dakine skateboard team. Given one week by our crackpot mad scientist to deliver the only two packs in existence to Thrasher, we watch as Paul and other Dakine athlete",
+                "sources": [
+                    {
+                        "file": "https:\/\/player.vimeo.com\/external\/42780822.hd.mp4?s=95a96b056cedd51036e407c1fd56e0a7&profile_id=113&oauth2_token_id=56801069"
+                    }
+                ]
+            },
+            "parentId": "168543",
+            "url": "\/dakine\/dakine-x-thrasher-collab-video\/168543-6418063"
+        },
+        {
+            "id": "6418042",
+            "title": "DAKINE Snow Team Trip to Chile",
+            "date_created": "1443632598",
+            "loginId": "753",
+            "tags": "",
+            "description": "Team riders Bryan Fox, Curtis Ciszek, Elias Elhardt, Leanne Pelosi and Chris Benchetler hit the August pow in Valle Nevado, Chile, for the DAKINE Winter Catalog Shoot!",
+            "asset": {
+                "type": "mp4",
+                "hdvFlag": 1,
+                "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/301920366_1280x720.jpg",
+                "mediaDuration": 414,
+                "prettyDuration": "06:54",
+                "uploadDate": 1338922765,
+                "tags": "",
+                "hookText": "Team riders Bryan Fox, Curtis Ciszek, Elias Elhardt, Leanne Pelosi and Chris Benchetler hit the August pow in Valle Nevado, Chile, for the DAKINE Winter Catalog Shoot!",
+                "sources": [
+                    {
+                        "file": "https:\/\/player.vimeo.com\/external\/43485415.hd.mp4?s=262f86a912be867a2b6fd707136f6635&profile_id=113&oauth2_token_id=56801069"
+                    }
+                ]
+            },
+            "parentId": "168543",
+            "url": "\/dakine\/dakine-snow-team-trip-to-chile\/168543-6418042"
+        },
+        {
+            "id": "6418041",
+            "title": "2013 Dakine Technical Outerwear Video Preview",
+            "date_created": "1443632598",
+            "loginId": "753",
+            "tags": "Array,Array,Array,Array,Array,Array,Array,Array,Array,Array,Array",
+            "description": "Featuring Dakine's 2013 Technical Outerwear Team Riders Chris Benchetler, Shayne Pospisil, Sami Luhtanen and Sam Cohen rockin' the new gear!",
+            "asset": {
+                "type": "mp4",
+                "hdvFlag": 1,
+                "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/349815751_1280x723.jpg",
+                "mediaDuration": 122,
+                "prettyDuration": "02:02",
+                "uploadDate": 1340902258,
+                "tags": "Array,Array,Array,Array,Array,Array,Array,Array,Array,Array,Array",
+                "hookText": "Featuring Dakine's 2013 Technical Outerwear Team Riders Chris Benchetler, Shayne Pospisil, Sami Luhtanen and Sam Cohen rockin' the new gear!",
+                "sources": [
+                    {
+                        "file": "https:\/\/player.vimeo.com\/external\/44880539.hd.mp4?s=72bbe454f5384f193a778bff88f0179f&profile_id=113&oauth2_token_id=56801069"
+                    }
+                ]
+            },
+            "parentId": "168543",
+            "url": "\/dakine\/2013-dakine-technical-outerwear-video-preview\/168543-6418041"
+        },
+        {
+            "id": "6418040",
+            "title": "Florian Jung's \"Dont Let Go\" Preview \/ Trailer",
+            "date_created": "1443632598",
+            "loginId": "753",
+            "tags": "",
+            "description": "Florian Jung's \"Dont Let Go\" Preview \/ Trailer",
+            "asset": {
+                "type": "mp4",
+                "hdvFlag": 1,
+                "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/314677983_1280x720.jpg",
+                "mediaDuration": 99,
+                "prettyDuration": "01:39",
+                "uploadDate": 1341509957,
+                "tags": "",
+                "hookText": "",
+                "sources": [
+                    {
+                        "file": "https:\/\/player.vimeo.com\/external\/45263315.hd.mp4?s=a3ac8a79495dca2c04362aea752c9185&profile_id=113&oauth2_token_id=56801069"
+                    }
+                ]
+            },
+            "parentId": "168543",
+            "url": "\/dakine\/florian-jung-s-dont-let-go-preview-trailer\/168543-6418040"
+        },
+        {
+            "id": "6418039",
+            "title": "Eric Jackson presents his 2013 Dakine Team Mission Pack!",
+            "date_created": "1443632598",
+            "loginId": "753",
+            "tags": "Array,Array,Array,Array,Array,Array,Array",
+            "description": "EJack's Winter 2013 Signature Series pack is a collaborative effort between Eric and our in-house designers, featuring unique colors, prints and graphics. Part of his collection also features a coordinated mitt - the Eric Jackson Team Baron Mitt.",
+            "asset": {
+                "type": "mp4",
+                "hdvFlag": 1,
+                "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/319166348_1280x720.jpg",
+                "mediaDuration": 135,
+                "prettyDuration": "02:15",
+                "uploadDate": 1342483127,
+                "tags": "Array,Array,Array,Array,Array,Array,Array",
+                "hookText": "EJack's Winter 2013 Signature Series pack is a collaborative effort between Eric and our in-house designers, featuring unique colors, prints and graphics. Part of his collection also features a coordinated mitt - the Eric Jackson Team Baron Mitt.",
+                "sources": [
+                    {
+                        "file": "https:\/\/player.vimeo.com\/external\/45872064.hd.mp4?s=80711434d2d2c3ab26d5631c5e63af7f&profile_id=113&oauth2_token_id=56801069"
+                    }
+                ]
+            },
+            "parentId": "168543",
+            "url": "\/dakine\/eric-jackson-presents-his-2013-dakine-team-mission-pack\/168543-6418039"
+        },
+        {
+            "id": "6418038",
+            "title": "Eric Jackson presents his 2013 Dakine Team Baron Mitt!",
+            "date_created": "1443632598",
+            "loginId": "753",
+            "tags": "",
+            "description": "Eric Jackson's Winter 2013 Signature Series mitt is a collaborative effort between Eric and our in-house designers, featuring unique colors, prints and graphics. Part of his collection also features a coordinated pack - the Eric Jackson Team Mission pack.",
+            "asset": {
+                "type": "mp4",
+                "hdvFlag": 1,
+                "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/320476485_1280x720.jpg",
+                "mediaDuration": 124,
+                "prettyDuration": "02:04",
+                "uploadDate": 1342718946,
+                "tags": "",
+                "hookText": "Eric Jackson's Winter 2013 Signature Series mitt is a collaborative effort between Eric and our in-house designers, featuring unique colors, prints and graphics. Part of his collection also features a coordinated pack - the Eric Jackson Team Mission pack.",
+                "sources": [
+                    {
+                        "file": "https:\/\/player.vimeo.com\/external\/46044349.hd.mp4?s=259ea0b18ae967ccde5402d255fdd1e6&profile_id=113&oauth2_token_id=56801069"
+                    }
+                ]
+            },
+            "parentId": "168543",
+            "url": "\/dakine\/eric-jackson-presents-his-2013-dakine-team-baron-mitt\/168543-6418038"
+        },
+        {
+            "id": "6418037",
+            "title": "Elias Elhardt presents his 2013 Dakine Team Fillmore Mitt!",
+            "date_created": "1443632598",
+            "loginId": "753",
+            "tags": "",
+            "description": "Elias Elhardt's Winter 2013 Signature Series mitt is a collaborative effort between Elias and our in-house designers, featuring unique colors, prints and graphics. Part of his collection also features a coordinated pack - the Elias Elhardt Team Heli Pro pack.",
+            "asset": {
+                "type": "mp4",
+                "hdvFlag": 1,
+                "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/322512335_1280x720.jpg",
+                "mediaDuration": 122,
+                "prettyDuration": "02:02",
+                "uploadDate": 1343163497,
+                "tags": "",
+                "hookText": "Elias Elhardt's Winter 2013 Signature Series mitt is a collaborative effort between Elias and our in-house designers, featuring unique colors, prints and graphics. Part of his collection also features a coordinated pack - the Elias Elhardt Team Heli Pro p",
+                "sources": [
+                    {
+                        "file": "https:\/\/player.vimeo.com\/external\/46319533.hd.mp4?s=5d5589f1efb14fd1d5975f3e0ae17b33&profile_id=113&oauth2_token_id=56801069"
+                    }
+                ]
+            },
+            "parentId": "168543",
+            "url": "\/dakine\/elias-elhardt-presents-his-2013-dakine-team-fillmore-mitt\/168543-6418037"
+        },
+        {
+            "id": "6418036",
+            "title": "Elias Elhardt presents his 2013 Dakine Team Heli Pro Pack!",
+            "date_created": "1443632598",
+            "loginId": "753",
+            "tags": "",
+            "description": "Elias Elhardt's Winter 2013 Signature Series pack is a collaborative effort between Elias and our in-house designers, featuring unique colors, prints and graphics. Part of his collection also features a coordinated mitt - the Elias Elhardt Team Fillmore Mitt.",
+            "asset": {
+                "type": "mp4",
+                "hdvFlag": 1,
+                "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/326353005_1280x719.jpg",
+                "mediaDuration": 103,
+                "prettyDuration": "01:43",
+                "uploadDate": 1343163498,
+                "tags": "",
+                "hookText": "Elias Elhardt's Winter 2013 Signature Series pack is a collaborative effort between Elias and our in-house designers, featuring unique colors, prints and graphics. Part of his collection also features a coordinated mitt - the Elias Elhardt Team Fillmore M",
+                "sources": [
+                    {
+                        "file": "https:\/\/player.vimeo.com\/external\/46319534.hd.mp4?s=d560000a7b04e3a6877c03460edb5b3b&profile_id=113&oauth2_token_id=56801069"
+                    }
+                ]
+            },
+            "parentId": "168543",
+            "url": "\/dakine\/elias-elhardt-presents-his-2013-dakine-team-heli-pro-pack\/168543-6418036"
+        },
+        {
+            "id": "6418035",
+            "title": "Austin Smith presents his 2013 Dakine Team Mission Pack!",
+            "date_created": "1443632598",
+            "loginId": "753",
+            "tags": "",
+            "description": "Austin Smith's Winter 2013 Signature Series pack is a collaborative effort between Austin and our in-house designers, featuring unique colors, prints and graphics. Part of his collection also features a coordinated glove - the Austin Smith Team Bronco glo",
+            "asset": {
+                "type": "mp4",
+                "sources": [
+                    {
+                        "file": "https:\/\/player.vimeo.com\/external\/46319535.hd.mp4?s=177aea24730bfa830c9676450783561b&profile_id=113&oauth2_token_id=56801069"
+                    }
+                ],
+                "hdvFlag": 1,
+                "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/322494383_1280x720.jpg",
+                "mediaDuration": 119,
+                "prettyDuration": "01:59",
+                "uploadDate": 1343163498,
+                "tags": "",
+                "hookText": "Austin Smith's Winter 2013 Signature Series pack is a collaborative effort between Austin and our in-house designers, featuring unique colors, prints and graphics. Part of his collection also features a coordinated glove - the Austin Smith Team Bronco glo"
+            },
+            "parentId": "168543",
+            "url": "\/dakine\/austin-smith-presents-his-2013-dakine-team-mission-pack\/168543-6418035"
+        },
+        {
+            "id": "6418034",
+            "title": "Austin Smith presents his 2013 Dakine Team Bronco Glove!",
+            "date_created": "1443632598",
+            "loginId": "753",
+            "tags": "",
+            "description": "Austin Smith's Winter 2013 Signature Series mitt is a collaborative effort between Austin and our in-house designers, featuring unique colors, prints and graphics. Part of his collection also features a coordinated pack - the Austin Smith Team Mission pack.",
+            "asset": {
+                "type": "mp4",
+                "hdvFlag": 1,
+                "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/322493775_1280x720.jpg",
+                "mediaDuration": 121,
+                "prettyDuration": "02:01",
+                "uploadDate": 1343163498,
+                "tags": "",
+                "hookText": "Austin Smith's Winter 2013 Signature Series mitt is a collaborative effort between Austin and our in-house designers, featuring unique colors, prints and graphics. Part of his collection also features a coordinated pack - the Austin Smith Team Mission pac",
+                "sources": [
+                    {
+                        "file": "https:\/\/player.vimeo.com\/external\/46319536.hd.mp4?s=c3cd2be244a0c649b3c979e430238b3a&profile_id=113&oauth2_token_id=56801069"
+                    }
+                ]
+            },
+            "parentId": "168543",
+            "url": "\/dakine\/austin-smith-presents-his-2013-dakine-team-bronco-glove\/168543-6418034"
+        },
+        {
+            "id": "6418033",
+            "title": "Annie Boulanger presents her 2013 Dakine Team Targa Glove!",
+            "date_created": "1443632598",
+            "loginId": "753",
+            "tags": "",
+            "description": "Annie Boulanger's Winter 2013 Signature Series glove is a collaborative effort between Annie and our in-house designers, featuring unique colors, prints and graphics. Part of her collection also features a coordinated pack - the Annie Boulanger Team Heli ",
+            "asset": {
+                "type": "mp4",
+                "sources": [
+                    {
+                        "file": "https:\/\/player.vimeo.com\/external\/46322623.hd.mp4?s=9d50017c4da26a6a17834a770227c892&profile_id=113&oauth2_token_id=56801069"
+                    }
+                ],
+                "hdvFlag": 1,
+                "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/322516041_1280x720.jpg",
+                "mediaDuration": 96,
+                "prettyDuration": "01:36",
+                "uploadDate": 1343166444,
+                "tags": "",
+                "hookText": "Annie Boulanger's Winter 2013 Signature Series glove is a collaborative effort between Annie and our in-house designers, featuring unique colors, prints and graphics. Part of her collection also features a coordinated pack - the Annie Boulanger Team Heli "
+            },
+            "parentId": "168543",
+            "url": "\/dakine\/annie-boulanger-presents-her-2013-dakine-team-targa-glove\/168543-6418033"
+        },
+        {
+            "id": "6418032",
+            "title": "Annie Boulanger presents her 2013 Dakine Team Heli Pro Pack!",
+            "date_created": "1443632586",
+            "loginId": "753",
+            "tags": "",
+            "description": "Annie Boulanger's Winter 2013 Signature Series pack is a collaborative effort between Annie and our in-house designers, featuring unique colors, prints and graphics. Part of her collection also features a coordinated glove - the Annie Boulanger Team Targa",
+            "asset": {
+                "type": "mp4",
+                "sources": [
+                    {
+                        "file": "https:\/\/player.vimeo.com\/external\/46786037.hd.mp4?s=e2fde89c447b5d3d11a5a382ec27df28&profile_id=113&oauth2_token_id=56801069"
+                    }
+                ],
+                "hdvFlag": 1,
+                "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/326353582_1280x719.jpg",
+                "mediaDuration": 92,
+                "prettyDuration": "01:32",
+                "uploadDate": 1343864766,
+                "tags": "",
+                "hookText": "Annie Boulanger's Winter 2013 Signature Series pack is a collaborative effort between Annie and our in-house designers, featuring unique colors, prints and graphics. Part of her collection also features a coordinated glove - the Annie Boulanger Team Targa"
+            },
+            "parentId": "168543",
+            "url": "\/dakine\/annie-boulanger-presents-her-2013-dakine-team-heli-pro-pack\/168543-6418032"
+        },
+        {
+            "id": "6418031",
+            "title": "Andre Phillip - \"My Ride\"",
+            "date_created": "1443632586",
+            "loginId": "753",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "type": "mp4",
+                "sources": [
+                    {
+                        "file": "https:\/\/player.vimeo.com\/external\/47042280.hd.mp4?s=b867bb2241b0dd9c890878eca3ee59de&profile_id=113&oauth2_token_id=56801069"
+                    }
+                ],
+                "hdvFlag": 1,
+                "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/327644973_1280x960.jpg",
+                "mediaDuration": 73,
+                "prettyDuration": "01:13",
+                "uploadDate": 1344283000,
+                "tags": "",
+                "hookText": ""
+            },
+            "parentId": "168543",
+            "url": "\/dakine\/andre-phillip-my-ride\/168543-6418031"
+        },
+        {
+            "id": "6418030",
+            "title": "Dakine Women's Jewel Pack",
+            "date_created": "1443632586",
+            "loginId": "753",
+            "tags": "",
+            "description": "Check out 360\u00b0 views of the 2013 Women's Jewel Pack in our Sheba print.\nJewel Features:\n- Side access padded laptop compartment\n- Fits most 14\" laptops\n- Organizer pocket\n- Insulated cooler pocket\n- Mesh side pockets\n- Fleece lined sunglass pocket",
+            "asset": {
+                "type": "mp4",
+                "hdvFlag": 1,
+                "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/333014894_1280x720.jpg",
+                "mediaDuration": 56,
+                "prettyDuration": "00:56",
+                "uploadDate": 1345136080,
+                "tags": "",
+                "hookText": "Check out 360\u00b0 views of the 2013 Women's Jewel Pack in our Sheba print.\nJewel Features:\n- Side access padded laptop compartment\n- Fits most 14\" laptops\n- Organizer pocket\n- Insulated cooler pocket\n- Mesh side pockets\n- Fleece lined sunglass pocket",
+                "sources": [
+                    {
+                        "file": "https:\/\/player.vimeo.com\/external\/47668662.hd.mp4?s=5844e0aff55a3e8b477c4c2bb4649cbc&profile_id=113&oauth2_token_id=56801069"
+                    }
+                ]
+            },
+            "parentId": "168543",
+            "url": "\/dakine\/dakine-women-s-jewel-pack\/168543-6418030"
+        },
+        {
+            "id": "6418029",
+            "title": "Dakine Women's Prom Pack",
+            "date_created": "1443632586",
+            "loginId": "753",
+            "tags": "",
+            "description": "Check out 360\u00b0 views of the 2013 Women's Prom Pack in our Dylon print.\nProm Features:\n- Padded laptop sleeve\n- Fits most 14\" laptops\n- Organizer pocket\n- Deployable water bottle pocket\n- Insulated cooler pocket\n- Fleece lined sunglass pocket",
+            "asset": {
+                "type": "mp4",
+                "hdvFlag": 1,
+                "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/333398310_1280x720.jpg",
+                "mediaDuration": 52,
+                "prettyDuration": "00:52",
+                "uploadDate": 1345136080,
+                "tags": "",
+                "hookText": "Check out 360\u00b0 views of the 2013 Women's Prom Pack in our Dylon print.\nProm Features:\n- Padded laptop sleeve\n- Fits most 14\" laptops\n- Organizer pocket\n- Deployable water bottle pocket\n- Insulated cooler pocket\n- Fleece lined sunglass pocket",
+                "sources": [
+                    {
+                        "file": "https:\/\/player.vimeo.com\/external\/47668663.hd.mp4?s=9d4b399224a7dce95e63e38a9ed7dac9&profile_id=113&oauth2_token_id=56801069"
+                    }
+                ]
+            },
+            "parentId": "168543",
+            "url": "\/dakine\/dakine-women-s-prom-pack\/168543-6418029"
+        },
+        {
+            "id": "6418028",
+            "title": "Dakine Duel Pack",
+            "date_created": "1443632586",
+            "loginId": "753",
+            "tags": "",
+            "description": "Check out 360\u00b0 views of the 2013 Duel Pack in our Spectrum print.\nDuel Features:\n- Padded laptop sleeve\n- Fits most 14\" laptops\n- Skate carry straps\n- Insulated cooler pocket\n- Organizer pocket\n- Fleece lined sunglass pocket\n- Mesh side pockets",
+            "asset": {
+                "type": "mp4",
+                "hdvFlag": 1,
+                "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/333007117_1280x720.jpg",
+                "mediaDuration": 59,
+                "prettyDuration": "00:59",
+                "uploadDate": 1345136080,
+                "tags": "",
+                "hookText": "Check out 360\u00b0 views of the 2013 Duel Pack in our Spectrum print.\nDuel Features:\n- Padded laptop sleeve\n- Fits most 14\" laptops\n- Skate carry straps\n- Insulated cooler pocket\n- Organizer pocket\n- Fleece lined sunglass pocket\n- Mesh side pockets",
+                "sources": [
+                    {
+                        "file": "https:\/\/player.vimeo.com\/external\/47668664.hd.mp4?s=877b369e428ad9f4087e82be8bed4970&profile_id=113&oauth2_token_id=56801069"
+                    }
+                ]
+            },
+            "parentId": "168543",
+            "url": "\/dakine\/dakine-duel-pack\/168543-6418028"
+        },
+        {
+            "id": "6418027",
+            "title": "Dakine Campus Pack",
+            "date_created": "1443632586",
+            "loginId": "753",
+            "tags": "",
+            "description": "Check out 360\u00b0 views of the 2013 Campus Pack in our Bridgeport print.\nCampus Features:\n- Padded laptop sleeve\n- Fits most 15\" laptops\n- Insulated cooler pocket\n- Organizer pocket\n- Fleece lined sunglass pocket\n- Mesh side pockets",
+            "asset": {
+                "type": "mp4",
+                "hdvFlag": 1,
+                "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/332999396_1280x720.jpg",
+                "mediaDuration": 62,
+                "prettyDuration": "01:02",
+                "uploadDate": 1345136080,
+                "tags": "",
+                "hookText": "Check out 360\u00b0 views of the 2013 Campus Pack in our Bridgeport print.\nCampus Features:\n- Padded laptop sleeve\n- Fits most 15\" laptops\n- Insulated cooler pocket\n- Organizer pocket\n- Fleece lined sunglass pocket\n- Mesh side pockets",
+                "sources": [
+                    {
+                        "file": "https:\/\/player.vimeo.com\/external\/47668665.hd.mp4?s=6a21784aef24f8a4ea622ccc2f4be35f&profile_id=113&oauth2_token_id=56801069"
+                    }
+                ]
+            },
+            "parentId": "168543",
+            "url": "\/dakine\/dakine-campus-pack\/168543-6418027"
+        },
+        {
+            "id": "6418026",
+            "title": "Dakine Cobra Glove",
+            "date_created": "1443632586",
+            "loginId": "753",
+            "tags": "",
+            "description": "Check out 360\u00b0 views of the 2013 Cobra Glove in our Cobalt print.\nCobra Features:\n- Insert: Gore Tex\u00ae Waterproof \/ Breathable\n- Insulation: High loft synthetic [ 60 \/ 220g ]\n- Palm: Durable water repellent leather\n- Shell Fabric: Nylon \/ Poly with DWR treatment and durable water repellent leather\n- Lining: 230g fleece \/ 400g Pile\n- Cuff Closure: Zipper\n- Nose wipe thumb panels",
+            "asset": {
+                "type": "mp4",
+                "hdvFlag": 1,
+                "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/330572230_1280x720.jpg",
+                "mediaDuration": 39,
+                "prettyDuration": "00:39",
+                "uploadDate": 1345136197,
+                "tags": "",
+                "hookText": "Check out 360\u00b0 views of the 2013 Cobra Glove in our Cobalt print.\nCobra Features:\n- Insert: Gore Tex\u00ae Waterproof \/ Breathable\n- Insulation: High loft synthetic [ 60 \/ 220g ]\n- Palm: Durable water repellent leather\n- Shell Fabric: Nylon \/ Poly with DWR tre",
+                "sources": [
+                    {
+                        "file": "https:\/\/player.vimeo.com\/external\/47668768.hd.mp4?s=48353ca9ea17bd7b64020b45abe86770&profile_id=113&oauth2_token_id=56801069"
+                    }
+                ]
+            },
+            "parentId": "168543",
+            "url": "\/dakine\/dakine-cobra-glove\/168543-6418026"
+        }
+    ]
+}

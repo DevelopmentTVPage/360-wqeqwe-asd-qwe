@@ -1,0 +1,54 @@
+{
+    "title": "Under Armour Coolswitch",
+    "description": "UA Coolswitch uses an exclusive coating on the inside of the fabric that pulls heat away from your skin, making you literally feel cooler & able to perform longer.",
+    "referenceId": "Tlbhrpy4xNc",
+    "date_created": "1460162210",
+    "date_modified": "1474400530",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "2",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "66177284",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "24",
+    "entityIdParent": "66186028",
+    "titleTextEncoded": "Under-Armour-Coolswitch",
+    "category": "",
+    "duration": 30,
+    "settings": "",
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/Tlbhrpy4xNc\/hqdefault.jpg",
+        "uploadDate": 1460162210,
+        "videoId": "Tlbhrpy4xNc",
+        "title": "Under Armour Coolswitch",
+        "description": "UA Coolswitch uses an exclusive coating on the inside of the fabric that pulls heat away from your skin, making you literally feel cooler & able to perform longer.",
+        "author": "Under Armour",
+        "mediaDuration": 30,
+        "prettyDuration": "00:00:30",
+        "views": "6039",
+        "uploadAsset": false,
+        "quality": ""
+    },
+    "transcripts": "[Sound effects]",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

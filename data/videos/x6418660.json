@@ -1,0 +1,53 @@
+{
+    "title": "Converse CONS Welcomes Louie Lopez",
+    "description": "Converse Cons welcomes Louie Lopez to the team. Louie skates around this local spots and park in his home town of Los Angeles, CA.",
+    "referenceId": "46mPFWq_77o",
+    "date_created": "1443736606",
+    "date_modified": "1447378518",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "2",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6418660",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "410",
+    "entityIdParent": "168524",
+    "titleTextEncoded": "Converse-CONS-Welcomes-Louie-Lopez",
+    "category": null,
+    "duration": "77",
+    "settings": {},
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/46mPFWq_77o\/hqdefault.jpg",
+        "uploadDate": 1402949214,
+        "videoId": "46mPFWq_77o",
+        "title": "Converse CONS Welcomes Louie Lopez",
+        "description": "Converse Cons welcomes Louie Lopez to the team. Louie skates around this local spots and park in his home town of Los Angeles, Ca.",
+        "author": "converse",
+        "mediaDuration": "77",
+        "prettyDuration": "00:01:17",
+        "views": "32370",
+        "hookText": "Converse Cons welcomes Louie Lopez to the team. Louie skates around this local spots and park in his home town of Los Angeles, Ca."
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

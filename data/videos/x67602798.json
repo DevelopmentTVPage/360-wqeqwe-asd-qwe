@@ -1,0 +1,54 @@
+{
+    "title": "G-Shock X Futura",
+    "description": "G-Shock X Futura",
+    "referenceId": "tU51y5urxQQ",
+    "date_created": "1465397911",
+    "date_modified": "1472578449",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "3",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "67602798",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "24",
+    "entityIdParent": "168556",
+    "titleTextEncoded": "G-Shock-X-Futura",
+    "category": "",
+    "duration": 126,
+    "settings": "",
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/tU51y5urxQQ\/hqdefault.jpg",
+        "uploadDate": 1465397911,
+        "videoId": "tU51y5urxQQ",
+        "title": "G-Shock X Futura",
+        "description": "",
+        "author": "gshockus",
+        "mediaDuration": 126,
+        "prettyDuration": "00:02:06",
+        "views": "9980",
+        "uploadAsset": false,
+        "quality": ""
+    },
+    "transcripts": "[Music Playing]",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

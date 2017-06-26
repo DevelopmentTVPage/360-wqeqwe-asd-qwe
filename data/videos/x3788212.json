@@ -1,0 +1,72 @@
+{
+    "title": "ELEMENT - SUBJECT MADARS - MADARS APSE IS PRO",
+    "description": "Madars Apse has done some of the most unique tricks ever and has one of the coolest, most laid-back styles in all of skateboarding. And somehow he's managed to step it all up again for this part. Without further ado, we introduce to you the first Latvian pro. His skating is truly something special. Let it be known: this is the only subject in skateboarding that really Madars right now.",
+    "referenceId": null,
+    "date_created": "1417808792",
+    "date_modified": "1444169661",
+    "tags": "",
+    "sourceId": "1",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "5",
+    "CVV_VI": "4",
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "3788212",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "135",
+    "entityIdParent": "168534",
+    "titleTextEncoded": "ELEMENT-SUBJECT-MADARS-MADARS-APSE-IS-PRO",
+    "category": null,
+    "duration": "226",
+    "settings": [],
+    "asset": {
+        "type": "mp4",
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/753\/canvas\/655\/368\/632812679-06700399.jpeg",
+        "mediaDuration": "226",
+        "prettyDuration": "00:03:46",
+        "hookText": "SUBJECT MADARS - MADARS APSE IS PRO",
+        "tags": "",
+        "sources": [
+            {
+                "file": "https:\/\/d2mhchrq41duh4.cloudfront.net\/753\/3788212\/a70c1808_7c64_4da0_efe1_643b65bebb79.mp4"
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/3788212\/720p_a70c1808_7c64_4da0_efe1_643b65bebb79.mp4",
+                "quality": "720p"
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/3788212\/480p_a70c1808_7c64_4da0_efe1_643b65bebb79.mp4",
+                "quality": "480p",
+                "default": true
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/3788212\/360p_a70c1808_7c64_4da0_efe1_643b65bebb79.mp4",
+                "quality": "360p"
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "conversion_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

@@ -1,0 +1,51 @@
+{
+    "title": "TAVIK Mens | 2014 Collection | Lookbook Video",
+    "description": "Video lookbook for the Tavik Mens 2014 Collection.",
+    "referenceId": null,
+    "date_created": "1410214897",
+    "date_modified": "1444944935",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "2",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "3764509",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "3",
+    "entityIdParent": "3764513",
+    "titleTextEncoded": "TAVIK-Mens-2014-Collection-Lookbook-Video",
+    "category": null,
+    "duration": "123",
+    "settings": [],
+    "asset": {
+        "author": "Tavik Brand",
+        "hdvFlag": 1,
+        "hookText": "Video lookbook for the Tavik Mens 2014 Collection. Shop here http:\/\/shop.tavik.com\/MENS-APPAREL.asp See our full Mens, Womens, and Accessories collections - ...",
+        "tags": "",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/XX5UYYh09qg\/maxresdefault.jpg",
+        "uploadDate": 1390248308,
+        "videoId": "XX5UYYh09qg",
+        "mediaDuration": "123",
+        "prettyDuration": "00:02:03"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

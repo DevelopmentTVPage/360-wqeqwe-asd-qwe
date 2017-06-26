@@ -1,0 +1,56 @@
+{
+    "title": "FUJIFILM X-T10 Product Video",
+    "description": "Learn More about X-Series Cameras",
+    "referenceId": "VE7KS3CLgcg",
+    "date_created": "1436213045",
+    "date_modified": "1471387359",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "3",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "67507773",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "27",
+    "entityIdParent": "3764328",
+    "titleTextEncoded": "FUJIFILM-X-T10-Product-Video",
+    "category": "",
+    "duration": 15,
+    "settings": "",
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/VE7KS3CLgcg\/hqdefault.jpg",
+        "uploadDate": 1436213045,
+        "videoId": "VE7KS3CLgcg",
+        "title": "FUJIFILM X-T10 Product Video",
+        "description": "Learn More about X-Series Cameras:\nwww.FujifilmXSeriesCameras.com",
+        "author": "Fujifilm North America",
+        "mediaDuration": 15,
+        "prettyDuration": "00:00:15",
+        "views": "195",
+        "uploadAsset": false,
+        "quality": ""
+    },
+    "transcripts": "[Music Playing]",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": [
+        "12"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

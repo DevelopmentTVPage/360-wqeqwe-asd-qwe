@@ -1,0 +1,53 @@
+{
+    "title": "#TOURNOTES: TAHITI STUNTS",
+    "description": "The world's best describe how they would top the recent round of circus-like achievements at the world's heaviest wave.",
+    "referenceId": null,
+    "date_created": "1440439981",
+    "date_modified": "1440439981",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "3",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6378219",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "540",
+    "entityIdParent": "158318",
+    "titleTextEncoded": "TOURNOTES-TAHITI-STUNTS",
+    "category": null,
+    "duration": "121",
+    "settings": {},
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/PTYYgx6W0Y0\/hqdefault.jpg",
+        "uploadDate": 1439623988,
+        "videoId": "PTYYgx6W0Y0",
+        "title": "#TOURNOTES: TAHITI STUNTS",
+        "description": "The world's best describe how they would top the recent round of circus-like achievements at the world's heaviest wave.",
+        "author": "Hurley",
+        "mediaDuration": "121",
+        "prettyDuration": "00:02:01",
+        "views": "4656",
+        "hookText": "The world's best describe how they would top the recent round of circus-like achievements at the world's heaviest wave."
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

@@ -1,0 +1,31 @@
+{
+    "title": "Metal Mulisha",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1410198954",
+    "date_modified": "1469493010",
+    "tags": "",
+    "sourceId": "10",
+    "status": "approved",
+    "visibility": "1",
+    "id": "3764384",
+    "loginId": "753",
+    "entityType": "3",
+    "titleTextEncoded": "Metal-Mulisha",
+    "category": null,
+    "duration": null,
+    "settings": {
+        "canvasImage": "319782566-0.jpeg",
+        "colorClass": "light",
+        "canvasType": "cropped",
+        "canvasCropped": "319782566-0121640482.jpeg",
+        "hideoos": 1,
+        "auto": {
+            "dynamic": 0,
+            "limit": 16
+        },
+        "optimize": 1,
+        "autoPlay": 0
+    },
+    "transcripts": null
+}

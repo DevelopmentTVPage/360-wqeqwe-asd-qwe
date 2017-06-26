@@ -1,0 +1,26 @@
+{
+    "title": "Rook",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1414167627",
+    "date_modified": "1436823404",
+    "tags": "",
+    "sourceId": null,
+    "status": "approved",
+    "visibility": "1",
+    "id": "3778165",
+    "loginId": "753",
+    "entityType": "3",
+    "titleTextEncoded": "Rook",
+    "category": null,
+    "duration": null,
+    "settings": {
+        "canvasImage": "153500243-0.png",
+        "colorClass": "light",
+        "canvasType": "cropped",
+        "canvasCropped": "153500243-5722468253.png",
+        "autoPlay": 1,
+        "autoNext": 1
+    },
+    "transcripts": null
+}

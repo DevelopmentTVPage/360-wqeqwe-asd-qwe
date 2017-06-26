@@ -1,0 +1,29 @@
+{
+    "title": "Rainbow",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1410203696",
+    "date_modified": "1410206198",
+    "tags": "",
+    "sourceId": null,
+    "status": "approved",
+    "visibility": "1",
+    "id": "3764405",
+    "loginId": "753",
+    "entityType": "3",
+    "titleTextEncoded": "Rainbow",
+    "category": null,
+    "duration": null,
+    "settings": {
+        "canvasImage": "973961774-0.jpg",
+        "colorClass": "light",
+        "canvasType": "cropped",
+        "hideoos": 1,
+        "auto": {
+            "dynamic": 0
+        },
+        "optimize": 1,
+        "canvasCropped": "973961774-044500325.jpg"
+    },
+    "transcripts": null
+}

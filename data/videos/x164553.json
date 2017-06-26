@@ -1,0 +1,50 @@
+{
+    "title": "Opening Ceremonies - Volcom Fiji Pro 2012",
+    "description": "The 2012 Volcom Fiji Pro was officially declared open with a traditional Fijian kava ceremony.",
+    "referenceId": null,
+    "date_created": "1398813959",
+    "date_modified": "1450308802",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "1",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "164553",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "124",
+    "entityIdParent": "168557",
+    "titleTextEncoded": "Opening-Ceremonies-Volcom-Fiji-Pro-2012",
+    "category": null,
+    "duration": 86,
+    "settings": [],
+    "asset": {
+        "author": "Volcom",
+        "videoId": "Q3ds5vcjeiU",
+        "hookText": "The 2012 Volcom Fiji Pro was officially declared open with a traditional Fijian kava ceremony.",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/Q3ds5vcjeiU\/maxresdefault.jpg",
+        "mediaDuration": "86",
+        "hdvFlag": 1,
+        "uploadDate": 1338722998,
+        "prettyDuration": "01:26"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

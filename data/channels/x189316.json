@@ -1,0 +1,31 @@
+{
+    "title": "RSQ",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1405369175",
+    "date_modified": "1406940581",
+    "tags": "",
+    "sourceId": null,
+    "status": "approved",
+    "visibility": "1",
+    "id": "189316",
+    "loginId": "753",
+    "entityType": "3",
+    "titleTextEncoded": "RSQ",
+    "category": null,
+    "duration": null,
+    "settings": {
+        "canvasImage": "375393338-0.png",
+        "colorClass": "light",
+        "canvasType": "cropped",
+        "canvasCropped": "375393338-55024731362.png",
+        "auto": {
+            "dynamic": 0
+        },
+        "optimize": 1,
+        "autoPlay": 1,
+        "autoNext": 1,
+        "hideoos": 1
+    },
+    "transcripts": null
+}

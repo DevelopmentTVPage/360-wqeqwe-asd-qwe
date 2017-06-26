@@ -1,0 +1,47 @@
+{
+    "title": "The etnies Big Five Tour",
+    "description": "David Reyes, Silvester Eduardo, Albert Nyberg and Barney Page visit South Africa. Special thanks to Dylan Vaughan and Brandon Valjalo for showing us around.",
+    "referenceId": "152463088",
+    "date_created": "1453316971",
+    "date_modified": "1455668870",
+    "tags": "",
+    "sourceId": null,
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "25902146",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "1",
+    "entityIdParent": "168527",
+    "titleTextEncoded": "The-etnies-Big-Five-Tour",
+    "category": "",
+    "duration": 150,
+    "settings": "",
+    "asset": {
+        "type": "mp4",
+        "sources": [
+            {
+                "file": "https:\/\/player.vimeo.com\/external\/152463088.hd.mp4?s=4f0932815379bae8dbd7e68d68291b7b3f88aa0d&profile_id=119&oauth2_token_id=62432308"
+            }
+        ],
+        "hdvFlag": 1,
+        "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/552468141_1280x720.jpg?r=pad",
+        "mediaDuration": 150,
+        "prettyDuration": "02:30",
+        "uploadDate": 1453316971,
+        "tags": "skate,skateboard,south africa,etnies,skateboarding,Barney Page,David Reyes,Silvester Eduardo,Albert Nyberg,sk8,ollie,marana,sheckler,joslin"
+    },
+    "transcripts": "",
+    "metrics_statistics": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

@@ -1,0 +1,30 @@
+{
+    "title": "Fallen",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1409944223",
+    "date_modified": "1409944551",
+    "tags": "",
+    "sourceId": null,
+    "status": "approved",
+    "visibility": "1",
+    "id": "3764287",
+    "loginId": "753",
+    "entityType": "3",
+    "titleTextEncoded": "Fallen",
+    "category": null,
+    "duration": null,
+    "settings": {
+        "canvasImage": "988271988-0.jpg",
+        "colorClass": "light",
+        "canvasType": "cropped",
+        "canvasCropped": "988271988-077640436.jpg",
+        "hideoos": 1,
+        "auto": {
+            "dynamic": 0
+        },
+        "optimize": 1,
+        "autoPlay": 0
+    },
+    "transcripts": null
+}

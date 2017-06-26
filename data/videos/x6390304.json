@@ -1,0 +1,53 @@
+{
+    "title": "SXSW tour teaser",
+    "description": "SXSW tour teaser",
+    "referenceId": "mGpIMIQzDoQ",
+    "date_created": "1441406590",
+    "date_modified": "1456185926",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "5",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6390304",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "24",
+    "entityIdParent": "168548",
+    "titleTextEncoded": "SXSW-tour-teaser",
+    "category": null,
+    "duration": "30",
+    "settings": {},
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/mGpIMIQzDoQ\/hqdefault.jpg",
+        "uploadDate": 1286407683,
+        "videoId": "mGpIMIQzDoQ",
+        "title": "SXSW tour teaser",
+        "description": "http:\/\/altamontapparel.com.",
+        "author": "Altamont",
+        "mediaDuration": "30",
+        "prettyDuration": "00:00:30",
+        "views": "178",
+        "hookText": "http:\/\/altamontapparel.com."
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

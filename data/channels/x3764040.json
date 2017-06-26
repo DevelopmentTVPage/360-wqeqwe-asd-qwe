@@ -1,0 +1,40 @@
+{
+    "title": "Contour",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1409877250",
+    "date_modified": "1409878610",
+    "tags": "",
+    "sourceId": null,
+    "status": "approved",
+    "visibility": "1",
+    "id": "3764040",
+    "loginId": "753",
+    "entityType": "3",
+    "titleTextEncoded": "Contour",
+    "category": null,
+    "duration": null,
+    "settings": {
+        "canvasImage": "412774202-0.jpg",
+        "colorClass": "light",
+        "canvasType": "cropped",
+        "canvasCropped": "412774202-420433220.jpg",
+        "autoPlay": 0,
+        "hideoos": 1,
+        "auto": {
+            "dynamic": 0,
+            "limit": 8,
+            "cartIds": [
+                767
+            ],
+            "excIds": [
+                "3764041",
+                "3764043",
+                "3764044",
+                "3764042"
+            ]
+        },
+        "optimize": 1
+    },
+    "transcripts": null
+}

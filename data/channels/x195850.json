@@ -1,0 +1,24 @@
+{
+    "title": "Skate",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1407375638",
+    "date_modified": "1407378839",
+    "tags": "",
+    "sourceId": null,
+    "status": "approved",
+    "visibility": "1",
+    "id": "195850",
+    "loginId": "753",
+    "entityType": "3",
+    "titleTextEncoded": "Skate",
+    "category": null,
+    "duration": null,
+    "settings": {
+        "canvasImage": "469422728-0.jpg",
+        "colorClass": "light",
+        "canvasType": "cropped",
+        "canvasCropped": "469422728-0661024641.jpg"
+    },
+    "transcripts": null
+}

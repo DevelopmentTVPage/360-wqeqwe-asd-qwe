@@ -1,0 +1,51 @@
+{
+    "title": "Garbage Burrito",
+    "description": "The use of mise-en-scene in Garbage Burrito reduces the canonical status of the post-war crisis of masculinity.",
+    "referenceId": "51301117",
+    "date_created": "1443631445",
+    "date_modified": "1443631445",
+    "tags": "",
+    "sourceId": "3",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "1",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6418007",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "158",
+    "entityIdParent": "168543",
+    "titleTextEncoded": "Garbage-Burrito",
+    "category": null,
+    "duration": 227,
+    "settings": {},
+    "asset": {
+        "type": "mp4",
+        "sources": [],
+        "hdvFlag": 0,
+        "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/353601463_1280x720.jpg",
+        "mediaDuration": 227,
+        "prettyDuration": "03:47",
+        "uploadDate": 1350060392,
+        "tags": "",
+        "hookText": "The use of mise-en-scene in Garbage Burrito reduces the canonical status of the post-war crisis of masculinity."
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

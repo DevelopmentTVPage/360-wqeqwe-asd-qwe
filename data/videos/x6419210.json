@@ -1,0 +1,53 @@
+{
+    "title": "BILLY'S LONG SHOT",
+    "description": "Billy Marks is crazy. He can actually make these. My camera has seen some use, so it started to have a hard time focusing, so it's blurry. He made two more after this as well. All equally as blurry, sorry...",
+    "referenceId": "8N-267-PviA",
+    "date_created": "1444063091",
+    "date_modified": "1447277805",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "1",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6419210",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "58",
+    "entityIdParent": "3763996",
+    "titleTextEncoded": "BILLY-S-LONG-SHOT",
+    "category": null,
+    "duration": "8",
+    "settings": {},
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/8N-267-PviA\/hqdefault.jpg",
+        "uploadDate": 1334958323,
+        "videoId": "8N-267-PviA",
+        "title": "BILLY'S LONG SHOT",
+        "description": "Billy Marks is crazy. He can actually make these. My camera has seen some use, so it started to have a hard time focusing, so it's blurry. He made two more after ...",
+        "author": "ashburyeyewear",
+        "mediaDuration": "8",
+        "prettyDuration": "00:00:08",
+        "views": "355",
+        "hookText": "Billy Marks is crazy. He can actually make these. My camera has seen some use, so it started to have a hard time focusing, so it's blurry. He made two more after ..."
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

@@ -1,0 +1,50 @@
+{
+    "title": "jbgirlstalk.mov",
+    "description": "jbgirlstalk.mov.",
+    "referenceId": null,
+    "date_created": "1400521206",
+    "date_modified": "1418181421",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "9",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "167049",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "3",
+    "entityIdParent": "168514",
+    "titleTextEncoded": "jbgirlstalk-mov",
+    "category": null,
+    "duration": "30",
+    "settings": [],
+    "asset": {
+        "author": "Fox Head",
+        "videoId": "R9yLir-4LOE",
+        "hookText": "jbgirlstalk.mov.",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/R9yLir-4LOE\/maxresdefault.jpg",
+        "mediaDuration": "30",
+        "hdvFlag": 1,
+        "uploadDate": 1274524604,
+        "prettyDuration": "00:00:30"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

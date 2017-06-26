@@ -1,0 +1,97 @@
+{
+    "title": "and.ven",
+    "description": "and.ven",
+    "referenceId": "d4839254cf12ca9ead66ca27525be38c",
+    "date_created": "1470417633",
+    "date_modified": "1470420608",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "3",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "67314322",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "288",
+    "entityIdParent": "67314311",
+    "titleTextEncoded": "and-ven-mp4",
+    "category": "",
+    "duration": "26",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "26",
+            "width": 640,
+            "height": 800
+        },
+        "mediaDuration": "26",
+        "prettyDuration": "00:00:26",
+        "thumbnailUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67314322\/ee421\/thumb-d4839254cf12ca9ead66ca27525be38c-00001.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67314322\/ee421\/media.mpd",
+        "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67314322\/ee421\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67314322\/ee421\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 800
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67314322\/ee421\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 576,
+                "height": 720
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67314322\/ee421\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 384,
+                "height": 480
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67314322\/ee421\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 288,
+                "height": 360
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67314322\/ee421\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 192,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": "",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

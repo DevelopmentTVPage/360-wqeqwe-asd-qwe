@@ -1,0 +1,30 @@
+{
+    "title": "Independent",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1410805997",
+    "date_modified": "1410806818",
+    "tags": "",
+    "sourceId": null,
+    "status": "approved",
+    "visibility": "1",
+    "id": "3764861",
+    "loginId": "753",
+    "entityType": "3",
+    "titleTextEncoded": "Independent",
+    "category": null,
+    "duration": null,
+    "settings": {
+        "canvasImage": "679442374-0.jpg",
+        "colorClass": "light",
+        "canvasType": "cropped",
+        "hideoos": 1,
+        "auto": {
+            "dynamic": 0
+        },
+        "optimize": 1,
+        "autoPlay": 0,
+        "canvasCropped": "679442374-017960555.jpg"
+    },
+    "transcripts": null
+}

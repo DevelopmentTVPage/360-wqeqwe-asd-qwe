@@ -1,0 +1,28 @@
+{
+    "pageNumber": 0,
+    "data": [
+        {
+            "id": "3764029",
+            "title": "The Go To Spot WIth Walker Ryan",
+            "date_created": "1409873697",
+            "loginId": "753",
+            "tags": "",
+            "description": "The Go To Spot WIth Walker Ryan",
+            "asset": {
+                "author": "C1RCAskateboarding",
+                "hdvFlag": 0,
+                "hookText": "",
+                "tags": "",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/b2xXr199Vpk\/hqdefault.jpg",
+                "uploadDate": 1288649115,
+                "videoId": "b2xXr199Vpk",
+                "mediaDuration": "210",
+                "prettyDuration": "00:03:30",
+                "uploadAsset": false,
+                "quality": ""
+            },
+            "parentId": "3764025",
+            "url": "\/c1rca\/the-go-to-spot-with-walker-ryan\/3764025-3764029"
+        }
+    ]
+}

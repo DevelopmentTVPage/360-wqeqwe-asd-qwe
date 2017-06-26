@@ -1,0 +1,53 @@
+{
+    "title": "Sammy Baca - CTAS Pro Skate",
+    "description": "Follow Converse Ambassador Sammy Baca for a day in the Las Vegas life of skating backyard pools, watching his son, skatepark sessions and heading home ...",
+    "referenceId": "FKBLrB3KPsA",
+    "date_created": "1444234869",
+    "date_modified": "1444234869",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "2",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6419773",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "184",
+    "entityIdParent": "168524",
+    "titleTextEncoded": "Sammy-Baca-CTAS-Pro-Skate",
+    "category": null,
+    "duration": "116",
+    "settings": {},
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/FKBLrB3KPsA\/hqdefault.jpg",
+        "uploadDate": 1360005105,
+        "videoId": "FKBLrB3KPsA",
+        "title": "Sammy Baca - CTAS Pro Skate",
+        "description": "Follow Converse Ambassador Sammy Baca for a day in the Las Vegas life of skating backyard pools, watching his son, skatepark sessions and heading home ...",
+        "author": "converse",
+        "mediaDuration": "116",
+        "prettyDuration": "00:01:56",
+        "views": "52858",
+        "hookText": "Follow Converse Ambassador Sammy Baca for a day in the Las Vegas life of skating backyard pools, watching his son, skatepark sessions and heading home ..."
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

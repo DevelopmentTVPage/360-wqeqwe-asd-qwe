@@ -1,0 +1,76 @@
+{
+    "title": "ROOK x WWE Bella Twins Meet & Greet Hosted By Tilly's",
+    "description": "On March 27th Tilly's and Rook bought out the Divas to one of Tilly's San Jose stores for the ultimate signing! Check out how pumped the crowd was and The Bella Twins themselves.",
+    "referenceId": null,
+    "date_created": "1427817305",
+    "date_modified": "1470249250",
+    "tags": "Bella Twins, WWE, Rook, Total Divas, tilly's, brie mode, shopping",
+    "sourceId": "1",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": "Meet_And_Greet",
+    "VV_VI": "1628",
+    "CVV_VI": "157",
+    "engagement_score": "14",
+    "conversion_score": "13",
+    "id": "3831789",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "29",
+    "entityIdParent": "195870",
+    "titleTextEncoded": "ROOK-x-WWE-Bella-Twins-Meet-Greet-Hosted-By-Tilly-s",
+    "category": null,
+    "duration": "173",
+    "settings": [],
+    "asset": {
+        "type": "mp4",
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/753\/canvas\/655\/368\/198760075-80291237679.png",
+        "mediaDuration": "173",
+        "prettyDuration": "00:02:53",
+        "hookText": "Bella Twins Meet & Greet",
+        "tags": "Bella Twins, WWE, Rook, Total Divas, tilly's, brie mode, shopping",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "https:\/\/d2mhchrq41duh4.cloudfront.net\/753\/3831789\/9f4f530f_2f9b_4238_d528_9dc0720bbe1f.mp4"
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/3831789\/720p_9f4f530f_2f9b_4238_d528_9dc0720bbe1f.mp4",
+                "quality": "720p"
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/3831789\/480p_9f4f530f_2f9b_4238_d528_9dc0720bbe1f.mp4",
+                "quality": "480p",
+                "tvpdefault": true
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/3831789\/360p_9f4f530f_2f9b_4238_d528_9dc0720bbe1f.mp4",
+                "quality": "360p"
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "conversion_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": [
+        "25"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

@@ -1,0 +1,54 @@
+{
+    "title": "Instax SP-2 Printer In Action",
+    "description": "Instax SP-2 Printer In Action",
+    "referenceId": "x_8WE-tkKlY",
+    "date_created": "1467031636",
+    "date_modified": "1471380226",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "3",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "67507737",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "10",
+    "entityIdParent": "3764328",
+    "titleTextEncoded": "Instax-SP-2-Printer-In-Action",
+    "category": "",
+    "duration": 30,
+    "settings": "",
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/x_8WE-tkKlY\/hqdefault.jpg",
+        "uploadDate": 1467031636,
+        "videoId": "x_8WE-tkKlY",
+        "title": "Instax SP-2 Printer In Action",
+        "description": "",
+        "author": "Fujifilm North America",
+        "mediaDuration": 30,
+        "prettyDuration": "00:00:30",
+        "views": "1256",
+        "uploadAsset": false,
+        "quality": ""
+    },
+    "transcripts": "Print your favorite smartphone shots with instax. Instax share sp-2, Fujifilm",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

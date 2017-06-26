@@ -1,0 +1,53 @@
+{
+    "title": "VonZipper : Skitch",
+    "description": "On any Sunday you can smell it in the air, taste it in the atmosphere and see it in the clear. The Skitch is not a beer goggle, but the next best thing to one. We've got the facts to prove it.",
+    "referenceId": "Zqv210AKwjM",
+    "date_created": "1443484296",
+    "date_modified": "1443484296",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "1",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6416689",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "16",
+    "entityIdParent": "168533",
+    "titleTextEncoded": "VonZipper-Skitch",
+    "category": null,
+    "duration": "26",
+    "settings": {},
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/Zqv210AKwjM\/hqdefault.jpg",
+        "uploadDate": 1305670827,
+        "videoId": "Zqv210AKwjM",
+        "title": "VonZipper : Skitch",
+        "description": "On any Sunday you can smell it in the air, taste it in the atmosphere and see it in the clear. The Skitch is not a beer goggle, but the next best thing to one. We've got the facts to prove it.",
+        "author": "VonZipper",
+        "mediaDuration": "26",
+        "prettyDuration": "00:00:26",
+        "views": "4682",
+        "hookText": "On any Sunday you can smell it in the air, taste it in the atmosphere and see it in the clear. The Skitch is not a beer goggle, but the next best thing to one. We've got the facts to prove it."
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

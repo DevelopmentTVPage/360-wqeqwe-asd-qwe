@@ -1,0 +1,59 @@
+{
+    "title": "adidas Skateboarding Benny & Chewy Palace",
+    "description": "As representatives of adidas Skateboarding and Palace, Chewy Cannon and Benny Fairfax exemplify the essence of London street skating and can be seen in this exclusive edit extending the classic London style to spots all over the globe.",
+    "referenceId": null,
+    "date_created": "1419357366",
+    "date_modified": "1470244790",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": "Adidas",
+    "video_celeb": null,
+    "video_activity": "Skating",
+    "VV_VI": "863",
+    "CVV_VI": "67",
+    "engagement_score": "7",
+    "conversion_score": "5",
+    "id": "3812599",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "98",
+    "entityIdParent": "168510",
+    "titleTextEncoded": "adidas-Skateboarding-Benny-Chewy-Palace",
+    "category": null,
+    "duration": "333",
+    "settings": [],
+    "asset": {
+        "author": "adidas Skateboarding",
+        "hdvFlag": 1,
+        "hookText": "As representatives of adidas Skateboarding and Palace, Chewy Cannon and Benny Fairfax exemplify the essence of London street skating and can be seen in this ...",
+        "tags": "",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/LMlDUC6t6fM\/maxresdefault.jpg",
+        "uploadDate": 1414738804,
+        "videoId": "LMlDUC6t6fM",
+        "mediaDuration": "333",
+        "prettyDuration": "00:05:33",
+        "uploadAsset": false,
+        "quality": ""
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "conversion_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

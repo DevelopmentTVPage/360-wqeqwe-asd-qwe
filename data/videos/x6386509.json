@@ -1,0 +1,69 @@
+{
+    "title": "LRG 1947 Trailer",
+    "description": "Premiering this October...\n\nLRG Clothing's 2nd Full Length Video\n\nStarring Tom Asta - Miles Silvas - Rodrigo TX - Felipe Gustavo - Trent McClung - Carlos Ribeiro - Jack Curtin - Chico Brenes - Tommy Sandoval\nDirected by Kyle Camarillo\n\nJonas Bevacqua (1977-2011), co-founder of LRG, used 47 and 1947 since LRG\u2019s inception as a tribute to his mother, Helen. Jonas often said that without the support of his family, and in particular his mother, LRG would never have come into fruition. As LRG grew and time progressed, 1947 grew to become a symbol of family, of love, and of dedication to something greater than one\u2019s self.\n\n1947 is our second full-length skate video, named in honor of Jonas and his family, and in recognition of the unity of our team and the importance of being part of something greater. From the skateboarders to the people behind the scenes supporting the video and the brand, LRG remains a family operation.",
+    "referenceId": null,
+    "date_created": "1441220239",
+    "date_modified": "1450127349",
+    "tags": "",
+    "sourceId": "1",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "61",
+    "CVV_VI": "9",
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6386509",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "1",
+    "entityIdParent": "168518",
+    "titleTextEncoded": "LRG-1947-Trailer",
+    "category": null,
+    "duration": "73",
+    "settings": null,
+    "asset": {
+        "type": "mp4",
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/753\/canvas\/655\/368\/263104617-07442256.jpg",
+        "mediaDuration": "73",
+        "prettyDuration": "00:01:13",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/6386509\/4aa863b4_7d07_42ca_f712_5e52c7afe3ac.mp4"
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/6386509\/720p_4aa863b4_7d07_42ca_f712_5e52c7afe3ac.mp4",
+                "quality": "720p"
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/6386509\/480p_4aa863b4_7d07_42ca_f712_5e52c7afe3ac.mp4",
+                "quality": "480p"
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/6386509\/360p_4aa863b4_7d07_42ca_f712_5e52c7afe3ac.mp4",
+                "quality": "360p"
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "conversion_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

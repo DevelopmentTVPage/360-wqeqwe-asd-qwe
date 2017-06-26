@@ -1,0 +1,57 @@
+{
+    "title": "#LiveOutside BK: Paint Suit",
+    "description": "#LiveOutside BK: Paint Suit",
+    "referenceId": "FFcF--9Fqk8",
+    "date_created": "1412129632",
+    "date_modified": "1469578409",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "2",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "67134827",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "33",
+    "entityIdParent": "168538",
+    "titleTextEncoded": "LiveOutside-BK-Paint-Suit",
+    "category": "",
+    "duration": 15,
+    "settings": "",
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/FFcF--9Fqk8\/hqdefault.jpg",
+        "uploadDate": 1412129632,
+        "videoId": "FFcF--9Fqk8",
+        "title": "#LiveOutside BK: Paint Suit",
+        "description": "Subscribe: http:\/\/bit.ly\/JanSportYT\nTumblr: http:\/\/jansport.tumblr.com\nFollow: https:\/\/twitter.com\/JanSport  \nLike: https:\/\/www.facebook.com\/JanSport\nRead\/Listen: http:\/\/www.jansport.com\/unzipped",
+        "author": "JanSport",
+        "mediaDuration": 15,
+        "prettyDuration": "00:00:15",
+        "views": "156",
+        "uploadAsset": false,
+        "quality": ""
+    },
+    "transcripts": "[Music Playing]",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": [
+        "2",
+        "17"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

@@ -1,0 +1,55 @@
+{
+    "title": "Catching Up with Willow Featuring the etnies Verse",
+    "description": "Catching Up with Willow Featuring the etnies Verse",
+    "referenceId": null,
+    "date_created": "1441210469",
+    "date_modified": "1455901929",
+    "tags": "etnies,skateboarding,willow,etniesskateboarding,make filming fun,skate",
+    "sourceId": "3",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "3",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6386420",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "249",
+    "entityIdParent": "168527",
+    "titleTextEncoded": "Catching-Up-with-Willow-Featuring-the-etnies-Verse",
+    "category": null,
+    "duration": 88,
+    "settings": {},
+    "asset": {
+        "type": "mp4",
+        "hdvFlag": 0,
+        "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/453944905_1280x720.jpg",
+        "mediaDuration": 88,
+        "prettyDuration": "01:28",
+        "uploadDate": 1383255741,
+        "tags": "etnies,skateboarding,willow,etniesskateboarding,make filming fun,skate",
+        "hookText": "",
+        "sources": [
+            {
+                "file": "https:\/\/player.vimeo.com\/external\/78301608.sd.mp4?s=e9ba737eebf02f8cfa151832685fecab&profile_id=112&oauth2_token_id=62432308"
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

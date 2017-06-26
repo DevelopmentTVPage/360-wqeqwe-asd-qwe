@@ -1,0 +1,53 @@
+{
+    "title": "Dickies Skate: Tom Remillard Weekend Part 1",
+    "description": "Dickies Skate: Tom Remillard Weekend Part 1",
+    "referenceId": null,
+    "date_created": "1401236156",
+    "date_modified": "1470261383",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": "Dickies",
+    "video_celeb": null,
+    "video_activity": "Skating",
+    "VV_VI": "24",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "169304",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "5",
+    "entityIdParent": "168551",
+    "titleTextEncoded": "Dickies-Skate-Tom-Remillard-Weekend-Part-1",
+    "category": null,
+    "duration": "97",
+    "settings": [],
+    "asset": {
+        "author": "Dickies",
+        "hdvFlag": 0,
+        "hookText": "",
+        "tags": "",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/eyYL-SX_5Cs\/sddefault.jpg",
+        "uploadDate": 1369017748,
+        "videoId": "eyYL-SX_5Cs",
+        "mediaDuration": "97",
+        "prettyDuration": "00:01:37",
+        "uploadAsset": false,
+        "quality": ""
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

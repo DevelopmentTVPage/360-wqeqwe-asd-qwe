@@ -1,0 +1,53 @@
+{
+    "title": "The Bots - Arnette X Hypebeast",
+    "description": "Emerging stars The Bots bring their unique sound to the Arnette X Hypebeast Musicians series",
+    "referenceId": null,
+    "date_created": "1440637276",
+    "date_modified": "1444955725",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "1",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6383235",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "38",
+    "entityIdParent": "168553",
+    "titleTextEncoded": "The-Bots-Arnette-X-Hypebeast",
+    "category": null,
+    "duration": "180",
+    "settings": {},
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/MIPS_dDgC4I\/hqdefault.jpg",
+        "uploadDate": 1429576200,
+        "videoId": "MIPS_dDgC4I",
+        "title": "The Bots - Arnette X Hypebeast",
+        "description": "Emerging stars The Bots bring their unique sound to the Arnette X Hypebeast Musicians series.",
+        "author": "Arnette",
+        "mediaDuration": "180",
+        "prettyDuration": "00:03:00",
+        "views": "25",
+        "hookText": "Emerging stars The Bots bring their unique sound to the Arnette X Hypebeast Musicians series."
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

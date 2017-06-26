@@ -1,0 +1,54 @@
+{
+    "title": "About Dimatix Video",
+    "description": "About Dimatix",
+    "referenceId": "iLX33_zFdFY",
+    "date_created": "1471029552",
+    "date_modified": "1471380249",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "5",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "67507735",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "12",
+    "entityIdParent": "3764328",
+    "titleTextEncoded": "About-Dimatix-Video",
+    "category": "",
+    "duration": 55,
+    "settings": "",
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/iLX33_zFdFY\/hqdefault.jpg",
+        "uploadDate": 1471029552,
+        "videoId": "iLX33_zFdFY",
+        "title": "About Dimatix Video",
+        "description": "About Dimatix",
+        "author": "Fujifilm North America",
+        "mediaDuration": 55,
+        "prettyDuration": "00:00:55",
+        "views": "33",
+        "uploadAsset": false,
+        "quality": ""
+    },
+    "transcripts": "[Music Playing]",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

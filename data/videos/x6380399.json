@@ -1,0 +1,70 @@
+{
+    "title": "Sector 9 Product Guide - Georgia Bontorin",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1440446467",
+    "date_modified": "1440446470",
+    "tags": "",
+    "sourceId": "1",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "8",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6380399",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "1",
+    "entityIdParent": "3764445",
+    "titleTextEncoded": "Sector-9-Product-Guide-Georgia-Bontorin",
+    "category": null,
+    "duration": "143",
+    "settings": {},
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "143"
+        },
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/6380399\/720p_2d4c14b338748cb1a757e7311576b6f1.mp4",
+                "quality": "720p"
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/6380399\/480p_2d4c14b338748cb1a757e7311576b6f1.mp4",
+                "quality": "480p"
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/6380399\/360p_2d4c14b338748cb1a757e7311576b6f1.mp4",
+                "quality": "360p"
+            }
+        ],
+        "thumbnailUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/6380399\/2d4c14b338748cb1a757e7311576b6f1.png",
+        "hookText": "",
+        "type": "mp4",
+        "mediaDuration": "143",
+        "prettyDuration": "00:02:23",
+        "tags": ""
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

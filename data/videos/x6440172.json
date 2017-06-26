@@ -1,0 +1,55 @@
+{
+    "title": "Converse Rubber Tracks: Studio Tour",
+    "description": "Take an inside peek into Converse Rubber Tracks. The talented Albert Hammond, Jr. takes you on a behind-the-scenes studio tour.",
+    "referenceId": "WBJwBZeddCc",
+    "date_created": "1343135950",
+    "date_modified": "1448325742",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "2",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6440172",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "89",
+    "entityIdParent": "168524",
+    "titleTextEncoded": "Converse-Rubber-Tracks-Studio-Tour",
+    "category": null,
+    "duration": "350",
+    "settings": {
+        "parentFeedId": "6439684",
+        "parentFeedLoginId": "753"
+    },
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/WBJwBZeddCc\/hqdefault.jpg",
+        "uploadDate": 1343135950,
+        "videoId": "WBJwBZeddCc",
+        "title": "Converse Rubber Tracks: Studio Tour",
+        "description": "Take an inside peek into Converse Rubber Tracks. The talented Albert Hammond, Jr. takes you on a behind-the-scenes studio tour. Converse Rubber Tracks is ...",
+        "author": "converse",
+        "mediaDuration": "350",
+        "prettyDuration": "00:05:50",
+        "views": "17094"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

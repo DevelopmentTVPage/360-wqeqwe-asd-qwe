@@ -1,0 +1,55 @@
+{
+    "title": "HawksOneHDInterview",
+    "description": "HawksOneHDInterview",
+    "referenceId": "19815599",
+    "date_created": "1443815036",
+    "date_modified": "1449784761",
+    "tags": "",
+    "sourceId": "3",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "1",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6418950",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "45",
+    "entityIdParent": "168527",
+    "titleTextEncoded": "HawksOneHDInterview",
+    "category": null,
+    "duration": 189,
+    "settings": {},
+    "asset": {
+        "type": "mp4",
+        "hdvFlag": 0,
+        "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/125958952_960x536.jpg",
+        "mediaDuration": 189,
+        "prettyDuration": "03:09",
+        "uploadDate": 1297392961,
+        "tags": "",
+        "hookText": "",
+        "sources": [
+            {
+                "file": "https:\/\/player.vimeo.com\/external\/19815599.sd.mp4?s=4abad3c2cb4fda9b98d5ee1b31c82bc1&profile_id=112&oauth2_token_id=62432308"
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

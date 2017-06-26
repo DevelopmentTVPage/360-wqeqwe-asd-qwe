@@ -1,0 +1,59 @@
+{
+    "title": "Nipsey Hussle x Young & Reckless",
+    "description": "Nipsey give us his own take on how important Crenshaw is to LA, why he sold \"Crenshaw\" for $100, and the significance of his collaboration with Young & Reckless.",
+    "referenceId": null,
+    "date_created": "1401386473",
+    "date_modified": "1470243215",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": "Young___Reckless",
+    "video_celeb": null,
+    "video_activity": "Art___Design",
+    "VV_VI": "189",
+    "CVV_VI": "6",
+    "engagement_score": "1",
+    "conversion_score": null,
+    "id": "170523",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "8",
+    "entityIdParent": "168529",
+    "titleTextEncoded": "Nipsey-Hussle-x-Young-Reckless",
+    "category": null,
+    "duration": "123",
+    "settings": [],
+    "asset": {
+        "author": "Young & Reckless",
+        "hdvFlag": 1,
+        "hookText": "Nipsey give us his own take on how important Crenshaw is to LA, why he sold \"Crenshaw\" for $100, and the significance of his collaboration with Young & Reckl...",
+        "tags": "",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/P-DM-zCLnjE\/sddefault.jpg",
+        "uploadDate": 1393960578,
+        "videoId": "P-DM-zCLnjE",
+        "mediaDuration": "123",
+        "prettyDuration": "00:02:03",
+        "uploadAsset": false,
+        "quality": ""
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "conversion_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

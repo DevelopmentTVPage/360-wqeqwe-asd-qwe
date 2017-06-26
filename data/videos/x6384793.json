@@ -1,0 +1,53 @@
+{
+    "title": "#TOURNOTES: AUSTRALIAN OPEN OF SURFING",
+    "description": "Relive Kolohe Andino's win and much, much more from the Aus Open of Surf in the latest #TOURNOTES.",
+    "referenceId": null,
+    "date_created": "1440803567",
+    "date_modified": "1440803567",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "4",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6384793",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "521",
+    "entityIdParent": "158318",
+    "titleTextEncoded": "TOURNOTES-AUSTRALIAN-OPEN-OF-SURFING",
+    "category": null,
+    "duration": "236",
+    "settings": {},
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/05ywv2d5J9E\/hqdefault.jpg",
+        "uploadDate": 1424276395,
+        "videoId": "05ywv2d5J9E",
+        "title": "#TOURNOTES: AUSTRALIAN OPEN OF SURFING",
+        "description": "Relive Kolohe Andino's win and much, much more from the Aus Open of Surf in the latest #TOURNOTES.",
+        "author": "hurley",
+        "mediaDuration": "236",
+        "prettyDuration": "00:03:56",
+        "views": "18287",
+        "hookText": "Relive Kolohe Andino's win and much, much more from the Aus Open of Surf in the latest #TOURNOTES."
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

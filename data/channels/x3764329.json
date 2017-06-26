@@ -1,0 +1,29 @@
+{
+    "title": "Gerber",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1409955265",
+    "date_modified": "1409957413",
+    "tags": "",
+    "sourceId": null,
+    "status": "approved",
+    "visibility": "1",
+    "id": "3764329",
+    "loginId": "753",
+    "entityType": "3",
+    "titleTextEncoded": "Gerber",
+    "category": null,
+    "duration": null,
+    "settings": {
+        "canvasImage": "959580962-0.jpg",
+        "colorClass": "light",
+        "canvasType": "cropped",
+        "hideoos": 1,
+        "auto": {
+            "dynamic": 0
+        },
+        "optimize": 1,
+        "canvasCropped": "959580962-00740416.jpg"
+    },
+    "transcripts": null
+}

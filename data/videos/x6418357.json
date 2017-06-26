@@ -1,0 +1,48 @@
+{
+    "title": "Ryan Decenzo Ad Day",
+    "description": "",
+    "referenceId": "17606755",
+    "date_created": "1443641966",
+    "date_modified": "1443641966",
+    "tags": "Array,Array,Array,Array,Array,Array",
+    "sourceId": "3",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6418357",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "28",
+    "entityIdParent": "168543",
+    "titleTextEncoded": "Ryan-Decenzo-Ad-Day",
+    "category": null,
+    "duration": 153,
+    "settings": {},
+    "asset": {
+        "type": "mp4",
+        "sources": [
+            {
+                "file": "https:\/\/player.vimeo.com\/external\/17606755.hd.mp4?s=4670b0fdec127927e5bdf838ac8d3f33&profile_id=113&oauth2_token_id=56801069"
+            }
+        ],
+        "hdvFlag": 1,
+        "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/109655595_1280x720.jpg",
+        "mediaDuration": 153,
+        "prettyDuration": "02:33",
+        "uploadDate": 1291830706,
+        "tags": "Array,Array,Array,Array,Array,Array",
+        "hookText": ""
+    },
+    "transcripts": null,
+    "metrics_statistics": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

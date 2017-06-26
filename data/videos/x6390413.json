@@ -1,0 +1,48 @@
+{
+    "title": "2014 Dirksen Derby",
+    "description": "2014 Dirksen Derby",
+    "referenceId": "115281030",
+    "date_created": "1441409148",
+    "date_modified": "1441409148",
+    "tags": "",
+    "sourceId": "3",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6390413",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "312",
+    "entityIdParent": "168543",
+    "titleTextEncoded": "2014-Dirksen-Derby",
+    "category": null,
+    "duration": 196,
+    "settings": {},
+    "asset": {
+        "type": "mp4",
+        "sources": [
+            {
+                "file": "https:\/\/player.vimeo.com\/external\/115281030.hd.mp4?s=7513cd9161e613962462c6c78935f106&profile_id=119&oauth2_token_id=56801069"
+            }
+        ],
+        "hdvFlag": 1,
+        "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/501255505_1280x720.jpg",
+        "mediaDuration": 196,
+        "prettyDuration": "03:16",
+        "uploadDate": 1419356263,
+        "tags": "",
+        "hookText": "2014 Dirksen Derby"
+    },
+    "transcripts": null,
+    "metrics_statistics": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

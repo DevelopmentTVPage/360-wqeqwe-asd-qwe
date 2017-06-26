@@ -1,0 +1,541 @@
+{
+    "pageNumber": 0,
+    "data": [
+        {
+            "id": "67540750",
+            "title": "Dickies Skateboarding 2016",
+            "date_created": "1471546202",
+            "loginId": "753",
+            "tags": "",
+            "description": "Dickies skate team 2016",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "203",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "203",
+                "prettyDuration": "00:03:23",
+                "thumbnailUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67540750\/5adf0\/thumb-e9f776ff80504efb25daaac40e36adc6-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67540750\/5adf0\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67540750\/5adf0\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67540750\/5adf0\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67540750\/5adf0\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67540750\/5adf0\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67540750\/5adf0\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "168551",
+            "url": "\/dickies\/dickies-skateboarding-2016-mov\/168551-67540750"
+        },
+        {
+            "id": "3849360",
+            "title": "Dickies Skate Visalia",
+            "date_created": "1437064109",
+            "loginId": "753",
+            "tags": "",
+            "description": "Dickies Skate Visalia",
+            "asset": {
+                "type": "mp4",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/753\/canvas\/655\/368\/430085767-02844473.JPG",
+                "mediaDuration": "100",
+                "prettyDuration": "00:01:40",
+                "hookText": "Dickies Skate Visalia",
+                "tags": "",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/3849360\/83b95564_d661_4a8a_8e77_758c1c1eab53.mp4"
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/3849360\/720p_83b95564_d661_4a8a_8e77_758c1c1eab53.mp4",
+                        "quality": "720p"
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/3849360\/480p_83b95564_d661_4a8a_8e77_758c1c1eab53.mp4",
+                        "quality": "480p"
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/3849360\/360p_83b95564_d661_4a8a_8e77_758c1c1eab53.mp4",
+                        "quality": "360p"
+                    }
+                ]
+            },
+            "parentId": "168551",
+            "url": "\/dickies\/dickies-skate-visalia\/168551-3849360"
+        },
+        {
+            "id": "3849368",
+            "title": "Dickies Skates the Pool",
+            "date_created": "1437065929",
+            "loginId": "753",
+            "tags": "",
+            "description": "Dickies Skates the Pool",
+            "asset": {
+                "type": "mp4",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/753\/canvas\/655\/368\/598689214-01843474.JPG",
+                "mediaDuration": "32",
+                "prettyDuration": "00:00:32",
+                "hookText": "Dickies Skates the Pool",
+                "tags": "",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/3849368\/32c694fd_6e8b_41a0_a548_5533b5814963.mp4"
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/3849368\/720p_32c694fd_6e8b_41a0_a548_5533b5814963.mp4",
+                        "quality": "720p"
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/3849368\/480p_32c694fd_6e8b_41a0_a548_5533b5814963.mp4",
+                        "quality": "480p"
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/3849368\/360p_32c694fd_6e8b_41a0_a548_5533b5814963.mp4",
+                        "quality": "360p"
+                    }
+                ]
+            },
+            "parentId": "168551",
+            "url": "\/dickies\/dickies-skates-the-pool\/168551-3849368"
+        },
+        {
+            "id": "169294",
+            "title": "Tilly's X Dickies Desert Lounge Night's Recap",
+            "date_created": "1401235877",
+            "loginId": "753",
+            "tags": "",
+            "description": "Watch the first day's recap of the Tilly's X Dickies Desert Lounge pool party hosted at the Ace Hotel and Swim Club in Palm Springs, CA.",
+            "asset": {
+                "author": "tillys",
+                "hdvFlag": 1,
+                "hookText": "Watch the first day's recap of the Tilly's X Dickies Desert Lounge pool party hosted at the Ace Hotel and Swim Club in Palm Springs, CA.",
+                "tags": "",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/TGTvvb0FbVI\/maxresdefault.jpg",
+                "uploadDate": 1397272245,
+                "videoId": "TGTvvb0FbVI",
+                "mediaDuration": "148",
+                "prettyDuration": "00:02:28",
+                "uploadAsset": false,
+                "quality": ""
+            },
+            "parentId": "168551",
+            "url": "\/dickies\/tilly-s-x-dickies-desert-lounge-night-s-recap\/168551-169294"
+        },
+        {
+            "id": "169293",
+            "title": "Tilly's X Dickies Pool Party",
+            "date_created": "1401235863",
+            "loginId": "753",
+            "tags": "",
+            "description": "What happens when Dickies and Tilly's link up to celebrate Spring and Festival season by throwing a pool party at the Ace Hotel and Swim Club in Palm Springs, CA? Find out by watching the video!",
+            "asset": {
+                "author": "tillys",
+                "hdvFlag": 1,
+                "hookText": "What happens when Dickies and Tilly's link up to celebrate Spring and Festival season by throwing a pool party at the Ace Hotel and Swim Club in Palm Springs...",
+                "tags": "",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/8e5T-o3ajxY\/maxresdefault.jpg",
+                "uploadDate": 1396463707,
+                "videoId": "8e5T-o3ajxY",
+                "mediaDuration": "42",
+                "prettyDuration": "00:00:42",
+                "uploadAsset": false,
+                "quality": ""
+            },
+            "parentId": "168551",
+            "url": "\/dickies\/tilly-s-x-dickies-pool-party\/168551-169293"
+        },
+        {
+            "id": "169304",
+            "title": "Dickies Skate: Tom Remillard Weekend Part 1",
+            "date_created": "1401236156",
+            "loginId": "753",
+            "tags": "",
+            "description": "Dickies Skate: Tom Remillard Weekend Part 1",
+            "asset": {
+                "author": "Dickies",
+                "hdvFlag": 0,
+                "hookText": "",
+                "tags": "",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/eyYL-SX_5Cs\/sddefault.jpg",
+                "uploadDate": 1369017748,
+                "videoId": "eyYL-SX_5Cs",
+                "mediaDuration": "97",
+                "prettyDuration": "00:01:37",
+                "uploadAsset": false,
+                "quality": ""
+            },
+            "parentId": "168551",
+            "url": "\/dickies\/dickies-skate-tom-remillard-weekend-part-1\/168551-169304"
+        },
+        {
+            "id": "169303",
+            "title": "Dickies Skate: Tom Remillard Weekend Part 2",
+            "date_created": "1401236140",
+            "loginId": "753",
+            "tags": "",
+            "description": "Dickies Skate: Tom Remillard Weekend Part 2",
+            "asset": {
+                "author": "Dickies",
+                "hdvFlag": 0,
+                "hookText": "",
+                "tags": "",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/6zUQd5ODi1w\/sddefault.jpg",
+                "uploadDate": 1369017884,
+                "videoId": "6zUQd5ODi1w",
+                "mediaDuration": "110",
+                "prettyDuration": "00:01:50",
+                "uploadAsset": false,
+                "quality": ""
+            },
+            "parentId": "168551",
+            "url": "\/dickies\/dickies-skate-tom-remillard-weekend-part-2\/168551-169303"
+        },
+        {
+            "id": "67507984",
+            "title": "Dickies Back to School 2015",
+            "date_created": "1440514217",
+            "loginId": "753",
+            "tags": "",
+            "description": "Dickies Back to School 2015",
+            "asset": {
+                "type": "youtube",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/OymbWniU6sQ\/hqdefault.jpg",
+                "uploadDate": 1440514217,
+                "videoId": "OymbWniU6sQ",
+                "title": "Dickies Back to School 2015",
+                "description": "Dickies Back to School 2015",
+                "author": "Dickies",
+                "mediaDuration": 7,
+                "prettyDuration": "00:00:07",
+                "views": "1063",
+                "uploadAsset": false,
+                "quality": ""
+            },
+            "parentId": "168551",
+            "url": "\/dickies\/dickies-back-to-school-2015\/168551-67507984"
+        },
+        {
+            "id": "67507985",
+            "title": "2015 Dickies Skate Team Teaser",
+            "date_created": "1437061430",
+            "loginId": "753",
+            "tags": "",
+            "description": "Video by Randal Kirk Films",
+            "asset": {
+                "type": "youtube",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/eF8RP6ua6zE\/hqdefault.jpg",
+                "uploadDate": 1437061430,
+                "videoId": "eF8RP6ua6zE",
+                "title": "2015 Dickies Skate Team Teaser",
+                "description": "Video by Randal Kirk Films",
+                "author": "Dickies",
+                "mediaDuration": 15,
+                "prettyDuration": "00:00:15",
+                "views": "639",
+                "uploadAsset": false,
+                "quality": ""
+            },
+            "parentId": "168551",
+            "url": "\/dickies\/2015-dickies-skate-team-teaser\/168551-67507985"
+        },
+        {
+            "id": "67507986",
+            "title": "2015 Dickies Skate Team",
+            "date_created": "1437060718",
+            "loginId": "753",
+            "tags": "",
+            "description": "Video by Randal Kirk Films",
+            "asset": {
+                "type": "youtube",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/1SxNyxYutkg\/hqdefault.jpg",
+                "uploadDate": 1437060718,
+                "videoId": "1SxNyxYutkg",
+                "title": "2015 Dickies Skate Team",
+                "description": "Video by Randal Kirk Films",
+                "author": "Dickies",
+                "mediaDuration": 99,
+                "prettyDuration": "00:01:39",
+                "views": "8509",
+                "uploadAsset": false,
+                "quality": ""
+            },
+            "parentId": "168551",
+            "url": "\/dickies\/2015-dickies-skate-team\/168551-67507986"
+        },
+        {
+            "id": "67507987",
+            "title": "Ronnie Sandoval- Dickies Skate Team",
+            "date_created": "1437060037",
+            "loginId": "753",
+            "tags": "",
+            "description": "Video by Randal Kirk Films",
+            "asset": {
+                "type": "youtube",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/aLb5SRDX-wI\/hqdefault.jpg",
+                "uploadDate": 1437060037,
+                "videoId": "aLb5SRDX-wI",
+                "title": "Ronnie Sandoval- Dickies Skate Team",
+                "description": "Video by Randal Kirk Films",
+                "author": "Dickies",
+                "mediaDuration": 31,
+                "prettyDuration": "00:00:31",
+                "views": "3782"
+            },
+            "parentId": "168551",
+            "url": "\/dickies\/ronnie-sandoval-dickies-skate-team\/168551-67507987"
+        },
+        {
+            "id": "67508011",
+            "title": "Dickies x Austin Speed Shop Teaser",
+            "date_created": "1414512465",
+            "loginId": "753",
+            "tags": "",
+            "description": "Join Dickies at the Austin Speed Shop on November 1, 2014 for live music, awesome giveaways, and delicious food truck options! Check out our Facebook page for more details!\n\nCar show: 3pm\nParty: 6pm",
+            "asset": {
+                "type": "youtube",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/UaC39tKqjrU\/hqdefault.jpg",
+                "uploadDate": 1414512465,
+                "videoId": "UaC39tKqjrU",
+                "title": "Dickies x Austin Speed Shop Teaser",
+                "description": "Join Dickies at the Austin Speed Shop on November 1, 2014 for live music, awesome giveaways, and delicious food truck options! Check out our Facebook page for more details!\n\nCar show: 3pm\nParty: 6pm\n\nhttps:\/\/www.facebook.com\/dickies",
+                "author": "Dickies",
+                "mediaDuration": 15,
+                "prettyDuration": "00:00:15",
+                "views": "387",
+                "uploadAsset": false,
+                "quality": ""
+            },
+            "parentId": "168551",
+            "url": "\/dickies\/dickies-x-austin-speed-shop-teaser\/168551-67508011"
+        },
+        {
+            "id": "67507981",
+            "title": "Dickies Shop Shirt LL605",
+            "date_created": "1458671588",
+            "loginId": "753",
+            "tags": "",
+            "description": "Dickies Performance Shop Shirt - Need a work shirt that can hold up to any tough job and still look great?\u00a0 Introducing Dickies Performance Shop Shirt.\u00a0 This stylish shirt offers contrast color block detail on the shoulder for an updated fashionable look.\u00a0 It is loaded with performance features like moisture wicking, stain release, resists wrinkles and is made with 4.6-oz flex twill fabric for ease of movement.\u00a0 And its industrial laundry friendly.\u00a0 Available in both short and long sleeves, this shirt is the perfect shirt for any uniform program.\u00a0 Dickies, The Name the Pros Know and Trust.",
+            "asset": {
+                "type": "youtube",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/3yqKMx-gexs\/hqdefault.jpg",
+                "uploadDate": 1458671588,
+                "videoId": "3yqKMx-gexs",
+                "title": "Dickies Shop Shirt LL605",
+                "description": "Dickies Performance Shop Shirt - Need a work shirt that can hold up to any tough job and still look great?\u00a0 Introducing Dickies Performance Shop Shirt.\u00a0 This stylish shirt offers contrast color block detail on the shoulder for an updated fashionable look.\u00a0 It is loaded with performance features like moisture wicking, stain release, resists wrinkles and is made with 4.6-oz flex twill fabric for ease of movement.\u00a0 And its industrial laundry friendly.\u00a0 Available in both short and long sleeves, this shirt is the perfect shirt for any uniform program.\u00a0 Dickies, The Name the Pros Know and Trust.",
+                "author": "Dickies",
+                "mediaDuration": 49,
+                "prettyDuration": "00:00:49",
+                "views": "163",
+                "uploadAsset": false,
+                "quality": ""
+            },
+            "parentId": "168551",
+            "url": "\/dickies\/dickies-shop-shirt-ll605\/168551-67507981"
+        },
+        {
+            "id": "67507992",
+            "title": "Dickies FR Long Sleeve Plaid Shirt (Relaxed Fit)",
+            "date_created": "1416527571",
+            "loginId": "753",
+            "tags": "",
+            "description": "RL310: The Flame-Resistant Long Sleeve Plaid Shirt, by Dickies.  This durable flame-resistant shirt has a generous relaxed fit across the shoulders to give you plenty of room for movement, a bias back yoke and tough double-needle stitched seams.  It\u2019s constructed with a sturdy 6.5 oz cotton-nylon fabric blend that\u2019s FR treated, is HRC (Hazard Risk Category) Level 2, and is both NFPA 70E and NFPA 2112 compliant.  This shirt is engineered to keep you safe with a two-piece button down collar, a chest pockets with button closure, and tailored sleeve plackets.  Carefully designed and constructed for protection and comfort, this garment will stand up to tough working conditions.  Dickies, Quality Workwear since 1922.",
+            "asset": {
+                "type": "youtube",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/PNIzqDsUj0A\/hqdefault.jpg",
+                "uploadDate": 1416527571,
+                "videoId": "PNIzqDsUj0A",
+                "title": "Dickies FR Long Sleeve Plaid Shirt (Relaxed Fit)",
+                "description": "RL310: The Flame-Resistant Long Sleeve Plaid Shirt, by Dickies.  This durable flame-resistant shirt has a generous relaxed fit across the shoulders to give you plenty of room for movement, a bias back yoke and tough double-needle stitched seams.  It\u2019s constructed with a sturdy 6.5 oz cotton-nylon fabric blend that\u2019s FR treated, is HRC (Hazard Risk Category) Level 2, and is both NFPA 70E and NFPA 2112 compliant.  This shirt is engineered to keep you safe with a two-piece button down collar, a chest pockets with button closure, and tailored sleeve plackets.  Carefully designed and constructed for protection and comfort, this garment will stand up to tough working conditions.  Dickies, Quality Workwear since 1922.",
+                "author": "Dickies",
+                "mediaDuration": 60,
+                "prettyDuration": "00:01:00",
+                "views": "647",
+                "uploadAsset": false,
+                "quality": ""
+            },
+            "parentId": "168551",
+            "url": "\/dickies\/dickies-fr-long-sleeve-plaid-shirt-relaxed-fit\/168551-67507992"
+        },
+        {
+            "id": "67507994",
+            "title": "Dickies FR Zip Fleece Hoodie",
+            "date_created": "1416527487",
+            "loginId": "753",
+            "tags": "",
+            "description": "RW100: The Flame-Resistant Zip Fleece Hoodie, by Dickies. This heavy-duty hoodie has a zip front closure with an interior storm flap.  It's constructed from a 11 oz fleece cotton-nylon fabric that's FR treated, has an ARC rating of 21.8, is HRC (Hazard Rating Category) Level 2 and is NFPA 70E compliant.  It's engineered with double-needle reinforced seams to ensure durability, while the rib knit cuffs and waistband and three-piece drawstring hood keep you comfortable on the job. This hoodie is built to last. Dickies, Quality Workwear since 1922.",
+            "asset": {
+                "type": "youtube",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/cyGHKAPb36U\/hqdefault.jpg",
+                "uploadDate": 1416527487,
+                "videoId": "cyGHKAPb36U",
+                "title": "Dickies FR Zip Fleece Hoodie",
+                "description": "RW100: The Flame-Resistant Zip Fleece Hoodie, by Dickies. This heavy-duty hoodie has a zip front closure with an interior storm flap.  It's constructed from a 11 oz fleece cotton-nylon fabric that's FR treated, has an ARC rating of 21.8, is HRC (Hazard Rating Category) Level 2 and is NFPA 70E compliant.  It's engineered with double-needle reinforced seams to ensure durability, while the rib knit cuffs and waistband and three-piece drawstring hood keep you comfortable on the job. This hoodie is built to last. Dickies, Quality Workwear since 1922.",
+                "author": "Dickies",
+                "mediaDuration": 48,
+                "prettyDuration": "00:00:48",
+                "views": "686",
+                "uploadAsset": false,
+                "quality": ""
+            },
+            "parentId": "168551",
+            "url": "\/dickies\/dickies-fr-zip-fleece-hoodie\/168551-67507994"
+        },
+        {
+            "id": "67507996",
+            "title": "Dickies FR Duck Carpenter Jean",
+            "date_created": "1416527371",
+            "loginId": "753",
+            "tags": "",
+            "description": "RU903: The Flame-Resistant Duck Carpenter Jean, by Dickies. This durable FR jean sits slightly below the waist, with a relaxed fit providing extra room through the seat and thigh and a straight leg.  It\u2019s crafted of a sturdy 11.5 oz  100% cotton Duck fabric that's FR treated, has an ARC rating of 13, is HRC (Hazard Risk Category) Level 2, and is both NFPA 70E and NFPA 2112 compliant.  This sturdy jean also features classic carpenter pant styling with dual tool pockets on the leg, a heavy-duty button closure and brass zipper-fly, reinforced pockets, and secured seams.  Carefully designed and constructed for protection and comfort, this garment will stand up to tough working conditions.  Dickies, Quality Workwear since 1922.",
+            "asset": {
+                "type": "youtube",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/FONSMgVu8es\/hqdefault.jpg",
+                "uploadDate": 1416527371,
+                "videoId": "FONSMgVu8es",
+                "title": "Dickies FR Duck Carpenter Jean",
+                "description": "RU903: The Flame-Resistant Duck Carpenter Jean, by Dickies. This durable FR jean sits slightly below the waist, with a relaxed fit providing extra room through the seat and thigh and a straight leg.  It\u2019s crafted of a sturdy 11.5 oz  100% cotton Duck fabric that's FR treated, has an ARC rating of 13, is HRC (Hazard Risk Category) Level 2, and is both NFPA 70E and NFPA 2112 compliant.  This sturdy jean also features classic carpenter pant styling with dual tool pockets on the leg, a heavy-duty button closure and brass zipper-fly, reinforced pockets, and secured seams.  Carefully designed and constructed for protection and comfort, this garment will stand up to tough working conditions.  Dickies, Quality Workwear since 1922.",
+                "author": "Dickies",
+                "mediaDuration": 63,
+                "prettyDuration": "00:01:03",
+                "views": "793",
+                "uploadAsset": false,
+                "quality": ""
+            },
+            "parentId": "168551",
+            "url": "\/dickies\/dickies-fr-duck-carpenter-jean\/168551-67507996"
+        },
+        {
+            "id": "67507997",
+            "title": "Dickies FR Double Knee 6-Pocket Jean (Relaxed Fit\/Straight Leg)",
+            "date_created": "1416527337",
+            "loginId": "753",
+            "tags": "",
+            "description": "RD902: The Flame-Resistant Double Knee 6-Pocket Jean, by Dickies.  This durable FR jean sits slightly below the waist, with a relaxed fit providing extra room through the seat and thigh and a straight leg.  It\u2019s crafted of heavy 100% cotton, 14.5 oz workhorse denim that's FR treated, has an ARC rating of 20, is HRC (Hazard Risk Category) Level 2, and is both NFPA 70E and NFPA 2112 compliant.  This durable jean has double-knee construction with cleanout openings, a heavy-duty button closure and brass zipper-fly, reinforced back pockets, and secured seams.  Carefully designed and constructed for protection and comfort, this garment will stand up to tough working conditions.  Dickies, Quality Workwear since 1922.",
+            "asset": {
+                "type": "youtube",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/6ws-XA7Ktls\/hqdefault.jpg",
+                "uploadDate": 1416527337,
+                "videoId": "6ws-XA7Ktls",
+                "title": "Dickies FR Double Knee 6-Pocket Jean (Relaxed Fit\/Straight Leg)",
+                "description": "RD902: The Flame-Resistant Double Knee 6-Pocket Jean, by Dickies.  This durable FR jean sits slightly below the waist, with a relaxed fit providing extra room through the seat and thigh and a straight leg.  It\u2019s crafted of heavy 100% cotton, 14.5 oz workhorse denim that's FR treated, has an ARC rating of 20, is HRC (Hazard Risk Category) Level 2, and is both NFPA 70E and NFPA 2112 compliant.  This durable jean has double-knee construction with cleanout openings, a heavy-duty button closure and brass zipper-fly, reinforced back pockets, and secured seams.  Carefully designed and constructed for protection and comfort, this garment will stand up to tough working conditions.  Dickies, Quality Workwear since 1922.",
+                "author": "Dickies",
+                "mediaDuration": 63,
+                "prettyDuration": "00:01:03",
+                "views": "595",
+                "uploadAsset": false,
+                "quality": ""
+            },
+            "parentId": "168551",
+            "url": "\/dickies\/dickies-fr-double-knee-6-pocket-jean-relaxed-fit-straight-leg\/168551-67507997"
+        },
+        {
+            "id": "67507998",
+            "title": "Dickies FR Long Sleeve Tee",
+            "date_created": "1416527281",
+            "loginId": "753",
+            "tags": "",
+            "description": "DFL511: The Flame-Resistant Long Sleeve Tee, by Dickies. This lightweight, yet safe and sturdy, 6.5 oz Ultra Soft\u00ae Interlock knit shirt is a worker\u2019s original, with a spacious fit for all kinds of work activity.  It has an ARC rating of 10.9, is HRC (Hazard Risk Category) Level 2, and is NFPA 70E compliant.  Featuring a single chest pocket, 1x1 knit cuff and collar, and reinforced taped neck and shoulder seams for longer wear, this reliable shirt will have you covered in tough working situations. Dickies, Quality Workwear since 1922.",
+            "asset": {
+                "type": "youtube",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/IQAwuykX5DY\/hqdefault.jpg",
+                "uploadDate": 1416527281,
+                "videoId": "IQAwuykX5DY",
+                "title": "Dickies FR Long Sleeve Tee",
+                "description": "DFL511: The Flame-Resistant Long Sleeve Tee, by Dickies. This lightweight, yet safe and sturdy, 6.5 oz Ultra Soft\u00ae Interlock knit shirt is a worker\u2019s original, with a spacious fit for all kinds of work activity.  It has an ARC rating of 10.9, is HRC (Hazard Risk Category) Level 2, and is NFPA 70E compliant.  Featuring a single chest pocket, 1x1 knit cuff and collar, and reinforced taped neck and shoulder seams for longer wear, this reliable shirt will have you covered in tough working situations. Dickies, Quality Workwear since 1922.",
+                "author": "Dickies",
+                "mediaDuration": 48,
+                "prettyDuration": "00:00:48",
+                "views": "268",
+                "uploadAsset": false,
+                "quality": ""
+            },
+            "parentId": "168551",
+            "url": "\/dickies\/dickies-fr-long-sleeve-tee\/168551-67507998"
+        },
+        {
+            "id": "67507999",
+            "title": "Dickies FR Long Sleeve Denim Snap Front Shirt",
+            "date_created": "1416527260",
+            "loginId": "753",
+            "tags": "",
+            "description": "RL303: The Flame-Resistant Long Sleeve Denim Snap Front Shirt, by Dickies. This durable relaxed fit, flame-resistant shirt has a generous fit across the shoulders to give you plenty of room for movement, a long tail design that helps your shirt stay tucked and double-needle stitched seams.  It\u2019s constructed with a sturdy 7.5 oz 100% cotton denim that\u2019s FR treated, has an ARC rating of 9.3, is HRC (Hazard Risk Category) Level 2, and is both NFPA 70E and NFPA 2112 compliant.  This shirt is engineered to keep you safe with a two-piece collar, two chest pockets with snap closures, adjustable snap cuff closures and center front snap closures.  Carefully designed and constructed for protection and comfort, this garment will stand up to tough working conditions.  Dickies, Quality Workwear since 1922.",
+            "asset": {
+                "type": "youtube",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/2czkcjOlIEk\/hqdefault.jpg",
+                "uploadDate": 1416527260,
+                "videoId": "2czkcjOlIEk",
+                "title": "Dickies FR Long Sleeve Denim Snap Front Shirt",
+                "description": "RL303: The Flame-Resistant Long Sleeve Denim Snap Front Shirt, by Dickies. This durable relaxed fit, flame-resistant shirt has a generous fit across the shoulders to give you plenty of room for movement, a long tail design that helps your shirt stay tucked and double-needle stitched seams.  It\u2019s constructed with a sturdy 7.5 oz 100% cotton denim that\u2019s FR treated, has an ARC rating of 9.3, is HRC (Hazard Risk Category) Level 2, and is both NFPA 70E and NFPA 2112 compliant.  This shirt is engineered to keep you safe with a two-piece collar, two chest pockets with snap closures, adjustable snap cuff closures and center front snap closures.  Carefully designed and constructed for protection and comfort, this garment will stand up to tough working conditions.  Dickies, Quality Workwear since 1922.",
+                "author": "Dickies",
+                "mediaDuration": 67,
+                "prettyDuration": "00:01:07",
+                "views": "258",
+                "uploadAsset": false,
+                "quality": ""
+            },
+            "parentId": "168551",
+            "url": "\/dickies\/dickies-fr-long-sleeve-denim-snap-front-shirt\/168551-67507999"
+        },
+        {
+            "id": "67508000",
+            "title": "Dickies FR Long Sleeve Chambray Shirt",
+            "date_created": "1416527216",
+            "loginId": "753",
+            "tags": "",
+            "description": "RL300: The Flame-Resistant Long Sleeve Chambray Shirt, by Dickies.  This durable relaxed fit, flame-resistant shirt has a generous fit across the shoulders to give you plenty of room for movement, a long tail design that helps your shirt stay tucked and double-needle stitched seams.  It\u2019s constructed with a 5.5 oz chambray cotton-nylon fabric blend that\u2019s FR treated, has an ARC Rating of 6.9, is rated HRC (Hazard Risk Category) Category Level 1 and is NFPA 70E compliant .  While safe, it\u2019s also built for comfort with a two-piece button down collar, a back box pleat, a chest pocket, and tailored sleeve plackets with double-button cuffs.  This shirt is built to last.  Dickies, quality workwear since 1922.",
+            "asset": {
+                "type": "youtube",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/btD_1mHDoJI\/hqdefault.jpg",
+                "uploadDate": 1416527216,
+                "videoId": "btD_1mHDoJI",
+                "title": "Dickies FR Long Sleeve Chambray Shirt",
+                "description": "RL300: The Flame-Resistant Long Sleeve Chambray Shirt, by Dickies.  This durable relaxed fit, flame-resistant shirt has a generous fit across the shoulders to give you plenty of room for movement, a long tail design that helps your shirt stay tucked and double-needle stitched seams.  It\u2019s constructed with a 5.5 oz chambray cotton-nylon fabric blend that\u2019s FR treated, has an ARC Rating of 6.9, is rated HRC (Hazard Risk Category) Category Level 1 and is NFPA 70E compliant .  While safe, it\u2019s also built for comfort with a two-piece button down collar, a back box pleat, a chest pocket, and tailored sleeve plackets with double-button cuffs.  This shirt is built to last.  Dickies, quality workwear since 1922.",
+                "author": "Dickies",
+                "mediaDuration": 59,
+                "prettyDuration": "00:00:59",
+                "views": "154",
+                "uploadAsset": false,
+                "quality": ""
+            },
+            "parentId": "168551",
+            "url": "\/dickies\/dickies-fr-long-sleeve-chambray-shirt\/168551-67508000"
+        }
+    ]
+}

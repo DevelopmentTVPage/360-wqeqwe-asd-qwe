@@ -1,0 +1,53 @@
+{
+    "title": "Krooked Welcomes Sebo Walker",
+    "description": "Sebo Walker. Krooked Skateboards. Turf Killer.",
+    "referenceId": null,
+    "date_created": "1410194946",
+    "date_modified": "1470270802",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": "Krooked",
+    "video_celeb": null,
+    "video_activity": "Skating",
+    "VV_VI": "18",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "3764353",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "3",
+    "entityIdParent": "3764352",
+    "titleTextEncoded": "Krooked-Welcomes-Sebo-Walker",
+    "category": null,
+    "duration": "152",
+    "settings": [],
+    "asset": {
+        "author": "Krooked Skateboards",
+        "hdvFlag": 1,
+        "hookText": "Sebo Walker. Krooked Skateboards. Turf Killer. For more go to: https:\/\/www.facebook.com\/Krooked.Skateboards http:\/\/instagram.com\/krooked http:\/\/www.krookedsk...",
+        "tags": "",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/DhedpHvn9ts\/maxresdefault.jpg",
+        "uploadDate": 1391186495,
+        "videoId": "DhedpHvn9ts",
+        "mediaDuration": "152",
+        "prettyDuration": "00:02:32",
+        "uploadAsset": false,
+        "quality": ""
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

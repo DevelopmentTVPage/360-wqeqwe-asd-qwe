@@ -1,0 +1,53 @@
+{
+    "title": "Bryan Herman for Altamont",
+    "description": "http:\/\/altamontapparel.com.",
+    "referenceId": "q868RhefO5o",
+    "date_created": "1441406562",
+    "date_modified": "1441406562",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "1",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6390291",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "37",
+    "entityIdParent": "168548",
+    "titleTextEncoded": "Bryan-Herman-for-Altamont",
+    "category": null,
+    "duration": "84",
+    "settings": {},
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/q868RhefO5o\/hqdefault.jpg",
+        "uploadDate": 1286414088,
+        "videoId": "q868RhefO5o",
+        "title": "Bryan Herman for Altamont",
+        "description": "http:\/\/altamontapparel.com.",
+        "author": "Altamont",
+        "mediaDuration": "84",
+        "prettyDuration": "00:01:24",
+        "views": "79578",
+        "hookText": "http:\/\/altamontapparel.com."
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

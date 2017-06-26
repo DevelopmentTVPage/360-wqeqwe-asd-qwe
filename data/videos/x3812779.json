@@ -1,0 +1,57 @@
+{
+    "title": "Live in Levi's\u00ae - Holiday 2014",
+    "description": "Be Together. Be Bold. Be Present. Be Spirited. Be Gifted. \n\n#LiveInLevis",
+    "referenceId": null,
+    "date_created": "1419892457",
+    "date_modified": "1449883816",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "556",
+    "CVV_VI": "58",
+    "engagement_score": "5",
+    "conversion_score": "4",
+    "id": "3812779",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "35",
+    "entityIdParent": "195929",
+    "titleTextEncoded": "Live-in-Levi-s-Holiday-2014",
+    "category": null,
+    "duration": "30",
+    "settings": [],
+    "asset": {
+        "author": "Levi's\u00ae",
+        "hdvFlag": 1,
+        "hookText": "Be Together. Be Bold. Be Present. Be Spirited. Be Gifted. #LiveInLevis http:\/\/www.levi.com.",
+        "tags": "",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/BQuxRXq2vYQ\/maxresdefault.jpg",
+        "uploadDate": 1418337787,
+        "videoId": "BQuxRXq2vYQ",
+        "mediaDuration": "30",
+        "prettyDuration": "00:00:30"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "conversion_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

@@ -1,0 +1,38 @@
+{
+    "title": "Rusty",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1410208831",
+    "date_modified": "1423181855",
+    "tags": "",
+    "sourceId": null,
+    "status": "approved",
+    "visibility": "1",
+    "id": "3764426",
+    "loginId": "753",
+    "entityType": "3",
+    "titleTextEncoded": "Rusty",
+    "category": null,
+    "duration": null,
+    "settings": {
+        "canvasImage": "939756381-0.jpg",
+        "colorClass": "light",
+        "canvasType": "cropped",
+        "canvasCropped": "939756381-023425261.jpg",
+        "hideoos": 1,
+        "auto": {
+            "dynamic": 0,
+            "advanced": {
+                "title": "",
+                "description": "",
+                "category": "",
+                "brand": "",
+                "color": "",
+                "quantity": "",
+                "date_created": ""
+            }
+        },
+        "optimize": 1
+    },
+    "transcripts": null
+}

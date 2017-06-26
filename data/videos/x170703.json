@@ -1,0 +1,51 @@
+{
+    "title": "Kendrick\/Dre x Beats by Dre -- Director's Cut",
+    "description": "Kendrick and Dre are back in the studio. Watch the video.",
+    "referenceId": null,
+    "date_created": "1401413171",
+    "date_modified": "1449876379",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "4",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "170703",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "6",
+    "entityIdParent": "168515",
+    "titleTextEncoded": "Kendrick-Dre-x-Beats-by-Dre-Director-s-Cut",
+    "category": null,
+    "duration": "172",
+    "settings": [],
+    "asset": {
+        "author": "Beats by Dre",
+        "hdvFlag": 1,
+        "hookText": "Kendrick and Dre are back in the studio. Watch the video. beatsbydre.com Check out Kendrick Lamar's album Good Kid, M.A.A.D. City: http:\/\/smarturl.it\/gkmc.",
+        "tags": "",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/thtPhtMcdlY\/sddefault.jpg",
+        "uploadDate": 1386376966,
+        "videoId": "thtPhtMcdlY",
+        "mediaDuration": "172",
+        "prettyDuration": "00:02:52"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

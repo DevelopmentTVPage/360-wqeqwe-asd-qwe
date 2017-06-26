@@ -1,0 +1,71 @@
+{
+    "title": "FSAS Universal",
+    "description": "FSAS Universal",
+    "referenceId": null,
+    "date_created": "1441755231",
+    "date_modified": "1470265988",
+    "tags": "",
+    "sourceId": "1",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": "Famous_Stars_and_Straps",
+    "video_celeb": null,
+    "video_activity": "Concert",
+    "VV_VI": "303",
+    "CVV_VI": "21",
+    "engagement_score": "2",
+    "conversion_score": "1",
+    "id": "6396346",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "0",
+    "entityIdParent": "168536",
+    "titleTextEncoded": "FSAS-Universal",
+    "category": null,
+    "duration": "94",
+    "settings": null,
+    "asset": {
+        "type": "mp4",
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/753\/canvas\/655\/368\/375161616-021277713.png",
+        "mediaDuration": "94",
+        "prettyDuration": "00:01:34",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/6396346\/6845c097_a024_4254_b6e2_578267e92728.mp4"
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/6396346\/720p_6845c097_a024_4254_b6e2_578267e92728.mp4",
+                "quality": "720p"
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/6396346\/480p_6845c097_a024_4254_b6e2_578267e92728.mp4",
+                "quality": "480p"
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/6396346\/360p_6845c097_a024_4254_b6e2_578267e92728.mp4",
+                "quality": "360p"
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "conversion_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

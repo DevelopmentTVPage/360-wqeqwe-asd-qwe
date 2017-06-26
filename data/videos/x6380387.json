@@ -1,0 +1,70 @@
+{
+    "title": "What Had Happened Was - Ep. 1 - A$AP Ferg",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1440446187",
+    "date_modified": "1440446189",
+    "tags": "",
+    "sourceId": "1",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "13",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6380387",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "0",
+    "entityIdParent": "168529",
+    "titleTextEncoded": "What-Had-Happened-Was-Ep-1-A-AP-Ferg",
+    "category": null,
+    "duration": "134",
+    "settings": {},
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "134"
+        },
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/6380387\/720p_1b44fe8aee6b1a7a5e54f075cf5a73e2.mp4",
+                "quality": "720p"
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/6380387\/480p_1b44fe8aee6b1a7a5e54f075cf5a73e2.mp4",
+                "quality": "480p"
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/6380387\/360p_1b44fe8aee6b1a7a5e54f075cf5a73e2.mp4",
+                "quality": "360p"
+            }
+        ],
+        "thumbnailUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/6380387\/1b44fe8aee6b1a7a5e54f075cf5a73e2.png",
+        "hookText": "",
+        "type": "mp4",
+        "mediaDuration": "134",
+        "prettyDuration": "00:02:14",
+        "tags": ""
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

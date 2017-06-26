@@ -1,0 +1,53 @@
+{
+    "title": "The Art Of Chase I Am Los Angeles",
+    "description": "The Art Of Chase I Am Los Angeles",
+    "referenceId": null,
+    "date_created": "1440723602",
+    "date_modified": "1456358944",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "2",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6383581",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "126",
+    "entityIdParent": "168548",
+    "titleTextEncoded": "The-Art-Of-Chase-I-Am-Los-Angeles",
+    "category": null,
+    "duration": "240",
+    "settings": {},
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/qx3X-NBXYjA\/hqdefault.jpg",
+        "uploadDate": 1322777071,
+        "videoId": "qx3X-NBXYjA",
+        "title": "The Art Of Chase I Am Los Angeles",
+        "description": "Filmed and edited by Joris Debeij for http:\/\/iamlosangeles.com. http:\/\/altamontapparel.com\/contributors\/the-art-of-chase\/",
+        "author": "Altamont",
+        "mediaDuration": "240",
+        "prettyDuration": "00:04:00",
+        "views": "6510",
+        "hookText": "Filmed and edited by Joris Debeij for http:\/\/iamlosangeles.com. http:\/\/altamontapparel.com\/contributors\/the-art-of-chase\/"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

@@ -1,0 +1,55 @@
+{
+    "title": "etnies X Blackout Tour",
+    "description": "http:\/\/etni.es\/etnies-blackout-tour\nThe etnies BMX team set out with Blackout Distribution to take New England by storm. This nor'easter hit hard with a heavy crew including Aaron Ross, Tom Dugan, Tony Hamlin, Geoff Slattery, Jay Roe, Colin Varanyak, Jose",
+    "referenceId": "49939742",
+    "date_created": "1442969636",
+    "date_modified": "1442969636",
+    "tags": "Blackout Distribution,Aaron Ross,Tom Dugan,Tony Hamlin,Geoff Slattery,Jay Roe,Colin Varanyak,Joseph Frans,Kink,Terrible One,T1,etnies bmx,Fiend,Duo Tree Cinema,Fat Trax",
+    "sourceId": "3",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "1",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6413773",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "228",
+    "entityIdParent": "168527",
+    "titleTextEncoded": "etnies-X-Blackout-Tour",
+    "category": null,
+    "duration": 502,
+    "settings": {},
+    "asset": {
+        "type": "mp4",
+        "sources": [
+            {
+                "file": "https:\/\/player.vimeo.com\/external\/49939742.hd.mp4?s=9c2b5384118b49871d44c3eda95425b7&profile_id=113&oauth2_token_id=62432308"
+            }
+        ],
+        "hdvFlag": 1,
+        "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/344890557_1280x720.jpg",
+        "mediaDuration": 502,
+        "prettyDuration": "08:22",
+        "uploadDate": 1348260490,
+        "tags": "Blackout Distribution,Aaron Ross,Tom Dugan,Tony Hamlin,Geoff Slattery,Jay Roe,Colin Varanyak,Joseph Frans,Kink,Terrible One,T1,etnies bmx,Fiend,Duo Tree Cinema,Fat Trax",
+        "hookText": "http:\/\/etni.es\/etnies-blackout-tour\nThe etnies BMX team set out with Blackout Distribution to take New England by storm. This nor'easter hit hard with a heavy crew including Aaron Ross, Tom Dugan, Tony Hamlin, Geoff Slattery, Jay Roe, Colin Varanyak, Jose"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

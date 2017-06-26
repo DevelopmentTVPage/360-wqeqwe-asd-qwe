@@ -1,0 +1,72 @@
+{
+    "title": "BILLABONG Barbados Summer 2015",
+    "description": "A beautiful moment on a sweet wave, sea glazed eyes peeking at a shoreline of perfect palm trees and silky white sand. Life is a quest to find my own rhythm. Surfing, music, freedom, ocean. These are the notes that I play. Adventure is the beat. Barbados is the canvas. I follow the groove of the locals, Cherry Tree to Soupbowl, drinking in the island life. Cropover festival fills the island with the scent of Bajan cuisine and the sound of steel drums. I express myself through Calypso. It\u2019s the lust for what is around the bend that compels me, the rich Bajan culture that keeps me. A lifetime of dreams fulfilled with it\u2019s perfect wave. Nothing else is need. Freedom found.",
+    "referenceId": null,
+    "date_created": "1428011966",
+    "date_modified": "1447209603",
+    "tags": "",
+    "sourceId": "1",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "47",
+    "CVV_VI": "7",
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "3831853",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "10",
+    "entityIdParent": "168512",
+    "titleTextEncoded": "BILLABONG-Barbados-Summer-2015",
+    "category": null,
+    "duration": "122",
+    "settings": [],
+    "asset": {
+        "type": "mp4",
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/753\/canvas\/655\/368\/525092394-188441579825.JPG",
+        "mediaDuration": "122",
+        "prettyDuration": "00:02:02",
+        "hookText": "BILLABONG Barbados Summer 2015",
+        "tags": "",
+        "sources": [
+            {
+                "file": "https:\/\/d2mhchrq41duh4.cloudfront.net\/753\/3831853\/2ce8801c_a014_44e6_9aef_418386299ade.mp4"
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/3831853\/720p_2ce8801c_a014_44e6_9aef_418386299ade.mp4",
+                "quality": "720p"
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/3831853\/480p_2ce8801c_a014_44e6_9aef_418386299ade.mp4",
+                "quality": "480p",
+                "tvpdefault": true
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/3831853\/360p_2ce8801c_a014_44e6_9aef_418386299ade.mp4",
+                "quality": "360p"
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "conversion_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

@@ -1,0 +1,71 @@
+{
+    "title": "New Joggers",
+    "description": "New Joggers",
+    "referenceId": null,
+    "date_created": "1417569198",
+    "date_modified": "1450221208",
+    "tags": "",
+    "sourceId": "1",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "1064",
+    "CVV_VI": "92",
+    "engagement_score": "9",
+    "conversion_score": "7",
+    "id": "3782920",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "39",
+    "entityIdParent": "195929",
+    "titleTextEncoded": "New-Joggers",
+    "category": null,
+    "duration": "88",
+    "settings": [],
+    "asset": {
+        "type": "mp4",
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/753\/canvas\/655\/368\/634179104-0-01274716.png",
+        "mediaDuration": "88",
+        "prettyDuration": "00:01:28",
+        "hookText": "New Joggers",
+        "tags": "",
+        "sources": [
+            {
+                "file": "https:\/\/d2mhchrq41duh4.cloudfront.net\/753\/3782920\/3eb1b038_5f11_49bc_8ec1_2acf707bfc5e.mp4"
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/3782920\/720p_3eb1b038_5f11_49bc_8ec1_2acf707bfc5e.mp4",
+                "quality": "720p"
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/3782920\/480p_3eb1b038_5f11_49bc_8ec1_2acf707bfc5e.mp4",
+                "quality": "480p"
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/3782920\/360p_3eb1b038_5f11_49bc_8ec1_2acf707bfc5e.mp4",
+                "quality": "360p"
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "conversion_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

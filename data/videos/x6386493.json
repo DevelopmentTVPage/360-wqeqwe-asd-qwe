@@ -1,0 +1,55 @@
+{
+    "title": "Summer 2015 Builder's Pack",
+    "description": "Check out 360\u00b0 views of the 2015 Builder's Pack 29L.\nFeatures: \n- Expandable chainsaw pocket\n- Quick access lopper sleeve\n- Roll up nail bag\n- First Aid case\n- Fuel bottle pocket\n- Water bottle pocket\n- Multiple storage pockets\n- Adjustable padded waist belt\n- Internal hydration sleeve\n- Magnetic Hydration hose clip",
+    "referenceId": null,
+    "date_created": "1441218245",
+    "date_modified": "1450916188",
+    "tags": "",
+    "sourceId": "3",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "2",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6386493",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "337",
+    "entityIdParent": "168543",
+    "titleTextEncoded": "Summer-2015-Builder-s-Pack",
+    "category": null,
+    "duration": 78,
+    "settings": {},
+    "asset": {
+        "type": "mp4",
+        "hdvFlag": 1,
+        "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/479980144_1280x720.jpg",
+        "mediaDuration": 78,
+        "prettyDuration": "01:18",
+        "uploadDate": 1403634659,
+        "tags": "",
+        "hookText": "",
+        "sources": [
+            {
+                "file": "https:\/\/player.vimeo.com\/external\/99061339.hd.mp4?s=2d6a033a4c47818002b6ff5a814f20ec&profile_id=119&oauth2_token_id=56801069"
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

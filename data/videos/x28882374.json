@@ -1,0 +1,54 @@
+{
+    "title": "phantom- TRUE PERFORMANCE teaser",
+    "description": "Video teaser of TRUE PERFORMANCE boardshorts. Voted by Rob Machado as the best boardshort available.",
+    "referenceId": "WBVNBDLNHzQ",
+    "date_created": "1235603941",
+    "date_modified": "1468359433",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "4",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "28882374",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "550",
+    "entityIdParent": "158318",
+    "titleTextEncoded": "phantom-TRUE-PERFORMANCE-teaser",
+    "category": "",
+    "duration": 30,
+    "settings": "",
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/WBVNBDLNHzQ\/hqdefault.jpg",
+        "uploadDate": 1235603941,
+        "videoId": "WBVNBDLNHzQ",
+        "title": "phantom- TRUE PERFORMANCE teaser",
+        "description": "Video teaser of TRUE PERFORMANCE boardshorts. Voted by Rob Machado as the best boardshort available.",
+        "author": "Hurley",
+        "mediaDuration": 30,
+        "prettyDuration": "00:00:30",
+        "views": "1183",
+        "uploadAsset": false,
+        "quality": ""
+    },
+    "transcripts": "[Music Playing]",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

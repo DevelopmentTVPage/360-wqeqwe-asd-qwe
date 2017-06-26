@@ -1,0 +1,51 @@
+{
+    "title": "2014 Legendary Banked Slalom",
+    "description": "2014 Legendary Banked Slalom",
+    "referenceId": null,
+    "date_created": "1401316790",
+    "date_modified": "1455838525",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "2",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "170368",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "387",
+    "entityIdParent": "168543",
+    "titleTextEncoded": "2014-Legendary-Banked-Slalom",
+    "category": null,
+    "duration": "259",
+    "settings": [],
+    "asset": {
+        "author": "DAKINEOriginal",
+        "hdvFlag": 0,
+        "hookText": "",
+        "tags": "",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/5KGsay_E94E\/sddefault.jpg",
+        "uploadDate": 1392360912,
+        "videoId": "5KGsay_E94E",
+        "mediaDuration": "259",
+        "prettyDuration": "00:04:19"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

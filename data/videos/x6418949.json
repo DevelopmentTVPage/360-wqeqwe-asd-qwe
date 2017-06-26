@@ -1,0 +1,55 @@
+{
+    "title": "etnies Proudly Welcomes Davi Millsaps To The Team",
+    "description": "etnies Proudly Welcomes Davi Millsaps to the team!",
+    "referenceId": "19815611",
+    "date_created": "1443815036",
+    "date_modified": "1449087078",
+    "tags": "enties MX,etnies moto,JGR,davi millsaps",
+    "sourceId": "3",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "1",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6418949",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "46",
+    "entityIdParent": "168527",
+    "titleTextEncoded": "etnies-Proudly-Welcomes-Davi-Millsaps-To-The-Team",
+    "category": null,
+    "duration": 128,
+    "settings": {},
+    "asset": {
+        "type": "mp4",
+        "hdvFlag": 1,
+        "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/125959207_1280x720.jpg",
+        "mediaDuration": 128,
+        "prettyDuration": "02:08",
+        "uploadDate": 1297393003,
+        "tags": "enties MX,etnies moto,JGR,davi millsaps",
+        "hookText": "http:\/\/www.facebook.com\/etnies etnies Proudly Welcomes Davi Millsaps to the team!",
+        "sources": [
+            {
+                "file": "https:\/\/player.vimeo.com\/external\/19815611.hd.mp4?s=00efbd2bd15ac2362712a4ceefadc5b7&profile_id=113&oauth2_token_id=62432308"
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

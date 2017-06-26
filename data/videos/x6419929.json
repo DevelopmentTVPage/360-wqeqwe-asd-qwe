@@ -1,0 +1,55 @@
+{
+    "title": "Converse Pro Streets: Paris",
+    "description": "Jemappes. Montparnasse. Bercy. Pigalle. Ch\u00e2telet. Pro Streets is live across the city celebrating some of the most unique and diverse areas of Paris. We meet some of the locals who make each neighborhood what it is.",
+    "referenceId": "QJqZHLuk8rg",
+    "date_created": "1444243992",
+    "date_modified": "1447383090",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "2",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6419929",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "127",
+    "entityIdParent": "168524",
+    "titleTextEncoded": "Converse-Pro-Streets-Paris",
+    "category": null,
+    "duration": "140",
+    "settings": [],
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/QJqZHLuk8rg\/hqdefault.jpg",
+        "uploadDate": 1347954332,
+        "videoId": "QJqZHLuk8rg",
+        "title": "Converse Pro Streets: Paris",
+        "description": "Jemappes. Montparnasse. Bercy. Pigalle. Ch\u00e2telet. Pro Streets is live across the city celebrating some of the most unique and diverse areas of Paris. We meet...",
+        "author": "converse",
+        "mediaDuration": "140",
+        "prettyDuration": "00:02:20",
+        "views": "6042",
+        "hookText": "Jemappes. Montparnasse. Bercy. Pigalle. Ch\u00e2telet. Pro Streets is live across the city celebrating some of the most unique and diverse areas of Paris. We meet..."
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": [
+        "7"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

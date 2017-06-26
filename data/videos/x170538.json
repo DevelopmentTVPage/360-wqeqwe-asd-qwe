@@ -1,0 +1,53 @@
+{
+    "title": "DGK COMMERCIAL GRIDERS",
+    "description": "DGK Griders decks available at The Kayo Store",
+    "referenceId": null,
+    "date_created": "1401388486",
+    "date_modified": "1470260784",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": "DGK",
+    "video_celeb": null,
+    "video_activity": "Skating",
+    "VV_VI": "19",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "170538",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "0",
+    "entityIdParent": "168528",
+    "titleTextEncoded": "DGK-COMMERCIAL-GRIDERS",
+    "category": null,
+    "duration": "40",
+    "settings": [],
+    "asset": {
+        "author": "DGK",
+        "hdvFlag": 1,
+        "hookText": "DGK Griders decks available at The Kayo Store: http:\/\/www.thekayostore.com\/collections\/dgk?constraint=decks FOLLOW DGK AT: SITE: http:\/\/www.dgk.com FACEBOOK:...",
+        "tags": "",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/Bo20dUI5CX8\/sddefault.jpg",
+        "uploadDate": 1400349616,
+        "videoId": "Bo20dUI5CX8",
+        "mediaDuration": "40",
+        "prettyDuration": "00:00:40",
+        "uploadAsset": false,
+        "quality": ""
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

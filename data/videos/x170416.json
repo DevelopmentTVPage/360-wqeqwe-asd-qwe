@@ -1,0 +1,53 @@
+{
+    "title": "Skullcandy: Europe Tour Pt 2",
+    "description": "Join us as we hit Copenhagen with Eric Koston, Sean Malto, and Axel Cruysberghs!",
+    "referenceId": null,
+    "date_created": "1401322973",
+    "date_modified": "1470333595",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": "Skullcandy",
+    "video_celeb": null,
+    "video_activity": "Skating",
+    "VV_VI": "4",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "170416",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "10",
+    "entityIdParent": "168537",
+    "titleTextEncoded": "Skullcandy-Europe-Tour-Pt-2",
+    "category": null,
+    "duration": "182",
+    "settings": [],
+    "asset": {
+        "author": "Skullcandy",
+        "hdvFlag": 1,
+        "hookText": "Join us as we hit Copenhagen with Eric Koston, Sean Malto, and Axel Cruysberghs!",
+        "tags": "",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/59a6YDGrzf0\/sddefault.jpg",
+        "uploadDate": 1386695287,
+        "videoId": "59a6YDGrzf0",
+        "mediaDuration": "182",
+        "prettyDuration": "00:03:02",
+        "uploadAsset": false,
+        "quality": ""
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

@@ -1,0 +1,52 @@
+{
+    "title": "adidas Skateboarding Suciu ADV Inner Bootie",
+    "description": "Brass Tacks no. 49: Suciu ADV: Inner Bootie.",
+    "referenceId": "YrbIQwDUr8o",
+    "date_created": "1454296521",
+    "date_modified": "1455669509",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "11",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "26014428",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "23",
+    "entityIdParent": "168510",
+    "titleTextEncoded": "adidas-Skateboarding-Suciu-ADV-Inner-Bootie",
+    "category": "",
+    "duration": "14",
+    "settings": "",
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/YrbIQwDUr8o\/hqdefault.jpg",
+        "uploadDate": 1454296521,
+        "videoId": "YrbIQwDUr8o",
+        "title": "adidas Skateboarding Suciu ADV Inner Bootie",
+        "description": "Brass Tacks no. 49: Suciu ADV: Inner Bootie",
+        "author": "adidas Skateboarding",
+        "mediaDuration": "14",
+        "prettyDuration": "00:00:14",
+        "views": "1017"
+    },
+    "transcripts": "",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

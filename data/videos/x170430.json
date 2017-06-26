@@ -1,0 +1,55 @@
+{
+    "title": "Kelly Slater - Snapper Rocks Freesurf Barrel",
+    "description": "Kelly Slater threads the needle behind the rock at Snapper during a freesurf session between heats at the 2014 Quiksilver Pro Gold Coast.",
+    "referenceId": null,
+    "date_created": "1401327784",
+    "date_modified": "1470335275",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": "Quiksilver",
+    "video_celeb": null,
+    "video_activity": "Surfing",
+    "VV_VI": "16",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "170430",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "5",
+    "entityIdParent": "168535",
+    "titleTextEncoded": "Kelly-Slater-Snapper-Rocks-Freesurf-Barrel",
+    "category": null,
+    "duration": "42",
+    "settings": [],
+    "asset": {
+        "author": "Quiksilver",
+        "hdvFlag": 1,
+        "hookText": "Kelly Slater threads the needle behind the rock at Snapper during a freesurf session between heats at the 2014 Quiksilver Pro Gold Coast. http:\/\/quiksilver.com\/",
+        "tags": "",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/I56LEd31OOI\/sddefault.jpg",
+        "uploadDate": 1394517418,
+        "videoId": "I56LEd31OOI",
+        "mediaDuration": "42",
+        "prettyDuration": "00:00:42",
+        "uploadAsset": false,
+        "quality": ""
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": [
+        "33"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

@@ -1,0 +1,30 @@
+{
+    "title": "DC Shoes",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1401129125",
+    "date_modified": "1419383916",
+    "tags": "",
+    "sourceId": null,
+    "status": "approved",
+    "visibility": "1",
+    "id": "168550",
+    "loginId": "753",
+    "entityType": "3",
+    "titleTextEncoded": "DC-Shoes",
+    "category": null,
+    "duration": null,
+    "settings": {
+        "canvasImage": "448469670-0.JPG",
+        "colorClass": "light",
+        "canvasType": "cropped",
+        "canvasCropped": "448469670-128030721656.JPG",
+        "auto": {
+            "dynamic": 0
+        },
+        "optimize": 1,
+        "autoPlay": 1,
+        "autoNext": 1
+    },
+    "transcripts": null
+}

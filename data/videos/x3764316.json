@@ -1,0 +1,53 @@
+{
+    "title": "LA FREAKERS",
+    "description": "LA freakers to clear the speakers",
+    "referenceId": null,
+    "date_created": "1409952799",
+    "date_modified": "1470268135",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": "Freaker",
+    "video_celeb": null,
+    "video_activity": "Art___Design",
+    "VV_VI": "2",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "3764316",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "3",
+    "entityIdParent": "3764313",
+    "titleTextEncoded": "LA-FREAKERS",
+    "category": null,
+    "duration": "50",
+    "settings": [],
+    "asset": {
+        "author": "FreakerUSA",
+        "hdvFlag": 1,
+        "hookText": "LA freakers to clear the speakers check them out at www.freakerusa.com.",
+        "tags": "",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/R5FPI9owA48\/maxresdefault.jpg",
+        "uploadDate": 1320636003,
+        "videoId": "R5FPI9owA48",
+        "mediaDuration": "50",
+        "prettyDuration": "00:00:50",
+        "uploadAsset": false,
+        "quality": ""
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

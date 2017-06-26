@@ -1,0 +1,53 @@
+{
+    "title": "VonZipper : John Jackson in the El Kabong",
+    "description": "El Kabong takes center stage with it's mystical and revolutionary frameless design and presto change-o lens system. Say abracadabra and pull a rabbit out of your hat with this magical on hill performer.",
+    "referenceId": "1TZg9WCuv3g",
+    "date_created": "1443482224",
+    "date_modified": "1443482224",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "1",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6416649",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "36",
+    "entityIdParent": "168533",
+    "titleTextEncoded": "VonZipper-John-Jackson-in-the-El-Kabong",
+    "category": null,
+    "duration": "38",
+    "settings": {},
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/1TZg9WCuv3g\/hqdefault.jpg",
+        "uploadDate": 1347389515,
+        "videoId": "1TZg9WCuv3g",
+        "title": "VonZipper : John Jackson in the El Kabong",
+        "description": "El Kabong takes center stage with it's mystical and revolutionary frameless design and presto change-o lens system. Say abracadabra and pull a rabbit out of your hat with this magical on hill performer.",
+        "author": "VonZipper",
+        "mediaDuration": "38",
+        "prettyDuration": "00:00:38",
+        "views": "2645",
+        "hookText": "El Kabong takes center stage with it's mystical and revolutionary frameless design and presto change-o lens system. Say abracadabra and pull a rabbit out of your hat with this magical on hill performer."
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

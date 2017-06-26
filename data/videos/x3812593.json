@@ -1,0 +1,71 @@
+{
+    "title": "Tilly's Spring Preview",
+    "description": "Take a peek at what we have coming for spring. Say goodbye to cold winter and hello to swim fashion, fun prints, jogger shorts, dresses and a lil' bit of sunshine - get excited.",
+    "referenceId": null,
+    "date_created": "1419290639",
+    "date_modified": "1470242969",
+    "tags": "Tilly's, Spring, Spring Preview, Shop, Shopping, Swim Wear, Bikini, Boardshorts, Shoes, Tees, Tanks",
+    "sourceId": "1",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": "Art___Design",
+    "VV_VI": "1156",
+    "CVV_VI": "115",
+    "engagement_score": "10",
+    "conversion_score": "9",
+    "id": "3812593",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "20",
+    "entityIdParent": "195929",
+    "titleTextEncoded": "Tilly-s-Spring-Preview",
+    "category": null,
+    "duration": "114",
+    "settings": [],
+    "asset": {
+        "type": "mp4",
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/753\/canvas\/655\/368\/957093394-0-01093615.png",
+        "mediaDuration": "114",
+        "prettyDuration": "00:01:54",
+        "hookText": "Tilly's Spring Preview",
+        "tags": "Tilly's, Spring, Spring Preview, Shop, Shopping, Swim Wear, Bikini, Boardshorts, Shoes, Tees, Tanks",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/3812593\/720p_4e31527e_66ac_4d1d_c228_88912aa7a8f4.mp4",
+                "quality": "720p"
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/3812593\/480p_4e31527e_66ac_4d1d_c228_88912aa7a8f4.mp4",
+                "quality": "480p",
+                "tvpdefault": true
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/3812593\/360p_4e31527e_66ac_4d1d_c228_88912aa7a8f4.mp4",
+                "quality": "360p"
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "conversion_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

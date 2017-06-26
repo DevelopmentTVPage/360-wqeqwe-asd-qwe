@@ -1,0 +1,51 @@
+{
+    "title": "Dirksen Derby 2012",
+    "description": "The Dirksen Derby happened this weekend, and it ruled. Over 300 boarders - including northwest locals, top pros and legends - gathered at Mt. Bachelor to try their hand at Dirksen's hand built course. The event is a fundraiser for Tyler Eklund who was paralyzed snowboarding six years ago. Words can't describe how awesome this event is - snowboarding needs more of this! Check out some of the boarding that went down and make sure you come out next year.",
+    "referenceId": "56950046",
+    "date_created": "1443631445",
+    "date_modified": "1448403881",
+    "tags": "",
+    "sourceId": "3",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "1",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6418004",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "161",
+    "entityIdParent": "168543",
+    "titleTextEncoded": "Dirksen-Derby-2012",
+    "category": null,
+    "duration": 167,
+    "settings": {},
+    "asset": {
+        "type": "mp4",
+        "hdvFlag": 0,
+        "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/400205887_1280x720.jpg",
+        "mediaDuration": 167,
+        "prettyDuration": "02:47",
+        "uploadDate": 1357601645,
+        "tags": "",
+        "hookText": "",
+        "sources": []
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

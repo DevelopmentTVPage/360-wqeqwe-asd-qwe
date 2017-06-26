@@ -1,0 +1,50 @@
+{
+    "title": "Round of 112, Heat 8",
+    "description": "Volcom Pipe Pro 2012 - Heats On Demand\nRound of 112, Heat 8",
+    "referenceId": null,
+    "date_created": "1398813993",
+    "date_modified": "1418181383",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "1",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "163816",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "109",
+    "entityIdParent": "168557",
+    "titleTextEncoded": "Round-of-112-Heat-8",
+    "category": null,
+    "duration": "87",
+    "settings": [],
+    "asset": {
+        "author": "Volcom",
+        "videoId": "c0wNsVEx-6g",
+        "hookText": "Volcom Pipe Pro 2012 - Heats On Demand\nRound of 112, Heat 8",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/c0wNsVEx-6g\/maxresdefault.jpg",
+        "mediaDuration": "87",
+        "hdvFlag": 1,
+        "uploadDate": 1327902136,
+        "prettyDuration": "00:01:27"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

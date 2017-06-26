@@ -1,0 +1,30 @@
+{
+    "title": "Darkstar",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1409933786",
+    "date_modified": "1409934256",
+    "tags": "",
+    "sourceId": null,
+    "status": "approved",
+    "visibility": "1",
+    "id": "3764060",
+    "loginId": "753",
+    "entityType": "3",
+    "titleTextEncoded": "Darkstar",
+    "category": null,
+    "duration": null,
+    "settings": {
+        "canvasImage": "857702757-0.jpg",
+        "colorClass": "light",
+        "canvasType": "cropped",
+        "canvasCropped": "857702757-027480297.jpg",
+        "hideoos": 1,
+        "auto": {
+            "dynamic": 0
+        },
+        "optimize": 1,
+        "autoPlay": 0
+    },
+    "transcripts": null
+}

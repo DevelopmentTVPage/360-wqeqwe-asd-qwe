@@ -1,0 +1,25 @@
+{
+    "title": "Hoonigan",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1437439289",
+    "date_modified": "1437523311",
+    "tags": "",
+    "sourceId": null,
+    "status": "approved",
+    "visibility": "1",
+    "id": "3849612",
+    "loginId": "753",
+    "entityType": "3",
+    "titleTextEncoded": "Hoonigan",
+    "category": null,
+    "duration": null,
+    "settings": {
+        "canvasImage": "default_canvas3.jpg",
+        "colorClass": "light",
+        "canvasType": "gallery",
+        "autoPlay": 1,
+        "autoNext": 1
+    },
+    "transcripts": null
+}

@@ -1,0 +1,54 @@
+{
+    "title": "MUDMASTER GWG 1000",
+    "description": "MUDMASTER GWG 1000",
+    "referenceId": "9nHj9mRtsLo",
+    "date_created": "1456763144",
+    "date_modified": "1472582882",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "3",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "67602811",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "34",
+    "entityIdParent": "168556",
+    "titleTextEncoded": "MUDMASTER-GWG-1000",
+    "category": "",
+    "duration": 139,
+    "settings": "",
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/9nHj9mRtsLo\/hqdefault.jpg",
+        "uploadDate": 1456763144,
+        "videoId": "9nHj9mRtsLo",
+        "title": "MUDMASTER GWG 1000",
+        "description": "",
+        "author": "gshockus",
+        "mediaDuration": 139,
+        "prettyDuration": "00:02:19",
+        "views": "22231",
+        "uploadAsset": false,
+        "quality": ""
+    },
+    "transcripts": "[Music Playing]",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

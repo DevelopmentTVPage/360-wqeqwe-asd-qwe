@@ -1,0 +1,55 @@
+{
+    "title": "etnies' Taka Time at the Compound",
+    "description": "etnies spent some time with Taka Higashino at The Compound.\nhttp:\/\/etnies.com\nhttp:\/\/www.facebook.com\/etnies",
+    "referenceId": "31279663",
+    "date_created": "1443563987",
+    "date_modified": "1443563987",
+    "tags": "moto,moto x,etnies,Taka Higashino",
+    "sourceId": "3",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "1",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6417895",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "137",
+    "entityIdParent": "168527",
+    "titleTextEncoded": "etnies-Taka-Time-at-the-Compound",
+    "category": null,
+    "duration": 122,
+    "settings": {},
+    "asset": {
+        "type": "mp4",
+        "sources": [
+            {
+                "file": "https:\/\/player.vimeo.com\/external\/31279663.hd.mp4?s=7168fc696a376aae04d9239e034d0b32&profile_id=113&oauth2_token_id=62432308"
+            }
+        ],
+        "hdvFlag": 1,
+        "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/210701594_1280x699.jpg",
+        "mediaDuration": 122,
+        "prettyDuration": "02:02",
+        "uploadDate": 1319843073,
+        "tags": "moto,moto x,etnies,Taka Higashino",
+        "hookText": "etnies spent some time with Taka Higashino at The Compound.\nhttp:\/\/etnies.com\nhttp:\/\/www.facebook.com\/etnies"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

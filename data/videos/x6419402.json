@@ -1,0 +1,53 @@
+{
+    "title": "James \"Bubba\" Stewart",
+    "description": "James \"Bubba\" Stewart",
+    "referenceId": "oB18ACFANPY",
+    "date_created": "1444149231",
+    "date_modified": "1449864551",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "1",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6419402",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "25",
+    "entityIdParent": "168514",
+    "titleTextEncoded": "James-Bubba-Stewart",
+    "category": null,
+    "duration": "550",
+    "settings": {},
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/oB18ACFANPY\/hqdefault.jpg",
+        "uploadDate": 1274484961,
+        "videoId": "oB18ACFANPY",
+        "title": "James \"Bubba\" Stewart",
+        "description": "Subscribe to Fox for new videos weekly: http:\/\/www.youtube.com\/FoxHeadInc Twitter: http:\/\/twitter.com\/foxheadinc Facebook: http:\/\/facebook.com\/foxracing for ...",
+        "author": "FoxHeadInc",
+        "mediaDuration": "550",
+        "prettyDuration": "00:09:10",
+        "views": "166",
+        "hookText": "Subscribe to Fox for new videos weekly: http:\/\/www.youtube.com\/FoxHeadInc Twitter: http:\/\/twitter.com\/foxheadinc Facebook: http:\/\/facebook.com\/foxracing for ..."
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

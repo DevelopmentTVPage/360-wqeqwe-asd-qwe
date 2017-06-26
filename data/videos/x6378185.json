@@ -1,0 +1,53 @@
+{
+    "title": "ENJOI, BRING IT IN.",
+    "description": "we have the hugs\nyour parents\nnever gave you.\n\nOVERVERT coming soon.",
+    "referenceId": null,
+    "date_created": "1440439532",
+    "date_modified": "1444174538",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "3",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6378185",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "34",
+    "entityIdParent": "3764281",
+    "titleTextEncoded": "ENJOI-BRING-IT-IN",
+    "category": null,
+    "duration": "40",
+    "settings": {},
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/JNuFQOBTluQ\/hqdefault.jpg",
+        "uploadDate": 1412808714,
+        "videoId": "JNuFQOBTluQ",
+        "title": "ENJOI, BRING IT IN.",
+        "description": "we have the hugs your parents never gave you. OVERVERT coming soon.",
+        "author": "enjoicoskateboards",
+        "mediaDuration": "40",
+        "prettyDuration": "00:00:40",
+        "views": "26042",
+        "hookText": "we have the hugs your parents never gave you. OVERVERT coming soon."
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

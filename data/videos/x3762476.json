@@ -1,0 +1,51 @@
+{
+    "title": "Billabong Neon Safari: Spring 2014",
+    "description": "Come on a Neon Safari with us...",
+    "referenceId": null,
+    "date_created": "1409771849",
+    "date_modified": "1447274627",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "21",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "3762476",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "5",
+    "entityIdParent": "168512",
+    "titleTextEncoded": "Billabong-Neon-Safari-Spring-2014",
+    "category": null,
+    "duration": "64",
+    "settings": [],
+    "asset": {
+        "author": "billabong",
+        "hdvFlag": 1,
+        "hookText": "Come on a Neon Safari with us... http:\/\/www.billabong.com\/. Billabong on Facebook: https:\/\/www.facebook.com\/BillabongWomensAustralia Billabong...",
+        "tags": "",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/u5O9JW1Xw-w\/maxresdefault.jpg",
+        "uploadDate": 1409634239,
+        "videoId": "u5O9JW1Xw-w",
+        "mediaDuration": "64",
+        "prettyDuration": "00:01:04"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

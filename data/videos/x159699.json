@@ -1,0 +1,50 @@
+{
+    "title": "LOWERS LEGACY: CHRISTIAN FLETCHER AND JEFF BOOTH",
+    "description": "Lower Trestles' classic",
+    "referenceId": null,
+    "date_created": "1398361014",
+    "date_modified": "1450126333",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "5",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "159699",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "14",
+    "entityIdParent": "158318",
+    "titleTextEncoded": "LOWERS-LEGACY-CHRISTIAN-FLETCHER-AND-JEFF-BOOTH",
+    "category": null,
+    "duration": "90",
+    "settings": [],
+    "asset": {
+        "author": "Hurley",
+        "videoId": "MgwA7tJWRIQ",
+        "hookText": "Lower Trestles' classic.",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/MgwA7tJWRIQ\/hqdefault.jpg",
+        "mediaDuration": "90",
+        "hdvFlag": 0,
+        "uploadDate": 1284631391,
+        "prettyDuration": "00:01:30"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

@@ -1,0 +1,52 @@
+{
+    "title": "Acid Reign Pro Series",
+    "description": "Acid Reign Series Commercial featuring Dylan Rieder. \n\nMusic:\n\"Somnolent Composition\"\nPerformed by Nicholas Andrew Sadler",
+    "referenceId": null,
+    "date_created": "1401234434",
+    "date_modified": "1455843416",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "1",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "169267",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "7",
+    "entityIdParent": "168555",
+    "titleTextEncoded": "Acid-Reign-Pro-Series",
+    "category": null,
+    "duration": "30",
+    "settings": [],
+    "asset": {
+        "author": "Alien Workshop",
+        "videoId": "JONdLl9SmhA",
+        "hookText": "Acid Reign Series Commercial featuring Dylan Rieder. Music: \"Somnolent Composition\" Performed by Nicholas Andrew Sadler nicksadler.bandcamp.com nsadler.nsadl...",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/JONdLl9SmhA\/maxresdefault.jpg",
+        "mediaDuration": "30",
+        "hdvFlag": 1,
+        "uploadDate": 1375131649,
+        "prettyDuration": "00:00:30"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": [
+        "7"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

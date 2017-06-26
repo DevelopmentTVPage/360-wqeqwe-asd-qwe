@@ -1,0 +1,59 @@
+{
+    "title": "NIXON | Come Hell or High Water - Trailer",
+    "description": "Check out Keith Malloy's latest project, Come Hell or Highwater. A look at riding waves from a different perspective.",
+    "referenceId": null,
+    "date_created": "1413506658",
+    "date_modified": "1470328530",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": "Nixon",
+    "video_celeb": null,
+    "video_activity": "Surfing",
+    "VV_VI": "173",
+    "CVV_VI": "8",
+    "engagement_score": "1",
+    "conversion_score": null,
+    "id": "3778035",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "13",
+    "entityIdParent": "168526",
+    "titleTextEncoded": "NIXON-Come-Hell-or-High-Water-Trailer",
+    "category": null,
+    "duration": "237",
+    "settings": [],
+    "asset": {
+        "author": "Nixon",
+        "hdvFlag": 0,
+        "hookText": "Check out Keith Malloy's latest project, Come Hell or Highwater. A look at riding waves from a different perspective.",
+        "tags": "",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/3L41f87Jt_c\/sddefault.jpg",
+        "uploadDate": 1307637311,
+        "videoId": "3L41f87Jt_c",
+        "mediaDuration": "237",
+        "prettyDuration": "00:03:57",
+        "uploadAsset": false,
+        "quality": ""
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "conversion_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

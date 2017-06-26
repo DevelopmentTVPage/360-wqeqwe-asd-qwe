@@ -1,0 +1,53 @@
+{
+    "title": "TEST Video 2",
+    "description": "MANILA - Nine police officers have tested positive for illegal drug use following a surprise test conducted Friday. \n\nSubscribe to the ABS-CBN News channel! - http:\/\/bit.ly\/TheABSCBNNews\n\nVisit our website at http:\/\/news.abs-cbn.com\nFacebook: https:\/\/www.facebook.com\/abscbnNEWS\nTwitter: https:\/\/twitter.com\/abscbnnews",
+    "referenceId": "8t8v6jLTWBM",
+    "date_created": "1467734765",
+    "date_modified": "1467735414",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": "brand_2",
+    "video_celeb": "celeb_3",
+    "video_activity": "activity_1",
+    "VV_VI": "6",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "66483115",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "0",
+    "entityIdParent": "3827150",
+    "titleTextEncoded": "TEST-Video-2",
+    "category": null,
+    "duration": 166,
+    "settings": null,
+    "asset": {
+        "type": "youtube",
+        "author": "ABS-CBN News",
+        "hdvFlag": 0,
+        "hookText": "MANILA - Nine police officers have tested positive for illegal drug use following a surprise test conducted Friday. \n\nSubscribe to the ABS-CBN News channel! - http:\/\/bit.ly\/TheABSCBNNews\n\nVisit our website at http:\/\/news.abs-cbn.com\nFacebook: https:\/\/www.facebook.com\/abscbnNEWS\nTwitter: https:\/\/twitter.com\/abscbnnews",
+        "tags": "",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/8t8v6jLTWBM\/hqdefault.jpg",
+        "videoId": "8t8v6jLTWBM",
+        "mediaDuration": 166,
+        "prettyDuration": "00:02:46",
+        "uploadAsset": false,
+        "quality": ""
+    },
+    "transcripts": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean malesuada odio id imperdiet tempus. Curabitur quis velit eu odio euismod ullamcorper. Ut et finibus mauris. Integer feugiat viverra dolor. Phasellus iaculis sodales nisi ut congue. Proin rhoncus in urna a maximus. Pellentesque eu sagittis urna, in sollicitudin justo. Cras et justo eu quam lacinia tempus.\n\nIn imperdiet mattis arcu, at eleifend nulla. Nulla porta ex urna. Curabitur risus diam, laoreet at pellentesque iaculis, convallis in massa. Suspendisse tristique dui at pretium cursus. Fusce quis metus sollicitudin, suscipit velit vitae, molestie nibh. Vestibulum fermentum aliquam imperdiet. Phasellus eget consectetur magna. Sed efficitur diam vitae accumsan luctus. Phasellus at felis pharetra, ullamcorper turpis sit amet, pharetra sapien.\n\nAliquam molestie ex et leo pretium, eu hendrerit est pretium. Quisque aliquam lectus at ultricies efficitur. Sed fringilla porta erat at semper. Donec consequat arcu ac est molestie scelerisque. Praesent aliquam sapien vitae tellus bibendum faucibus. Donec et justo eu odio ornare elementum. Proin dapibus, lorem in euismod maximus, augue sapien tempor nisi, sed consectetur ipsum nulla in neque. Donec dictum dui nec magna pharetra, sit amet rhoncus ipsum congue.",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

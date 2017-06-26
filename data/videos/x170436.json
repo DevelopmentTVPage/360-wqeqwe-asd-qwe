@@ -1,0 +1,53 @@
+{
+    "title": "The End Of The Road, Day 3",
+    "description": "And the waves continue at Teahupoo. Here's the highlights from Wednesday, May 15.",
+    "referenceId": null,
+    "date_created": "1401327856",
+    "date_modified": "1470335331",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": "Quiksilver",
+    "video_celeb": null,
+    "video_activity": "Surfing",
+    "VV_VI": "27",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "170436",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "7",
+    "entityIdParent": "168535",
+    "titleTextEncoded": "The-End-Of-The-Road-Day-3",
+    "category": null,
+    "duration": "138",
+    "settings": [],
+    "asset": {
+        "author": "Quiksilver",
+        "hdvFlag": 1,
+        "hookText": "And the waves continue at Teahupoo. Here's the highlights from Wednesday, May 15. http:\/\/quiksilver.com.",
+        "tags": "",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/oxq6bSBU1GU\/sddefault.jpg",
+        "uploadDate": 1368731010,
+        "videoId": "oxq6bSBU1GU",
+        "mediaDuration": "138",
+        "prettyDuration": "00:02:18",
+        "uploadAsset": false,
+        "quality": ""
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

@@ -1,0 +1,53 @@
+{
+    "title": "EMPORIUM VISIT: ANTWUAN DIXON",
+    "description": "EMPORIUM VISIT: ANTWUAN DIXON",
+    "referenceId": "BSW6oWvJqF0",
+    "date_created": "1444063091",
+    "date_modified": "1449005526",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "1",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6419203",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "65",
+    "entityIdParent": "3763996",
+    "titleTextEncoded": "EMPORIUM-VISIT-ANTWUAN-DIXON",
+    "category": null,
+    "duration": "256",
+    "settings": {},
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/BSW6oWvJqF0\/hqdefault.jpg",
+        "uploadDate": 1345672275,
+        "videoId": "BSW6oWvJqF0",
+        "title": "EMPORIUM VISIT: ANTWUAN DIXON",
+        "description": "",
+        "author": "ashburyeyewear",
+        "mediaDuration": "256",
+        "prettyDuration": "00:04:16",
+        "views": "72683",
+        "hookText": ""
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

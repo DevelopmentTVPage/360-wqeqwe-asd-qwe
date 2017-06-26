@@ -1,0 +1,53 @@
+{
+    "title": "Tristan Eaton in Los Angeles - Converse Blank Canvas",
+    "description": "Tristan Eaton in Los Angeles - Converse Blank Canvas.",
+    "referenceId": null,
+    "date_created": "1441135412",
+    "date_modified": "1445272482",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "4",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6386077",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "534",
+    "entityIdParent": "168524",
+    "titleTextEncoded": "Tristan-Eaton-in-Los-Angeles-Converse-Blank-Canvas",
+    "category": null,
+    "duration": "112",
+    "settings": {},
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/KJSDKHGAkrM\/hqdefault.jpg",
+        "uploadDate": 1427381769,
+        "videoId": "KJSDKHGAkrM",
+        "title": "Tristan Eaton in Los Angeles - Converse Blank Canvas",
+        "description": "Tristan Eaton in Los Angeles - Converse Blank Canvas.",
+        "author": "converse",
+        "mediaDuration": "112",
+        "prettyDuration": "00:01:52",
+        "views": "67715",
+        "hookText": "Tristan Eaton in Los Angeles - Converse Blank Canvas."
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

@@ -1,0 +1,59 @@
+{
+    "title": "Mark Gonzales & Brad Cromer - Krooked NYC BARK_MRAD",
+    "description": "Mark Gonzales and Brad Cromer in Krooked NYC BARK_MRAD. \nA short film by NYC artist Stephen MCclintock.",
+    "referenceId": null,
+    "date_created": "1410195006",
+    "date_modified": "1470270830",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": "Krooked",
+    "video_celeb": null,
+    "video_activity": "Skating",
+    "VV_VI": "9",
+    "CVV_VI": "1",
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "3764356",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "0",
+    "entityIdParent": "3764352",
+    "titleTextEncoded": "Mark-Gonzales-Brad-Cromer-Krooked-NYC-BARK-MRAD",
+    "category": null,
+    "duration": "399",
+    "settings": [],
+    "asset": {
+        "author": "Krooked Skateboards",
+        "hdvFlag": 1,
+        "hookText": "Mark Gonzales and Brad Cromer in Krooked NYC BARK_MRAD. A short film by NYC artist Stephen MCclintock. See the Krooked X Stephen MCclintock collaboration dec...",
+        "tags": "",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/KZi0Wok8n2E\/maxresdefault.jpg",
+        "uploadDate": 1395441000,
+        "videoId": "KZi0Wok8n2E",
+        "mediaDuration": "399",
+        "prettyDuration": "00:06:39",
+        "uploadAsset": false,
+        "quality": ""
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "conversion_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

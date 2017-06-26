@@ -1,0 +1,102 @@
+{
+    "pageNumber": 0,
+    "data": [
+        {
+            "id": "3848270",
+            "title": "RSQ FitGuide",
+            "date_created": "1436294631",
+            "loginId": "753",
+            "tags": "",
+            "description": "RSQ FitGuide",
+            "asset": {
+                "type": "mp4",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/753\/canvas\/655\/368\/952764210-101391178639.png",
+                "mediaDuration": "121",
+                "prettyDuration": "00:02:01",
+                "hookText": "RSQ FitGuide",
+                "tags": "",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/3848270\/35d7b31e_1e7c_4a3a_982a_bf9c0817a851.mp4"
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/3848270\/720p_35d7b31e_1e7c_4a3a_982a_bf9c0817a851.mp4",
+                        "quality": "720p"
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/3848270\/480p_35d7b31e_1e7c_4a3a_982a_bf9c0817a851.mp4",
+                        "quality": "480p"
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/3848270\/360p_35d7b31e_1e7c_4a3a_982a_bf9c0817a851.mp4",
+                        "quality": "360p"
+                    }
+                ]
+            },
+            "parentId": "189316",
+            "url": "\/rsq\/rsq-fitguide\/189316-3848270"
+        },
+        {
+            "id": "3848263",
+            "title": "RSQ Lifestyle",
+            "date_created": "1436294314",
+            "loginId": "753",
+            "tags": "",
+            "description": "RSQ Lifestyle",
+            "asset": {
+                "type": "mp4",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/753\/canvas\/655\/368\/892547398-163621814985.png",
+                "mediaDuration": "79",
+                "prettyDuration": "00:01:19",
+                "hookText": "RSQ Lifestyle",
+                "tags": "",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/3848263\/916c09c6_aaa9_488e_b9d1_76fbaf382908.mp4"
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/3848263\/720p_916c09c6_aaa9_488e_b9d1_76fbaf382908.mp4",
+                        "quality": "720p"
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/3848263\/480p_916c09c6_aaa9_488e_b9d1_76fbaf382908.mp4",
+                        "quality": "480p"
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/3848263\/360p_916c09c6_aaa9_488e_b9d1_76fbaf382908.mp4",
+                        "quality": "360p"
+                    }
+                ]
+            },
+            "parentId": "189316",
+            "url": "\/rsq\/rsq-lifestyle\/189316-3848263"
+        },
+        {
+            "id": "189313",
+            "title": "RSQME",
+            "date_created": "1405364342",
+            "loginId": "753",
+            "tags": "",
+            "description": "Tap into your street sensibilities with jeans styles inspired by the world's boldest cities. From rugged to high fashion.",
+            "asset": {
+                "type": "mp4",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/753\/canvas\/655\/368\/656800037-0024231362.png",
+                "mediaDuration": "122",
+                "prettyDuration": "00:02:02",
+                "hookText": "Tap into your street sensibilities with jeans styles inspired by the world's boldest cities. From rugged to high fashion, find your signature #RSQME look at tillys.com.",
+                "tags": "",
+                "sources": [
+                    {
+                        "file": "\/\/do0631budpzeh.cloudfront.net\/live\/videos\/753\/58a8c808_2fcc_43b8_b140_4755a7915226.mp4"
+                    }
+                ]
+            },
+            "parentId": "189316",
+            "url": "\/rsq\/rsqme\/189316-189313"
+        }
+    ]
+}

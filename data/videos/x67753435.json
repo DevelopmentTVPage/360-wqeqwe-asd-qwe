@@ -1,0 +1,53 @@
+{
+    "title": "Dog Paddle Boarding",
+    "description": "Take your dog paddleboarding!",
+    "referenceId": "hS2lQZIzbcA",
+    "date_created": "1472604109",
+    "date_modified": "1472604426",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "1",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "67753435",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "92",
+    "entityIdParent": "3762188",
+    "titleTextEncoded": "Dog-Paddle-Boarding",
+    "category": null,
+    "duration": 146,
+    "settings": null,
+    "asset": {
+        "type": "youtube",
+        "author": "Nate Dunn",
+        "hdvFlag": 0,
+        "hookText": "Take you dog paddleboarding!\nhttp:\/\/www.gulfsidepaddleboards.com",
+        "tags": "",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/hS2lQZIzbcA\/hqdefault.jpg",
+        "videoId": "hS2lQZIzbcA",
+        "mediaDuration": 146,
+        "prettyDuration": "00:02:26",
+        "uploadAsset": false,
+        "quality": ""
+    },
+    "transcripts": "[Music Playing]",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

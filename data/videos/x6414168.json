@@ -1,0 +1,48 @@
+{
+    "title": "Dakine 2014 Kiteboarding collection preview",
+    "description": "Check out the new Dakine Kiteboarding product designs and some smooth freestyle action in this sick edit direct from Hood River Oregon USA.",
+    "referenceId": "71982146",
+    "date_created": "1443119781",
+    "date_modified": "1448048937",
+    "tags": "",
+    "sourceId": "3",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6414168",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "202",
+    "entityIdParent": "168543",
+    "titleTextEncoded": "Dakine-2014-Kiteboarding-collection-preview",
+    "category": null,
+    "duration": 85,
+    "settings": {},
+    "asset": {
+        "type": "mp4",
+        "hdvFlag": 0,
+        "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/446367597_1280x720.jpg",
+        "mediaDuration": 85,
+        "prettyDuration": "01:25",
+        "uploadDate": 1375980516,
+        "tags": "",
+        "hookText": "Check out the new Dakine Kiteboarding product designs and some smooth freestyle action in this sick edit direct from Hood River Oregon USA.",
+        "sources": [
+            {
+                "file": "https:\/\/player.vimeo.com\/external\/71982146.sd.mp4?s=2bc295040e05c94535374870252663e4&profile_id=112&oauth2_token_id=56801069"
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

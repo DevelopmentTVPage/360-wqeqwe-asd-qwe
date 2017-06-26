@@ -1,0 +1,40 @@
+{
+    "title": "Latest Videos",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1407544253",
+    "date_modified": "1431448808",
+    "tags": "",
+    "sourceId": null,
+    "status": "approved",
+    "visibility": "1",
+    "id": "195929",
+    "loginId": "753",
+    "entityType": "3",
+    "titleTextEncoded": "Latest-Videos",
+    "category": null,
+    "duration": null,
+    "settings": {
+        "canvasImage": "548983972-0.jpg",
+        "colorClass": "light",
+        "canvasType": "cropped",
+        "canvasCropped": "548983972-07620481226.jpg",
+        "hideoos": 1,
+        "auto": {
+            "dynamic": 0,
+            "advanced": {
+                "title": "",
+                "description": "",
+                "category": "",
+                "brand": "",
+                "color": "",
+                "quantity": "",
+                "date_created": ""
+            }
+        },
+        "optimize": 1,
+        "autoPlay": 1,
+        "autoNext": 1
+    },
+    "transcripts": null
+}

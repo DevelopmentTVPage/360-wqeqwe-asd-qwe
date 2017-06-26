@@ -1,0 +1,50 @@
+{
+    "title": "Low Life Tour 2011 Trailer",
+    "description": "Low Life Tour 2011 Trailer",
+    "referenceId": null,
+    "date_created": "1405374717",
+    "date_modified": "1450125900",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "1",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "189352",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "1",
+    "entityIdParent": "168517",
+    "titleTextEncoded": "Low-Life-Tour-2011-Trailer",
+    "category": null,
+    "duration": "175",
+    "settings": [],
+    "asset": {
+        "author": "KR3WDenimTV",
+        "videoId": "L_l_qZEA9i0",
+        "hookText": "SITE: http:\/\/kr3wdenim.com\/ FACEBOOK: http:\/\/www.facebook.com\/kr3wdenim TWITTER: http:\/\/twitter.com\/KR3W_DENIM\/ INSTAGRAM: http:\/\/instagram.com\/kr3w_denim VI...",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/L_l_qZEA9i0\/sddefault.jpg",
+        "mediaDuration": "175",
+        "hdvFlag": 0,
+        "uploadDate": 1361351958,
+        "prettyDuration": "00:02:55"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

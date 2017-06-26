@@ -1,0 +1,31 @@
+{
+    "title": "Ocean Minded",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1410201922",
+    "date_modified": "1410202553",
+    "tags": "",
+    "sourceId": null,
+    "status": "approved",
+    "visibility": "1",
+    "id": "3764399",
+    "loginId": "753",
+    "entityType": "3",
+    "titleTextEncoded": "Ocean-Minded",
+    "category": null,
+    "duration": null,
+    "settings": {
+        "canvasImage": "729355550-0.jpg",
+        "colorClass": "light",
+        "canvasType": "cropped",
+        "canvasCropped": "729355550-016503298.jpg",
+        "hideoos": 1,
+        "auto": {
+            "dynamic": 0,
+            "limit": 4
+        },
+        "optimize": 1,
+        "autoPlay": 0
+    },
+    "transcripts": null
+}

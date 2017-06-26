@@ -1,0 +1,57 @@
+{
+    "title": "Shave on Over or We'll Shave on Over You",
+    "description": "Movember has begun and its time to shave off that facial fluff!",
+    "referenceId": null,
+    "date_created": "1401404031",
+    "date_modified": "1450476935",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "25",
+    "CVV_VI": "2",
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "170627",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "1",
+    "entityIdParent": "168521",
+    "titleTextEncoded": "Shave-on-Over-or-We-ll-Shave-on-Over-You",
+    "category": null,
+    "duration": "58",
+    "settings": [],
+    "asset": {
+        "author": "Electric Visual",
+        "hdvFlag": 1,
+        "hookText": "Movember has begun and its time to shave off that facial fluff! Find out more about our march for Movember at www.electricvisual.com\/movember.",
+        "tags": "",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/52VzlZ9UZEs\/sddefault.jpg",
+        "uploadDate": 1383333828,
+        "videoId": "52VzlZ9UZEs",
+        "mediaDuration": "58",
+        "prettyDuration": "00:00:58"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "conversion_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

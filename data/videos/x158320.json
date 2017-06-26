@@ -1,0 +1,51 @@
+{
+    "title": "Electric Watches",
+    "description": "New styles from Electric are here.",
+    "referenceId": null,
+    "date_created": "1398284821",
+    "date_modified": "1448496529",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "23",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "158320",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "7",
+    "entityIdParent": "168521",
+    "titleTextEncoded": "Electric-Watches",
+    "category": null,
+    "duration": "60",
+    "settings": [],
+    "asset": {
+        "author": "tillys",
+        "hdvFlag": 1,
+        "hookText": "New styles from Electric are here. Shop now at Tillys.com!",
+        "tags": "",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/2rxtRWvN_dk\/sddefault.jpg",
+        "uploadDate": 1382480081,
+        "videoId": "2rxtRWvN_dk",
+        "mediaDuration": "60",
+        "prettyDuration": "00:01:00"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

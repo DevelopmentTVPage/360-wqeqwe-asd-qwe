@@ -1,0 +1,53 @@
+{
+    "title": "Jimmy Carlin vs Chinese Food Episode 3",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1440610039",
+    "date_modified": "1440610039",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "3",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6383009",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "17",
+    "entityIdParent": "3764281",
+    "titleTextEncoded": "Jimmy-Carlin-vs-Chinese-Food-Episode-3",
+    "category": null,
+    "duration": "48",
+    "settings": {},
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/E8VaaC2DkBk\/hqdefault.jpg",
+        "uploadDate": 1399620009,
+        "videoId": "E8VaaC2DkBk",
+        "title": "Jimmy Carlin vs Chinese Food Episode 3",
+        "description": "",
+        "author": "enjoicoskateboards",
+        "mediaDuration": "48",
+        "prettyDuration": "00:00:48",
+        "views": "7547",
+        "hookText": ""
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

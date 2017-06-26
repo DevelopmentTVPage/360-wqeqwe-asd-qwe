@@ -1,0 +1,68 @@
+{
+    "pageNumber": 0,
+    "data": [
+        {
+            "id": "3782916",
+            "title": "Tilly's Gift Guide 2014",
+            "date_created": "1417553150",
+            "loginId": "753",
+            "tags": "",
+            "description": "Tilly's Gift Guide 2014",
+            "asset": {
+                "type": "mp4",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/753\/canvas\/655\/368\/212555777-79441252703.png",
+                "mediaDuration": "85",
+                "prettyDuration": "00:01:25",
+                "hookText": "Tilly's Gift Guide 2014",
+                "tags": "",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "https:\/\/d2mhchrq41duh4.cloudfront.net\/753\/3782916\/6bae3b99_af70_4909_dfbd_9609e2ee4f08.mp4"
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/3782916\/720p_6bae3b99_af70_4909_dfbd_9609e2ee4f08.mp4",
+                        "quality": "720p"
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/3782916\/480p_6bae3b99_af70_4909_dfbd_9609e2ee4f08.mp4",
+                        "quality": "480p",
+                        "default": true
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/3782916\/360p_6bae3b99_af70_4909_dfbd_9609e2ee4f08.mp4",
+                        "quality": "360p"
+                    }
+                ]
+            },
+            "parentId": "3776557",
+            "url": "\/facebook-promotions\/tilly-s-gift-guide-2014\/3776557-3782916"
+        },
+        {
+            "id": "3778447",
+            "title": "Tilly's Holiday 2014",
+            "date_created": "1415052805",
+            "loginId": "753",
+            "tags": "",
+            "description": "Tilly's Holiday 2014",
+            "asset": {
+                "type": "mp4",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/753\/canvas\/655\/368\/551215485-89191216653.png",
+                "mediaDuration": "106",
+                "prettyDuration": "01:46",
+                "hookText": "Tilly's Holiday 2014",
+                "tags": "",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/player.vimeo.com\/external\/110855018.sd.mp4?s=620af913c9a08c3e9f6b916a90a6b347"
+                    }
+                ]
+            },
+            "parentId": "3776557",
+            "url": "\/facebook-promotions\/tilly-s-holiday-2014\/3776557-3778447"
+        }
+    ]
+}

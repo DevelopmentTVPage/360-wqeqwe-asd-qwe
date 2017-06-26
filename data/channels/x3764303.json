@@ -1,0 +1,40 @@
+{
+    "title": "Fj\u00e4llr\u00e4ven ",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1409948006",
+    "date_modified": "1419962075",
+    "tags": "",
+    "sourceId": null,
+    "status": "approved",
+    "visibility": "1",
+    "id": "3764303",
+    "loginId": "753",
+    "entityType": "3",
+    "titleTextEncoded": "Fj\u00e4llr\u00e4ven",
+    "category": null,
+    "duration": null,
+    "settings": {
+        "canvasImage": "251890069-0.jpg",
+        "colorClass": "light",
+        "canvasType": "cropped",
+        "canvasCropped": "251890069-050960590.jpg",
+        "autoPlay": 0,
+        "hideoos": 1,
+        "auto": {
+            "dynamic": 0,
+            "limit": 4,
+            "advanced": {
+                "title": "",
+                "description": "",
+                "category": "",
+                "brand": "",
+                "color": "",
+                "quantity": "",
+                "date_created": ""
+            }
+        },
+        "optimize": 1
+    },
+    "transcripts": null
+}

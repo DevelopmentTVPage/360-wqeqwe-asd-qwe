@@ -1,0 +1,53 @@
+{
+    "title": "Fox Spring 2010 Team BMX Edit",
+    "description": "Spring 2010 BMX Advertising campaign.",
+    "referenceId": "XBgaPAbZY0E",
+    "date_created": "1444074800",
+    "date_modified": "1444074800",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "1",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6419375",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "37",
+    "entityIdParent": "168514",
+    "titleTextEncoded": "Fox-Spring-2010-Team-BMX-Edit",
+    "category": null,
+    "duration": "233",
+    "settings": {},
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/XBgaPAbZY0E\/hqdefault.jpg",
+        "uploadDate": 1274500331,
+        "videoId": "XBgaPAbZY0E",
+        "title": "Fox Spring 2010 Team BMX Edit",
+        "description": "Spring 2010 BMX Advertising campaign.",
+        "author": "FoxHeadInc",
+        "mediaDuration": "233",
+        "prettyDuration": "00:03:53",
+        "views": "418",
+        "hookText": "Spring 2010 BMX Advertising campaign."
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

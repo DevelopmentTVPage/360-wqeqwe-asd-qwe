@@ -1,0 +1,53 @@
+{
+    "title": "Fox Presents | Eyewear 2015",
+    "description": "Born from 40 years of product innovation, Fox Eyewear is unmatched in quality and style. World leading Optics by Carl Zeiss Vision lens technology and ...",
+    "referenceId": null,
+    "date_created": "1440779273",
+    "date_modified": "1440779273",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "2",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6383694",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "305",
+    "entityIdParent": "168514",
+    "titleTextEncoded": "Fox-Presents-Eyewear-2015",
+    "category": null,
+    "duration": "67",
+    "settings": {},
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/IKmAtl9NQyE\/hqdefault.jpg",
+        "uploadDate": 1425489977,
+        "videoId": "IKmAtl9NQyE",
+        "title": "Fox Presents | Eyewear 2015",
+        "description": "Born from 40 years of product innovation, Fox Eyewear is unmatched in quality and style. World leading Optics by Carl Zeiss Vision lens technology and ...",
+        "author": "FoxHeadInc",
+        "mediaDuration": "67",
+        "prettyDuration": "00:01:07",
+        "views": "1116",
+        "hookText": "Born from 40 years of product innovation, Fox Eyewear is unmatched in quality and style. World leading Optics by Carl Zeiss Vision lens technology and ..."
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

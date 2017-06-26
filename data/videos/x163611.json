@@ -1,0 +1,50 @@
+{
+    "title": "Bemrose Prose",
+    "description": "Matt Bemrose, the man providing the Volcom Pipe Pro the lucid speak gives a morning run down on how conditions will pan out today. Thrown of the jet skii earlier this morning whilst roving the lineup, the man is right where the action happens.",
+    "referenceId": null,
+    "date_created": "1398813966",
+    "date_modified": "1443727444",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "1",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "163611",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "209",
+    "entityIdParent": "168557",
+    "titleTextEncoded": "Bemrose-Prose",
+    "category": null,
+    "duration": "47",
+    "settings": [],
+    "asset": {
+        "author": "Volcom",
+        "videoId": "q3Ts86fcbao",
+        "hookText": "Matt Bemrose, the man providing the Volcom Pipe Pro the lucid speak gives a morning run down on how conditions will pan out today. Thrown of the jet skii earlier this morning whilst roving the lineup, the man is right where the action happens.",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/q3Ts86fcbao\/maxresdefault.jpg",
+        "mediaDuration": "47",
+        "hdvFlag": 1,
+        "uploadDate": 1327896893,
+        "prettyDuration": "00:00:47"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

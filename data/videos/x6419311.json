@@ -1,0 +1,53 @@
+{
+    "title": "Fox MX 2012 - V1 Chapter Helmet",
+    "description": "New Fox 2012 Gear: V1 Chapter Helmet.",
+    "referenceId": "OOi3Mn_8L-w",
+    "date_created": "1444069690",
+    "date_modified": "1444069690",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "1",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6419311",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "71",
+    "entityIdParent": "168514",
+    "titleTextEncoded": "Fox-MX-2012-V1-Chapter-Helmet",
+    "category": null,
+    "duration": "26",
+    "settings": {},
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/OOi3Mn_8L-w\/hqdefault.jpg",
+        "uploadDate": 1311794043,
+        "videoId": "OOi3Mn_8L-w",
+        "title": "Fox MX 2012 - V1 Chapter Helmet",
+        "description": "New Fox 2012 Gear: V1 Chapter Helmet.",
+        "author": "FoxHeadInc",
+        "mediaDuration": "26",
+        "prettyDuration": "00:00:26",
+        "views": "5512",
+        "hookText": "New Fox 2012 Gear: V1 Chapter Helmet."
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

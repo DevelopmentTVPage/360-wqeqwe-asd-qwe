@@ -1,0 +1,55 @@
+{
+    "title": "Brett Walker In Training",
+    "description": "http:\/\/www.facebook.com\/etnies",
+    "referenceId": "24751459",
+    "date_created": "1443720884",
+    "date_modified": "1443720884",
+    "tags": "etnies,etnies bmx,brett walker",
+    "sourceId": "3",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "1",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6418536",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "93",
+    "entityIdParent": "168527",
+    "titleTextEncoded": "Brett-Walker-In-Training",
+    "category": null,
+    "duration": 108,
+    "settings": {},
+    "asset": {
+        "type": "mp4",
+        "sources": [
+            {
+                "file": "https:\/\/player.vimeo.com\/external\/24751459.hd.mp4?s=5d45750551cbd39776ca4bdf8fe161cd&profile_id=113&oauth2_token_id=62432308"
+            }
+        ],
+        "hdvFlag": 1,
+        "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/162451116_1280x720.jpg",
+        "mediaDuration": 108,
+        "prettyDuration": "01:48",
+        "uploadDate": 1307407928,
+        "tags": "etnies,etnies bmx,brett walker",
+        "hookText": "http:\/\/www.facebook.com\/etnies"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

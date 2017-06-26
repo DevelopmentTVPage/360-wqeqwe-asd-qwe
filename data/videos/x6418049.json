@@ -1,0 +1,48 @@
+{
+    "title": "Arbor Snowboards :: Meet Sean Black",
+    "description": "",
+    "referenceId": "76983924",
+    "date_created": "1443633415",
+    "date_modified": "1443633415",
+    "tags": "Sean Black,Arbor,Arbor Snowboards",
+    "sourceId": "3",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6418049",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "151",
+    "entityIdParent": "3763991",
+    "titleTextEncoded": "Arbor-Snowboards-Meet-Sean-Black",
+    "category": null,
+    "duration": 48,
+    "settings": {},
+    "asset": {
+        "type": "mp4",
+        "sources": [
+            {
+                "file": "https:\/\/player.vimeo.com\/external\/76983924.hd.mp4?s=67770f14b10ec804dadc0f936277a5cc&profile_id=113&oauth2_token_id=74680278"
+            }
+        ],
+        "hdvFlag": 1,
+        "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/452008509_1280x720.jpg",
+        "mediaDuration": 48,
+        "prettyDuration": "00:48",
+        "uploadDate": 1381863229,
+        "tags": "Sean Black,Arbor,Arbor Snowboards",
+        "hookText": ""
+    },
+    "transcripts": null,
+    "metrics_statistics": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

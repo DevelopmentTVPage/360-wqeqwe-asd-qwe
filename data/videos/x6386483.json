@@ -1,0 +1,53 @@
+{
+    "title": "Skatetalk Bob Altamont Apology Video",
+    "description": "http:\/\/facebook.com & http:\/\/twitter.com\/Altamont.",
+    "referenceId": null,
+    "date_created": "1441216746",
+    "date_modified": "1441216746",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "3",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6386483",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "99",
+    "entityIdParent": "168548",
+    "titleTextEncoded": "Skatetalk-Bob-Altamont-Apology-Video",
+    "category": null,
+    "duration": "133",
+    "settings": {},
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/98rRNzs6zLg\/hqdefault.jpg",
+        "uploadDate": 1314486913,
+        "videoId": "98rRNzs6zLg",
+        "title": "Skatetalk Bob Altamont Apology Video",
+        "description": "http:\/\/facebook.com & http:\/\/twitter.com\/Altamont.",
+        "author": "Altamont",
+        "mediaDuration": "133",
+        "prettyDuration": "00:02:13",
+        "views": "55238",
+        "hookText": "http:\/\/facebook.com & http:\/\/twitter.com\/Altamont."
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

@@ -1,0 +1,55 @@
+{
+    "title": "Cinema x etnies Colorado Tour 2011",
+    "description": "Etnies and Cinema Wheel Co. teamed up for a summer tour around Denver and Boulder to ride spots, visit a few shops and have a good time. Featuring Corey Martinez, Nathan Williams, Seth Kimbrough and Bruno Hoffmann.",
+    "referenceId": "28519654",
+    "date_created": "1443564012",
+    "date_modified": "1447295036",
+    "tags": "nathan williams,corey martinez,etnies bmx,cinema wheels,defgrip,seth,colorado",
+    "sourceId": "3",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "2",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6417907",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "125",
+    "entityIdParent": "168527",
+    "titleTextEncoded": "Cinema-x-etnies-Colorado-Tour-2011",
+    "category": null,
+    "duration": 483,
+    "settings": {},
+    "asset": {
+        "type": "mp4",
+        "hdvFlag": 1,
+        "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/190320073_1280x960.jpg",
+        "mediaDuration": 483,
+        "prettyDuration": "08:03",
+        "uploadDate": 1314989715,
+        "tags": "nathan williams,corey martinez,etnies bmx,cinema wheels,defgrip,seth,colorado",
+        "hookText": "www.etnies.com\nwww.facebook.com\/etnies",
+        "sources": [
+            {
+                "file": "https:\/\/player.vimeo.com\/external\/28519654.hd.mp4?s=411d3eca7c547962f335116fcf004e5c&profile_id=113&oauth2_token_id=62432308"
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

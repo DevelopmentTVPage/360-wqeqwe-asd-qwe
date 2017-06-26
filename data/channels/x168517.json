@@ -1,0 +1,32 @@
+{
+    "title": "KR3W",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1401128667",
+    "date_modified": "1410194704",
+    "tags": "",
+    "sourceId": null,
+    "status": "approved",
+    "visibility": "1",
+    "id": "168517",
+    "loginId": "753",
+    "entityType": "3",
+    "titleTextEncoded": "KR3W",
+    "category": null,
+    "duration": null,
+    "settings": {
+        "canvasImage": "582546145-0.jpg",
+        "colorClass": "light",
+        "canvasType": "cropped",
+        "canvasCropped": "582546145-0-019201079.jpg",
+        "auto": {
+            "dynamic": 0,
+            "limit": 8
+        },
+        "optimize": 1,
+        "autoPlay": 1,
+        "autoNext": 1,
+        "hideoos": 1
+    },
+    "transcripts": null
+}

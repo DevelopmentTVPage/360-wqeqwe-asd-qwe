@@ -1,0 +1,54 @@
+{
+    "title": "Steve Madden Witnes Wedge",
+    "description": "A classic peep-toe silhouette, which is sure to catch the light and turn some major heads.  An adjustable slingback strap allows you to achieve the perfect fit.",
+    "referenceId": "5rZ7GQvqMgI",
+    "date_created": "1332254680",
+    "date_modified": "1466191327",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "2",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "66092714",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "10",
+    "entityIdParent": "66115248",
+    "titleTextEncoded": "Steve-Madden-Witnes-Wedge",
+    "category": "",
+    "duration": 22,
+    "settings": "",
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/5rZ7GQvqMgI\/hqdefault.jpg",
+        "uploadDate": 1332254680,
+        "videoId": "5rZ7GQvqMgI",
+        "title": "Steve Madden Witnes Wedge",
+        "description": "A classic peep-toe silhouette, which is sure to catch the light and turn some major heads.  An adjustable slingback strap allows you to achieve the perfect fit.",
+        "author": "STEVE MADDEN",
+        "mediaDuration": 22,
+        "prettyDuration": "00:00:22",
+        "views": "5325",
+        "uploadAsset": false,
+        "quality": ""
+    },
+    "transcripts": "[Music Playing]",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

@@ -1,0 +1,53 @@
+{
+    "title": "Emerica in Barcelona",
+    "description": "This is the Emerica Euro edit while the team skated Barcelona with with Nisse Ingemarson - EnizFazilov - Rob Maatman and Kevin Baekkel. #MadeInEmerica.",
+    "referenceId": null,
+    "date_created": "1440612348",
+    "date_modified": "1440612348",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "2",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6383025",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "115",
+    "entityIdParent": "168523",
+    "titleTextEncoded": "Emerica-in-Barcelona",
+    "category": null,
+    "duration": "181",
+    "settings": {},
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/JuJVKHlhtl4\/hqdefault.jpg",
+        "uploadDate": 1398740766,
+        "videoId": "JuJVKHlhtl4",
+        "title": "Emerica in Barcelona",
+        "description": "This is the Emerica Euro edit while the team skated Barcelona with with Nisse Ingemarson - EnizFazilov - Rob Maatman and Kevin Baekkel. #MadeInEmerica.",
+        "author": "emerica",
+        "mediaDuration": "181",
+        "prettyDuration": "00:03:01",
+        "views": "63806",
+        "hookText": "This is the Emerica Euro edit while the team skated Barcelona with with Nisse Ingemarson - EnizFazilov - Rob Maatman and Kevin Baekkel. #MadeInEmerica."
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

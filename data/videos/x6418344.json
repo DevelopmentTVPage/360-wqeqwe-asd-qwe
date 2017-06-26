@@ -1,0 +1,55 @@
+{
+    "title": "Andrew Langi Ad Day",
+    "description": "DAKINE follows Andrew Langi from Redwood City, CA. He shows us the lines at Phil Shao\u2019s park. Then we all jump in the van and head up to San Francisco\u2019s Potrero Park to film his Ad. Andrew finishes the day with some food at the local Mexican spot.",
+    "referenceId": "21131297",
+    "date_created": "1443641298",
+    "date_modified": "1443641298",
+    "tags": "Array,Array,Array,Array,Array,Array,Array,Array,Array",
+    "sourceId": "3",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "2",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6418344",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "41",
+    "entityIdParent": "168543",
+    "titleTextEncoded": "Andrew-Langi-Ad-Day",
+    "category": null,
+    "duration": 119,
+    "settings": {},
+    "asset": {
+        "type": "mp4",
+        "sources": [
+            {
+                "file": "https:\/\/player.vimeo.com\/external\/21131297.hd.mp4?s=7d226c9b4622f0e668c85dd752669639&profile_id=113&oauth2_token_id=56801069"
+            }
+        ],
+        "hdvFlag": 1,
+        "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/135710920_1280x720.jpg",
+        "mediaDuration": 119,
+        "prettyDuration": "01:59",
+        "uploadDate": 1300312077,
+        "tags": "Array,Array,Array,Array,Array,Array,Array,Array,Array",
+        "hookText": "DAKINE follows Andrew Langi from Redwood City, CA. He shows us the lines at Phil Shao\u2019s park. Then we all jump in the van and head up to San Francisco\u2019s Potrero Park to film his Ad. Andrew finishes the day with some food at the local Mexican spot."
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

@@ -1,0 +1,55 @@
+{
+    "title": "DAKINE Annie Boulanger Girls Team Heli Pro",
+    "description": "Check out 360\u00b0 views of the 2012 Annie Boulanger Girls Team Heli Pro:\n\n- Contoured harness designed specifically to fit a girl's frame\n- Vertical snowboard carry\n- Diagonal ski carry\n- Plush lined goggle pocket\n- Hydration compatible\n- Non-padded laptops",
+    "referenceId": "29754628",
+    "date_created": "1443633994",
+    "date_modified": "1448049222",
+    "tags": "Array,Array,Array,Array,Array,Array",
+    "sourceId": "3",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "2",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6418095",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "90",
+    "entityIdParent": "168543",
+    "titleTextEncoded": "DAKINE-Annie-Boulanger-Girls-Team-Heli-Pro",
+    "category": null,
+    "duration": 35,
+    "settings": {},
+    "asset": {
+        "type": "mp4",
+        "hdvFlag": 1,
+        "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/199480873_1280x720.jpg",
+        "mediaDuration": 35,
+        "prettyDuration": "00:35",
+        "uploadDate": 1317252701,
+        "tags": "Array,Array,Array,Array,Array,Array",
+        "hookText": "Check out 360\u00b0 views of the 2012 Annie Boulanger Girls Team Heli Pro:\n\n- Contoured harness designed specifically to fit a girl's frame\n- Vertical snowboard carry\n- Diagonal ski carry\n- Plush lined goggle pocket\n- Hydration compatible\n- Non-padded laptop s",
+        "sources": [
+            {
+                "file": "https:\/\/player.vimeo.com\/external\/29754628.hd.mp4?s=6833c4de9c832a468b69c31738294bee&profile_id=113&oauth2_token_id=56801069"
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

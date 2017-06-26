@@ -1,0 +1,51 @@
+{
+    "title": "Sector 9 Go Skateboarding with Victor E.",
+    "description": "Meet Victor, he's been skateboarding since 1954 and hasn't slowed down.",
+    "referenceId": null,
+    "date_created": "1410211354",
+    "date_modified": "1418181978",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "4",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "3764442",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "13",
+    "entityIdParent": "3764445",
+    "titleTextEncoded": "Sector-9-Go-Skateboarding-with-Victor-E",
+    "category": null,
+    "duration": "221",
+    "settings": [],
+    "asset": {
+        "author": "Sector9Media",
+        "hdvFlag": 1,
+        "hookText": "Meet Victor, he's been skateboarding since 1954 and hasn't slowed down.",
+        "tags": "",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/iyrXTDRxcu4\/maxresdefault.jpg",
+        "uploadDate": 1271972296,
+        "videoId": "iyrXTDRxcu4",
+        "mediaDuration": "221",
+        "prettyDuration": "00:03:41"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

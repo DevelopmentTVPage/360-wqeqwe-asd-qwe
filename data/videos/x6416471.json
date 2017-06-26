@@ -1,0 +1,76 @@
+{
+    "title": "Star Wars",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1443458366",
+    "date_modified": "1443458367",
+    "tags": "",
+    "sourceId": "1",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "1103",
+    "CVV_VI": "50",
+    "engagement_score": "10",
+    "conversion_score": "4",
+    "id": "6416471",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "2",
+    "entityIdParent": "168526",
+    "titleTextEncoded": "Star-Wars",
+    "category": null,
+    "duration": "51",
+    "settings": {},
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "51"
+        },
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/6416471\/720p_d4e22_STARWARS_NIXON_LAUNCHVIDEO_FULL.mp4",
+                "quality": "720p"
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/6416471\/480p_d4e22_STARWARS_NIXON_LAUNCHVIDEO_FULL.mp4",
+                "quality": "480p"
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/6416471\/360p_d4e22_STARWARS_NIXON_LAUNCHVIDEO_FULL.mp4",
+                "quality": "360p"
+            }
+        ],
+        "thumbnailUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/6416471\/0a5467d23bb7042572a3bc362c4dd835.png",
+        "hookText": "",
+        "type": "mp4",
+        "mediaDuration": "51",
+        "prettyDuration": "00:00:51",
+        "tags": ""
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "conversion_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

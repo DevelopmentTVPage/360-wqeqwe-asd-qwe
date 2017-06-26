@@ -1,0 +1,25 @@
+{
+    "title": "Rusty Butcher",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1452715820",
+    "date_modified": "1481135293",
+    "tags": "",
+    "sourceId": "10",
+    "status": "approved",
+    "visibility": "1",
+    "id": "25844251",
+    "loginId": "753",
+    "entityType": "3",
+    "titleTextEncoded": "Rusty-Butcher",
+    "category": null,
+    "duration": null,
+    "settings": {
+        "canvasImage": "default_canvas3.jpg",
+        "colorClass": "light",
+        "canvasType": "gallery",
+        "autoPlay": 1,
+        "autoNext": 1
+    },
+    "transcripts": null
+}

@@ -1,0 +1,54 @@
+{
+    "title": "#LiveOutside BK: Eye To Eye",
+    "description": "#LiveOutside BK: Eye To Eye",
+    "referenceId": "m04SK1ON_6M",
+    "date_created": "1412129632",
+    "date_modified": "1469578261",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "1",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "67134823",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "29",
+    "entityIdParent": "168538",
+    "titleTextEncoded": "LiveOutside-BK-Eye-To-Eye",
+    "category": "",
+    "duration": 15,
+    "settings": "",
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/m04SK1ON_6M\/hqdefault.jpg",
+        "uploadDate": 1412129632,
+        "videoId": "m04SK1ON_6M",
+        "title": "#LiveOutside BK: Eye To Eye",
+        "description": "Subscribe: http:\/\/bit.ly\/JanSportYT\nTumblr: http:\/\/jansport.tumblr.com\nFollow: https:\/\/twitter.com\/JanSport  \nLike: https:\/\/www.facebook.com\/JanSport\nRead\/Listen: http:\/\/www.jansport.com\/unzipped",
+        "author": "JanSport",
+        "mediaDuration": 15,
+        "prettyDuration": "00:00:15",
+        "views": "79",
+        "uploadAsset": false,
+        "quality": ""
+    },
+    "transcripts": "[Music Playing]",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

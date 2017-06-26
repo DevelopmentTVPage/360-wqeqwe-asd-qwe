@@ -1,0 +1,55 @@
+{
+    "title": "etnies Presents: Pura Vida, Part 3. Buy A Shoe, Plant A Tree",
+    "description": "http:\/\/www.facebook.com\/etnies etnies Presents: Pura Vida, Part 3. Buy a Shoe Plant a Tree",
+    "referenceId": "23499416",
+    "date_created": "1443727451",
+    "date_modified": "1443727451",
+    "tags": "etnies,Pura Vida,la reserva,costa rica,maleku tribe,skateboarding,surfing,kyle leeper,ryan sheckler,benji weatherly,cj kanuha,Chris del moro,buy a shoe plant a tree,rainforest",
+    "sourceId": "3",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "1",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6418603",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "82",
+    "entityIdParent": "168527",
+    "titleTextEncoded": "etnies-Presents-Pura-Vida-Part-3-Buy-A-Shoe-Plant-A-Tree",
+    "category": null,
+    "duration": 257,
+    "settings": {},
+    "asset": {
+        "type": "mp4",
+        "sources": [
+            {
+                "file": "https:\/\/player.vimeo.com\/external\/23499416.hd.mp4?s=e94a34b257b762eb9a0c0cb83bb53254&profile_id=113&oauth2_token_id=62432308"
+            }
+        ],
+        "hdvFlag": 1,
+        "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/153054626_1280x720.jpg",
+        "mediaDuration": 257,
+        "prettyDuration": "04:17",
+        "uploadDate": 1304972372,
+        "tags": "etnies,Pura Vida,la reserva,costa rica,maleku tribe,skateboarding,surfing,kyle leeper,ryan sheckler,benji weatherly,cj kanuha,Chris del moro,buy a shoe plant a tree,rainforest",
+        "hookText": "http:\/\/www.facebook.com\/etnies etnies Presents: Pura Vida, Part 3. Buy a Shoe Plant a Tree"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

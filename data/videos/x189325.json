@@ -1,0 +1,51 @@
+{
+    "title": "Suit up with FATAL Clothing at Tilly's",
+    "description": "FATAL Clothing sets the standard for the California skate, moto, surf, tattoo and motorcycle lifestyle. Whatever your game is, you can suit up in style with the newest goods from FATAL. Get it now at TILLYS.COM.",
+    "referenceId": null,
+    "date_created": "1405374271",
+    "date_modified": "1444867865",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "1",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "189325",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "0",
+    "entityIdParent": "168542",
+    "titleTextEncoded": "Suit-up-with-FATAL-Clothing-at-Tilly-s",
+    "category": null,
+    "duration": "145",
+    "settings": [],
+    "asset": {
+        "author": "tillys",
+        "hdvFlag": 1,
+        "hookText": "FATAL Clothing sets the standard for the California skate, moto, surf, tattoo and motorcycle lifestyle. Whatever your game is, you can suit up in style with ...",
+        "tags": "",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/sk_bvLhS2ZI\/maxresdefault.jpg",
+        "uploadDate": 1363131052,
+        "videoId": "sk_bvLhS2ZI",
+        "mediaDuration": "145",
+        "prettyDuration": "00:02:25"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

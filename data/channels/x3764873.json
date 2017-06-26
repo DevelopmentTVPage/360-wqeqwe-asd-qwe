@@ -1,0 +1,31 @@
+{
+    "title": "Kelty",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1410811000",
+    "date_modified": "1410812496",
+    "tags": "",
+    "sourceId": null,
+    "status": "approved",
+    "visibility": "1",
+    "id": "3764873",
+    "loginId": "753",
+    "entityType": "3",
+    "titleTextEncoded": "Kelty",
+    "category": null,
+    "duration": null,
+    "settings": {
+        "canvasImage": "250026732-0.jpg",
+        "colorClass": "light",
+        "canvasType": "cropped",
+        "hideoos": 1,
+        "auto": {
+            "dynamic": 0,
+            "limit": 8
+        },
+        "optimize": 1,
+        "autoPlay": 0,
+        "canvasCropped": "250026732-00600336.jpg"
+    },
+    "transcripts": null
+}

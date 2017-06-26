@@ -1,0 +1,57 @@
+{
+    "title": "Brett Simpson",
+    "description": "Brett Simpson",
+    "referenceId": "23238330",
+    "date_created": "1443639909",
+    "date_modified": "1470184422",
+    "tags": "",
+    "sourceId": "3",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": "Dakine",
+    "video_celeb": "Brett_Simpson",
+    "video_activity": "Surfing",
+    "VV_VI": "1",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6418280",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "55",
+    "entityIdParent": "168543",
+    "titleTextEncoded": "Brett-Simpson",
+    "category": null,
+    "duration": 86,
+    "settings": {},
+    "asset": {
+        "type": "mp4",
+        "hdvFlag": 1,
+        "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/151128624_1280x720.jpg",
+        "mediaDuration": 86,
+        "prettyDuration": "01:26",
+        "uploadDate": 1304466358,
+        "tags": "",
+        "hookText": "",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "https:\/\/player.vimeo.com\/external\/23238330.hd.mp4?s=47655fb98409eef10d508031648ece0e&profile_id=113&oauth2_token_id=56801069"
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

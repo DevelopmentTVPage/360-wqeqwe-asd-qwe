@@ -1,0 +1,48 @@
+{
+    "title": "22-in-2012: etnies & Chad Reed",
+    "description": "etnies Chad Reed talks about plans for 2012 with TwoTwo Motorsports.",
+    "referenceId": "34634807",
+    "date_created": "1443553328",
+    "date_modified": "1445017794",
+    "tags": "etnies,etnies moto,Chad Reed,TwoTwo Motorsports,22",
+    "sourceId": "3",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6417829",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "161",
+    "entityIdParent": "168527",
+    "titleTextEncoded": "22-in-2012-etnies-Chad-Reed",
+    "category": null,
+    "duration": 174,
+    "settings": {},
+    "asset": {
+        "type": "mp4",
+        "hdvFlag": 1,
+        "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/258048545_1280x698.jpg",
+        "mediaDuration": 174,
+        "prettyDuration": "02:54",
+        "uploadDate": 1325803978,
+        "tags": "etnies,etnies moto,Chad Reed,TwoTwo Motorsports,22",
+        "hookText": "etnies Chad Reed talks about plans for 2012 with TwoTwo Motorsports.",
+        "sources": [
+            {
+                "file": "https:\/\/player.vimeo.com\/external\/34634807.hd.mp4?s=a8e2165566a3c999fd3172c9bae2ab01&profile_id=113&oauth2_token_id=62432308"
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

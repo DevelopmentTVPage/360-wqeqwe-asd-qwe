@@ -1,0 +1,53 @@
+{
+    "title": "Fox Brigade Amateur Spotlight: Daytona RC Amateur SX",
+    "description": "Catch up with the Fox Brigade riders at the Daytona RC Amateur Supercross.",
+    "referenceId": "rOWqxduTdy0",
+    "date_created": "1443561058",
+    "date_modified": "1449189733",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "1",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6417888",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "187",
+    "entityIdParent": "168514",
+    "titleTextEncoded": "Fox-Brigade-Amateur-Spotlight-Daytona-RC-Amateur-SX",
+    "category": null,
+    "duration": "198",
+    "settings": {},
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/rOWqxduTdy0\/hqdefault.jpg",
+        "uploadDate": 1366217182,
+        "videoId": "rOWqxduTdy0",
+        "title": "Fox Brigade Amateur Spotlight: Daytona RC Amateur SX",
+        "description": "Catch up with the Fox Brigade riders at the Daytona RC Amateur Supercross.",
+        "author": "FoxHeadInc",
+        "mediaDuration": "198",
+        "prettyDuration": "00:03:18",
+        "views": "7193",
+        "hookText": "Catch up with the Fox Brigade riders at the Daytona RC Amateur Supercross."
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

@@ -1,0 +1,57 @@
+{
+    "title": "Dakine Parsons Jacket",
+    "description": "Constructed from 2L GORE-TEX, with 40g of insulation in the body, this jacket was made for the coldest and deepest days of winter. An arsenal of features including a Napoleon media pocket, two-way venting, fully taped seams, and collar venting make the Parson's a no-brainer for mid-winter missions.",
+    "referenceId": "137827238",
+    "date_created": "1441409136",
+    "date_modified": "1448309857",
+    "tags": "dakine,dakine outerwear,snowboard jacket,ski jacket,parsons jacket",
+    "sourceId": "3",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "2",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6390411",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "314",
+    "entityIdParent": "168543",
+    "titleTextEncoded": "Dakine-Parsons-Jacket",
+    "category": null,
+    "duration": 106,
+    "settings": [],
+    "asset": {
+        "type": "mp4",
+        "hdvFlag": 1,
+        "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/532892596_1920x1080.jpg",
+        "mediaDuration": 106,
+        "prettyDuration": "01:46",
+        "uploadDate": 1441022429,
+        "tags": "dakine,dakine outerwear,snowboard jacket,ski jacket,parsons jacket",
+        "hookText": "Constructed from 2L GORE-TEX, with 40g of insulation in the body, this jacket was made for the coldest and deepest days of winter. An arsenal of features including a Napoleon media pocket, two-way venting, fully taped seams, and collar venting make the Pa",
+        "sources": [
+            {
+                "file": "https:\/\/player.vimeo.com\/external\/137827238.hd.mp4?s=4574a5e669c90ddbfddd954e66dca9be&profile_id=119&oauth2_token_id=56801069"
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": [
+        "9"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

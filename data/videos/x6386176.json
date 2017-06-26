@@ -1,0 +1,53 @@
+{
+    "title": "adidas Skateboarding Sweden Team",
+    "description": "The adidas Sweden Team put together a film featuring Daniel Gr\u00f6nwall, Jonas Sohn, Love Eneroth, Daniel Sp\u00e4ngs, Mika Edin & G\u00fcnes \u00d6zdogan.",
+    "referenceId": null,
+    "date_created": "1441150192",
+    "date_modified": "1455845198",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "5",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6386176",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "71",
+    "entityIdParent": "168510",
+    "titleTextEncoded": "adidas-Skateboarding-Sweden-Team",
+    "category": null,
+    "duration": "336",
+    "settings": {},
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/Uq90U12rsXo\/hqdefault.jpg",
+        "uploadDate": 1339436497,
+        "videoId": "Uq90U12rsXo",
+        "title": "adidas Skateboarding Sweden Team",
+        "description": "The adidas Sweden Team put together a film featuring Daniel Gr\u00f6nwall, Jonas Sohn, Love Eneroth, Daniel Sp\u00e4ngs, Mika Edin & G\u00fcnes \u00d6zdogan. Official ...",
+        "author": "adidasSkateboarding",
+        "mediaDuration": "336",
+        "prettyDuration": "00:05:36",
+        "views": "296452",
+        "hookText": "The adidas Sweden Team put together a film featuring Daniel Gr\u00f6nwall, Jonas Sohn, Love Eneroth, Daniel Sp\u00e4ngs, Mika Edin & G\u00fcnes \u00d6zdogan. Official ..."
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

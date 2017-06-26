@@ -1,0 +1,53 @@
+{
+    "title": "adidas Skateboarding Sieben & Friends",
+    "description": "Michael Sieben teams up with adidas to create an imaginative quest with his furry monster friends based off of a treasure map they found while skating a ditch.",
+    "referenceId": "xIRnGNjl4RU",
+    "date_created": "1441409252",
+    "date_modified": "1455845082",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "3",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6390508",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "55",
+    "entityIdParent": "168510",
+    "titleTextEncoded": "adidas-Skateboarding-Sieben-Friends",
+    "category": null,
+    "duration": "276",
+    "settings": {},
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/xIRnGNjl4RU\/hqdefault.jpg",
+        "uploadDate": 1317192020,
+        "videoId": "xIRnGNjl4RU",
+        "title": "adidas Skateboarding Sieben & Friends",
+        "description": "Michael Sieben teams up with adidas to create an imaginative quest with his furry monster friends based off of a treasure map they found while skating a ditch.",
+        "author": "adidasSkateboarding",
+        "mediaDuration": "276",
+        "prettyDuration": "00:04:36",
+        "views": "12287",
+        "hookText": "Michael Sieben teams up with adidas to create an imaginative quest with his furry monster friends based off of a treasure map they found while skating a ditch."
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

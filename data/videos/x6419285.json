@@ -1,0 +1,53 @@
+{
+    "title": "Google+ Converse Garage Hackalong LIVE",
+    "description": "Google+ Converse Garage Hackalong LIVE.",
+    "referenceId": "bnxi2eHGFjo",
+    "date_created": "1444066414",
+    "date_modified": "1449624884",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "1",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6419285",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "324",
+    "entityIdParent": "168524",
+    "titleTextEncoded": "Google-Converse-Garage-Hackalong-LIVE",
+    "category": null,
+    "duration": "5128",
+    "settings": {},
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/bnxi2eHGFjo\/hqdefault.jpg",
+        "uploadDate": 1385227577,
+        "videoId": "bnxi2eHGFjo",
+        "title": "Google+ Converse Garage Hackalong LIVE",
+        "description": "Google+ Converse Garage Hackalong LIVE.",
+        "author": "converse",
+        "mediaDuration": "5128",
+        "prettyDuration": "01:25:28",
+        "views": "0",
+        "hookText": "Google+ Converse Garage Hackalong LIVE."
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

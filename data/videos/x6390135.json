@@ -1,0 +1,53 @@
+{
+    "title": "adidas Skateboarding Rolling London",
+    "description": "A day out skating in London with Tim O'Connor, Benny Fairfax, Nestor Judkins and Klaus Bohms. Meat pies for breakfast, a Chelsea football game in the afternoon, skate spots scattered across town, all linked together by the Underground in a way that could only be found in London.",
+    "referenceId": "Ra28x-0GYHs",
+    "date_created": "1441400057",
+    "date_modified": "1455844935",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "6",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6390135",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "62",
+    "entityIdParent": "168510",
+    "titleTextEncoded": "adidas-Skateboarding-Rolling-London",
+    "category": null,
+    "duration": "132",
+    "settings": {},
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/Ra28x-0GYHs\/hqdefault.jpg",
+        "uploadDate": 1317690647,
+        "videoId": "Ra28x-0GYHs",
+        "title": "adidas Skateboarding Rolling London",
+        "description": "A day out skating in London with Tim O'Connor, Benny Fairfax, Nestor Judkins and Klaus Bohms. Meat pies for breakfast, a Chelsea football game in the ...",
+        "author": "adidasSkateboarding",
+        "mediaDuration": "132",
+        "prettyDuration": "00:02:12",
+        "views": "34620",
+        "hookText": "A day out skating in London with Tim O'Connor, Benny Fairfax, Nestor Judkins and Klaus Bohms. Meat pies for breakfast, a Chelsea football game in the ..."
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

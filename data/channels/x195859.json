@@ -1,0 +1,31 @@
+{
+    "title": "Music",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1407445022",
+    "date_modified": "1425579252",
+    "tags": "",
+    "sourceId": null,
+    "status": "approved",
+    "visibility": "1",
+    "id": "195859",
+    "loginId": "753",
+    "entityType": "3",
+    "titleTextEncoded": "Music",
+    "category": null,
+    "duration": null,
+    "settings": {
+        "canvasImage": "297411052-0.jpg",
+        "colorClass": "light",
+        "canvasType": "cropped",
+        "canvasCropped": "297411052-06019201141.jpg",
+        "hideoos": 1,
+        "auto": {
+            "dynamic": 0
+        },
+        "optimize": 1,
+        "autoPlay": 1,
+        "autoNext": 1
+    },
+    "transcripts": null
+}

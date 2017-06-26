@@ -1,0 +1,53 @@
+{
+    "title": "adidas Skateboarding ADV Boost",
+    "description": "Get Up Get Down with Miles Silvas and the all new ADV Boost. Impact absorption and energy return combine for more comfort through longer skate sessions.",
+    "referenceId": null,
+    "date_created": "1440445244",
+    "date_modified": "1455843681",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "4",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6380137",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "92",
+    "entityIdParent": "168510",
+    "titleTextEncoded": "adidas-Skateboarding-ADV-Boost",
+    "category": null,
+    "duration": "40",
+    "settings": {},
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/p9gzNzPCGr8\/hqdefault.jpg",
+        "uploadDate": 1423468801,
+        "videoId": "p9gzNzPCGr8",
+        "title": "adidas Skateboarding ADV Boost",
+        "description": "Get Up Get Down with Miles Silvas and the all new ADV Boost\u2122. Impact absorption and energy return combine for more comfort through longer skate sessions.",
+        "author": "adidasSkateboarding",
+        "mediaDuration": "40",
+        "prettyDuration": "00:00:40",
+        "views": "32780",
+        "hookText": "Get Up Get Down with Miles Silvas and the all new ADV Boost\u2122. Impact absorption and energy return combine for more comfort through longer skate sessions."
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

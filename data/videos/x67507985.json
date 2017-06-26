@@ -1,0 +1,54 @@
+{
+    "title": "2015 Dickies Skate Team Teaser",
+    "description": "Video by Randal Kirk Films",
+    "referenceId": "eF8RP6ua6zE",
+    "date_created": "1437061430",
+    "date_modified": "1471394500",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "2",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "67507985",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "8",
+    "entityIdParent": "168551",
+    "titleTextEncoded": "2015-Dickies-Skate-Team-Teaser",
+    "category": "",
+    "duration": 15,
+    "settings": "",
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/eF8RP6ua6zE\/hqdefault.jpg",
+        "uploadDate": 1437061430,
+        "videoId": "eF8RP6ua6zE",
+        "title": "2015 Dickies Skate Team Teaser",
+        "description": "Video by Randal Kirk Films",
+        "author": "Dickies",
+        "mediaDuration": 15,
+        "prettyDuration": "00:00:15",
+        "views": "639",
+        "uploadAsset": false,
+        "quality": ""
+    },
+    "transcripts": "[Background noise]",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

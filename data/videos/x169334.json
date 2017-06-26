@@ -1,0 +1,51 @@
+{
+    "title": "Andrew Reynolds: About Altamont",
+    "description": "Andrew Reynolds: About Altamont",
+    "referenceId": null,
+    "date_created": "1401241187",
+    "date_modified": "1455843299",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "2",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "169334",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "154",
+    "entityIdParent": "168548",
+    "titleTextEncoded": "Andrew-Reynolds-About-Altamont",
+    "category": null,
+    "duration": "155",
+    "settings": [],
+    "asset": {
+        "author": "Altamont",
+        "hdvFlag": 1,
+        "hookText": "http:\/\/facebook.com\/Altamont, http:\/\/twitter.com\/Altamont http:\/\/altamontapparel.com.",
+        "tags": "",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/vjiIlMOBzeg\/maxresdefault.jpg",
+        "uploadDate": 1311208182,
+        "videoId": "vjiIlMOBzeg",
+        "mediaDuration": "155",
+        "prettyDuration": "00:02:35"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

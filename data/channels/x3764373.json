@@ -1,0 +1,32 @@
+{
+    "title": "Matix",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1410197567",
+    "date_modified": "1448036545",
+    "tags": "",
+    "sourceId": "10",
+    "status": "approved",
+    "visibility": "1",
+    "id": "3764373",
+    "loginId": "753",
+    "entityType": "3",
+    "titleTextEncoded": "Matix",
+    "category": null,
+    "duration": null,
+    "settings": {
+        "canvasImage": "341238894-0.jpg",
+        "colorClass": "light",
+        "canvasType": "cropped",
+        "canvasCropped": "341238894-095670472.jpg",
+        "hideoos": 1,
+        "auto": {
+            "dynamic": 0,
+            "limit": 12
+        },
+        "optimize": 1,
+        "autoPlay": 1,
+        "autoNext": 1
+    },
+    "transcripts": null
+}

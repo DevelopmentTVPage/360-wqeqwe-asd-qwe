@@ -1,0 +1,53 @@
+{
+    "title": "ELEMENT MAKE IT COUNT: DETROIT",
+    "description": "The Element Make It Count 2014 tour trucked on through the Midwest and into Detroit for an event at Modern Skate Park. Skaters came from all over to compete .",
+    "referenceId": null,
+    "date_created": "1441135175",
+    "date_modified": "1441135175",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "3",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6386059",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "96",
+    "entityIdParent": "168534",
+    "titleTextEncoded": "ELEMENT-MAKE-IT-COUNT-DETROIT",
+    "category": null,
+    "duration": "92",
+    "settings": {},
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/l7gV1yQL9-o\/hqdefault.jpg",
+        "uploadDate": 1404765454,
+        "videoId": "l7gV1yQL9-o",
+        "title": "ELEMENT MAKE IT COUNT: DETROIT",
+        "description": "The Element Make It Count 2014 tour trucked on through the Midwest and into Detroit for an event at Modern Skate Park. Skaters came from all over to compete .",
+        "author": "elementvideochannel",
+        "mediaDuration": "92",
+        "prettyDuration": "00:01:32",
+        "views": "3807",
+        "hookText": "The Element Make It Count 2014 tour trucked on through the Midwest and into Detroit for an event at Modern Skate Park. Skaters came from all over to compete ."
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

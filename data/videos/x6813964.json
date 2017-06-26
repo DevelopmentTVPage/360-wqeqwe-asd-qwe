@@ -1,0 +1,47 @@
+{
+    "title": "17W_LIFESTYLE_EDIT",
+    "description": "",
+    "referenceId": "144065790",
+    "date_created": "1446160987",
+    "date_modified": "1446669155",
+    "tags": "",
+    "sourceId": null,
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6813964",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "2",
+    "entityIdParent": "168543",
+    "titleTextEncoded": "17W-LIFESTYLE-EDIT",
+    "category": "",
+    "duration": 80,
+    "settings": "",
+    "asset": {
+        "type": "mp4",
+        "sources": [
+            {
+                "file": "https:\/\/player.vimeo.com\/external\/144065790.hd.mp4?s=39f1153d64816d809b05bb850964b21c&profile_id=113&oauth2_token_id=56801069"
+            }
+        ],
+        "hdvFlag": 1,
+        "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/541813091_1280x720.jpg",
+        "mediaDuration": 80,
+        "prettyDuration": "01:20",
+        "uploadDate": 1446160987,
+        "tags": ""
+    },
+    "transcripts": "",
+    "metrics_statistics": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

@@ -1,0 +1,53 @@
+{
+    "title": "Ronnie Sandoval Welcome to Krooked",
+    "description": "Ronnie Sandoval. Krooked Skateboards. Krooked. Welcome to the Team.\nKeeping in the Danger Zone.",
+    "referenceId": null,
+    "date_created": "1410194998",
+    "date_modified": "1470270823",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": "Krooked",
+    "video_celeb": null,
+    "video_activity": "Skating",
+    "VV_VI": "8",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "3764355",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "1",
+    "entityIdParent": "3764352",
+    "titleTextEncoded": "Ronnie-Sandoval-Welcome-to-Krooked",
+    "category": null,
+    "duration": "55",
+    "settings": [],
+    "asset": {
+        "author": "Krooked Skateboards",
+        "hdvFlag": 1,
+        "hookText": "Ronnie Sandoval. Krooked Skateboards. Krooked. Welcome to the Team. Keeping in the Danger Zone. For more go to: https:\/\/www.facebook.com\/Krooked.Skateboards ...",
+        "tags": "",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/y-V1TderOs8\/maxresdefault.jpg",
+        "uploadDate": 1386626132,
+        "videoId": "y-V1TderOs8",
+        "mediaDuration": "55",
+        "prettyDuration": "00:00:55",
+        "uploadAsset": false,
+        "quality": ""
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

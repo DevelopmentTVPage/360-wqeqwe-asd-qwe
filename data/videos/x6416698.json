@@ -1,0 +1,53 @@
+{
+    "title": "VonZipper : Desmond : Mickey Avalon",
+    "description": "Life's too short to concentrate on the past and we don't like nostalgia unless it's our own. Now's the time and the time is now, be the center of attention and focus on your future in the Desmond.",
+    "referenceId": "eqDgrLpUK5Q",
+    "date_created": "1443486080",
+    "date_modified": "1443486080",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "1",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6416698",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "9",
+    "entityIdParent": "168533",
+    "titleTextEncoded": "VonZipper-Desmond-Mickey-Avalon",
+    "category": null,
+    "duration": "19",
+    "settings": {},
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/eqDgrLpUK5Q\/hqdefault.jpg",
+        "uploadDate": 1299879433,
+        "videoId": "eqDgrLpUK5Q",
+        "title": "VonZipper : Desmond : Mickey Avalon",
+        "description": "Life's too short to concentrate on the past and we don't like nostalgia unless it's our own. Now's the time and the time is now, be the center of attention and focus on your future in the Desmond.",
+        "author": "VonZipper",
+        "mediaDuration": "19",
+        "prettyDuration": "00:00:19",
+        "views": "4780",
+        "hookText": "Life's too short to concentrate on the past and we don't like nostalgia unless it's our own. Now's the time and the time is now, be the center of attention and focus on your future in the Desmond."
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

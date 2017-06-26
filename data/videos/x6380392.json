@@ -1,0 +1,72 @@
+{
+    "title": "Sector 9 - Catalina Classic 2014",
+    "description": "Returning back to the island getaway for a lucky 3rd year meant that the Downhill Division had one thing on their mind... win everything! The competition was fierce, the party was legendary, and when the dust settled local bomber AJ Haiby had claimed the crown! Congrats to all of the riders who made the journey and raced their wheels off!",
+    "referenceId": null,
+    "date_created": "1440446433",
+    "date_modified": "1470333344",
+    "tags": "",
+    "sourceId": "1",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": "Sector_9",
+    "video_celeb": null,
+    "video_activity": "Skating",
+    "VV_VI": "3",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6380392",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "8",
+    "entityIdParent": "3764445",
+    "titleTextEncoded": "Sector-9-Catalina-Classic-2014",
+    "category": null,
+    "duration": "120",
+    "settings": {},
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "120"
+        },
+        "thumbnailUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/6380392\/98d791d511bb311bb366be31029c87f4.png",
+        "hookText": "",
+        "type": "mp4",
+        "mediaDuration": "120",
+        "prettyDuration": "00:02:00",
+        "tags": "",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/6380392\/720p_98d791d511bb311bb366be31029c87f4.mp4",
+                "quality": "720p"
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/6380392\/480p_98d791d511bb311bb366be31029c87f4.mp4",
+                "quality": "480p"
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/6380392\/360p_98d791d511bb311bb366be31029c87f4.mp4",
+                "quality": "360p"
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

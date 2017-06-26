@@ -1,0 +1,71 @@
+{
+    "title": "Rip Curl - Flashbomb",
+    "description": "Rip Curl - Flashbomb",
+    "referenceId": null,
+    "date_created": "1438820126",
+    "date_modified": "1438820303",
+    "tags": "",
+    "sourceId": "1",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "57",
+    "CVV_VI": "6",
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6291142",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "3",
+    "entityIdParent": "168546",
+    "titleTextEncoded": "Rip-Curl-Flashbomb",
+    "category": null,
+    "duration": "133",
+    "settings": null,
+    "asset": {
+        "type": "mp4",
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/753\/canvas\/655\/368\/411480192-017931540.png",
+        "mediaDuration": "133",
+        "prettyDuration": "00:02:13",
+        "description": "Rip Curl - Flashbomb",
+        "tags": "",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/6291142\/f279ddbe_79c9_43e8_805b_59309772fd93.mp4"
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/6291142\/720p_f279ddbe_79c9_43e8_805b_59309772fd93.mp4",
+                "quality": "720p"
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/6291142\/480p_f279ddbe_79c9_43e8_805b_59309772fd93.mp4",
+                "quality": "480p"
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/6291142\/360p_f279ddbe_79c9_43e8_805b_59309772fd93.mp4",
+                "quality": "360p"
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "conversion_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

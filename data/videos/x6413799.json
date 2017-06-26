@@ -1,0 +1,55 @@
+{
+    "title": "#TOURNOTES: LAY DAY FUN",
+    "description": "Go shopping with Carissa and Lakey, cook with Miguel Pupo and Simpo, and get some skate lessons with John John Florence in the latest lay day edition of #TOURNOTES.",
+    "referenceId": "HM3n7BZzOXg",
+    "date_created": "1443030555",
+    "date_modified": "1455733754",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "1",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6413799",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "467",
+    "entityIdParent": "158318",
+    "titleTextEncoded": "TOURNOTES-LAY-DAY-FUN",
+    "category": null,
+    "duration": "137",
+    "settings": [],
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/HM3n7BZzOXg\/hqdefault.jpg",
+        "uploadDate": 1398203998,
+        "videoId": "HM3n7BZzOXg",
+        "title": "#TOURNOTES: LAY DAY FUN",
+        "description": "Go shopping with Carissa and Lakey, cook with Miguel Pupo and Simpo, and get some skate lessons with John John Florence in the latest lay day edition of ...",
+        "author": "hurley",
+        "mediaDuration": "137",
+        "prettyDuration": "00:02:17",
+        "views": "51358",
+        "hookText": "Go shopping with Carissa and Lakey, cook with Miguel Pupo and Simpo, and get some skate lessons with John John Florence in the latest lay day edition of ..."
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": [
+        "25"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

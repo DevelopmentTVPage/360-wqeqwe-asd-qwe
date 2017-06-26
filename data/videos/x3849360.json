@@ -1,0 +1,73 @@
+{
+    "title": "Dickies Skate Visalia",
+    "description": "Dickies Skate Visalia",
+    "referenceId": null,
+    "date_created": "1437064109",
+    "date_modified": "1470243852",
+    "tags": "",
+    "sourceId": "1",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": "Dickies",
+    "video_celeb": null,
+    "video_activity": "Skating",
+    "VV_VI": "709",
+    "CVV_VI": "34",
+    "engagement_score": "6",
+    "conversion_score": "2",
+    "id": "3849360",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "1",
+    "entityIdParent": "168551",
+    "titleTextEncoded": "Dickies-Skate-Visalia",
+    "category": null,
+    "duration": "100",
+    "settings": [],
+    "asset": {
+        "type": "mp4",
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/753\/canvas\/655\/368\/430085767-02844473.JPG",
+        "mediaDuration": "100",
+        "prettyDuration": "00:01:40",
+        "hookText": "Dickies Skate Visalia",
+        "tags": "",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/3849360\/83b95564_d661_4a8a_8e77_758c1c1eab53.mp4"
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/3849360\/720p_83b95564_d661_4a8a_8e77_758c1c1eab53.mp4",
+                "quality": "720p"
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/3849360\/480p_83b95564_d661_4a8a_8e77_758c1c1eab53.mp4",
+                "quality": "480p"
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/3849360\/360p_83b95564_d661_4a8a_8e77_758c1c1eab53.mp4",
+                "quality": "360p"
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "conversion_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

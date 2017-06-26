@@ -1,0 +1,73 @@
+{
+    "title": "Converse x Warhol - Available at Tilly's",
+    "description": "Converse x Warhol - Available at Tilly's",
+    "referenceId": null,
+    "date_created": "1423262889",
+    "date_modified": "1470242832",
+    "tags": "Converse, Warhol, Andy Warhol, Shoes, Art, Pop Art",
+    "sourceId": "1",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": "Converse",
+    "video_celeb": null,
+    "video_activity": "Art___Design",
+    "VV_VI": "1269",
+    "CVV_VI": "132",
+    "engagement_score": "11",
+    "conversion_score": "11",
+    "id": "3817012",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "573",
+    "entityIdParent": "168524",
+    "titleTextEncoded": "Converse-x-Warhol-Available-at-Tilly-s",
+    "category": null,
+    "duration": "17",
+    "settings": [],
+    "asset": {
+        "type": "mp4",
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/753\/canvas\/655\/368\/370978481-046977596.png",
+        "mediaDuration": "17",
+        "prettyDuration": "00:00:17",
+        "hookText": "Converse x Warhol - Available at Tilly's",
+        "tags": "Converse, Warhol, Andy Warhol, Shoes, Art, Pop Art",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "https:\/\/d2mhchrq41duh4.cloudfront.net\/753\/3817012\/7bf71b39_e5bb_40f7_dc50_de6f654839bb.mp4"
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/3817012\/720p_7bf71b39_e5bb_40f7_dc50_de6f654839bb.mp4",
+                "quality": "720p"
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/3817012\/480p_7bf71b39_e5bb_40f7_dc50_de6f654839bb.mp4",
+                "quality": "480p"
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/3817012\/360p_7bf71b39_e5bb_40f7_dc50_de6f654839bb.mp4",
+                "quality": "360p"
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "conversion_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

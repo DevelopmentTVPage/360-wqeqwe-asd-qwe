@@ -1,0 +1,53 @@
+{
+    "title": "Fox Mauka to Makai Moto Day",
+    "description": "Fox Mauka to Makai Moto Day",
+    "referenceId": "CkHlyob8ZnY",
+    "date_created": "1443631148",
+    "date_modified": "1449251256",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "1",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6417998",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "175",
+    "entityIdParent": "168514",
+    "titleTextEncoded": "Fox-Mauka-to-Makai-Moto-Day",
+    "category": null,
+    "duration": "182",
+    "settings": {},
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/CkHlyob8ZnY\/hqdefault.jpg",
+        "uploadDate": 1355454510,
+        "videoId": "CkHlyob8ZnY",
+        "title": "Fox Mauka to Makai Moto Day",
+        "description": "",
+        "author": "FoxHeadInc",
+        "mediaDuration": "182",
+        "prettyDuration": "00:03:02",
+        "views": "3263",
+        "hookText": ""
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

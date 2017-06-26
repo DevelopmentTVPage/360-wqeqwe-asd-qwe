@@ -1,0 +1,71 @@
+{
+    "title": "Anna Sui x Oneill.mp4",
+    "description": "The Anna Sui for O\u2019Neill Fall collection is full of drama. Beautifully hand crafted touches add to the luxurious feel. Anna\u2019s spring 2013 collection served as the starting point, with a print taken directly from her show and a few new prints inspired from her previous runway looks. The essence of Anna comes to life through details such as art nouveau motifs and her signature butterfly sprinkled throughout the collection.",
+    "referenceId": null,
+    "date_created": "1437777254",
+    "date_modified": "1470242134",
+    "tags": "",
+    "sourceId": "1",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": "Art___Design",
+    "VV_VI": "382",
+    "CVV_VI": "17",
+    "engagement_score": "3",
+    "conversion_score": "1",
+    "id": "6266726",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "69",
+    "entityIdParent": "3764789",
+    "titleTextEncoded": "Anna-Sui-x-Oneill-mp4",
+    "category": null,
+    "duration": "69",
+    "settings": null,
+    "asset": {
+        "type": "mp4",
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/assets\/thumb\/mp4default.jpg",
+        "mediaDuration": "69",
+        "prettyDuration": "00:01:09",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/6266726\/5ba59185_9816_4bda_80b6_6e411666b348.mp4"
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/6266726\/720p_5ba59185_9816_4bda_80b6_6e411666b348.mp4",
+                "quality": "720p"
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/6266726\/480p_5ba59185_9816_4bda_80b6_6e411666b348.mp4",
+                "quality": "480p"
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/6266726\/360p_5ba59185_9816_4bda_80b6_6e411666b348.mp4",
+                "quality": "360p"
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "conversion_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

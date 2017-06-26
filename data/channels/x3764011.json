@@ -1,0 +1,30 @@
+{
+    "title": "Blowfish",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1409869629",
+    "date_modified": "1409870785",
+    "tags": "",
+    "sourceId": null,
+    "status": "approved",
+    "visibility": "1",
+    "id": "3764011",
+    "loginId": "753",
+    "entityType": "3",
+    "titleTextEncoded": "Blowfish",
+    "category": null,
+    "duration": null,
+    "settings": {
+        "canvasImage": "700204777-0.jpg",
+        "colorClass": "light",
+        "canvasType": "cropped",
+        "autoPlay": 0,
+        "hideoos": 1,
+        "auto": {
+            "dynamic": 0
+        },
+        "optimize": 1,
+        "canvasCropped": "700204777-0181000581.jpg"
+    },
+    "transcripts": null
+}

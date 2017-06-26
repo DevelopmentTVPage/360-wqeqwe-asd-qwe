@@ -1,0 +1,76 @@
+{
+    "title": "Billabong Barbados Summer 2015",
+    "description": "Billabong Barbados Summer 2015",
+    "referenceId": null,
+    "date_created": "1430952022",
+    "date_modified": "1455901220",
+    "tags": "",
+    "sourceId": "1",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "70",
+    "CVV_VI": "9",
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "3837609",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "9",
+    "entityIdParent": "168512",
+    "titleTextEncoded": "Billabong-Barbados-Summer-2015",
+    "category": null,
+    "duration": "122",
+    "settings": [],
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "122"
+        },
+        "thumbnailUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/3837609\/969ebe6f65729cfce80e6324f49d33b3.png",
+        "hookText": "",
+        "type": "mp4",
+        "mediaDuration": "122",
+        "prettyDuration": "00:02:02",
+        "tags": "",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/3837609\/720p_90349_BBG_SUM15_RELEASE_1080P-1.mp4",
+                "quality": "720p"
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/3837609\/480p_90349_BBG_SUM15_RELEASE_1080P-1.mp4",
+                "quality": "480p"
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/3837609\/360p_90349_BBG_SUM15_RELEASE_1080P-1.mp4",
+                "quality": "360p"
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "conversion_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

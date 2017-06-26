@@ -1,0 +1,48 @@
+{
+    "title": "Dakine Poncho Libre",
+    "description": "Designed by Peter Line, the Poncho Libre is no ordinary poncho. Constructed from 100% cotton, this mid-layer is soft to the touch and features a waxed finish, plus interior hand warmer pockets for extra protection from the elements.",
+    "referenceId": "137827239",
+    "date_created": "1441409136",
+    "date_modified": "1448310029",
+    "tags": "dakine,poncho,poncho libre,peter line",
+    "sourceId": "3",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6390410",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "315",
+    "entityIdParent": "168543",
+    "titleTextEncoded": "Dakine-Poncho-Libre",
+    "category": null,
+    "duration": 33,
+    "settings": {},
+    "asset": {
+        "type": "mp4",
+        "hdvFlag": 1,
+        "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/532891572_1920x1080.jpg",
+        "mediaDuration": 33,
+        "prettyDuration": "00:33",
+        "uploadDate": 1441022429,
+        "tags": "dakine,poncho,poncho libre,peter line",
+        "hookText": "Designed by Peter Line, the Poncho Libre is no ordinary poncho. Constructed from 100% cotton, this mid-layer is soft to the touch and features a waxed finish, plus interior hand warmer pockets for extra protection from the elements. For more info visit ww",
+        "sources": [
+            {
+                "file": "https:\/\/player.vimeo.com\/external\/137827239.hd.mp4?s=d286705e2f4d2db384e6337e4be83826&profile_id=119&oauth2_token_id=56801069"
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

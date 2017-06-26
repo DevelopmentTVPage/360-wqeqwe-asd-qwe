@@ -1,0 +1,59 @@
+{
+    "title": "Arbor Snowboards :: Video Log - Quebec",
+    "description": "Arbor Snowboards :: Video Log - Quebec",
+    "referenceId": "141730789",
+    "date_created": "1444258780",
+    "date_modified": "1470239901",
+    "tags": "",
+    "sourceId": "1",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "3",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6596274",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "1",
+    "entityIdParent": "3763991",
+    "titleTextEncoded": "Arbor-Snowboards-Video-Log-Quebec",
+    "category": null,
+    "duration": "241",
+    "settings": {
+        "parentFeedId": "6596130",
+        "parentFeedLoginId": "753"
+    },
+    "asset": {
+        "type": "mp4",
+        "hdvFlag": 1,
+        "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/538819371_1280x719.jpg",
+        "mediaDuration": "241",
+        "prettyDuration": "00:04:01",
+        "uploadDate": 1444258780,
+        "tags": "",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "https:\/\/player.vimeo.com\/external\/141730789.hd.mp4?s=e800a89cda24c245a5ac903edbd1465c&profile_id=113&oauth2_token_id=74680278"
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

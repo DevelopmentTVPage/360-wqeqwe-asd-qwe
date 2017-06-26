@@ -1,0 +1,71 @@
+{
+    "title": "Nike SB - Skate Free - Ben Raybourn",
+    "description": "Nike SB - Skate Free - Ben Raybourn",
+    "referenceId": null,
+    "date_created": "1423185450",
+    "date_modified": "1431447035",
+    "tags": "Nike SB, Ben Raybourn, Nike, Skateboarding,",
+    "sourceId": "1",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "1034",
+    "CVV_VI": "81",
+    "engagement_score": "9",
+    "conversion_score": "6",
+    "id": "3816998",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "13",
+    "entityIdParent": "168513",
+    "titleTextEncoded": "Nike-SB-Skate-Free-Ben-Raybourn",
+    "category": null,
+    "duration": "295",
+    "settings": [],
+    "asset": {
+        "type": "mp4",
+        "sources": [
+            {
+                "file": "https:\/\/d2mhchrq41duh4.cloudfront.net\/753\/3816998\/5fb87738_e52f_49e7_8908_783afb2d3596.mp4"
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/3816998\/720p_5fb87738_e52f_49e7_8908_783afb2d3596.mp4",
+                "quality": "720p"
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/3816998\/480p_5fb87738_e52f_49e7_8908_783afb2d3596.mp4",
+                "quality": "480p"
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/3816998\/360p_5fb87738_e52f_49e7_8908_783afb2d3596.mp4",
+                "quality": "360p"
+            }
+        ],
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/753\/canvas\/655\/368\/508070186-0101083619.png",
+        "mediaDuration": "295",
+        "prettyDuration": "00:04:55",
+        "hookText": "Nike SB - Skate Free - Ben Raybourn",
+        "tags": "Nike SB, Ben Raybourn, Nike, Skateboarding,"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "conversion_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

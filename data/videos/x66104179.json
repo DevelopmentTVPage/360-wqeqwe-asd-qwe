@@ -1,0 +1,52 @@
+{
+    "title": "bunker_down: teaser 3",
+    "description": "shop viewings nearing completion. premieres world wide on thrasher Oct 28th.",
+    "referenceId": "5FzImtsaSF4",
+    "date_created": "1445707075",
+    "date_modified": "1465341082",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "3",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "66104179",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "12",
+    "entityIdParent": "168555",
+    "titleTextEncoded": "bunker-down-teaser-3",
+    "category": "",
+    "duration": 15,
+    "settings": {},
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/5FzImtsaSF4\/hqdefault.jpg",
+        "uploadDate": 1445707075,
+        "videoId": "5FzImtsaSF4",
+        "title": "bunker_down: teaser 3",
+        "description": "shop viewings nearing completion. premieres world wide on thrasher Oct 28th.",
+        "author": "Alien Workshop",
+        "mediaDuration": 15,
+        "prettyDuration": "00:00:15",
+        "views": "1543"
+    },
+    "transcripts": "[Music Playing]",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

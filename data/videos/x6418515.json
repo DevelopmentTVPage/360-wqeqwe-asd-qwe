@@ -1,0 +1,55 @@
+{
+    "title": "Official Dan's Comp x etnies Tour Edit",
+    "description": "The official edit of the Dan's Comp X Etnies Tour from May 2011. Featuring the riding of Corey Martinez, Tony Hamlin, Nathan Williams, Chase Dehart and others. Filmed in NYC, New Jersey, Philly, Ohio, Indiana and Chicago. Filmed and produced by Christian Rigal.",
+    "referenceId": "25843722",
+    "date_created": "1443720329",
+    "date_modified": "1450297083",
+    "tags": "etnies,dan's comp,bmx,nathan williams,corey martinez,tony hamlin,chase dehart,east coast tour",
+    "sourceId": "3",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "1",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6418515",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "104",
+    "entityIdParent": "168527",
+    "titleTextEncoded": "Official-Dan-s-Comp-x-etnies-Tour-Edit",
+    "category": null,
+    "duration": 467,
+    "settings": {},
+    "asset": {
+        "type": "mp4",
+        "hdvFlag": 1,
+        "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/181021189_1280x699.jpg",
+        "mediaDuration": 467,
+        "prettyDuration": "07:47",
+        "uploadDate": 1309479151,
+        "tags": "etnies,dan's comp,bmx,nathan williams,corey martinez,tony hamlin,chase dehart,east coast tour",
+        "hookText": "The official edit of the Dan's Comp X Etnies Tour from May 2011. Featuring the riding of Corey Martinez, Tony Hamlin, Nathan Williams, Chase Dehart and others. Filmed in NYC, New Jersey, Philly, Ohio, Indiana and Chicago. Filmed and produced by Christian ",
+        "sources": [
+            {
+                "file": "https:\/\/player.vimeo.com\/external\/25843722.hd.mp4?s=d3b3984dc820d98387929704d30af7af&profile_id=113&oauth2_token_id=62432308"
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

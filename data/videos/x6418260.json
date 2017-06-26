@@ -1,0 +1,55 @@
+{
+    "title": "DAKINE Trail Fox Event",
+    "description": "One of the best open bike contest in Europe, held in Flims, Switzertland.  Three days of racing, running night and day, plus a big party and a great vibe!\n\nDAKINE team rider Ren\u00e9 Wildhaber wins again this year, dominating the three races!",
+    "referenceId": "26117306",
+    "date_created": "1443639354",
+    "date_modified": "1448314872",
+    "tags": "Array,Array,Array,Array,Array,Array,Array",
+    "sourceId": "3",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "1",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6418260",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "65",
+    "entityIdParent": "168543",
+    "titleTextEncoded": "DAKINE-Trail-Fox-Event",
+    "category": null,
+    "duration": 191,
+    "settings": {},
+    "asset": {
+        "type": "mp4",
+        "hdvFlag": 1,
+        "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/172343914_1280x720.jpg",
+        "mediaDuration": 191,
+        "prettyDuration": "03:11",
+        "uploadDate": 1310054857,
+        "tags": "Array,Array,Array,Array,Array,Array,Array",
+        "hookText": "One of the best open bike contest in Europe, held in Flims, Switzertland.  Three days of racing, running night and day, plus a big party and a great vibe!\n\nDAKINE team rider Ren\u00e9 Wildhaber wins again this year, dominating the three races!",
+        "sources": [
+            {
+                "file": "https:\/\/player.vimeo.com\/external\/26117306.hd.mp4?s=ecd308bfb3170ec7ee7a5c03d44cef2a&profile_id=113&oauth2_token_id=56801069"
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

@@ -1,0 +1,53 @@
+{
+    "title": "Archy x Ford | California Summer",
+    "description": "A session with Matt and Ford Archbold at Southern California beach break. Music by The Growlers, Song Jonesy's Bowl. Video by Jimmy James",
+    "referenceId": null,
+    "date_created": "1401408731",
+    "date_modified": "1470332345",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": "RVCA",
+    "video_celeb": null,
+    "video_activity": "Surfing",
+    "VV_VI": "13",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "170657",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "8",
+    "entityIdParent": "168519",
+    "titleTextEncoded": "Archy-x-Ford-California-Summer",
+    "category": null,
+    "duration": "81",
+    "settings": [],
+    "asset": {
+        "author": "rvca",
+        "hdvFlag": 1,
+        "hookText": "A session with Matt and Ford Archbold at Southern California beach break. Music by The Growlers, Song Jonesy's Bowl. Video by Jimmy James More California Sum...",
+        "tags": "",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/vaOeVRJH6dY\/sddefault.jpg",
+        "uploadDate": 1380311926,
+        "videoId": "vaOeVRJH6dY",
+        "mediaDuration": "81",
+        "prettyDuration": "00:01:21",
+        "uploadAsset": false,
+        "quality": ""
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

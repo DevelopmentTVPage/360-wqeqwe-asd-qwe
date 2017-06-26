@@ -1,0 +1,25 @@
+{
+    "title": "Rastaclat",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1427823164",
+    "date_modified": "1428942409",
+    "tags": "",
+    "sourceId": null,
+    "status": "approved",
+    "visibility": "1",
+    "id": "3831810",
+    "loginId": "753",
+    "entityType": "3",
+    "titleTextEncoded": "Rastaclat",
+    "category": null,
+    "duration": null,
+    "settings": {
+        "canvasImage": "743508623-0.png",
+        "colorClass": "light",
+        "canvasType": "cropped",
+        "canvasCropped": "743508623-00385217.png",
+        "autoPlay": 0
+    },
+    "transcripts": null
+}

@@ -1,0 +1,53 @@
+{
+    "title": "Denver, Colorado - Arnette Field Trip",
+    "description": "Arnette Eyewear takes you on a tour of Denver, CO and all the sights and sounds this city has to offer.",
+    "referenceId": null,
+    "date_created": "1440444242",
+    "date_modified": "1448394822",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "1",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6379681",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "43",
+    "entityIdParent": "168553",
+    "titleTextEncoded": "Denver-Colorado-Arnette-Field-Trip",
+    "category": null,
+    "duration": "344",
+    "settings": {},
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/N37S2erZSlU\/hqdefault.jpg",
+        "uploadDate": 1435077872,
+        "videoId": "N37S2erZSlU",
+        "title": "Denver, Colorado - Arnette Field Trip",
+        "description": "Arnette Eyewear takes you on a tour of Denver, CO and all the sights and sounds this city has to offer.\nGet the full Denver Field Trip experience at http:\/\/www.arnette.com\/field-trip-denver\/",
+        "author": "Arnette",
+        "mediaDuration": "344",
+        "prettyDuration": "00:05:44",
+        "views": "49",
+        "hookText": "Arnette Eyewear takes you on a tour of Denver, CO and all the sights and sounds this city has to offer.\nGet the full Denver Field Trip experience at http:\/\/www.arnette.com\/field-trip-denver\/"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

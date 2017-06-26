@@ -1,0 +1,29 @@
+{
+    "pageNumber": 0,
+    "data": [
+        {
+            "id": "66352723",
+            "title": "ZERO WELCOMES WINDSOR JAMES",
+            "date_created": "1467227577",
+            "loginId": "753",
+            "tags": "",
+            "description": "Zero is proud to introduce Windsor James. There are 100 limited edition signed & numbered Windsor 'Iron Mike' boards available through Garage Days Collection.",
+            "asset": {
+                "type": "youtube",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/X2YMsqtYo2g\/hqdefault.jpg",
+                "uploadDate": 1467227577,
+                "videoId": "X2YMsqtYo2g",
+                "title": "ZERO WELCOMES WINDSOR JAMES",
+                "description": "Zero is proud to introduce Windsor James. There are 100 limited edition signed & numbered Windsor 'Iron Mike' boards available through Garage Days Collection.",
+                "author": "Zero Skateboards",
+                "mediaDuration": 23,
+                "prettyDuration": "00:00:23",
+                "views": "608",
+                "uploadAsset": false,
+                "quality": ""
+            },
+            "parentId": "66483129",
+            "url": "\/zero\/zero-welcomes-windsor-james\/66483129-66352723"
+        }
+    ]
+}

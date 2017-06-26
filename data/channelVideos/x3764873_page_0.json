@@ -1,0 +1,68 @@
+{
+    "pageNumber": 0,
+    "data": [
+        {
+            "id": "3764875",
+            "title": "Kelty Mockingbird",
+            "date_created": "1410811206",
+            "loginId": "753",
+            "tags": "",
+            "description": "Explore the feature benefits of Kelty's Mockingbird with Product Manager Andrew Day.",
+            "asset": {
+                "author": "Kelty Gear",
+                "hdvFlag": 0,
+                "hookText": "Explore the feature benefits of Kelty's Mockingbird with Product Manager Andrew Day.",
+                "tags": "",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/pqStgfAnsKI\/hqdefault.jpg",
+                "uploadDate": 1280336402,
+                "videoId": "pqStgfAnsKI",
+                "mediaDuration": "50",
+                "prettyDuration": "00:00:50"
+            },
+            "parentId": "3764873",
+            "url": "\/kelty\/kelty-mockingbird\/3764873-3764875"
+        },
+        {
+            "id": "3764874",
+            "title": "Kelty is...",
+            "date_created": "1410811096",
+            "loginId": "753",
+            "tags": "",
+            "description": "At Kelty, our products are fueled by our passion to make it easy for friends and family to get out and enjoy the outdoors.",
+            "asset": {
+                "author": "Kelty Gear",
+                "hdvFlag": 1,
+                "hookText": "At Kelty, our products are fueled by our passion to make it easy for friends and family to get out and enjoy the outdoors. Shop http:\/\/tinyurl.com\/KeltyIs FI...",
+                "tags": "",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/CuxynNZO32k\/maxresdefault.jpg",
+                "uploadDate": 1313783488,
+                "videoId": "CuxynNZO32k",
+                "mediaDuration": "174",
+                "prettyDuration": "00:02:54"
+            },
+            "parentId": "3764873",
+            "url": "\/kelty\/kelty-is\/3764873-3764874"
+        },
+        {
+            "id": "3764872",
+            "title": "Kelty Backpacks: Bueller Daypack",
+            "date_created": "1410810990",
+            "loginId": "753",
+            "tags": "",
+            "description": "The perfect bag for mixing work with pleasure, the Bueller is a mid-sized day pack with features designed specifically for the daily commute or an afternoon on the trail. A padded sleeve keeps your 17 inch laptop protected and doubles as a hydration sleeve. An additional water bottle pocket adds convenience and versatility for staying hydrated. Shop Now http:\/\/tinyurl.com\/KeltyDaypacks",
+            "asset": {
+                "author": "Kelty Gear",
+                "hdvFlag": 1,
+                "hookText": "The perfect bag for mixing work with pleasure, the Bueller is a mid-sized day pack with features designed specifically for the daily commute or an afternoon ...",
+                "tags": "",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/blbpZ9tRwvI\/maxresdefault.jpg",
+                "uploadDate": 1367344062,
+                "videoId": "blbpZ9tRwvI",
+                "mediaDuration": "45",
+                "prettyDuration": "00:00:45"
+            },
+            "parentId": "3764873",
+            "url": "\/kelty\/kelty-backpacks-bueller-daypack\/3764873-3764872"
+        }
+    ]
+}

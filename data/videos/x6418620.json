@@ -1,0 +1,48 @@
+{
+    "title": "Catching Up with DJ Nu-Mark",
+    "description": "Catching Up with DJ Nu-Mark",
+    "referenceId": "21473290",
+    "date_created": "1443730207",
+    "date_modified": "1456342970",
+    "tags": "etnies,etnies Influence,DJ Nu-Mark",
+    "sourceId": "3",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6418620",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "65",
+    "entityIdParent": "168527",
+    "titleTextEncoded": "Catching-Up-with-DJ-Nu-Mark",
+    "category": null,
+    "duration": 77,
+    "settings": {},
+    "asset": {
+        "type": "mp4",
+        "hdvFlag": 1,
+        "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/138159046_1280x720.jpg",
+        "mediaDuration": 77,
+        "prettyDuration": "01:17",
+        "uploadDate": 1301032456,
+        "tags": "etnies,etnies Influence,DJ Nu-Mark",
+        "hookText": "",
+        "sources": [
+            {
+                "file": "https:\/\/player.vimeo.com\/external\/21473290.hd.mp4?s=62ab2dded53addc387356cf81b265a71&profile_id=113&oauth2_token_id=62432308"
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

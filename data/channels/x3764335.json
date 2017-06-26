@@ -1,0 +1,29 @@
+{
+    "title": "Girl",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1409957952",
+    "date_modified": "1409959429",
+    "tags": "",
+    "sourceId": null,
+    "status": "approved",
+    "visibility": "1",
+    "id": "3764335",
+    "loginId": "753",
+    "entityType": "3",
+    "titleTextEncoded": "Girl",
+    "category": null,
+    "duration": null,
+    "settings": {
+        "canvasImage": "653999129-0.jpg",
+        "colorClass": "light",
+        "canvasType": "cropped",
+        "hideoos": 1,
+        "auto": {
+            "dynamic": 0
+        },
+        "optimize": 1,
+        "canvasCropped": "653999129-071800520.jpg"
+    },
+    "transcripts": null
+}

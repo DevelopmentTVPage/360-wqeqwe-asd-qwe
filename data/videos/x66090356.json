@@ -1,0 +1,54 @@
+{
+    "title": "RD1 H2 - Sofia Mulanovich, Rebecca  Woods, Bethany Hamilton",
+    "description": "Rebecca Woods - 8.33\nSofia Mulanovich - 7.93\nBethany Hamilton - 5.16",
+    "referenceId": "t76GQrkpOoE",
+    "date_created": "1286494585",
+    "date_modified": "1465345188",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "3",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "66090356",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "31",
+    "entityIdParent": "168546",
+    "titleTextEncoded": "RD1-H2-Sofia-Mulanovich-Rebecca-Woods-Bethany-Hamilton",
+    "category": "",
+    "duration": 106,
+    "settings": "",
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/t76GQrkpOoE\/hqdefault.jpg",
+        "uploadDate": 1286494585,
+        "videoId": "t76GQrkpOoE",
+        "title": "RD1 H2 - Sofia Mulanovich, Rebecca  Woods, Bethany Hamilton",
+        "description": "Rebecca Woods - 8.33\r\nSofia Mulanovich - 7.93\r\nBethany Hamilton - 5.16",
+        "author": "Rip Curl",
+        "mediaDuration": 106,
+        "prettyDuration": "00:01:46",
+        "views": "2488",
+        "uploadAsset": false,
+        "quality": ""
+    },
+    "transcripts": "[Music Playing]",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

@@ -1,0 +1,53 @@
+{
+    "title": "- 2 SKIP -",
+    "description": "Danimals up at Mt. Hood. Shot and edited by Jake Durham.",
+    "referenceId": null,
+    "date_created": "1440445842",
+    "date_modified": "1440445842",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "1",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6380267",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "118",
+    "entityIdParent": "3763996",
+    "titleTextEncoded": "2-SKIP",
+    "category": null,
+    "duration": "68",
+    "settings": {},
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/cUrGgtWZu20\/hqdefault.jpg",
+        "uploadDate": 1407365343,
+        "videoId": "cUrGgtWZu20",
+        "title": "- 2 SKIP -",
+        "description": "Danimals up at Mt. Hood. Shot and edited by Jake Durham.",
+        "author": "ashburyeyewear",
+        "mediaDuration": "68",
+        "prettyDuration": "00:01:08",
+        "views": "1065",
+        "hookText": "Danimals up at Mt. Hood. Shot and edited by Jake Durham."
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

@@ -1,0 +1,26 @@
+{
+    "title": "Neff Woodstock Collection",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1435245922",
+    "date_modified": "1435255051",
+    "tags": "",
+    "sourceId": null,
+    "status": "approved",
+    "visibility": "1",
+    "id": "3846085",
+    "loginId": "753",
+    "entityType": "3",
+    "titleTextEncoded": "Neff-Woodstock-Collection",
+    "category": null,
+    "duration": null,
+    "settings": {
+        "canvasImage": "675999442-0.png",
+        "colorClass": "light",
+        "canvasType": "cropped",
+        "canvasCropped": "675999442-0-01273715.png",
+        "autoPlay": 1,
+        "autoNext": 1
+    },
+    "transcripts": null
+}

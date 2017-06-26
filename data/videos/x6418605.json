@@ -1,0 +1,57 @@
+{
+    "title": "Free Surf: Bells Beach",
+    "description": "Free Surf: Bells Beach",
+    "referenceId": "23180990",
+    "date_created": "1443727451",
+    "date_modified": "1456351594",
+    "tags": "etnies,etnies surf,Bells Beach,Rip Curl Pro Bells,Brett Simpson,Simpo,Kai Otton,Sally Fitzgibbons",
+    "sourceId": "3",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "1",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6418605",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "80",
+    "entityIdParent": "168527",
+    "titleTextEncoded": "Free-Surf-Bells-Beach",
+    "category": null,
+    "duration": 144,
+    "settings": [],
+    "asset": {
+        "type": "mp4",
+        "hdvFlag": 1,
+        "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/150741608_1280x720.jpg",
+        "mediaDuration": 144,
+        "prettyDuration": "02:24",
+        "uploadDate": 1304377314,
+        "tags": "etnies,etnies surf,Bells Beach,Rip Curl Pro Bells,Brett Simpson,Simpo,Kai Otton,Sally Fitzgibbons",
+        "hookText": "http:\/\/facebook.com\/etnies",
+        "sources": [
+            {
+                "file": "https:\/\/player.vimeo.com\/external\/23180990.hd.mp4?s=333d9e85af18f179392b416953c24d15&profile_id=113&oauth2_token_id=62432308"
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": [
+        "26"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

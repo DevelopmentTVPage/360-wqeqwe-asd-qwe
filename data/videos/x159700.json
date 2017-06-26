@@ -1,0 +1,50 @@
+{
+    "title": "BRETT AND BARTON LYNCH'S MORNING SURF",
+    "description": "Lay day free surf at the Hurley Pro.",
+    "referenceId": null,
+    "date_created": "1398361014",
+    "date_modified": "1418181345",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "8",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "159700",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "28",
+    "entityIdParent": "158318",
+    "titleTextEncoded": "BRETT-AND-BARTON-LYNCH-S-MORNING-SURF",
+    "category": null,
+    "duration": "151",
+    "settings": [],
+    "asset": {
+        "author": "Hurley",
+        "videoId": "t7nms0zO6wk",
+        "hookText": "Lay day free surf at the Hurley Pro.",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/t7nms0zO6wk\/maxresdefault.jpg",
+        "mediaDuration": "151",
+        "hdvFlag": 1,
+        "uploadDate": 1284631319,
+        "prettyDuration": "00:02:31"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

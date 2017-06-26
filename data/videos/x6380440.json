@@ -1,0 +1,51 @@
+{
+    "title": "BRIDGE CLUB v01",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1440449702",
+    "date_modified": "1440449702",
+    "tags": "",
+    "sourceId": "3",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "2",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6380440",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "377",
+    "entityIdParent": "168543",
+    "titleTextEncoded": "BRIDGE-CLUB-v01",
+    "category": null,
+    "duration": 129,
+    "settings": {},
+    "asset": {
+        "type": "mp4",
+        "sources": [],
+        "hdvFlag": 0,
+        "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/510388228_1280x720.jpg",
+        "mediaDuration": 129,
+        "prettyDuration": "02:09",
+        "uploadDate": 1425673013,
+        "tags": "",
+        "hookText": ""
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

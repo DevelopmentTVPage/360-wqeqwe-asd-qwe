@@ -1,0 +1,55 @@
+{
+    "title": "O'Neill #ridemore -- Who needs a mountain",
+    "description": "Check it out at http:\/\/www.oneill.com\/ridemore We're here for the same reason we've always been here: to enable the world to #ridemore.",
+    "referenceId": null,
+    "date_created": "1410456108",
+    "date_modified": "1470244054",
+    "tags": "Action",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": "Snowboarding",
+    "VV_VI": "72",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "3764805",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "219",
+    "entityIdParent": "3764790",
+    "titleTextEncoded": "O-Neill-ridemore-Who-needs-a-mountain",
+    "category": null,
+    "duration": "99",
+    "settings": [],
+    "asset": {
+        "author": "TeamONeill",
+        "hdvFlag": 1,
+        "hookText": "Check it out at http:\/\/www.oneill.com\/ridemore We're here for the same reason we've always been here: to enable the world to #ridemore.",
+        "tags": "Action",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/44RTzJwUNcI\/maxresdefault.jpg",
+        "uploadDate": 1381821096,
+        "videoId": "44RTzJwUNcI",
+        "mediaDuration": "99",
+        "prettyDuration": "00:01:39",
+        "uploadAsset": false,
+        "quality": ""
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": [
+        "8"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

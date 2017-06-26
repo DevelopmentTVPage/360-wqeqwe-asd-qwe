@@ -1,0 +1,53 @@
+{
+    "title": "adidas Skateboarding Gonz New York City",
+    "description": "New York City campaign shoot in August 2007 with Mark Gonzales.",
+    "referenceId": "O7XgU8lPQ8c",
+    "date_created": "1443046613",
+    "date_modified": "1455844368",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "12",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6413913",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "38",
+    "entityIdParent": "168510",
+    "titleTextEncoded": "adidas-Skateboarding-Gonz-New-York-City",
+    "category": null,
+    "duration": "60",
+    "settings": {},
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/O7XgU8lPQ8c\/hqdefault.jpg",
+        "uploadDate": 1315332496,
+        "videoId": "O7XgU8lPQ8c",
+        "title": "adidas Skateboarding Gonz New York City",
+        "description": "New York City campaign shoot in August 2007 with Mark Gonzales. Official Website: http:\/\/www.adidas.com\/skateboarding Store Locator: http:\/\/bit.ly\/qIFMfO.",
+        "author": "adidasSkateboarding",
+        "mediaDuration": "60",
+        "prettyDuration": "00:01:00",
+        "views": "9835",
+        "hookText": "New York City campaign shoot in August 2007 with Mark Gonzales. Official Website: http:\/\/www.adidas.com\/skateboarding Store Locator: http:\/\/bit.ly\/qIFMfO."
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

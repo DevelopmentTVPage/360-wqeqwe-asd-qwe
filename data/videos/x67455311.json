@@ -1,0 +1,69 @@
+{
+    "title": "juh_bree_z",
+    "description": "juh_bree_z",
+    "referenceId": "86d40c9bb5cff32ce5589b226b5b25d5",
+    "date_created": "1471020328",
+    "date_modified": "1471021343",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "67455311",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "126",
+    "entityIdParent": "67314311",
+    "titleTextEncoded": "juh-bree-z6-mp4",
+    "category": "",
+    "duration": "49",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "49",
+            "width": 640,
+            "height": 360
+        },
+        "mediaDuration": "49",
+        "prettyDuration": "00:00:49",
+        "thumbnailUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67455311\/57eff\/thumb-86d40c9bb5cff32ce5589b226b5b25d5-00001.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67455311\/57eff\/media.mpd",
+        "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67455311\/57eff\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67455311\/57eff\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67455311\/57eff\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "metrics_statistics": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

@@ -1,0 +1,50 @@
+{
+    "title": "Del Rey",
+    "description": "The Del Rey has a standard-width, true-twin shape and soft flex. It\u2019s freestyle performance in a cambered true-twin package; the Del Rey is a dirty little park machine that was designed for wide-ranging, street-oriented riding: jumps, jibs, taps, rails.",
+    "referenceId": "75448209",
+    "date_created": "1443634306",
+    "date_modified": "1448393282",
+    "tags": "Arbor,Arbor Del Rey,Arbor Snowboards,Snowboarding,Product Profiles",
+    "sourceId": "3",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6418118",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "132",
+    "entityIdParent": "3763991",
+    "titleTextEncoded": "Del-Rey",
+    "category": null,
+    "duration": 62,
+    "settings": [],
+    "asset": {
+        "type": "mp4",
+        "hdvFlag": 0,
+        "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/451157584_1280x720.jpg",
+        "mediaDuration": 62,
+        "prettyDuration": "01:02",
+        "uploadDate": 1380153456,
+        "tags": "Arbor,Arbor Del Rey,Arbor Snowboards,Snowboarding,Product Profiles",
+        "hookText": "The Del Rey has a standard-width, true-twin shape and soft flex. It\u2019s freestyle performance in a cambered true-twin package; the Del Rey is a dirty little park machine that was designed for wide-ranging, street-oriented riding: jumps, jibs, taps, rails, b",
+        "sources": [
+            {
+                "file": "https:\/\/player.vimeo.com\/external\/75448209.sd.mp4?s=ac350aaa03b6163ece34c468bb04b404&profile_id=112&oauth2_token_id=74680278"
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "33"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

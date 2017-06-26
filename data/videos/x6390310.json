@@ -1,0 +1,53 @@
+{
+    "title": "The Foreigners",
+    "description": "htttp:\/\/altamontapparel.com.",
+    "referenceId": "ENJzEa_MEX4",
+    "date_created": "1441406590",
+    "date_modified": "1444950438",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "1",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6390310",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "18",
+    "entityIdParent": "168548",
+    "titleTextEncoded": "The-Foreigners",
+    "category": null,
+    "duration": "433",
+    "settings": {},
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/ENJzEa_MEX4\/hqdefault.jpg",
+        "uploadDate": 1286405469,
+        "videoId": "ENJzEa_MEX4",
+        "title": "The Foreigners",
+        "description": "htttp:\/\/altamontapparel.com.",
+        "author": "Altamont",
+        "mediaDuration": "433",
+        "prettyDuration": "00:07:13",
+        "views": "477",
+        "hookText": "htttp:\/\/altamontapparel.com."
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

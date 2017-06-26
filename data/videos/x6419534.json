@@ -1,0 +1,53 @@
+{
+    "title": "MEET EVAN MOCK",
+    "description": "The North Shore style-master gives you a glimpse into his life \u2014 which for the most part is spent at the Banzai Skatepark. Video: PK.",
+    "referenceId": "6poOtmE9lKw",
+    "date_created": "1444154647",
+    "date_modified": "1450201089",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "2",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6419534",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "235",
+    "entityIdParent": "158318",
+    "titleTextEncoded": "MEET-EVAN-MOCK",
+    "category": null,
+    "duration": "98",
+    "settings": {},
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/6poOtmE9lKw\/hqdefault.jpg",
+        "uploadDate": 1331172226,
+        "videoId": "6poOtmE9lKw",
+        "title": "MEET EVAN MOCK",
+        "description": "The North Shore style-master gives you a glimpse into his life \u2014 which for the most part is spent at the Banzai Skatepark. Video: PK.",
+        "author": "hurley",
+        "mediaDuration": "98",
+        "prettyDuration": "00:01:38",
+        "views": "4465",
+        "hookText": "The North Shore style-master gives you a glimpse into his life \u2014 which for the most part is spent at the Banzai Skatepark. Video: PK."
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

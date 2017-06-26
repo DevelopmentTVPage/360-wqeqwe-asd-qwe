@@ -1,0 +1,42 @@
+{
+    "pageNumber": 0,
+    "data": [
+        {
+            "id": "3844837",
+            "title": "Lady GroupLove For Volcom",
+            "date_created": "1434475557",
+            "loginId": "753",
+            "tags": "",
+            "description": "After four years of touring Hannah Hooper the female lead of Grouplove walked into Volcom and emptied her suitcase on a table for the Volcom design team. Three hours later the team of women had the beginnings of what would become the inspiration behind the \"Lady Grouplove Collection\" for Volcom product collaboration.",
+            "asset": {
+                "type": "mp4",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/753\/canvas\/655\/368\/956250461-173791236677.png",
+                "mediaDuration": "139",
+                "prettyDuration": "00:02:19",
+                "hookText": "Lady GroupLove For Volcom",
+                "tags": "",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/3844837\/0f1f9b77_5d60_48e4_d6dc_1bdd753971e1.mp4"
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/3844837\/720p_0f1f9b77_5d60_48e4_d6dc_1bdd753971e1.mp4",
+                        "quality": "720p"
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/3844837\/480p_0f1f9b77_5d60_48e4_d6dc_1bdd753971e1.mp4",
+                        "quality": "480p"
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/3844837\/360p_0f1f9b77_5d60_48e4_d6dc_1bdd753971e1.mp4",
+                        "quality": "360p"
+                    }
+                ]
+            },
+            "parentId": "3844835",
+            "url": "\/grouplove\/lady-grouplove-for-volcom\/3844835-3844837"
+        }
+    ]
+}

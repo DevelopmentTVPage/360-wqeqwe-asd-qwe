@@ -1,0 +1,30 @@
+{
+    "title": "Santa Cruz",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1410207337",
+    "date_modified": "1430952335",
+    "tags": "",
+    "sourceId": null,
+    "status": "approved",
+    "visibility": "1",
+    "id": "3764418",
+    "loginId": "753",
+    "entityType": "3",
+    "titleTextEncoded": "Santa-Cruz",
+    "category": null,
+    "duration": null,
+    "settings": {
+        "canvasImage": "380200445-0.jpg",
+        "colorClass": "light",
+        "canvasType": "cropped",
+        "canvasCropped": "380200445-00575324.jpg",
+        "hideoos": 1,
+        "auto": {
+            "dynamic": 0,
+            "limit": 4
+        },
+        "optimize": 1
+    },
+    "transcripts": null
+}

@@ -1,0 +1,52 @@
+{
+    "title": "bunker_down: teaser 2",
+    "description": "bunker_down premieres in select supporting shops around the globe Oct_23rd, and on Thrasher Oct 28th.",
+    "referenceId": "x-NOd7eVWsw",
+    "date_created": "1445630357",
+    "date_modified": "1465341096",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "3",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "66104180",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "13",
+    "entityIdParent": "168555",
+    "titleTextEncoded": "bunker-down-teaser-2",
+    "category": "",
+    "duration": 15,
+    "settings": {},
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/x-NOd7eVWsw\/hqdefault.jpg",
+        "uploadDate": 1445630357,
+        "videoId": "x-NOd7eVWsw",
+        "title": "bunker_down: teaser 2",
+        "description": "bunker_down premieres in select supporting shops around the globe Oct_23rd, and on Thrasher Oct 28th.",
+        "author": "Alien Workshop",
+        "mediaDuration": 15,
+        "prettyDuration": "00:00:15",
+        "views": "1107"
+    },
+    "transcripts": "[Music Playing]",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

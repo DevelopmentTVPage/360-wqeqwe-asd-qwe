@@ -1,0 +1,53 @@
+{
+    "title": "Enjoi Tummy Sticks",
+    "description": "slick as...",
+    "referenceId": null,
+    "date_created": "1440439532",
+    "date_modified": "1449010421",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "4",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6378183",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "32",
+    "entityIdParent": "3764281",
+    "titleTextEncoded": "Enjoi-Tummy-Sticks",
+    "category": null,
+    "duration": "22",
+    "settings": {},
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/gy_3YGzz3Wo\/hqdefault.jpg",
+        "uploadDate": 1422053637,
+        "videoId": "gy_3YGzz3Wo",
+        "title": "Enjoi Tummy Sticks",
+        "description": "Slick as \ud83d\udca9.",
+        "author": "enjoicoskateboards",
+        "mediaDuration": "22",
+        "prettyDuration": "00:00:22",
+        "views": "11045",
+        "hookText": "Slick as "
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

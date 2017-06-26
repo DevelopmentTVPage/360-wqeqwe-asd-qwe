@@ -1,0 +1,53 @@
+{
+    "title": "Fox Girls Presents | The Summer '14 Collection",
+    "description": "Fox girls presents 2014 Summer Collection. We live for more wild rides. More risky love. More late nights. More sun. More dirt. More sweat. More Fox.",
+    "referenceId": null,
+    "date_created": "1441212258",
+    "date_modified": "1449194862",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "1",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6386447",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "285",
+    "entityIdParent": "168514",
+    "titleTextEncoded": "Fox-Girls-Presents-The-Summer-14-Collection",
+    "category": null,
+    "duration": "131",
+    "settings": {},
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/yMIvijHos-0\/hqdefault.jpg",
+        "uploadDate": 1400699278,
+        "videoId": "yMIvijHos-0",
+        "title": "Fox Girls Presents | The Summer '14 Collection",
+        "description": "Fox girls presents 2014 Summer Collection. We live for more wild rides. More risky love. More late nights. More sun. More dirt. More sweat. More Fox.",
+        "author": "FoxHeadInc",
+        "mediaDuration": "131",
+        "prettyDuration": "00:02:11",
+        "views": "8236",
+        "hookText": "Fox girls presents 2014 Summer Collection. We live for more wild rides. More risky love. More late nights. More sun. More dirt. More sweat. More Fox."
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

@@ -1,0 +1,78 @@
+{
+    "title": "Maddison Rothery",
+    "description": "Originally from Leucadia, California and now residing in Los Angeles, California, Maddison studied fine art photography at London College of Communications and continued on to focus in fashion photography at London College of Fashion. Whether it\u2019s through pencil, paint or photography, Maddison has always had a passion for the art of documentation. Maddison\u2019s photography captures moments, honest bits and pieces of people and situations. She credits her inspiration to her grandfather, a prominent fashion photographer in the 60\u2019s. When Maddison is not shooting she spends her time dabbling in other art forms or rummaging through swap meets and thrift stores uncovering forgotten treasures and mementos.",
+    "referenceId": null,
+    "date_created": "1430956211",
+    "date_modified": "1470263122",
+    "tags": "",
+    "sourceId": "1",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": "Electric",
+    "video_celeb": null,
+    "video_activity": "Art___Design",
+    "VV_VI": "28",
+    "CVV_VI": "2",
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "3837641",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "2",
+    "entityIdParent": "168521",
+    "titleTextEncoded": "Maddison-Rothery",
+    "category": null,
+    "duration": "212",
+    "settings": [],
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "212"
+        },
+        "thumbnailUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/3837641\/57869fa2e012a23fd0d0b36f42041cff.png",
+        "hookText": "Maddison Rothery",
+        "type": "mp4",
+        "mediaDuration": "212",
+        "prettyDuration": "00:03:32",
+        "tags": "",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/3837641\/720p_57869fa2e012a23fd0d0b36f42041cff.mp4",
+                "quality": "720p"
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/3837641\/480p_57869fa2e012a23fd0d0b36f42041cff.mp4",
+                "quality": "480p"
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/3837641\/360p_57869fa2e012a23fd0d0b36f42041cff.mp4",
+                "quality": "360p"
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "conversion_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

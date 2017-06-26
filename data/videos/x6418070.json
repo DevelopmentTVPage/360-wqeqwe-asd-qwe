@@ -1,0 +1,55 @@
+{
+    "title": "Dakine Wheeled Duffle",
+    "description": "Check out 360\u00b0 views of the 2012 Wheeled Duffle in our Stencil print.\n\nDuffle Features:\n- U-shaped opening for easy access\n- Zippered end pockets\n- Retractable handle\n- Replaceable urethane wheels\n- Locking zipper cars",
+    "referenceId": "39727204",
+    "date_created": "1443633935",
+    "date_modified": "1448315674",
+    "tags": "",
+    "sourceId": "3",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "1",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6418070",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "115",
+    "entityIdParent": "168543",
+    "titleTextEncoded": "Dakine-Wheeled-Duffle",
+    "category": null,
+    "duration": 40,
+    "settings": {},
+    "asset": {
+        "type": "mp4",
+        "hdvFlag": 1,
+        "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/274132139_1280x719.jpg",
+        "mediaDuration": 40,
+        "prettyDuration": "00:40",
+        "uploadDate": 1333485270,
+        "tags": "",
+        "hookText": "Check out 360\u00b0 views of the 2012 Wheeled Duffle in our Stencil print.\n\nDuffle Features:\n- U-shaped opening for easy access\n- Zippered end pockets\n- Retractable handle\n- Replaceable urethane wheels\n- Locking zipper cars",
+        "sources": [
+            {
+                "file": "https:\/\/player.vimeo.com\/external\/39727204.hd.mp4?s=1f18fa31ceb5930ec0b56337f2156509&profile_id=113&oauth2_token_id=56801069"
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

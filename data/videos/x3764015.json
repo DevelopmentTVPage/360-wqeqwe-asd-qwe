@@ -1,0 +1,53 @@
+{
+    "title": "Inside Look: Cona",
+    "description": "Style Cona is new for Blowfish Shoes Fall 2014. Learn more about this little cutie here!",
+    "referenceId": null,
+    "date_created": "1409869891",
+    "date_modified": "1470252681",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": "Blowfish",
+    "video_celeb": null,
+    "video_activity": "Art___Design",
+    "VV_VI": "20",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "3764015",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "1",
+    "entityIdParent": "3764011",
+    "titleTextEncoded": "Inside-Look-Cona",
+    "category": null,
+    "duration": "21",
+    "settings": [],
+    "asset": {
+        "author": "BlowfishShoes",
+        "hdvFlag": 1,
+        "hookText": "Style Cona is new for Blowfish Shoes Fall 2014. Learn more about this little cutie here!",
+        "tags": "",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/iNRs6yUomkg\/maxresdefault.jpg",
+        "uploadDate": 1409186973,
+        "videoId": "iNRs6yUomkg",
+        "mediaDuration": "21",
+        "prettyDuration": "00:00:21",
+        "uploadAsset": false,
+        "quality": ""
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

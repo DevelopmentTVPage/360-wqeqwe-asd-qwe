@@ -1,0 +1,53 @@
+{
+    "title": "Atlanta Falcons",
+    "description": "Matthew Chidavaenzi, NFL fan ambassador for the Atlanta Falcons, speaks with his cap to represent the determination of his team working toward their time to shine.",
+    "referenceId": null,
+    "date_created": "1410200875",
+    "date_modified": "1470327481",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": "New_Era",
+    "video_celeb": null,
+    "video_activity": "Art___Design",
+    "VV_VI": "12",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "3764392",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "1",
+    "entityIdParent": "3764390",
+    "titleTextEncoded": "Atlanta-Falcons",
+    "category": null,
+    "duration": "30",
+    "settings": [],
+    "asset": {
+        "author": "New Era",
+        "hdvFlag": 1,
+        "hookText": "Matthew Chidavaenzi, NFL fan ambassador for the Atlanta Falcons, speaks with his cap to represent the determination of his team working toward their time to ...",
+        "tags": "",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/26GBidVk-Po\/maxresdefault.jpg",
+        "uploadDate": 1380412027,
+        "videoId": "26GBidVk-Po",
+        "mediaDuration": "30",
+        "prettyDuration": "00:00:30",
+        "uploadAsset": false,
+        "quality": ""
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

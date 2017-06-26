@@ -1,0 +1,37 @@
+{
+    "title": "Hang",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1407440696",
+    "date_modified": "1407442085",
+    "tags": "",
+    "sourceId": null,
+    "status": "approved",
+    "visibility": "1",
+    "id": "195857",
+    "loginId": "753",
+    "entityType": "3",
+    "titleTextEncoded": "Hang",
+    "category": null,
+    "duration": null,
+    "settings": {
+        "canvasImage": "568482658-0.jpg",
+        "colorClass": "light",
+        "canvasType": "cropped",
+        "canvasCropped": "568482658-0681386847.jpg",
+        "hideoos": 1,
+        "auto": {
+            "dynamic": 0,
+            "limit": 4,
+            "excIds": [
+                "189791",
+                "195747",
+                "195751"
+            ]
+        },
+        "optimize": 1,
+        "autoPlay": 1,
+        "autoNext": 1
+    },
+    "transcripts": null
+}

@@ -1,0 +1,51 @@
+{
+    "title": "DC SHOES: MIKEY TAYLOR UNILITE FEATURING THE SWIFT",
+    "description": "Unilite Technology: Featuring THE SWIFT.",
+    "referenceId": null,
+    "date_created": "1401238198",
+    "date_modified": "1418181447",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "14",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "169311",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "11",
+    "entityIdParent": "168550",
+    "titleTextEncoded": "DC-SHOES-MIKEY-TAYLOR-UNILITE-FEATURING-THE-SWIFT",
+    "category": null,
+    "duration": "41",
+    "settings": [],
+    "asset": {
+        "author": "DC Shoes",
+        "hdvFlag": 1,
+        "hookText": "Unilite Technology: Featuring THE SWIFT.",
+        "tags": "",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/12HalbDmPLA\/maxresdefault.jpg",
+        "uploadDate": 1308001074,
+        "videoId": "12HalbDmPLA",
+        "mediaDuration": "41",
+        "prettyDuration": "00:00:41"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

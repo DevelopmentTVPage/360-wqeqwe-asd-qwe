@@ -1,0 +1,165 @@
+{
+    "pageNumber": 0,
+    "data": [
+        {
+            "id": "6380389",
+            "title": "Fleeting Knowledge",
+            "date_created": "1440446278",
+            "loginId": "753",
+            "tags": "",
+            "description": "Expand your mind with our new Fleeting Knowledge Capsule. Inspired by mind altering organic compounds found in nature. The Fleeting Knowledge Capsule fuses natural prints and mystical color ways to enrich your style.",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "51"
+                },
+                "thumbnailUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/6380389\/6cdd938e27374b0f2596f7acee2f1287.png",
+                "hookText": "",
+                "type": "mp4",
+                "mediaDuration": "51",
+                "prettyDuration": "00:00:51",
+                "tags": "",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/6380389\/720p_b5707_FleetingKnowledge_BRoll_1 (2).mp4",
+                        "quality": "720p"
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/6380389\/480p_b5707_FleetingKnowledge_BRoll_1 (2).mp4",
+                        "quality": "480p"
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/6380389\/360p_b5707_FleetingKnowledge_BRoll_1 (2).mp4",
+                        "quality": "360p"
+                    }
+                ]
+            },
+            "parentId": "3831810",
+            "url": "\/rastaclat\/fleeting-knowledge\/3831810-6380389"
+        },
+        {
+            "id": "6380388",
+            "title": "RASTACLAT - CHAZ ORTIZ",
+            "date_created": "1440446274",
+            "loginId": "753",
+            "tags": "",
+            "description": "Chaz is a busy man and always on the go. He was kind enough to let us follow him around on his downtime and see what it's like in the life of a professional skateboarder.",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "143"
+                },
+                "thumbnailUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/6380388\/d9faac80a8f1b51e865ef83095b18965.png",
+                "hookText": "RASTACLAT - CHAZ ORTIZ",
+                "type": "mp4",
+                "mediaDuration": "143",
+                "prettyDuration": "00:02:23",
+                "tags": "",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/6380388\/720p_d9faac80a8f1b51e865ef83095b18965.mp4",
+                        "quality": "720p"
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/6380388\/480p_d9faac80a8f1b51e865ef83095b18965.mp4",
+                        "quality": "480p"
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/6380388\/360p_d9faac80a8f1b51e865ef83095b18965.mp4",
+                        "quality": "360p"
+                    }
+                ]
+            },
+            "parentId": "3831810",
+            "url": "\/rastaclat\/rastaclat-chaz-ortiz\/3831810-6380388"
+        },
+        {
+            "id": "3831811",
+            "title": "RASTACLAT",
+            "date_created": "1427823436",
+            "loginId": "753",
+            "tags": "",
+            "description": "Rastaclat",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "96"
+                },
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/3831811\/720p_e9330ba37cd9d87e663b7507a096597e.mp4",
+                        "quality": "720p"
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/3831811\/480p_e9330ba37cd9d87e663b7507a096597e.mp4",
+                        "quality": "480p"
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/3831811\/360p_e9330ba37cd9d87e663b7507a096597e.mp4",
+                        "quality": "360p"
+                    }
+                ],
+                "thumbnailUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/3831811\/e9330ba37cd9d87e663b7507a096597e.png",
+                "hookText": "Rastaclat",
+                "type": "mp4",
+                "mediaDuration": "96",
+                "prettyDuration": "00:01:36",
+                "tags": ""
+            },
+            "parentId": "3831810",
+            "url": "\/rastaclat\/rastaclat\/3831810-3831811"
+        },
+        {
+            "id": "3831812",
+            "title": "RASTACLAT - SUMMER VIBES",
+            "date_created": "1427823439",
+            "loginId": "753",
+            "tags": "",
+            "description": "RASTACLAT ",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "99"
+                },
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/3831812\/720p_6b69ce7a4c1bbac1c3c5ef68aa040e79.mp4",
+                        "quality": "720p"
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/3831812\/480p_6b69ce7a4c1bbac1c3c5ef68aa040e79.mp4",
+                        "quality": "480p"
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/3831812\/360p_6b69ce7a4c1bbac1c3c5ef68aa040e79.mp4",
+                        "quality": "360p"
+                    }
+                ],
+                "thumbnailUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/3831812\/6b69ce7a4c1bbac1c3c5ef68aa040e79.png",
+                "hookText": "RASTACLAT ",
+                "type": "mp4",
+                "mediaDuration": "99",
+                "prettyDuration": "00:01:39",
+                "tags": ""
+            },
+            "parentId": "3831810",
+            "url": "\/rastaclat\/rastaclat-summer-vibes\/3831810-3831812"
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "title": "PHANTOM INNOVATION",
+    "description": "4D in action. Video: Francisco Magana.",
+    "referenceId": "6MatEdN6HSQ",
+    "date_created": "1305571970",
+    "date_modified": "1450376549",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6545052",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "114",
+    "entityIdParent": "158318",
+    "titleTextEncoded": "PHANTOM-INNOVATION",
+    "category": null,
+    "duration": "21",
+    "settings": {
+        "parentFeedId": "6544969",
+        "parentFeedLoginId": "753"
+    },
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/6MatEdN6HSQ\/hqdefault.jpg",
+        "uploadDate": 1305571970,
+        "videoId": "6MatEdN6HSQ",
+        "title": "PHANTOM INNOVATION",
+        "description": "4D in action. Video: Francisco Magana.",
+        "author": "hurley",
+        "mediaDuration": "21",
+        "prettyDuration": "00:00:21",
+        "views": "1886"
+    },
+    "transcripts": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "16"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

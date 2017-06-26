@@ -1,0 +1,55 @@
+{
+    "title": "Sean Conover Ad Day",
+    "description": "DAKINE tags along with Sean Conover and the boys in North County SD. They start the day at Oceanside\u2019s Melba Bishop skate park. Then Sean heads over to tangle with a sketchy run up and a wooden rail. After the dust settles, he ends up at Del Taco and gets a consolation prize for a hard days work.",
+    "referenceId": "21123672",
+    "date_created": "1443641298",
+    "date_modified": "1450471128",
+    "tags": "Array,Array,Array",
+    "sourceId": "3",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "1",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6418345",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "40",
+    "entityIdParent": "168543",
+    "titleTextEncoded": "Sean-Conover-Ad-Day",
+    "category": null,
+    "duration": 210,
+    "settings": {},
+    "asset": {
+        "type": "mp4",
+        "hdvFlag": 1,
+        "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/163565676_1280x720.jpg",
+        "mediaDuration": 210,
+        "prettyDuration": "03:30",
+        "uploadDate": 1300301188,
+        "tags": "Array,Array,Array",
+        "hookText": "DAKINE tags along with Sean Conover and the boys in North County SD. They start the day at Oceanside\u2019s Melba Bishop skate park. Then Sean heads over to tangle with a sketchy run up and a wooden rail. After the dust settles, he ends up at Del Taco and gets",
+        "sources": [
+            {
+                "file": "https:\/\/player.vimeo.com\/external\/21123672.hd.mp4?s=0c56c3cf31a672e16af9b71d59b5549a&profile_id=113&oauth2_token_id=56801069"
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

@@ -1,0 +1,72 @@
+{
+    "title": "Converse x Warhol - Available at Tilly's ",
+    "description": "Converse x Warhol - Available at Tilly's ",
+    "referenceId": null,
+    "date_created": "1423268297",
+    "date_modified": "1431447035",
+    "tags": "Converse, Warhol, chuck taylor, all star, art",
+    "sourceId": "1",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "956",
+    "CVV_VI": "97",
+    "engagement_score": "8",
+    "conversion_score": "8",
+    "id": "3817013",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "574",
+    "entityIdParent": "168524",
+    "titleTextEncoded": "Converse-x-Warhol-Available-at-Tilly-s",
+    "category": null,
+    "duration": "64",
+    "settings": [],
+    "asset": {
+        "type": "mp4",
+        "sources": [
+            {
+                "file": "https:\/\/d2mhchrq41duh4.cloudfront.net\/753\/3817013\/18ed6ee5_f443_4690_bc9a_1ea5a4f197a4.mp4"
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/3817013\/720p_18ed6ee5_f443_4690_bc9a_1ea5a4f197a4.mp4",
+                "quality": "720p"
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/3817013\/480p_18ed6ee5_f443_4690_bc9a_1ea5a4f197a4.mp4",
+                "quality": "480p",
+                "tvpdefault": true
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/3817013\/360p_18ed6ee5_f443_4690_bc9a_1ea5a4f197a4.mp4",
+                "quality": "360p"
+            }
+        ],
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/753\/canvas\/655\/368\/158284822-029382243.png",
+        "mediaDuration": "64",
+        "prettyDuration": "00:01:04",
+        "hookText": "Converse x Warhol - Available at Tilly's ",
+        "tags": "Converse, Warhol, chuck taylor, all star, art"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "conversion_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

@@ -1,0 +1,55 @@
+{
+    "title": "Sally Fitzgibbons Stop5 Peru",
+    "description": "Sally Fitzgibbons Stop5 Peru",
+    "referenceId": "19815428",
+    "date_created": "1443815036",
+    "date_modified": "1450465592",
+    "tags": "",
+    "sourceId": "3",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "1",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6418952",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "43",
+    "entityIdParent": "168527",
+    "titleTextEncoded": "Sally-Fitzgibbons-Stop5-Peru",
+    "category": null,
+    "duration": 174,
+    "settings": {},
+    "asset": {
+        "type": "mp4",
+        "hdvFlag": 0,
+        "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/125956358_960x540.jpg",
+        "mediaDuration": 174,
+        "prettyDuration": "02:54",
+        "uploadDate": 1297392523,
+        "tags": "",
+        "hookText": "",
+        "sources": [
+            {
+                "file": "https:\/\/player.vimeo.com\/external\/19815428.sd.mp4?s=90ef7704e3a60c21d78f868cba59791a&profile_id=112&oauth2_token_id=62432308"
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

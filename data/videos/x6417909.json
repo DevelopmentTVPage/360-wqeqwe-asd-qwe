@@ -1,0 +1,55 @@
+{
+    "title": "Potter's X17 Practice Session",
+    "description": "Potter's X17 Practice Session",
+    "referenceId": "28435908",
+    "date_created": "1443564012",
+    "date_modified": "1456162116",
+    "tags": "etnies,metal mulisha,todd potter,espn x games",
+    "sourceId": "3",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "1",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6417909",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "123",
+    "entityIdParent": "168527",
+    "titleTextEncoded": "Potter-s-X17-Practice-Session",
+    "category": null,
+    "duration": 124,
+    "settings": {},
+    "asset": {
+        "type": "mp4",
+        "hdvFlag": 1,
+        "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/189691821_1280x720.jpg",
+        "mediaDuration": 124,
+        "prettyDuration": "02:04",
+        "uploadDate": 1314837570,
+        "tags": "etnies,metal mulisha,todd potter,espn x games",
+        "hookText": "www.etnies.com\nwww.facebook.com\/etnies",
+        "sources": [
+            {
+                "file": "https:\/\/player.vimeo.com\/external\/28435908.hd.mp4?s=7d5977e5017257b3d9d10f5d1f423db8&profile_id=113&oauth2_token_id=62432308"
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

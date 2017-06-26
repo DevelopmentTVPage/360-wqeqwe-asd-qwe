@@ -1,0 +1,51 @@
+{
+    "title": "Concrete Stories",
+    "description": "RVCA advocate Benjamin JeanJean and the art collective La Plagiste (laplagistecie.blogspot.fr - Charles Foussard & Tomas Haas) paint the remains of a WWII bunker somewhere on the French Atlantic Coast, 70 years after the concrete walls cracked and gave way to the liberation of Europe. Video by Sebastien Chebassier, Song Floating Tree by Concorde.",
+    "referenceId": null,
+    "date_created": "1407774665",
+    "date_modified": "1443824876",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "6",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "195952",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "1",
+    "entityIdParent": "168519",
+    "titleTextEncoded": "Concrete-Stories",
+    "category": null,
+    "duration": "122",
+    "settings": [],
+    "asset": {
+        "author": "rvca",
+        "hdvFlag": 1,
+        "hookText": "RVCA advocate Benjamin JeanJean and the art collective La Plagiste (laplagistecie.blogspot.fr - Charles Foussard & Tomas Haas) paint the remains of a WWII bu...",
+        "tags": "",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/c0BIVoKdPAQ\/maxresdefault.jpg",
+        "uploadDate": 1406567391,
+        "videoId": "c0BIVoKdPAQ",
+        "mediaDuration": "122",
+        "prettyDuration": "00:02:02"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

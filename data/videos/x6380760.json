@@ -1,0 +1,53 @@
+{
+    "title": "Jason Jagel in San Francisco, CA - Converse Blank Canvas",
+    "description": "Jason Jagel goes giant in San Francisco in this edition of Blank Canvas.",
+    "referenceId": null,
+    "date_created": "1440450262",
+    "date_modified": "1444345044",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "3",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6380760",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "572",
+    "entityIdParent": "168524",
+    "titleTextEncoded": "Jason-Jagel-in-San-Francisco-CA-Converse-Blank-Canvas",
+    "category": null,
+    "duration": "166",
+    "settings": {},
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/tnZmTl6w-C0\/hqdefault.jpg",
+        "uploadDate": 1433796629,
+        "videoId": "tnZmTl6w-C0",
+        "title": "Jason Jagel in San Francisco, CA - Converse Blank Canvas",
+        "description": "Jason Jagel goes giant in San Francisco in this edition of Blank Canvas.",
+        "author": "Converse",
+        "mediaDuration": "166",
+        "prettyDuration": "00:02:46",
+        "views": "1347",
+        "hookText": "Jason Jagel goes giant in San Francisco in this edition of Blank Canvas."
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

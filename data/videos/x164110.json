@@ -1,0 +1,50 @@
+{
+    "title": "HB Pier Classic 2009",
+    "description": "Nick Rupp, Nick Suhadolnik and Andrew Doheny shred the Huntington Beach pier during the 2009 Vans Pier event in March 2009!",
+    "referenceId": null,
+    "date_created": "1398814027",
+    "date_modified": "1449785466",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "1",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "164110",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "163",
+    "entityIdParent": "168557",
+    "titleTextEncoded": "HB-Pier-Classic-2009",
+    "category": null,
+    "duration": "121",
+    "settings": [],
+    "asset": {
+        "author": "Volcom",
+        "videoId": "f57lLev1UaI",
+        "hookText": "Nick Rupp, Nick Suhadolnik and Andrew Doheny shred the Huntington Beach pier during the 2009 Vans Pier event in March 2009!",
+        "thumbnailUrl": "https:\/\/i1.ytimg.com\/vi\/f57lLev1UaI\/hqdefault.jpg",
+        "mediaDuration": "121",
+        "hdvFlag": 0,
+        "uploadDate": 1264186219,
+        "prettyDuration": "00:02:01"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

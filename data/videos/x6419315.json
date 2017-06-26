@@ -1,0 +1,53 @@
+{
+    "title": "Fox MX 2012 - Nomad Ride Jersey",
+    "description": "New Fox 2012 Jersey: Nomad Victory Jersey.",
+    "referenceId": "CDhqqVjoqOk",
+    "date_created": "1444069690",
+    "date_modified": "1444069690",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "1",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6419315",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "67",
+    "entityIdParent": "168514",
+    "titleTextEncoded": "Fox-MX-2012-Nomad-Ride-Jersey",
+    "category": null,
+    "duration": "31",
+    "settings": {},
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/CDhqqVjoqOk\/hqdefault.jpg",
+        "uploadDate": 1311794040,
+        "videoId": "CDhqqVjoqOk",
+        "title": "Fox MX 2012 - Nomad Ride Jersey",
+        "description": "New Fox 2012 Jersey: Nomad Victory Jersey.",
+        "author": "FoxHeadInc",
+        "mediaDuration": "31",
+        "prettyDuration": "00:00:31",
+        "views": "1166",
+        "hookText": "New Fox 2012 Jersey: Nomad Victory Jersey."
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

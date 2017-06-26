@@ -1,0 +1,53 @@
+{
+    "title": "Inside a Rainbow Sandal by Sparky",
+    "description": "Founder and President Jay \"Sparky\" Longley demonstrates what goes behind a Rainbow Sandal.",
+    "referenceId": null,
+    "date_created": "1410205681",
+    "date_modified": "1470329971",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": "Rainbow",
+    "video_celeb": null,
+    "video_activity": "Art___Design",
+    "VV_VI": "3",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "3764408",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "2",
+    "entityIdParent": "3764405",
+    "titleTextEncoded": "Inside-a-Rainbow-Sandal-by-Sparky",
+    "category": null,
+    "duration": "228",
+    "settings": [],
+    "asset": {
+        "author": "Rainbow Sandals",
+        "hdvFlag": 0,
+        "hookText": "Founder and President Jay \"Sparky\" Longley demonstrates what goes behind a Rainbow Sandal.",
+        "tags": "",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/09Payu4lh7U\/hqdefault.jpg",
+        "uploadDate": 1307121175,
+        "videoId": "09Payu4lh7U",
+        "mediaDuration": "228",
+        "prettyDuration": "00:03:48",
+        "uploadAsset": false,
+        "quality": ""
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

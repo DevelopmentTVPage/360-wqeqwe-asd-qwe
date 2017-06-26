@@ -1,0 +1,53 @@
+{
+    "title": "Contour | Cam Zink",
+    "description": "Cam Zink does some things he loves. Rides motorcycles and of course takes his bike for a ride.",
+    "referenceId": null,
+    "date_created": "1409877632",
+    "date_modified": "1470335612",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": "Contour",
+    "video_celeb": null,
+    "video_activity": "BMX",
+    "VV_VI": "19",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "3764041",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "1",
+    "entityIdParent": "3764040",
+    "titleTextEncoded": "Contour-Cam-Zink",
+    "category": null,
+    "duration": "117",
+    "settings": [],
+    "asset": {
+        "author": "CONTOUR",
+        "hdvFlag": 1,
+        "hookText": "http:\/\/contour.com\/ - Cam Zink does some things he loves. Rides motorcycles and of course takes his bike for a ride.",
+        "tags": "",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/TxUW6sCQGV0\/maxresdefault.jpg",
+        "uploadDate": 1406563198,
+        "videoId": "TxUW6sCQGV0",
+        "mediaDuration": "117",
+        "prettyDuration": "00:01:57",
+        "uploadAsset": false,
+        "quality": ""
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

@@ -1,0 +1,51 @@
+{
+    "title": "Road Less Traveled MONTANA by Fallen Footwear",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1409944453",
+    "date_modified": "1418181976",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "5",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "3764291",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "28",
+    "entityIdParent": "3764287",
+    "titleTextEncoded": "Road-Less-Traveled-MONTANA-by-Fallen-Footwear",
+    "category": null,
+    "duration": "77",
+    "settings": [],
+    "asset": {
+        "author": "fallenfootweartv",
+        "hdvFlag": 1,
+        "hookText": "",
+        "tags": "",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/nX1_OpIzpxg\/maxresdefault.jpg",
+        "uploadDate": 1370968599,
+        "videoId": "nX1_OpIzpxg",
+        "mediaDuration": "77",
+        "prettyDuration": "00:01:17"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

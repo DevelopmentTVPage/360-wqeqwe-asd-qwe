@@ -1,0 +1,53 @@
+{
+    "title": "Fallen Dane Burman DOA Commercial",
+    "description": "Dane Burman introduces his new Fallen Signature Model the DOA.",
+    "referenceId": null,
+    "date_created": "1440439226",
+    "date_modified": "1449109795",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "4",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6378115",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "22",
+    "entityIdParent": "3764287",
+    "titleTextEncoded": "Fallen-Dane-Burman-DOA-Commercial",
+    "category": null,
+    "duration": "15",
+    "settings": {},
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/edOdgIs4eww\/hqdefault.jpg",
+        "uploadDate": 1433178716,
+        "videoId": "edOdgIs4eww",
+        "title": "Fallen Dane Burman DOA Commercial",
+        "description": "Dane Burman introduces his new Fallen Signature Model the DOA.",
+        "author": "fallenfootweartv",
+        "mediaDuration": "15",
+        "prettyDuration": "00:00:15",
+        "views": "4730",
+        "hookText": "Dane Burman introduces his new Fallen Signature Model the DOA."
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

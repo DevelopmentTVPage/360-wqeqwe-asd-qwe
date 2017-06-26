@@ -1,0 +1,25 @@
+{
+    "title": "Rebel8",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1446571981",
+    "date_modified": "1446573850",
+    "tags": "",
+    "sourceId": "10",
+    "status": "approved",
+    "visibility": "1",
+    "id": "6932048",
+    "loginId": "753",
+    "entityType": "3",
+    "titleTextEncoded": "Rebel8",
+    "category": null,
+    "duration": null,
+    "settings": {
+        "canvasImage": "default_canvas3.jpg",
+        "colorClass": "light",
+        "canvasType": "gallery",
+        "autoPlay": 1,
+        "autoNext": 1
+    },
+    "transcripts": null
+}

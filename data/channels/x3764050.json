@@ -1,0 +1,29 @@
+{
+    "title": "Crooks & Castles",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1409880002",
+    "date_modified": "1409881195",
+    "tags": "",
+    "sourceId": null,
+    "status": "approved",
+    "visibility": "1",
+    "id": "3764050",
+    "loginId": "753",
+    "entityType": "3",
+    "titleTextEncoded": "Crooks-Castles",
+    "category": null,
+    "duration": null,
+    "settings": {
+        "canvasImage": "824175893-0.jpg",
+        "colorClass": "light",
+        "canvasType": "cropped",
+        "canvasCropped": "824175893-012650377.jpg",
+        "hideoos": 1,
+        "auto": {
+            "dynamic": 0
+        },
+        "optimize": 1
+    },
+    "transcripts": null
+}

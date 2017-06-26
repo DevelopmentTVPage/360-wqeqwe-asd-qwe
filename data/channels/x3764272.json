@@ -1,0 +1,29 @@
+{
+    "title": "Elwood",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1409939961",
+    "date_modified": "1409940187",
+    "tags": "",
+    "sourceId": null,
+    "status": "approved",
+    "visibility": "1",
+    "id": "3764272",
+    "loginId": "753",
+    "entityType": "3",
+    "titleTextEncoded": "Elwood",
+    "category": null,
+    "duration": null,
+    "settings": {
+        "canvasImage": "311628265-0.jpg",
+        "colorClass": "light",
+        "canvasType": "cropped",
+        "canvasCropped": "311628265-09720414.jpg",
+        "hideoos": 1,
+        "auto": {
+            "dynamic": 0
+        },
+        "optimize": 1
+    },
+    "transcripts": null
+}

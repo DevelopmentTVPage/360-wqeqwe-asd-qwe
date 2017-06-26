@@ -1,0 +1,55 @@
+{
+    "title": "Little Creatures Down Under, etnies in Australia",
+    "description": "The full etnies skate crew including Ryan Sheckler, Jose Rojo, Kyle Leeper, Nick Garcia, Tyler bledsoe & Ryan Pearce hit Australia last spring... see what all went down, down under!",
+    "referenceId": "30019258",
+    "date_created": "1443563987",
+    "date_modified": "1443563987",
+    "tags": "etnies,skateboarding,ryan sheckler,ryan pearce,jose rojo,kyle leeper,Nick Garcia,tyler bledsoe",
+    "sourceId": "3",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "1",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6417899",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "133",
+    "entityIdParent": "168527",
+    "titleTextEncoded": "Little-Creatures-Down-Under-etnies-in-Australia",
+    "category": null,
+    "duration": 275,
+    "settings": {},
+    "asset": {
+        "type": "mp4",
+        "sources": [
+            {
+                "file": "https:\/\/player.vimeo.com\/external\/30019258.hd.mp4?s=f2fd31271dae717c551f08f40596c0bd&profile_id=113&oauth2_token_id=62432308"
+            }
+        ],
+        "hdvFlag": 1,
+        "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/201401134_1280x699.jpg",
+        "mediaDuration": 275,
+        "prettyDuration": "04:35",
+        "uploadDate": 1317737661,
+        "tags": "etnies,skateboarding,ryan sheckler,ryan pearce,jose rojo,kyle leeper,Nick Garcia,tyler bledsoe",
+        "hookText": "The full etnies skate crew including Ryan Sheckler, Jose Rojo, Kyle Leeper, Nick Garcia, Tyler bledsoe & Ryan Pearce hit Australia last spring... see what all went down, down under!"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

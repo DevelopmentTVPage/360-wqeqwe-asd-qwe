@@ -1,0 +1,53 @@
+{
+    "title": "Hamlet the Mini Pig - Jumps in Pool!",
+    "description": "Hamlet the Mini Pig - Jumps in Pool!",
+    "referenceId": "LbpVMYJZHKw",
+    "date_created": "1472604093",
+    "date_modified": "1472604414",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "1",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "67753433",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "90",
+    "entityIdParent": "3762188",
+    "titleTextEncoded": "Hamlet-the-Mini-Pig-Jumps-in-Pool",
+    "category": null,
+    "duration": 20,
+    "settings": null,
+    "asset": {
+        "type": "youtube",
+        "author": "PiggyGirl2010",
+        "hdvFlag": 0,
+        "hookText": " ",
+        "tags": "",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/LbpVMYJZHKw\/hqdefault.jpg",
+        "videoId": "LbpVMYJZHKw",
+        "mediaDuration": 20,
+        "prettyDuration": "00:00:20",
+        "uploadAsset": false,
+        "quality": ""
+    },
+    "transcripts": "Pig snorting",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

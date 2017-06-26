@@ -1,0 +1,55 @@
+{
+    "title": "Fallen Fridays - Tom Asta - 2009",
+    "description": "In this Fallen Friday we have Tom Asta having some fun at a local park.",
+    "referenceId": null,
+    "date_created": "1440439298",
+    "date_modified": "1470265864",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": "Fallen",
+    "video_celeb": null,
+    "video_activity": "Skating",
+    "VV_VI": "1",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6378150",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "4",
+    "entityIdParent": "3764287",
+    "titleTextEncoded": "Fallen-Fridays-Tom-Asta-2009",
+    "category": null,
+    "duration": "50",
+    "settings": {},
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/wQWpJCjPj5k\/hqdefault.jpg",
+        "uploadDate": 1328320633,
+        "videoId": "wQWpJCjPj5k",
+        "title": "Fallen Fridays - Tom Asta - 2009",
+        "description": "In this Fallen Friday we have Tom Asta having some fun at a local park.",
+        "author": "fallenfootweartv",
+        "mediaDuration": "50",
+        "prettyDuration": "00:00:50",
+        "views": "348",
+        "hookText": "In this Fallen Friday we have Tom Asta having some fun at a local park.",
+        "uploadAsset": false,
+        "quality": ""
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

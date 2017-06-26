@@ -1,0 +1,50 @@
+{
+    "title": "Skullphone x Volcom takes over NYC!",
+    "description": "Skullphone x Volcom takes over NYC!",
+    "referenceId": null,
+    "date_created": "1398813908",
+    "date_modified": "1418181374",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "6",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "163147",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "0",
+    "entityIdParent": "168537",
+    "titleTextEncoded": "Skullphone-x-Volcom-takes-over-NYC",
+    "category": null,
+    "duration": "108",
+    "settings": [],
+    "asset": {
+        "author": "Volcom",
+        "videoId": "Z9M3EUTGbA0",
+        "hookText": "Skullphone x Volcom takes over NYC!",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/Z9M3EUTGbA0\/maxresdefault.jpg",
+        "mediaDuration": "108",
+        "hdvFlag": 1,
+        "uploadDate": 1376708986,
+        "prettyDuration": "00:01:48"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

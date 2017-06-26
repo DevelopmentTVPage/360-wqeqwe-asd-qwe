@@ -1,0 +1,57 @@
+{
+    "title": "Levi's Skateboarding - Spring '14 Collection",
+    "description": "For over 30 years skateboarders have been wearing Levi's\u00ae Denim. This collection of classic styles - built specifically for skateboarding - focuses on superior construction, durability, and comfort.\n\nDirected by John Humphries\nMusic - \"Mastermind\" by Deltron3030",
+    "referenceId": null,
+    "date_created": "1401384567",
+    "date_modified": "1444350208",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "5",
+    "CVV_VI": "1",
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "170513",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "8",
+    "entityIdParent": "168530",
+    "titleTextEncoded": "Levi-s-Skateboarding-Spring-14-Collection",
+    "category": null,
+    "duration": "66",
+    "settings": [],
+    "asset": {
+        "author": "Levi's\u00ae",
+        "hdvFlag": 1,
+        "hookText": "For over 30 years skateboarders have been wearing Levi's\u00ae Denim. This collection of classic styles - built specifically for skateboarding - focuses on superi...",
+        "tags": "",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/0NzhixaHDQ4\/sddefault.jpg",
+        "uploadDate": 1392142648,
+        "videoId": "0NzhixaHDQ4",
+        "mediaDuration": "66",
+        "prettyDuration": "00:01:06"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "conversion_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

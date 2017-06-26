@@ -1,0 +1,32 @@
+{
+    "title": "Dakine",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1401129027",
+    "date_modified": "1427823943",
+    "tags": "",
+    "sourceId": null,
+    "status": "approved",
+    "visibility": "1",
+    "id": "168543",
+    "loginId": "753",
+    "entityType": "3",
+    "titleTextEncoded": "Dakine",
+    "category": null,
+    "duration": null,
+    "settings": {
+        "canvasImage": "566656177-0.jpg",
+        "colorClass": "light",
+        "canvasType": "cropped",
+        "canvasCropped": "566656177-0621200737.jpg",
+        "auto": {
+            "dynamic": 0,
+            "limit": 4
+        },
+        "optimize": 1,
+        "autoPlay": 1,
+        "autoNext": 1,
+        "hideoos": 1
+    },
+    "transcripts": null
+}

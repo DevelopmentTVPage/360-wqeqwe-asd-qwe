@@ -1,0 +1,53 @@
+{
+    "title": "cheMexico.mov",
+    "description": "cheMexico.mov.",
+    "referenceId": "luIavCP7cQk",
+    "date_created": "1444074800",
+    "date_modified": "1447439660",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "2",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6419379",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "33",
+    "entityIdParent": "168514",
+    "titleTextEncoded": "cheMexico-mov",
+    "category": null,
+    "duration": "161",
+    "settings": {},
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/luIavCP7cQk\/hqdefault.jpg",
+        "uploadDate": 1274498884,
+        "videoId": "luIavCP7cQk",
+        "title": "cheMexico.mov",
+        "description": "cheMexico.mov.",
+        "author": "FoxHeadInc",
+        "mediaDuration": "161",
+        "prettyDuration": "00:02:41",
+        "views": "25",
+        "hookText": "cheMexico.mov."
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

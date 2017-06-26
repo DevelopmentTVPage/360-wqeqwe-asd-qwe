@@ -1,0 +1,53 @@
+{
+    "title": "animals surfing",
+    "description": "SURFING ANIMALS",
+    "referenceId": "9Soy1cExqME",
+    "date_created": "1471998759",
+    "date_modified": "1472000202",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "2",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "67633845",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "88",
+    "entityIdParent": "3762188",
+    "titleTextEncoded": "animals-surfing",
+    "category": null,
+    "duration": 57,
+    "settings": null,
+    "asset": {
+        "type": "youtube",
+        "author": "dBloging",
+        "hdvFlag": 1,
+        "hookText": "SURFINH ANIMALS",
+        "tags": "",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/9Soy1cExqME\/hqdefault.jpg",
+        "videoId": "9Soy1cExqME",
+        "mediaDuration": 57,
+        "prettyDuration": "00:00:57",
+        "uploadAsset": false,
+        "quality": ""
+    },
+    "transcripts": "[Background noise] Well for one my dog loves the water and loves surfing and two it's a great cause. Money is going towards the San Diego Humane Society and she just loves to lick me so that's why we come out. I definitely think she has a lot of fun she's always excited when we come down here she doesn't run away from the surfboard, she's not scared and yeah she's just always excited when we get to you know go hang out on the beach one day. Really she does it, it's all her if you saw her balancing on the board turning 360's, 180's I didn't teach her that that's the dog I taught her how to balance in a kitty pool when she was 8 months old on a boogie board the rest of it is Kehlani.",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

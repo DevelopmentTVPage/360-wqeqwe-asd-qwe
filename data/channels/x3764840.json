@@ -1,0 +1,30 @@
+{
+    "title": "Happy Plugs",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1410801461",
+    "date_modified": "1410801904",
+    "tags": "",
+    "sourceId": null,
+    "status": "approved",
+    "visibility": "1",
+    "id": "3764840",
+    "loginId": "753",
+    "entityType": "3",
+    "titleTextEncoded": "Happy-Plugs",
+    "category": null,
+    "duration": null,
+    "settings": {
+        "canvasImage": "264755053-0.jpg",
+        "colorClass": "light",
+        "canvasType": "cropped",
+        "hideoos": 1,
+        "auto": {
+            "dynamic": 0,
+            "limit": 8
+        },
+        "optimize": 1,
+        "canvasCropped": "264755053-0152700544.jpg"
+    },
+    "transcripts": null
+}

@@ -1,0 +1,53 @@
+{
+    "title": "INSTAGRAM CLIP: VICTOR GARIBAY",
+    "description": "Victor mashes some cruddy asphalt for an Instagram line.",
+    "referenceId": null,
+    "date_created": "1440609333",
+    "date_modified": "1444343814",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "1",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6382999",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "105",
+    "entityIdParent": "3763996",
+    "titleTextEncoded": "INSTAGRAM-CLIP-VICTOR-GARIBAY",
+    "category": null,
+    "duration": "14",
+    "settings": {},
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/ceUgdo2WwIM\/hqdefault.jpg",
+        "uploadDate": 1392232214,
+        "videoId": "ceUgdo2WwIM",
+        "title": "INSTAGRAM CLIP: VICTOR GARIBAY",
+        "description": "Victor mashes some cruddy asphalt for an Instagram line. Follow us @ashburyeyewear and follow Victor at @_victorgaribay.",
+        "author": "ashburyeyewear",
+        "mediaDuration": "14",
+        "prettyDuration": "00:00:14",
+        "views": "626",
+        "hookText": "Victor mashes some cruddy asphalt for an Instagram line. Follow us @ashburyeyewear and follow Victor at @_victorgaribay."
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

@@ -1,0 +1,53 @@
+{
+    "title": "HURLEY: ASK WHAT IF",
+    "description": "Every day you have the opportunity to #askwhatif. \n\nhttp:\/\/hurley.com\/askwhatif",
+    "referenceId": "HJb3dMvXL9w",
+    "date_created": "1443460833",
+    "date_modified": "1443460833",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "1",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6416505",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "440",
+    "entityIdParent": "158318",
+    "titleTextEncoded": "HURLEY-ASK-WHAT-IF",
+    "category": null,
+    "duration": "106",
+    "settings": {},
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/HJb3dMvXL9w\/hqdefault.jpg",
+        "uploadDate": 1441726382,
+        "videoId": "HJb3dMvXL9w",
+        "title": "HURLEY: ASK WHAT IF",
+        "description": "Every day you have the opportunity to #askwhatif. \n\nhttp:\/\/hurley.com\/askwhatif",
+        "author": "Hurley",
+        "mediaDuration": "106",
+        "prettyDuration": "00:01:46",
+        "views": "1130",
+        "hookText": "Every day you have the opportunity to #askwhatif. \n\nhttp:\/\/hurley.com\/askwhatif"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

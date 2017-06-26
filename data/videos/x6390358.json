@@ -1,0 +1,53 @@
+{
+    "title": "Mat O'Brien in San Francisco - Converse Blank Canvas",
+    "description": "Mat O'Brien in San Francisco.",
+    "referenceId": "DNFg5ILqmqA",
+    "date_created": "1441408298",
+    "date_modified": "1441408298",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "1",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6390358",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "514",
+    "entityIdParent": "168524",
+    "titleTextEncoded": "Mat-O-Brien-in-San-Francisco-Converse-Blank-Canvas",
+    "category": null,
+    "duration": "79",
+    "settings": {},
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/DNFg5ILqmqA\/hqdefault.jpg",
+        "uploadDate": 1423588034,
+        "videoId": "DNFg5ILqmqA",
+        "title": "Mat O'Brien in San Francisco - Converse Blank Canvas",
+        "description": "Mat O'Brien in San Francisco.",
+        "author": "converse",
+        "mediaDuration": "79",
+        "prettyDuration": "00:01:19",
+        "views": "1444",
+        "hookText": "Mat O'Brien in San Francisco."
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

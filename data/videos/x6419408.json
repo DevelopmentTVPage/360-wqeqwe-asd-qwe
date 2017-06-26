@@ -1,0 +1,53 @@
+{
+    "title": "PHANTOM 60 BLOCK PARTY WARP: JOHN JOHN FLORENCE",
+    "description": "Get to know the Block Party Warp.",
+    "referenceId": "YSh1InksEYk",
+    "date_created": "1444149445",
+    "date_modified": "1450374657",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "2",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6419408",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "303",
+    "entityIdParent": "158318",
+    "titleTextEncoded": "PHANTOM-60-BLOCK-PARTY-WARP-JOHN-JOHN-FLORENCE",
+    "category": null,
+    "duration": "40",
+    "settings": {},
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/YSh1InksEYk\/hqdefault.jpg",
+        "uploadDate": 1361305049,
+        "videoId": "YSh1InksEYk",
+        "title": "PHANTOM 60 BLOCK PARTY WARP: JOHN JOHN FLORENCE",
+        "description": "Get to know the Block Party Warp, available at http:\/\/www.Hurley.com\/warp.",
+        "author": "hurley",
+        "mediaDuration": "40",
+        "prettyDuration": "00:00:40",
+        "views": "16271",
+        "hookText": "Get to know the Block Party Warp, available at http:\/\/www.Hurley.com\/warp."
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

@@ -1,0 +1,29 @@
+{
+    "title": "House of Marley",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1410802289",
+    "date_modified": "1410802711",
+    "tags": "",
+    "sourceId": null,
+    "status": "approved",
+    "visibility": "1",
+    "id": "3764845",
+    "loginId": "753",
+    "entityType": "3",
+    "titleTextEncoded": "House-of-Marley",
+    "category": null,
+    "duration": null,
+    "settings": {
+        "canvasImage": "621742108-0.jpg",
+        "colorClass": "light",
+        "canvasType": "cropped",
+        "canvasCropped": "621742108-1210600270.jpg",
+        "hideoos": 1,
+        "auto": {
+            "dynamic": 0
+        },
+        "optimize": 1
+    },
+    "transcripts": null
+}

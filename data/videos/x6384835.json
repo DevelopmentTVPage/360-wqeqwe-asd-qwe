@@ -1,0 +1,53 @@
+{
+    "title": "adidas Skateboarding Silas Tokyo",
+    "description": "To help support the release of his signature apparel collection, Silas and friends explore the streets of Tokyo, Japan.",
+    "referenceId": null,
+    "date_created": "1440806165",
+    "date_modified": "1445638641",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "3",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6384835",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "74",
+    "entityIdParent": "168510",
+    "titleTextEncoded": "adidas-Skateboarding-Silas-Tokyo",
+    "category": null,
+    "duration": "246",
+    "settings": {},
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/vqWZHCyOkSw\/hqdefault.jpg",
+        "uploadDate": 1361754408,
+        "videoId": "vqWZHCyOkSw",
+        "title": "adidas Skateboarding Silas Tokyo",
+        "description": "To help support the release of his signature apparel collection, Silas and friends explore the streets of Tokyo, Japan.",
+        "author": "adidasSkateboarding",
+        "mediaDuration": "246",
+        "prettyDuration": "00:04:06",
+        "views": "413244",
+        "hookText": "To help support the release of his signature apparel collection, Silas and friends explore the streets of Tokyo, Japan."
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

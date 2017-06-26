@@ -1,0 +1,31 @@
+{
+    "title": "LRG",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1401128734",
+    "date_modified": "1413501788",
+    "tags": "",
+    "sourceId": null,
+    "status": "approved",
+    "visibility": "1",
+    "id": "168518",
+    "loginId": "753",
+    "entityType": "3",
+    "titleTextEncoded": "LRG",
+    "category": null,
+    "duration": null,
+    "settings": {
+        "canvasImage": "245894216-0.jpg",
+        "colorClass": "light",
+        "canvasType": "cropped",
+        "canvasCropped": "245894216-555217491005.jpg",
+        "auto": {
+            "dynamic": 0
+        },
+        "optimize": 1,
+        "autoPlay": 1,
+        "autoNext": 1,
+        "hideoos": 1
+    },
+    "transcripts": null
+}
