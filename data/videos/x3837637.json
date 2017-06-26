@@ -1,0 +1,61 @@
+{
+    "title": "Chris Cole X Electric",
+    "description": "Chris Cole X Electric",
+    "referenceId": null,
+    "date_created": "1430956203",
+    "date_modified": "1430956205",
+    "tags": "",
+    "sourceId": "1",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "3837637",
+    "loginId": "753",
+    "entityType": "1",
+    "titleTextEncoded": "Chris-Cole-X-Electric",
+    "category": null,
+    "duration": "73",
+    "settings": [],
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "73"
+        },
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/3837637\/720p_f93cbaa52f38b437b4da994d2fd208c2.mp4",
+                "quality": "720p"
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/3837637\/480p_f93cbaa52f38b437b4da994d2fd208c2.mp4",
+                "quality": "480p"
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/3837637\/360p_f93cbaa52f38b437b4da994d2fd208c2.mp4",
+                "quality": "360p"
+            }
+        ],
+        "thumbnailUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/3837637\/f93cbaa52f38b437b4da994d2fd208c2.png",
+        "hookText": "Chris Cole X Electric",
+        "type": "mp4",
+        "mediaDuration": "73",
+        "prettyDuration": "00:01:13",
+        "tags": ""
+    },
+    "transcripts": null,
+    "metrics_statistics": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

@@ -19,8 +19,6 @@
     "id": "66174149",
     "loginId": "753",
     "entityType": "1",
-    "sortOrder": "44",
-    "entityIdParent": "3762188",
     "titleTextEncoded": "GoPro-Karma-is-Coming",
     "category": "",
     "duration": 61,
@@ -40,14 +38,7 @@
         "quality": ""
     },
     "transcripts": "Take a moment to look around you. Take a moment to recognize magic that surrounds us everyday. The sky, clouds, wind through the trees, ocean, waves, snow, rain, the sun rising, the sun setting, all of this (a dream) life is a dream. Now what if you could move freely through this dream, your dream go wherever you want and experience from any perspective. What if you could fly that would be magic.",
-    "metrics_statistics": {
-        "VV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "engagement_score": {
-                "lastUpdatedDate": "2017-05-25"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
     "tvp_profiles": [
         "25"
     ],

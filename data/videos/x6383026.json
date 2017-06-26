@@ -19,8 +19,6 @@
     "id": "6383026",
     "loginId": "753",
     "entityType": "1",
-    "sortOrder": "114",
-    "entityIdParent": "168523",
     "titleTextEncoded": "Emerica-Proudly-Presents-the-Atiba-x-Wino",
     "category": null,
     "duration": "29",
@@ -39,14 +37,7 @@
         "hookText": "Emerica Proudly Presents Atiba x Wino. Now available at #HigherQuality skate shops everywhere. See more at: emerica.com\/shoes\/wino-atiba\/grey\/ ..."
     },
     "transcripts": null,
-    "metrics_statistics": {
-        "VV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "engagement_score": {
-                "lastUpdatedDate": "2017-05-25"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

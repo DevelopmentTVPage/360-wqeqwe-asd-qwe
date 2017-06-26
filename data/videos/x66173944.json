@@ -19,8 +19,6 @@
     "id": "66173944",
     "loginId": "753",
     "entityType": "1",
-    "sortOrder": "150",
-    "entityIdParent": "3762188",
     "titleTextEncoded": "GoPro-Awards-Park-Jumps-with-Twin-Brothers-Jake-and-Theo-Riddle",
     "category": "",
     "duration": 82,
@@ -40,14 +38,7 @@
         "quality": ""
     },
     "transcripts": "Come look at what my back wheel line did, here. it's make a that for the day, Look, this is what my back wheel line did. Jake [inaudible], try and jump that one. That one there? Yeah. Dad, I'm going to try and do the third leg. Alright mate. I'm going to try and do the third leg and then ride and do the big jump next to the berm. Ok cool. I did it! I did it! Dad I did it! I nailed the third leg. Nailed it. Yes.",
-    "metrics_statistics": {
-        "VV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "engagement_score": {
-                "lastUpdatedDate": "2017-05-25"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

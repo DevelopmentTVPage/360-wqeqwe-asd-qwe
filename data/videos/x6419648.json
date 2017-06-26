@@ -19,8 +19,6 @@
     "id": "6419648",
     "loginId": "753",
     "entityType": "1",
-    "sortOrder": "223",
-    "entityIdParent": "158318",
     "titleTextEncoded": "ACE-AND-THE-DUCKLINGS",
     "category": null,
     "duration": "102",
@@ -39,14 +37,7 @@
         "hookText": "Hurley -- Australian Open of Surfing -- Manly 2012 -- Day 7 Hero - Ace Buchan finds himself with a line-up of Avoca grommets following his every move at the ..."
     },
     "transcripts": null,
-    "metrics_statistics": {
-        "VV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "engagement_score": {
-                "lastUpdatedDate": "2017-05-25"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

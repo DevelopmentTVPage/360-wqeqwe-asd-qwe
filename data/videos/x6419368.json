@@ -19,8 +19,6 @@
     "id": "6419368",
     "loginId": "753",
     "entityType": "1",
-    "sortOrder": "284",
-    "entityIdParent": "168524",
     "titleTextEncoded": "SNEAKERS-GET-LOUD-ROCK-COPTER",
     "category": null,
     "duration": "43",
@@ -39,14 +37,7 @@
         "hookText": "SHOES KEEP IT DOWN, SNEAKERS GET LOUD GET LOUD FOR A CHANCE TO WIN PRIZES, INCLUDING A TRIP TO CONVERSE RUBBER TRACKS ..."
     },
     "transcripts": null,
-    "metrics_statistics": {
-        "VV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "engagement_score": {
-                "lastUpdatedDate": "2017-05-25"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

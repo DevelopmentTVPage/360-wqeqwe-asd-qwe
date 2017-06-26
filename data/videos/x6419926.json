@@ -19,8 +19,6 @@
     "id": "6419926",
     "loginId": "753",
     "entityType": "1",
-    "sortOrder": "130",
-    "entityIdParent": "168524",
     "titleTextEncoded": "Converse-Pro-Streets-Madrid",
     "category": null,
     "duration": "131",
@@ -39,14 +37,7 @@
         "hookText": "Lavapi\u00e9s. Madrid R\u00edo. Cuesta de Moyano. Barrio de Tetu\u00e1n. Pro Streets is live across the city celebrating some of the most unique and diverse areas of Madrid..."
     },
     "transcripts": null,
-    "metrics_statistics": {
-        "VV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "engagement_score": {
-                "lastUpdatedDate": "2017-05-25"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
     "tvp_profiles": [
         "7"
     ],

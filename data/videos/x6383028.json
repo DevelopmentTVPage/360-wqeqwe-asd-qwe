@@ -19,8 +19,6 @@
     "id": "6383028",
     "loginId": "753",
     "entityType": "1",
-    "sortOrder": "112",
-    "entityIdParent": "168523",
     "titleTextEncoded": "Emerica-and-Leo-Romero-Talk-About-The-Laced",
     "category": null,
     "duration": "92",
@@ -39,14 +37,7 @@
         "hookText": "Get a detailed insight into the Laced from Leo Romero. It's available now in the US at Higher Quality skate shops everywhere in April."
     },
     "transcripts": null,
-    "metrics_statistics": {
-        "VV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "engagement_score": {
-                "lastUpdatedDate": "2017-05-25"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

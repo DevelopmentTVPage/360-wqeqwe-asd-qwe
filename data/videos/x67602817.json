@@ -19,8 +19,6 @@
     "id": "67602817",
     "loginId": "753",
     "entityType": "1",
-    "sortOrder": "38",
-    "entityIdParent": "168556",
     "titleTextEncoded": "BABYG-X-Lizzie-Armanto",
     "category": "",
     "duration": 152,
@@ -40,14 +38,7 @@
         "quality": ""
     },
     "transcripts": "Los Angeles is really cool because there's the beach, there's downtown, there's like Venice and it's like kind of artsy and then up the coast when you go like head towards Malibu just beach and it's like a cool space to just think and get away from the city part of it but then the city's fun to go to because it's like hectic and there's like so much going on. I feel really fortunate that I get to skateboard for a living. I go around the world, it's just unreal. I think society sees me as like I'm a weirdo, an outcast, but I don't know from my perspective everyone else is crazy. I don't know they just so many that haven't given up on the idea of whatever they wanted to do in the first place. Go roll around on the concrete and work at something for a long time until it works out and makes a whole other part of skateboarding really slam worth it.  When I'm home I end up driving a lot and it's like one of the few times I get to be by myself and I just blast music and kind of zone out. I think I keep to myself a lot, creativity to me is doing things your own way and skating like it's not about what you do necessary all the time but it's how I do it. Maybe a foot or specific little details about how you set up, put your own twist on things. I do, I love my life, but I don't like want to sound like I'm bragging about it. I'm Lizzie Armanto, I'm 22 years old and I'm from Santa Monica, California.",
-    "metrics_statistics": {
-        "VV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "engagement_score": {
-                "lastUpdatedDate": "2017-05-25"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

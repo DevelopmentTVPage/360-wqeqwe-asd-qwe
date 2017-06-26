@@ -19,8 +19,6 @@
     "id": "67508000",
     "loginId": "753",
     "entityType": "1",
-    "sortOrder": "19",
-    "entityIdParent": "168551",
     "titleTextEncoded": "Dickies-FR-Long-Sleeve-Chambray-Shirt",
     "category": "",
     "duration": 59,
@@ -40,14 +38,7 @@
         "quality": ""
     },
     "transcripts": "The Flame-Resistant Long Sleeve Chambray Shirt, by Dickies. This durable relaxed fit, flame-resistant shirt has a generous fit across the shoulders to give you plenty of room for movement, a long tail design that helps your shirt stay tucked and double-needle stitched seams. It\u2019s constructed with a 5.5 oz chambray cotton-nylon fabric blend that\u2019s FR treated, has an ARC Rating of 6.9, is rated HRC (Hazard Risk Category) Category Level 1 and is NFPA 70E compliant . While safe, it\u2019s also built for comfort with a two-piece button down collar, a back box pleat, a chest pocket, and tailored sleeve plackets with double-button cuffs. This shirt is built to last. Dickies, quality workwear since 1922.",
-    "metrics_statistics": {
-        "VV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "engagement_score": {
-                "lastUpdatedDate": "2017-05-25"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

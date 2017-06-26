@@ -1,0 +1,56 @@
+{
+    "title": "HURLEY - BEHIND THE BOARDSHORT- PHANTOM JJF ELITE",
+    "description": "Take a look t the care and attention that goes into the Phantom JJF Elite boardshorts.",
+    "referenceId": null,
+    "date_created": "1423177276",
+    "date_modified": "1449853981",
+    "tags": "Hurley, Boardshorts, jjf, John John florence, surf, surfing, phantom elite",
+    "sourceId": "1",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "3816989",
+    "loginId": "753",
+    "entityType": "1",
+    "titleTextEncoded": "HURLEY-BEHIND-THE-BOARDSHORT-PHANTOM-JJF-ELITE",
+    "category": null,
+    "duration": "78",
+    "settings": [],
+    "asset": {
+        "type": "mp4",
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/753\/canvas\/655\/368\/342164673-0261126660.png",
+        "mediaDuration": "78",
+        "prettyDuration": "00:01:18",
+        "hookText": "BEHIND THE BOARDSHORT- PHANTOM JJF ELITE",
+        "tags": "Hurley, Boardshorts, jjf, John John florence, surf, surfing, phantom elite",
+        "sources": [
+            {
+                "file": "https:\/\/d2mhchrq41duh4.cloudfront.net\/753\/3816989\/f602aa3e_3a4a_4f5a_e6fa_59fe07ea0ac4.mp4"
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/3816989\/720p_f602aa3e_3a4a_4f5a_e6fa_59fe07ea0ac4.mp4",
+                "quality": "720p"
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/3816989\/480p_f602aa3e_3a4a_4f5a_e6fa_59fe07ea0ac4.mp4",
+                "quality": "480p"
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/3816989\/360p_f602aa3e_3a4a_4f5a_e6fa_59fe07ea0ac4.mp4",
+                "quality": "360p"
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

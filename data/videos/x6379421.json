@@ -1,0 +1,46 @@
+{
+    "title": "etnies Presents: Who Is Mason Ho?",
+    "description": "Presents: Who Is Mason Ho?",
+    "referenceId": null,
+    "date_created": "1440443425",
+    "date_modified": "1444176392",
+    "tags": "mason ho,etnies,surf,etniessurf,hawaii,coco ho",
+    "sourceId": "3",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6379421",
+    "loginId": "753",
+    "entityType": "1",
+    "titleTextEncoded": "etnies-Presents-Who-Is-Mason-Ho",
+    "category": null,
+    "duration": 354,
+    "settings": {},
+    "asset": {
+        "type": "mp4",
+        "hdvFlag": 0,
+        "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/127240161_960x536.jpg",
+        "mediaDuration": 354,
+        "prettyDuration": "05:54",
+        "uploadDate": 1297801896,
+        "tags": "mason ho,etnies,surf,etniessurf,hawaii,coco ho",
+        "hookText": "http:\/\/www.facebook.com\/etnies etnies Presents: Who Is Mason Ho?",
+        "sources": [
+            {
+                "file": "https:\/\/player.vimeo.com\/external\/19989200.sd.mp4?s=0c339f7d09cc32c4903520ed36ac814c&profile_id=112&oauth2_token_id=62432308"
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

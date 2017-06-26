@@ -19,8 +19,6 @@
     "id": "6416646",
     "loginId": "753",
     "entityType": "1",
-    "sortOrder": "37",
-    "entityIdParent": "168533",
     "titleTextEncoded": "VonZipper-Hana-Beaman-in-the-Beefy",
     "category": null,
     "duration": "33",
@@ -39,14 +37,7 @@
         "hookText": "A bone in cut from the VZ meat locker, the Beefy goggle will covert even the most die-hard vegetarian into a carnivore. This porterhouse will create a savory filet of goggle au jous that is slow cooked to perfection."
     },
     "transcripts": null,
-    "metrics_statistics": {
-        "VV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "engagement_score": {
-                "lastUpdatedDate": "2017-05-25"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

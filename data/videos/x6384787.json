@@ -19,8 +19,6 @@
     "id": "6384787",
     "loginId": "753",
     "entityType": "1",
-    "sortOrder": "293",
-    "entityIdParent": "168514",
     "titleTextEncoded": "Fox-Girls-Presents-Our-Way",
     "category": null,
     "duration": "138",
@@ -39,14 +37,7 @@
         "hookText": "Style is not something that exists in fashion only. Style is in the sky, in the street, style has to do with ideas, the way we live, what is happening. This is Our Way."
     },
     "transcripts": null,
-    "metrics_statistics": {
-        "VV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "engagement_score": {
-                "lastUpdatedDate": "2017-05-25"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

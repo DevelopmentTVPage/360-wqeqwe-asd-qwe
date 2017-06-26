@@ -19,8 +19,6 @@
     "id": "6418074",
     "loginId": "753",
     "entityType": "1",
-    "sortOrder": "111",
-    "entityIdParent": "168543",
     "titleTextEncoded": "Dakine-Anya-Laptop-Bag",
     "category": null,
     "duration": 34,
@@ -41,14 +39,7 @@
         "hookText": "Check out 360\u00b0 views of the 2012 Anya Laptop Bag in the Meadow print\n\nShoulder Bag Features:\n- Interior fleece lined padded laptop sleeve\n- Fits most 15\u201d Laptops\n- Zipper closure\n- Vinyl trims and handles\n- Adjustable and removeable cross body shoulder st"
     },
     "transcripts": null,
-    "metrics_statistics": {
-        "VV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "engagement_score": {
-                "lastUpdatedDate": "2017-05-25"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

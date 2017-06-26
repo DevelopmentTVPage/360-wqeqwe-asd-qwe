@@ -19,8 +19,6 @@
     "id": "6418655",
     "loginId": "753",
     "entityType": "1",
-    "sortOrder": "415",
-    "entityIdParent": "168524",
     "titleTextEncoded": "Converse-CONS-Project-London-launch-party-with-Pusha-T-Krept-N-Konan-and-Sratcha-DVA",
     "category": null,
     "duration": "144",
@@ -39,14 +37,7 @@
         "hookText": "Pusha T, Krept N Konan and Scratcha DVA talk creativity and motivation at the CONS Project London launch party in Peckham, May 29th 2014. For the full line-u ..."
     },
     "transcripts": null,
-    "metrics_statistics": {
-        "VV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "engagement_score": {
-                "lastUpdatedDate": "2017-05-25"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

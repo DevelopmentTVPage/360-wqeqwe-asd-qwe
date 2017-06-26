@@ -19,8 +19,6 @@
     "id": "6414108",
     "loginId": "753",
     "entityType": "1",
-    "sortOrder": "488",
-    "entityIdParent": "168524",
     "titleTextEncoded": "Kevin-Gates-x-Rustie-Wait-in-Line-OFFICIAL-VIDEO-STREAM",
     "category": null,
     "duration": "180",
@@ -39,20 +37,7 @@
         "hookText": "Stream and download \u201cWait in Line\u201d here: https:\/\/soundcloud.com\/conversemusic\/kevin-gates-x-rustie-wait-in-line \u201cWait in Line\u201d is the fifth and final single ..."
     },
     "transcripts": null,
-    "metrics_statistics": {
-        "VV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "engagement_score": {
-                "lastUpdatedDate": "2017-05-25"
-            }
-        },
-        "CVV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "conversion_score": {
-                "lastUpdatedDate": "2017-05-25"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}},\"CVV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"conversion_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

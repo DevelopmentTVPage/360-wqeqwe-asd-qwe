@@ -19,8 +19,6 @@
     "id": "6418725",
     "loginId": "753",
     "entityType": "1",
-    "sortOrder": "368",
-    "entityIdParent": "168524",
     "titleTextEncoded": "Le-Blanche-Alguem-Pra-Dizer-Converse-Rubber-Tracks-Track-Of-The-Week",
     "category": null,
     "duration": "152",
@@ -39,14 +37,7 @@
         "hookText": "The single \"Algu\u00e9m Pra Dizer\" by Le Blanche is this week's \"Track of the Week\". When the band arrived to Rubber Tracks Studio in S\u00e3o Paulo, they came fully p."
     },
     "transcripts": null,
-    "metrics_statistics": {
-        "VV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "engagement_score": {
-                "lastUpdatedDate": "2017-05-25"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

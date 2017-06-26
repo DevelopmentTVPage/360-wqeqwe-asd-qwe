@@ -19,8 +19,6 @@
     "id": "6418685",
     "loginId": "753",
     "entityType": "1",
-    "sortOrder": "397",
-    "entityIdParent": "168524",
     "titleTextEncoded": "NOTHING-Bent-Nail-Converse-Red-Light-Sessions",
     "category": null,
     "duration": "162",
@@ -39,14 +37,7 @@
         "hookText": "NOTHING perform an intensely loud version of 'Bent Nail' inside the Red Light Radio studio at CONVERSE FADER FORT. For more on Red Light Radio: ..."
     },
     "transcripts": null,
-    "metrics_statistics": {
-        "VV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "engagement_score": {
-                "lastUpdatedDate": "2017-05-25"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

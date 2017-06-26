@@ -19,8 +19,6 @@
     "id": "6380144",
     "loginId": "753",
     "entityType": "1",
-    "sortOrder": "88",
-    "entityIdParent": "168510",
     "titleTextEncoded": "adidas-Skateboarding-Civil-Liberty",
     "category": null,
     "duration": "292",
@@ -39,14 +37,7 @@
         "hookText": "Civil Liberty finds Mark Suciu in Philadelphia, New York City and Washington D.C. exploring several famous public plazas and exercising his civil liberties via skateboarding in each one. The Brass Tacks pop ups give further insight into these hallowed ska"
     },
     "transcripts": null,
-    "metrics_statistics": {
-        "VV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "engagement_score": {
-                "lastUpdatedDate": "2017-05-25"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

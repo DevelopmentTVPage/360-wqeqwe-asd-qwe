@@ -1,0 +1,46 @@
+{
+    "title": "Yannick Granieri vs Geoff Gulevich",
+    "description": "Yannick Granieri vs Geoff Gulevich at Saalbach Hinterglemm during the DAKINE Freeride Festival.\n\nAlso featuring: Amir Kabbani, Thomas Genon, Niki Leitner, Tomas Zeida, Ramon Hunziker, Peter Henke",
+    "referenceId": "26970860",
+    "date_created": "1443638079",
+    "date_modified": "1443638079",
+    "tags": "Array,Array,Array,Array,Array,Array,Array,Array,Array,Array,Array,Array,Array",
+    "sourceId": "3",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6418166",
+    "loginId": "753",
+    "entityType": "1",
+    "titleTextEncoded": "Yannick-Granieri-vs-Geoff-Gulevich",
+    "category": null,
+    "duration": 239,
+    "settings": {},
+    "asset": {
+        "type": "mp4",
+        "sources": [
+            {
+                "file": "https:\/\/player.vimeo.com\/external\/26970860.hd.mp4?s=55808d961369d607193d436dcd023d03&profile_id=113&oauth2_token_id=56801069"
+            }
+        ],
+        "hdvFlag": 1,
+        "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/181482163_1280x719.jpg",
+        "mediaDuration": 239,
+        "prettyDuration": "03:59",
+        "uploadDate": 1311787585,
+        "tags": "Array,Array,Array,Array,Array,Array,Array,Array,Array,Array,Array,Array,Array",
+        "hookText": "Yannick Granieri vs Geoff Gulevich at Saalbach Hinterglemm during the DAKINE Freeride Festival.\n\nAlso featuring: Amir Kabbani, Thomas Genon, Niki Leitner, Tomas Zeida, Ramon Hunziker, Peter Henke"
+    },
+    "transcripts": null,
+    "metrics_statistics": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

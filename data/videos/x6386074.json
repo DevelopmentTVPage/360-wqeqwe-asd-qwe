@@ -19,8 +19,6 @@
     "id": "6386074",
     "loginId": "753",
     "entityType": "1",
-    "sortOrder": "537",
-    "entityIdParent": "168524",
     "titleTextEncoded": "Banquise-Goodbye-Converse-Avant-Poste",
     "category": null,
     "duration": "127",
@@ -39,14 +37,7 @@
         "hookText": "www.converse-music.com Bordeaux band, Banquise, performed a set inspired by soul, electronica and pop at the iconic Caf\u00e9 Charbon on Rue Oberkampf, ..."
     },
     "transcripts": null,
-    "metrics_statistics": {
-        "VV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "engagement_score": {
-                "lastUpdatedDate": "2017-05-25"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

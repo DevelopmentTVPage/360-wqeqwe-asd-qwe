@@ -19,8 +19,6 @@
     "id": "67507319",
     "loginId": "753",
     "entityType": "1",
-    "sortOrder": "326",
-    "entityIdParent": "3763991",
     "titleTextEncoded": "Arbor-Snowboards-The-Rocker-System",
     "category": "",
     "duration": 97,
@@ -40,14 +38,7 @@
         "quality": ""
     },
     "transcripts": "The Rocker System is Arbors reverse camber platform rocker is created by replacing the lengthwise positive arc of a traditional camber snowboard with a reverse shape similar to the profile of a surfboard this design eliminates the leverage required to release and re-engage a snowboards outside contact points creating a more seamless ride. Rocker delivers easier turn initiation better float and powder and more fluid spins and slides. Many rocker designs do not provide all the performance needed for more technical riding, Arbors rocker system addresses this by delivering amazing edge hold without forfeiting any of the benefits of riding true rocker the design brings together parabolic rocker with our grip tech side cut to create an outstanding platform for all writing styles. Parabolic rockers a true rocker design that progressively reduces the amount of rocker towards the tip and tail creating nice low profiles this ensures the outside contact points are close enough to the snow to engage maximum performances required, higher speeds, fully-loaded turns and bigger landings. Grip tech side cut adds four contact points underfoot to provide a more ergonomic way to grip the snow when additional control is needed. These extra contacts also form pivot zones that make turning easier and more natural when combined the Arbor rocker system offers a surfy ride with natural float and cleaner tracking through all snow conditions.",
-    "metrics_statistics": {
-        "VV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "engagement_score": {
-                "lastUpdatedDate": "2017-05-25"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

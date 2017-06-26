@@ -19,8 +19,6 @@
     "id": "66174129",
     "loginId": "753",
     "entityType": "1",
-    "sortOrder": "74",
-    "entityIdParent": "3762188",
     "titleTextEncoded": "GoPro-Santa-MTB-Shredding-with-Brian-Lopes",
     "category": "",
     "duration": 51,
@@ -40,14 +38,7 @@
         "quality": ""
     },
     "transcripts": "It's that time of the year again. Santa Clause dropping. Santa Clause is coming to town. Santa Clause is coming to town. Ho Ho Ho Merry Christmas. What do you think Keira, do you think Santa Clause should start riding a bicycle instead of a reindeer. No . That's one of my elves, that's my big elf, that's my biggest elf.",
-    "metrics_statistics": {
-        "VV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "engagement_score": {
-                "lastUpdatedDate": "2017-05-25"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

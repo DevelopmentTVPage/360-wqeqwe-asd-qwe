@@ -19,8 +19,6 @@
     "id": "6414417",
     "loginId": "753",
     "entityType": "1",
-    "sortOrder": "52",
-    "entityIdParent": "168534",
     "titleTextEncoded": "ELEMENT-NICK-GARCIA-WELCOME-TO-THE-PRO-TEAM",
     "category": null,
     "duration": "145",
@@ -39,14 +37,7 @@
         "hookText": "It\u00b9s a rare thing these days, in the age of the internet and all, when you can honestly say an amateur skater paid his dues to earn what he\u00b9s got, but for Ni..."
     },
     "transcripts": null,
-    "metrics_statistics": {
-        "VV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "engagement_score": {
-                "lastUpdatedDate": "2017-05-25"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

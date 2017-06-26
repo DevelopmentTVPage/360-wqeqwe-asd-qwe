@@ -19,8 +19,6 @@
     "id": "161413",
     "loginId": "753",
     "entityType": "1",
-    "sortOrder": "54",
-    "entityIdParent": "168557",
     "titleTextEncoded": "Stop-8-Powder-Ridge-MN-Volcom-s-2012-Peanut-Butter-and-Rail-Jam-Tour",
     "category": null,
     "duration": "225",
@@ -36,14 +34,7 @@
         "prettyDuration": "00:03:45"
     },
     "transcripts": null,
-    "metrics_statistics": {
-        "VV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "engagement_score": {
-                "lastUpdatedDate": "2017-05-25"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

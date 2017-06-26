@@ -19,8 +19,6 @@
     "id": "6379821",
     "loginId": "753",
     "entityType": "1",
-    "sortOrder": "314",
-    "entityIdParent": "168514",
     "titleTextEncoded": "Fox-MTB-Presents-Fox-Big-Bear-Manor-Cam-McCaul-Tyler-McCaul-Kyle-Strait-Kirt-Voreis",
     "category": null,
     "duration": "193",
@@ -39,14 +37,7 @@
         "hookText": "Last year we kicked around the idea of renting a house for the summer in Big Bear close to Snow Summit Bike Park. This was put into action and we made it happen. We're testing and developing product and doing a few edits. Here is the first video featuring"
     },
     "transcripts": null,
-    "metrics_statistics": {
-        "VV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "engagement_score": {
-                "lastUpdatedDate": "2017-05-25"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

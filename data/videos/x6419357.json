@@ -19,8 +19,6 @@
     "id": "6419357",
     "loginId": "753",
     "entityType": "1",
-    "sortOrder": "295",
-    "entityIdParent": "168524",
     "titleTextEncoded": "Weekend-Affair-I-Walk-Alone-Converse-Avant-Poste",
     "category": null,
     "duration": "179",
@@ -39,14 +37,7 @@
         "hookText": "Analogue synth duo Weekend Affair kicked off Converse Avant-Poste on Sept 12th, with their first major gig delivering a unique and entrancing performance of ..."
     },
     "transcripts": null,
-    "metrics_statistics": {
-        "VV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "engagement_score": {
-                "lastUpdatedDate": "2017-05-25"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

@@ -19,8 +19,6 @@
     "id": "6413814",
     "loginId": "753",
     "entityType": "1",
-    "sortOrder": "58",
-    "entityIdParent": "168534",
     "titleTextEncoded": "ELEMENT-LOS-ANGELES-MAKE-IT-COUNT-2013-INTERNATIONAL-SKATE-CONTEST-SERIES",
     "category": null,
     "duration": "236",
@@ -39,14 +37,7 @@
         "hookText": "The park was packed as Santa Clarita Skatepark played host to the first stop on the 2013 \"MAKE IT COUNT\" International Contest Series. After witnessing an am ..."
     },
     "transcripts": null,
-    "metrics_statistics": {
-        "VV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "engagement_score": {
-                "lastUpdatedDate": "2017-05-25"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

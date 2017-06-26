@@ -19,8 +19,6 @@
     "id": "66174202",
     "loginId": "753",
     "entityType": "1",
-    "sortOrder": "56",
-    "entityIdParent": "3762188",
     "titleTextEncoded": "GoPro-BASE-Jumping-Alone-with-Neil-Amonson",
     "category": "",
     "duration": 165,
@@ -40,14 +38,7 @@
         "quality": ""
     },
     "transcripts": "All of your senses are just charging, you have through like this amazing emotional experience combined with the physical sensation you're feeling. To actually experience all the things I'm feeling I have to do it alone. Ima jump off the rock cause that was my plan yesterday. Why? I don't know because it looked like fun. You know this is like basically all the way of shocking our systems, reminding up that we are alive. Alright, chest strap, leg strap leg strap, parachute, stand on the rock new exit point for Neil. Jumping in 3,2,1, see ya . All of us that do these sports, utilizes feels something that we value and we value it a lot.  Whoa! this is so nice over here.",
-    "metrics_statistics": {
-        "VV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "engagement_score": {
-                "lastUpdatedDate": "2017-05-25"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

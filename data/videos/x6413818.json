@@ -19,8 +19,6 @@
     "id": "6413818",
     "loginId": "753",
     "entityType": "1",
-    "sortOrder": "54",
-    "entityIdParent": "168534",
     "titleTextEncoded": "ELEMENT-ANNUAL-GIVEBACK-AT-WATTS-NO-BOARD-LEFT-BEHIND",
     "category": null,
     "duration": "159",
@@ -39,14 +37,7 @@
         "hookText": "Elemental Awareness teamed up with the WLCAC in Watts, CA to bring the Element \"No Board Left Behind\" program to the kids for the Holidays. The kids ..."
     },
     "transcripts": null,
-    "metrics_statistics": {
-        "VV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "engagement_score": {
-                "lastUpdatedDate": "2017-05-25"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

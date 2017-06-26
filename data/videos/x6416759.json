@@ -19,8 +19,6 @@
     "id": "6416759",
     "loginId": "753",
     "entityType": "1",
-    "sortOrder": "453",
-    "entityIdParent": "168524",
     "titleTextEncoded": "Chromeo-Come-Alive-Rubber-Tracks-Live",
     "category": null,
     "duration": "258",
@@ -39,14 +37,7 @@
         "hookText": "Electronic duo, Chromeo, headlined night 1 of Converse Rubber Tracks Live Brasil, performing their hit, \"Come Alive.\" Turn up the volume and dance along. For."
     },
     "transcripts": null,
-    "metrics_statistics": {
-        "VV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "engagement_score": {
-                "lastUpdatedDate": "2017-05-25"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

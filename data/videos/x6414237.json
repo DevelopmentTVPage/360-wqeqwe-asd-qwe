@@ -19,8 +19,6 @@
     "id": "6414237",
     "loginId": "753",
     "entityType": "1",
-    "sortOrder": "251",
-    "entityIdParent": "168514",
     "titleTextEncoded": "360-Flight-Glove-A-race-inspired-fit-in-a-full-coverage-chassis",
     "category": null,
     "duration": "33",
@@ -39,14 +37,7 @@
         "hookText": "Features: -Padded Clarino palm -Secure hook-and-loop wrist closure -Silicone grippers on the finger tips for enhanced lever control -Minimal knuckle coverage."
     },
     "transcripts": null,
-    "metrics_statistics": {
-        "VV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "engagement_score": {
-                "lastUpdatedDate": "2017-05-25"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

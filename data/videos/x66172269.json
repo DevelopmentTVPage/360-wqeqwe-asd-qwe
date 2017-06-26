@@ -19,8 +19,6 @@
     "id": "66172269",
     "loginId": "753",
     "entityType": "1",
-    "sortOrder": "10",
-    "entityIdParent": "168515",
     "titleTextEncoded": "Beats-By-Dre-Presents-Stampd-New-York-Fashion-Week-Debut",
     "category": "",
     "duration": 53,
@@ -40,14 +38,7 @@
         "quality": ""
     },
     "transcripts": "Going into the show at New York\u2019s men fashion week, it\u2019s our best collection today. Its label the new soldier and I\u2019m really excited to show it. We\u2019re putting pieces out there to address the new generation. Some people call it avant chic, some people call it contemporary, but I know it\u2019s just something different. The music was a huge element one of my best friends Brian I had him produce the track for us and the first time we heard it it just really tied everything together. I\u2019m nervous for sure people are always gonna look down on something they\u2019re not used to. They don\u2019t understand how much blood, sweat, and tears has been put into the collection. We've worked day and night to get to this point this is it welcome to the future.",
-    "metrics_statistics": {
-        "VV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "engagement_score": {
-                "lastUpdatedDate": "2017-05-25"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

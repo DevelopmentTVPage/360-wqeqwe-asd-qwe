@@ -1,0 +1,46 @@
+{
+    "title": "etnies x Mutiny: Battle Los Angeles",
+    "description": "The etnies and Mutiny teams Battled Los Angeles. Check it!",
+    "referenceId": null,
+    "date_created": "1440443273",
+    "date_modified": "1449095095",
+    "tags": "bmx,etnies,mutiny,los angeles,LA,L.A.,bike",
+    "sourceId": "3",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6379330",
+    "loginId": "753",
+    "entityType": "1",
+    "titleTextEncoded": "etnies-x-Mutiny-Battle-Los-Angeles",
+    "category": null,
+    "duration": 631,
+    "settings": {},
+    "asset": {
+        "type": "mp4",
+        "hdvFlag": 1,
+        "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/213242168_1280x699.jpg",
+        "mediaDuration": 631,
+        "prettyDuration": "10:31",
+        "uploadDate": 1320431344,
+        "tags": "bmx,etnies,mutiny,los angeles,LA,L.A.,bike",
+        "hookText": "The etnies and Mutiny teams Battled Los Angeles. Check it!\n\nhttp:\/\/etnies.com\nhttp:\/\/www.facebook.com\/etnies",
+        "sources": [
+            {
+                "file": "https:\/\/player.vimeo.com\/external\/31616422.hd.mp4?s=9f98e5746546ed11b603bbe778914bf5&profile_id=113&oauth2_token_id=62432308"
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

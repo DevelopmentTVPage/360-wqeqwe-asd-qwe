@@ -19,8 +19,6 @@
     "id": "6418275",
     "loginId": "753",
     "entityType": "1",
-    "sortOrder": "60",
-    "entityIdParent": "168543",
     "titleTextEncoded": "Geoff-Gulevich-in-Hood-River",
     "category": null,
     "duration": 214,
@@ -41,14 +39,7 @@
         ]
     },
     "transcripts": null,
-    "metrics_statistics": {
-        "VV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "engagement_score": {
-                "lastUpdatedDate": "2017-05-25"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
     "tvp_profiles": [
         "25"
     ],

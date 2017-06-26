@@ -19,8 +19,6 @@
     "id": "6418689",
     "loginId": "753",
     "entityType": "1",
-    "sortOrder": "393",
-    "entityIdParent": "168524",
     "titleTextEncoded": "How-To-Dress-Well-Repeat-Pleasure-Converse-Gigs-100-Club",
     "category": null,
     "duration": "224",
@@ -39,14 +37,7 @@
         "hookText": "How To Dress Well headlined April's edition of Converse Gigs @ 100 Club in London. Recorded live on the night is this performance of \"Repeat Pleasure\" from f."
     },
     "transcripts": null,
-    "metrics_statistics": {
-        "VV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "engagement_score": {
-                "lastUpdatedDate": "2017-05-25"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

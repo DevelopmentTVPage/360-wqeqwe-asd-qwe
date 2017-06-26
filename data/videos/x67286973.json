@@ -19,8 +19,6 @@
     "id": "67286973",
     "loginId": "753",
     "entityType": "1",
-    "sortOrder": "42",
-    "entityIdParent": "195960",
     "titleTextEncoded": "Vans-Korea-How-To-Skate-FRY-DAYS-in-Bucheon-Skate-VANS",
     "category": "",
     "duration": 70,
@@ -40,14 +38,7 @@
         "quality": ""
     },
     "transcripts": "Hi, my name is Minhyuk Lee. We are here for the 3rd Vans Skate Fry-Days, At Bucheon Skatepark. The trick we will learn today is Alley-oop 50\/50 on the mini-ramp, this trick is to do a backside 50\/50 and reverse your board while doing a frontside turn. First, go into the coping with frontside turn, when your front truck touches the coping, use the strength of your shoulder and pelvis together pull your back wheels with turning 180 degrees and doing a backside 50\/50 put your weight inside the ramp and do a backside grind going backwards pull out as if doing a normal axle stall. It\u2019s easy if you have enough speed, strength and the right weight position. Hope this helps you learn this trick. See you soon at the House of Vans Seoul!",
-    "metrics_statistics": {
-        "VV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "engagement_score": {
-                "lastUpdatedDate": "2017-05-25"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

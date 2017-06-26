@@ -19,8 +19,6 @@
     "id": "6384792",
     "loginId": "753",
     "entityType": "1",
-    "sortOrder": "522",
-    "entityIdParent": "158318",
     "titleTextEncoded": "HURLEY-YOUTH-HAWAII",
     "category": null,
     "duration": "466",
@@ -39,14 +37,7 @@
         "hookText": "Above their peers. Beyond their years. Barron Mamiya, Jake Marshall, Nick Marshall and Eli Hanneman give a glimpse of surfing's future in Hurley Youth: ..."
     },
     "transcripts": null,
-    "metrics_statistics": {
-        "VV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "engagement_score": {
-                "lastUpdatedDate": "2017-05-25"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

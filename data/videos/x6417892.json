@@ -19,8 +19,6 @@
     "id": "6417892",
     "loginId": "753",
     "entityType": "1",
-    "sortOrder": "183",
-    "entityIdParent": "168514",
     "titleTextEncoded": "Fox-Footwear-Presents-Prepare-to-Perform-Ken-Roczen",
     "category": null,
     "duration": "63",
@@ -39,14 +37,7 @@
         "hookText": "Today's action sports athletes must be prepared, both physically and mentally, to seize those legendary moments in their respective sports. Whether it's the last ..."
     },
     "transcripts": null,
-    "metrics_statistics": {
-        "VV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "engagement_score": {
-                "lastUpdatedDate": "2017-05-25"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

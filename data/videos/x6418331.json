@@ -1,0 +1,46 @@
+{
+    "title": "DAKINE Super-Grab Contest with Windells",
+    "description": "During the glorious summer months on Mt. Hood, DAKINE and the Windell's Camp teamed up to create the DAKINE Super-Grab contest, supported by Gore-Tex. All the winners won a ticket for a free pair of DAKINE Gore-tex gloves!\n\nCheck out the highlights from o",
+    "referenceId": "18974441",
+    "date_created": "1443641126",
+    "date_modified": "1443641126",
+    "tags": "Array,Array,Array,Array,Array,Array,Array,Array,Array,Array",
+    "sourceId": "3",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6418331",
+    "loginId": "753",
+    "entityType": "1",
+    "titleTextEncoded": "DAKINE-Super-Grab-Contest-with-Windells",
+    "category": null,
+    "duration": 63,
+    "settings": {},
+    "asset": {
+        "type": "mp4",
+        "sources": [
+            {
+                "file": "https:\/\/player.vimeo.com\/external\/18974441.sd.mp4?s=0983ed0950eff1fc2271fc9cf95d2cb8&profile_id=112&oauth2_token_id=56801069"
+            }
+        ],
+        "hdvFlag": 0,
+        "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/119827412_960x540.jpg",
+        "mediaDuration": 63,
+        "prettyDuration": "01:03",
+        "uploadDate": 1295478064,
+        "tags": "Array,Array,Array,Array,Array,Array,Array,Array,Array,Array",
+        "hookText": "During the glorious summer months on Mt. Hood, DAKINE and the Windell's Camp teamed up to create the DAKINE Super-Grab contest, supported by Gore-Tex. All the winners won a ticket for a free pair of DAKINE Gore-tex gloves!\n\nCheck out the highlights from o"
+    },
+    "transcripts": null,
+    "metrics_statistics": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

@@ -19,8 +19,6 @@
     "id": "6378178",
     "loginId": "753",
     "entityType": "1",
-    "sortOrder": "27",
-    "entityIdParent": "3764281",
     "titleTextEncoded": "Enjoi-pandartist-series-episode-8-D-Dan-Drehobl",
     "category": null,
     "duration": "284",
@@ -39,14 +37,7 @@
         "hookText": "This is an enjoi commercial for the artist and professional skateboarder Dan Drehobl who drew the new \"Enjoi - Don't Be A Dick Series\"."
     },
     "transcripts": null,
-    "metrics_statistics": {
-        "VV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "engagement_score": {
-                "lastUpdatedDate": "2017-05-25"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

@@ -19,8 +19,6 @@
     "id": "66177335",
     "loginId": "753",
     "entityType": "1",
-    "sortOrder": "0",
-    "entityIdParent": "66186028",
     "titleTextEncoded": "CURRY-TWO-FLASH-STARRING-STEPHEN-CURRY-JAMIE-FOXX",
     "category": "",
     "duration": 65,
@@ -40,14 +38,7 @@
         "quality": ""
     },
     "transcripts": "How long does it take to change a game of basketball to change the sport, hours, days, years, decades? How about .4 seconds just like that all of a sudden big ain\u2019t so big no more, small ain\u2019t so small and with a flick of the wrist to step back three is a new dunk, follow through is a new poster, range is a new hang time. From the elbow to the rim the threat now comes from everywhere it's a new age for the game a new era of champion in the world change takes time in the universe it takes eons. In this game it only takes a second or less.",
-    "metrics_statistics": {
-        "VV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "engagement_score": {
-                "lastUpdatedDate": "2017-05-25"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

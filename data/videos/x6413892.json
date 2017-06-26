@@ -19,8 +19,6 @@
     "id": "6413892",
     "loginId": "753",
     "entityType": "1",
-    "sortOrder": "493",
-    "entityIdParent": "168524",
     "titleTextEncoded": "IamSU-feat-HBK-CJ-1-O-A-K-Next-Season",
     "category": null,
     "duration": "193",
@@ -39,14 +37,7 @@
         "hookText": "Next Season\u201d comes to us from East Bay rap upstart IamSu! and HBK Gang members HBK CJ & 1-O.A.K., adding a seasonal flair to Converse Rubber Tracks' ..."
     },
     "transcripts": null,
-    "metrics_statistics": {
-        "VV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "engagement_score": {
-                "lastUpdatedDate": "2017-05-25"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

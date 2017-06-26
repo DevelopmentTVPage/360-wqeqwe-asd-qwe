@@ -1,0 +1,48 @@
+{
+    "title": "Tanner Hall is Back!",
+    "description": "After a very long road to recovery Tanner Hall comes back with his new project \"Retallack\". Retallack takes you to one of the greatest cat operations in the world and showcases some of the best terrain there is. This is a short of Tanner using his DAKINE products for this new feature film.",
+    "referenceId": null,
+    "date_created": "1440450064",
+    "date_modified": "1444944731",
+    "tags": "Array,Array,Array,Array",
+    "sourceId": "3",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6380681",
+    "loginId": "753",
+    "entityType": "1",
+    "titleTextEncoded": "Tanner-Hall-is-Back",
+    "category": null,
+    "duration": 153,
+    "settings": [],
+    "asset": {
+        "type": "mp4",
+        "hdvFlag": 1,
+        "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/182304784_1280x718.jpg",
+        "mediaDuration": 153,
+        "prettyDuration": "02:33",
+        "uploadDate": 1312825097,
+        "tags": "Array,Array,Array,Array",
+        "hookText": "After a very long road to recovery Tanner Hall comes back with his new project \"Retallack\". Retallack takes you to one of the greatest cat operations in the world and showcases some of the best terrain there is. This is a short of Tanner using his DAKINE ",
+        "sources": [
+            {
+                "file": "https:\/\/player.vimeo.com\/external\/27447820.hd.mp4?s=6ad25fb8701fca73552d2b3e5fa968e8&profile_id=113&oauth2_token_id=56801069"
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "2"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

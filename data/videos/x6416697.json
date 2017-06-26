@@ -19,8 +19,6 @@
     "id": "6416697",
     "loginId": "753",
     "entityType": "1",
-    "sortOrder": "10",
-    "entityIdParent": "168533",
     "titleTextEncoded": "VonZipper-Josh-Kerr-in-the-Mustafa",
     "category": null,
     "duration": "30",
@@ -39,14 +37,7 @@
         "hookText": "People ask the question... What's a RocknRolla? We all want a bit of the good life - Some want money, some the glamour, others the fame. But a RocknRolla is different. Why? Because they rock the Mustafa and want it all..."
     },
     "transcripts": null,
-    "metrics_statistics": {
-        "VV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "engagement_score": {
-                "lastUpdatedDate": "2017-05-25"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

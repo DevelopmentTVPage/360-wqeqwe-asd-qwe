@@ -19,8 +19,6 @@
     "id": "170373",
     "loginId": "753",
     "entityType": "1",
-    "sortOrder": "382",
-    "entityIdParent": "168543",
     "titleTextEncoded": "Dakine-Taj-Pro-Pad",
     "category": null,
     "duration": "43",
@@ -37,14 +35,7 @@
         "prettyDuration": "00:00:43"
     },
     "transcripts": null,
-    "metrics_statistics": {
-        "VV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "engagement_score": {
-                "lastUpdatedDate": "2017-05-25"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
     "tvp_profiles": [
         "7"
     ],

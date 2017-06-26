@@ -19,8 +19,6 @@
     "id": "66173985",
     "loginId": "753",
     "entityType": "1",
-    "sortOrder": "97",
-    "entityIdParent": "3762188",
     "titleTextEncoded": "GoPro-Surfing-with-the-Walsh-Family",
     "category": "",
     "duration": 89,
@@ -40,14 +38,7 @@
         "quality": ""
     },
     "transcripts": "I was born and raise here in Hawaii. Most of my memories as a kid revolve around the beach. My name is Crystal Walsh I'm married to Anthony Walsh professional surfer, we have a little boy named Damien. I think it's very important to take Damien to the beach it's a huge part of my life and Anthony's life. It's really good to share that with Damien. I tried taking him surfing a few times before but he just wasn't really into it then Anthony took him and that's when Damien really got into it. Since were surrounded by ocean it's good to get Damian outside and have fun in nature. Just to see his face light up when he's on a wave it's so amazing. [Music Playing]",
-    "metrics_statistics": {
-        "VV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "engagement_score": {
-                "lastUpdatedDate": "2017-05-25"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

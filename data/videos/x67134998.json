@@ -19,8 +19,6 @@
     "id": "67134998",
     "loginId": "753",
     "entityType": "1",
-    "sortOrder": "4",
-    "entityIdParent": "195859",
     "titleTextEncoded": "DR-MARTENS-AW16-STANDFORSOMETHING-FILM",
     "category": "",
     "duration": 60,
@@ -40,14 +38,7 @@
         "quality": ""
     },
     "transcripts": "The local record store is where I fell in love with music. Camden, London is where I learned to live for music. \nSince I was young I always loved drawing,  so even if I lose the chance to do this as a living I'll always keep drawing.\nI enjoy finding the extraordinary and very ordinary moments.\nI dance every chance I get.\nYou can tell me what you want about my life and how I live, but this little life is mine and how I live is up to me.\nI'm not a super cool person, but I like to express myself through my style online.\nMy job is my passion, and what I've wanted to do since I was a child. in this way I have achieved my aim.",
-    "metrics_statistics": {
-        "VV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "engagement_score": {
-                "lastUpdatedDate": "2017-05-25"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

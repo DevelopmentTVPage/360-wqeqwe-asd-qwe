@@ -1,0 +1,46 @@
+{
+    "title": "Wasteland",
+    "description": "The Wasteland has a standard-width mountain-twin shape and medium flex; a set-up that\u2019s ideal for high-end and true all-mountain versatility and performance. Arbor\u2019s flagship snowboard blends our most current thinking in big mountain design with our tried",
+    "referenceId": null,
+    "date_created": "1440438333",
+    "date_modified": "1440438333",
+    "tags": "Arbor,Arbor Wasteland,Arbor Snowboards,Snowboarding,Product Profiles",
+    "sourceId": "3",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6377931",
+    "loginId": "753",
+    "entityType": "1",
+    "titleTextEncoded": "Wasteland",
+    "category": null,
+    "duration": 107,
+    "settings": {},
+    "asset": {
+        "type": "mp4",
+        "sources": [
+            {
+                "file": "https:\/\/player.vimeo.com\/external\/75518902.hd.mp4?s=9c387a39bc2c76bc6408be7fcdd842a8&profile_id=113&oauth2_token_id=74680278"
+            }
+        ],
+        "hdvFlag": 1,
+        "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/451154438_1280x720.jpg",
+        "mediaDuration": 107,
+        "prettyDuration": "01:47",
+        "uploadDate": 1380223398,
+        "tags": "Arbor,Arbor Wasteland,Arbor Snowboards,Snowboarding,Product Profiles",
+        "hookText": "The Wasteland has a standard-width mountain-twin shape and medium flex; a set-up that\u2019s ideal for high-end and true all-mountain versatility and performance. Arbor\u2019s flagship snowboard blends our most current thinking in big mountain design with our tried"
+    },
+    "transcripts": null,
+    "metrics_statistics": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

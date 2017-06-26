@@ -19,8 +19,6 @@
     "id": "6419598",
     "loginId": "753",
     "entityType": "1",
-    "sortOrder": "220",
-    "entityIdParent": "168524",
     "titleTextEncoded": "Converse-Rubber-Tracks-Track-of-the-Week-The-Kingston-Springs-record-Secret-Game",
     "category": null,
     "duration": "129",
@@ -39,14 +37,7 @@
         "hookText": "The single \"Secret Game\" by The Kingston Springs is this week's \"Track of the Week\". Traveling all the way from right outside Nashville, TN, the four members..."
     },
     "transcripts": null,
-    "metrics_statistics": {
-        "VV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "engagement_score": {
-                "lastUpdatedDate": "2017-05-25"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

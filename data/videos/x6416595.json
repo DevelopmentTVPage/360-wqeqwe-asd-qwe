@@ -19,8 +19,6 @@
     "id": "6416595",
     "loginId": "753",
     "entityType": "1",
-    "sortOrder": "20",
-    "entityIdParent": "168534",
     "titleTextEncoded": "ELEMENT-20-YEARS-SPRING-2012-LOOK-BOOK",
     "category": null,
     "duration": "70",
@@ -39,14 +37,7 @@
         "hookText": "In honor of the past two decades, icons from different eras, Donny Barley and Nick Garcia hit the East Coast streets, where it all began. In 1992 the Element..."
     },
     "transcripts": null,
-    "metrics_statistics": {
-        "VV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "engagement_score": {
-                "lastUpdatedDate": "2017-05-25"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

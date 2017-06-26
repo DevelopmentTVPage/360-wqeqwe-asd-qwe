@@ -19,8 +19,6 @@
     "id": "6383244",
     "loginId": "753",
     "entityType": "1",
-    "sortOrder": "29",
-    "entityIdParent": "168553",
     "titleTextEncoded": "Cristian-S\u00e1nchez-Arnette-Focal-View-2015",
     "category": null,
     "duration": "60",
@@ -39,14 +37,7 @@
         "hookText": "Con la llegada de la primavera y el sol hay que cuidarse la vista. Qu\u00e9 mejor manera que con nuestros Arnette\u00b4s Focal View.\n\nPara inaugurar la temporada 2015, Cristian S\u00e1nchez \"Rana\" y una ronda de lo m\u00e1s furtiva en un spot de lo mas emblem\u00e1tico, el MACBA "
     },
     "transcripts": null,
-    "metrics_statistics": {
-        "VV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "engagement_score": {
-                "lastUpdatedDate": "2017-05-25"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

@@ -19,8 +19,6 @@
     "id": "6416644",
     "loginId": "753",
     "entityType": "1",
-    "sortOrder": "39",
-    "entityIdParent": "168533",
     "titleTextEncoded": "VonZipper-Luke-Davis-in-the-Lomax",
     "category": null,
     "duration": "28",
@@ -39,14 +37,7 @@
         "hookText": "Mount a bass drum to your back and strap cymbals to your knees! With your guitar in one hand and a harmonica in your mouth accompany yourself in the Lomax and be the one-man band you've always wanted to."
     },
     "transcripts": null,
-    "metrics_statistics": {
-        "VV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "engagement_score": {
-                "lastUpdatedDate": "2017-05-25"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

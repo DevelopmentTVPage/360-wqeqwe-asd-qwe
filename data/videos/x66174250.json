@@ -19,8 +19,6 @@
     "id": "66174250",
     "loginId": "753",
     "entityType": "1",
-    "sortOrder": "82",
-    "entityIdParent": "3762188",
     "titleTextEncoded": "GoPro-Jump-Rope-Tricks",
     "category": "",
     "duration": 91,
@@ -40,14 +38,7 @@
         "quality": ""
     },
     "transcripts": "Oops. \n[Music Playing] \nCause the cameras are on, so if you can see me, I can see you so you can't watch,  haha \n[Inaudible]",
-    "metrics_statistics": {
-        "VV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "engagement_score": {
-                "lastUpdatedDate": "2017-05-25"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

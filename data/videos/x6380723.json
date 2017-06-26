@@ -1,0 +1,46 @@
+{
+    "title": "Sammy Carlson Shred Flick",
+    "description": "Sammy Carlson is leading the charge on progressive skiing and making big waves across the ski world. Here Sammy pushes the limits to higher grounds with a switch triple cork!",
+    "referenceId": null,
+    "date_created": "1440450113",
+    "date_modified": "1440450113",
+    "tags": "Array,Array,Array,Array",
+    "sourceId": "3",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6380723",
+    "loginId": "753",
+    "entityType": "1",
+    "titleTextEncoded": "Sammy-Carlson-Shred-Flick",
+    "category": null,
+    "duration": 105,
+    "settings": {},
+    "asset": {
+        "type": "mp4",
+        "sources": [
+            {
+                "file": "https:\/\/player.vimeo.com\/external\/19669565.hd.mp4?s=96e02319f2f8244d6df2dc415509736c&profile_id=113&oauth2_token_id=56801069"
+            }
+        ],
+        "hdvFlag": 1,
+        "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/142218224_1280x720.jpg",
+        "mediaDuration": 105,
+        "prettyDuration": "01:45",
+        "uploadDate": 1297103438,
+        "tags": "Array,Array,Array,Array",
+        "hookText": "Sammy Carlson is leading the charge on progressive skiing and making big waves across the ski world. Here Sammy pushes the limits to higher grounds with a switch triple cork!"
+    },
+    "transcripts": null,
+    "metrics_statistics": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

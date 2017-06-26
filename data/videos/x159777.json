@@ -19,8 +19,6 @@
     "id": "159777",
     "loginId": "753",
     "entityType": "1",
-    "sortOrder": "264",
-    "entityIdParent": "168557",
     "titleTextEncoded": "Day-2-Shot-On-RED-Volcom-Pipe-Pro-2014",
     "category": null,
     "duration": "147",
@@ -36,14 +34,7 @@
         "prettyDuration": "00:02:27"
     },
     "transcripts": null,
-    "metrics_statistics": {
-        "VV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "engagement_score": {
-                "lastUpdatedDate": "2017-05-25"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
     "tvp_profiles": [
         "25"
     ],

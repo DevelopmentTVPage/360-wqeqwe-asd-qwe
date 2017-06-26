@@ -19,8 +19,6 @@
     "id": "6380443",
     "loginId": "753",
     "entityType": "1",
-    "sortOrder": "370",
-    "entityIdParent": "168543",
     "titleTextEncoded": "Dakine-Prom-Backpack",
     "category": null,
     "duration": 66,
@@ -41,14 +39,7 @@
         "hookText": "Padded laptop sleeve\nFits most 14\" laptops\nFleece lined sunglass pocket\nOrganizer pocket\nDeployable water bottle pocket\nInsulated cooler pocket\n\nFor more info visit:\nhttp:\/\/www.dakine.com\/p\/backpacks-and-gear\/lifestyle-bags\/backpacks\/prom-25l-16w"
     },
     "transcripts": null,
-    "metrics_statistics": {
-        "VV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "engagement_score": {
-                "lastUpdatedDate": "2017-05-25"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

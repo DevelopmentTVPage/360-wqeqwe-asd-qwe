@@ -19,8 +19,6 @@
     "id": "67134898",
     "loginId": "753",
     "entityType": "1",
-    "sortOrder": "44",
-    "entityIdParent": "168538",
     "titleTextEncoded": "Truckstop-Jam-Live-Outside-Day-2-Highway-101",
     "category": "",
     "duration": 51,
@@ -40,14 +38,7 @@
         "quality": ""
     },
     "transcripts": "I'm not sure that one of the guys would be down to get out a guitar, but if we got one would you jam with me if I played some harmonica with him? You got a pick? Uh yeah I think so. I play strictly by pick.\n[Music Playing]\nThis one here is not as great, I was playing it yesterday. That was great man, that was awesome. Thanks again man. This was a trip, to see all these people man.",
-    "metrics_statistics": {
-        "VV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "engagement_score": {
-                "lastUpdatedDate": "2017-05-25"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

@@ -1,0 +1,46 @@
+{
+    "title": "Simon Chamberlain for ThirtyTwo",
+    "description": "www.thirtytwo.com\nwww.etnies.com\n\nSimon Chamberlain",
+    "referenceId": null,
+    "date_created": "1440443452",
+    "date_modified": "1440443452",
+    "tags": "www.thirtytwo.com,www.etnies.com,Day in the Life,Simon Chamberlain",
+    "sourceId": "3",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6379439",
+    "loginId": "753",
+    "entityType": "1",
+    "titleTextEncoded": "Simon-Chamberlain-for-ThirtyTwo",
+    "category": null,
+    "duration": 15,
+    "settings": {},
+    "asset": {
+        "type": "mp4",
+        "sources": [
+            {
+                "file": "https:\/\/player.vimeo.com\/external\/17584247.hd.mp4?s=413a71ef6f5c39c28603ef4e6ff1a2a2&profile_id=113&oauth2_token_id=62432308"
+            }
+        ],
+        "hdvFlag": 1,
+        "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/109481758_1280x720.jpg",
+        "mediaDuration": 15,
+        "prettyDuration": "00:15",
+        "uploadDate": 1291772254,
+        "tags": "www.thirtytwo.com,www.etnies.com,Day in the Life,Simon Chamberlain",
+        "hookText": "www.thirtytwo.com\nwww.etnies.com\n\nSimon Chamberlain"
+    },
+    "transcripts": null,
+    "metrics_statistics": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

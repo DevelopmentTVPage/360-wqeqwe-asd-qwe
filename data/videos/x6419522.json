@@ -19,8 +19,6 @@
     "id": "6419522",
     "loginId": "753",
     "entityType": "1",
-    "sortOrder": "247",
-    "entityIdParent": "158318",
     "titleTextEncoded": "JEAN-NOIR-IN-HURLEY-MUSIC-STUDIOS",
     "category": null,
     "duration": "166",
@@ -39,14 +37,7 @@
         "hookText": "What happens when an artist realizes he's \"not an angry teenager anymore\" and decides to delve into music genres previously unknown to the angry teenage ..."
     },
     "transcripts": null,
-    "metrics_statistics": {
-        "VV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "engagement_score": {
-                "lastUpdatedDate": "2017-05-25"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

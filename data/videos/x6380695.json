@@ -1,0 +1,46 @@
+{
+    "title": "Ian Walsh",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1440450082",
+    "date_modified": "1440450082",
+    "tags": "Array,Array,Array",
+    "sourceId": "3",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6380695",
+    "loginId": "753",
+    "entityType": "1",
+    "titleTextEncoded": "Ian-Walsh",
+    "category": null,
+    "duration": 158,
+    "settings": {},
+    "asset": {
+        "type": "mp4",
+        "sources": [
+            {
+                "file": "https:\/\/player.vimeo.com\/external\/23662877.hd.mp4?s=c3e5202003ab5ec578493104112b8baf&profile_id=113&oauth2_token_id=56801069"
+            }
+        ],
+        "hdvFlag": 1,
+        "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/154493735_1280x720.jpg",
+        "mediaDuration": 158,
+        "prettyDuration": "02:38",
+        "uploadDate": 1305244205,
+        "tags": "Array,Array,Array",
+        "hookText": ""
+    },
+    "transcripts": null,
+    "metrics_statistics": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

@@ -1,0 +1,46 @@
+{
+    "title": "Sean Pettit Interview",
+    "description": "Sean Pettit loves to have a good time and keeps things fresh. Here Sean talks about winning skier of the year, the Powder Awards, and more.",
+    "referenceId": null,
+    "date_created": "1440450112",
+    "date_modified": "1440450112",
+    "tags": "",
+    "sourceId": "3",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6380714",
+    "loginId": "753",
+    "entityType": "1",
+    "titleTextEncoded": "Sean-Pettit-Interview",
+    "category": null,
+    "duration": 123,
+    "settings": {},
+    "asset": {
+        "type": "mp4",
+        "sources": [
+            {
+                "file": "https:\/\/player.vimeo.com\/external\/21495015.hd.mp4?s=47b28cbbe1135a1c2515365607b98796&profile_id=113&oauth2_token_id=56801069"
+            }
+        ],
+        "hdvFlag": 1,
+        "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/138302430_1280x720.jpg",
+        "mediaDuration": 123,
+        "prettyDuration": "02:03",
+        "uploadDate": 1301077367,
+        "tags": "",
+        "hookText": "Sean Pettit loves to have a good time and keeps things fresh. Here Sean talks about winning skier of the year, the Powder Awards, and more."
+    },
+    "transcripts": null,
+    "metrics_statistics": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

@@ -19,8 +19,6 @@
     "id": "65524866",
     "loginId": "753",
     "entityType": "1",
-    "sortOrder": "253",
-    "entityIdParent": "168557",
     "titleTextEncoded": "Volcom-Stone-presents-True-To-This-Kelly-Slater",
     "category": "",
     "duration": 30,
@@ -40,14 +38,7 @@
         "quality": ""
     },
     "transcripts": "True to this I think of loyalty probably. To be true to something is I think is to be dedicated to always be mindful of something, always be thinking about it obsessive maybe even but not in a psychopathic way, In a loving way. My name is Kelly Slater I've been true to this since 75' I think.",
-    "metrics_statistics": {
-        "VV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "engagement_score": {
-                "lastUpdatedDate": "2017-05-25"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

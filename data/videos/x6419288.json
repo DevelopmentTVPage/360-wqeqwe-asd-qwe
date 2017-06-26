@@ -19,8 +19,6 @@
     "id": "6419288",
     "loginId": "753",
     "entityType": "1",
-    "sortOrder": "321",
-    "entityIdParent": "168524",
     "titleTextEncoded": "Mr-Ojey-x-Converse-Get-Loud-Hamburg",
     "category": null,
     "duration": "92",
@@ -39,14 +37,7 @@
         "hookText": "Hamburg street artist Mr. Ojey took spray paint to add his own #GetLoud twist to our billboard. Find out more about Mr Ojey here: http:\/\/mrojey80.tumblr.com ..."
     },
     "transcripts": null,
-    "metrics_statistics": {
-        "VV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "engagement_score": {
-                "lastUpdatedDate": "2017-05-25"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

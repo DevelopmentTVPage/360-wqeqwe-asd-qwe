@@ -19,8 +19,6 @@
     "id": "6419860",
     "loginId": "753",
     "entityType": "1",
-    "sortOrder": "162",
-    "entityIdParent": "168524",
     "titleTextEncoded": "Converse-Takeaway-Show-from-Pitchfork-Paris-Cloud-Nothings-Stay-Useless",
     "category": null,
     "duration": "193",
@@ -39,14 +37,7 @@
         "hookText": "Before they took to the stage at Pitchfork festival in Paris, Cloud Nothings hopped on the Converse bus to play this special Takeaway Show. Track: \"Stay Usel..."
     },
     "transcripts": null,
-    "metrics_statistics": {
-        "VV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "engagement_score": {
-                "lastUpdatedDate": "2017-05-25"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

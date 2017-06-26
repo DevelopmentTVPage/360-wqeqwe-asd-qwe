@@ -19,8 +19,6 @@
     "id": "6414419",
     "loginId": "753",
     "entityType": "1",
-    "sortOrder": "51",
-    "entityIdParent": "168534",
     "titleTextEncoded": "ELEMENT-FOR-PORT",
     "category": null,
     "duration": "36",
@@ -39,14 +37,7 @@
         "hookText": "We teamed up with Port to make this limited-edition cruiser board for their shop in Long Beach, CA. Here's the video, starring Levi Brown and Tim Gavin, crea..."
     },
     "transcripts": null,
-    "metrics_statistics": {
-        "VV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "engagement_score": {
-                "lastUpdatedDate": "2017-05-25"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

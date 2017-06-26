@@ -19,8 +19,6 @@
     "id": "6417995",
     "loginId": "753",
     "entityType": "1",
-    "sortOrder": "178",
-    "entityIdParent": "168514",
     "titleTextEncoded": "FOX-HEAD-GLOBAL-HEADQUARTERS-OPEN-HOUSE",
     "category": null,
     "duration": "88",
@@ -39,14 +37,7 @@
         "hookText": "Last Thursday night Fox celebrated by hosting a party to show off our amazing new building. Here's a sneak peak at this epic and unbelievable structure along ..."
     },
     "transcripts": null,
-    "metrics_statistics": {
-        "VV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "engagement_score": {
-                "lastUpdatedDate": "2017-05-25"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

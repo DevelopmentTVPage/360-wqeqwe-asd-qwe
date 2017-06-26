@@ -19,8 +19,6 @@
     "id": "6379057",
     "loginId": "753",
     "entityType": "1",
-    "sortOrder": "148",
-    "entityIdParent": "168548",
     "titleTextEncoded": "Altamont-and-Mandy-Lyn-Present-Rock-N-Roll-Suicides",
     "category": null,
     "duration": "174",
@@ -39,14 +37,7 @@
         "hookText": "Altamont is proud to introduce our newest collaboration with Mandy-Lyn, Rock N' Roll Suicides: http:\/\/altamontapparel.com\/contributors\/mandy-lyn\/ This is a ..."
     },
     "transcripts": null,
-    "metrics_statistics": {
-        "VV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "engagement_score": {
-                "lastUpdatedDate": "2017-05-25"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

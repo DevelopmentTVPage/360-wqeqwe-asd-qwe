@@ -19,8 +19,6 @@
     "id": "6383263",
     "loginId": "753",
     "entityType": "1",
-    "sortOrder": "21",
-    "entityIdParent": "168553",
     "titleTextEncoded": "Welcome-to-the-Team-Chris-Joslin",
     "category": null,
     "duration": "150",
@@ -39,14 +37,7 @@
         "hookText": "Arnette welcomes Chris Joslin to the team with a tour around San Diego's local skateparks, where we ran into Pat Duffy and Willy Santos. On location at Arnette ..."
     },
     "transcripts": null,
-    "metrics_statistics": {
-        "VV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "engagement_score": {
-                "lastUpdatedDate": "2017-05-25"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

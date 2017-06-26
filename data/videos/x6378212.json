@@ -19,8 +19,6 @@
     "id": "6378212",
     "loginId": "753",
     "entityType": "1",
-    "sortOrder": "547",
-    "entityIdParent": "158318",
     "titleTextEncoded": "TOURNOTES-TIME-OFF-ON-TAVARUA",
     "category": null,
     "duration": "164",
@@ -39,14 +37,7 @@
         "hookText": "The world's best make use of their time off before the start of the Fiji Pro in the latest #TOURNOTES."
     },
     "transcripts": null,
-    "metrics_statistics": {
-        "VV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "engagement_score": {
-                "lastUpdatedDate": "2017-05-25"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

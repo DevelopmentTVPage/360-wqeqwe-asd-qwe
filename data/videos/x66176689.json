@@ -19,8 +19,6 @@
     "id": "66176689",
     "loginId": "753",
     "entityType": "1",
-    "sortOrder": "3",
-    "entityIdParent": "66220746",
     "titleTextEncoded": "The-North-Face-I-Train-For",
     "category": "",
     "duration": 44,
@@ -40,14 +38,7 @@
         "quality": ""
     },
     "transcripts": "This is a summit.\nThis is a finish line.\nThis is big air. \nThis is think air.\nThis is sketchy.\nThis is hard.\nThis is how I prepare.\nThis is how I train.\nThis is what I wear.\nThis is what I love.",
-    "metrics_statistics": {
-        "VV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "engagement_score": {
-                "lastUpdatedDate": "2017-05-25"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

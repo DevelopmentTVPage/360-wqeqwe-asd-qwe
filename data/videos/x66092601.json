@@ -19,8 +19,6 @@
     "id": "66092601",
     "loginId": "753",
     "entityType": "1",
-    "sortOrder": "20",
-    "entityIdParent": "66115248",
     "titleTextEncoded": "ZELLA-DAY-Sweet-Ophelia-Acoustic-STEVE-MADDEN-MUSIC",
     "category": "",
     "duration": 223,
@@ -40,14 +38,7 @@
         "quality": ""
     },
     "transcripts": "Hello, I\u2019m Zella Day and I\u2019m going to perform my song \u201cSweet Ophelia\u201d [Music Playing]",
-    "metrics_statistics": {
-        "VV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "engagement_score": {
-                "lastUpdatedDate": "2017-05-25"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

@@ -1,0 +1,46 @@
+{
+    "title": "Annie Boulanger presents her 2013 Dakine Team Heli Pro Pack!",
+    "description": "Annie Boulanger's Winter 2013 Signature Series pack is a collaborative effort between Annie and our in-house designers, featuring unique colors, prints and graphics. Part of her collection also features a coordinated glove - the Annie Boulanger Team Targa",
+    "referenceId": null,
+    "date_created": "1440449977",
+    "date_modified": "1440449977",
+    "tags": "",
+    "sourceId": "3",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6380619",
+    "loginId": "753",
+    "entityType": "1",
+    "titleTextEncoded": "Annie-Boulanger-presents-her-2013-Dakine-Team-Heli-Pro-Pack",
+    "category": null,
+    "duration": 92,
+    "settings": {},
+    "asset": {
+        "type": "mp4",
+        "sources": [
+            {
+                "file": "https:\/\/player.vimeo.com\/external\/46786037.hd.mp4?s=e2fde89c447b5d3d11a5a382ec27df28&profile_id=113&oauth2_token_id=56801069"
+            }
+        ],
+        "hdvFlag": 1,
+        "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/326353582_1280x719.jpg",
+        "mediaDuration": 92,
+        "prettyDuration": "01:32",
+        "uploadDate": 1343864766,
+        "tags": "",
+        "hookText": "Annie Boulanger's Winter 2013 Signature Series pack is a collaborative effort between Annie and our in-house designers, featuring unique colors, prints and graphics. Part of her collection also features a coordinated glove - the Annie Boulanger Team Targa"
+    },
+    "transcripts": null,
+    "metrics_statistics": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

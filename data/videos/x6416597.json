@@ -19,8 +19,6 @@
     "id": "6416597",
     "loginId": "753",
     "entityType": "1",
-    "sortOrder": "18",
-    "entityIdParent": "168534",
     "titleTextEncoded": "ELEMENTAL-AWARENESS-PAINT-A-DECK-GET-A-DECK",
     "category": null,
     "duration": "58",
@@ -39,14 +37,7 @@
         "hookText": "On Friday, December 2nd, Element and Elemental Awareness teamed up with the WLCAC in Watts, CA for a day of art and skateboarding. Element Advocates ..."
     },
     "transcripts": null,
-    "metrics_statistics": {
-        "VV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "engagement_score": {
-                "lastUpdatedDate": "2017-05-25"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

@@ -19,8 +19,6 @@
     "id": "161418",
     "loginId": "753",
     "entityType": "1",
-    "sortOrder": "73",
-    "entityIdParent": "168557",
     "titleTextEncoded": "Stop-4-Mont-Avila-QC-Volcom-s-2012-Peanut-Butter-and-Rail-Jam-Tour",
     "category": null,
     "duration": "250",
@@ -36,14 +34,7 @@
         "prettyDuration": "00:04:10"
     },
     "transcripts": null,
-    "metrics_statistics": {
-        "VV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "engagement_score": {
-                "lastUpdatedDate": "2017-05-25"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

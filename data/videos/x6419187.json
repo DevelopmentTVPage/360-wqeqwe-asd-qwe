@@ -19,8 +19,6 @@
     "id": "6419187",
     "loginId": "753",
     "entityType": "1",
-    "sortOrder": "345",
-    "entityIdParent": "168524",
     "titleTextEncoded": "Cerebral-Ballzy-City-Girl-Converse-Red-Light-Sessions",
     "category": null,
     "duration": "134",
@@ -39,14 +37,7 @@
         "hookText": "During CMJ 2013, Brooklyn based punk band popped joined Red Light Radio in their pop-up studio at Rubber Tracks to perform this gritty version of \"City Girl\"..."
     },
     "transcripts": null,
-    "metrics_statistics": {
-        "VV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "engagement_score": {
-                "lastUpdatedDate": "2017-05-25"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

@@ -19,8 +19,6 @@
     "id": "6390153",
     "loginId": "753",
     "entityType": "1",
-    "sortOrder": "78",
-    "entityIdParent": "168523",
     "titleTextEncoded": "Emerica-Wild-in-the-Streets-Amsterdam",
     "category": null,
     "duration": "173",
@@ -39,14 +37,7 @@
         "hookText": "EMERICA WILD IN THE STREETS AMSTERDAM - Benefiting Skatepark Amsterdam Thursday 5th July Emerica organized Wild in the Streets in Amsterdam."
     },
     "transcripts": null,
-    "metrics_statistics": {
-        "VV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "engagement_score": {
-                "lastUpdatedDate": "2017-05-25"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

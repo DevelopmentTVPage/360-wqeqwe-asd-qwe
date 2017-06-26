@@ -19,8 +19,6 @@
     "id": "66177314",
     "loginId": "753",
     "entityType": "1",
-    "sortOrder": "1",
-    "entityIdParent": "66186028",
     "titleTextEncoded": "Introducing-Alison-Lee-Under-Armour-Golf",
     "category": "",
     "duration": 90,
@@ -40,14 +38,7 @@
         "quality": ""
     },
     "transcripts": "Repetition. I grew up hitting a lot of Rage balls with my dad he was always there putting me in the right positions at every shot. Now it's their muscle memory and I play based on feel rather than thinking to technically about my swing. Competition is something that really drives me to keep playing, to keep practicing and to prove playing in tournaments being in those moments where you have a putt to win, that's what really gets me going and it drives me to play well. The transition from amateur to professional was definitely hard, even though I played well as a rookie I saw a lot of high goals for myself I've learned that I have what it takes to be out here and that I can compete with all the girls, but I want to take it a step further, to play well and to win out here, to be the best in the world.",
-    "metrics_statistics": {
-        "VV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "engagement_score": {
-                "lastUpdatedDate": "2017-05-25"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

@@ -1,0 +1,46 @@
+{
+    "title": "Day In The Life: Sam & Pat",
+    "description": "etnies Presents a Day In The Life with two of our favorite buds Sam Orozco & Pat Schmidt. The pair take a dip in the water & a trip to the etnies HQ in Lake Forest.\nCheck the etnies Fairfax... So fair... So fax.\netni.es\/samnpat",
+    "referenceId": null,
+    "date_created": "1440443196",
+    "date_modified": "1444087878",
+    "tags": "etnies,etnies surf,Sam Orozco,Pat Schmidt,etnies Lake Forest",
+    "sourceId": "3",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6379287",
+    "loginId": "753",
+    "entityType": "1",
+    "titleTextEncoded": "Day-In-The-Life-Sam-Pat",
+    "category": null,
+    "duration": 115,
+    "settings": {},
+    "asset": {
+        "type": "mp4",
+        "hdvFlag": 1,
+        "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/285998673_1280x721.jpg",
+        "mediaDuration": 115,
+        "prettyDuration": "01:55",
+        "uploadDate": 1335312033,
+        "tags": "etnies,etnies surf,Sam Orozco,Pat Schmidt,etnies Lake Forest",
+        "hookText": "etnies Presents a Day In The Life with two of our favorite buds Sam Orozco & Pat Schmidt. The pair take a dip in the water & a trip to the etnies HQ in Lake Forest. \n\nCheck the etnies Fairfax... So fair... So fax.\n\nhttp:\/\/etni.es\/samnpat\nFacebook.com\/etni",
+        "sources": [
+            {
+                "file": "https:\/\/player.vimeo.com\/external\/40978564.hd.mp4?s=778a594d2fd3a40a5411bf9e6c9ca428&profile_id=113&oauth2_token_id=62432308"
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

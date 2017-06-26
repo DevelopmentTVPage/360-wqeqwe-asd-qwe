@@ -19,8 +19,6 @@
     "id": "6386448",
     "loginId": "753",
     "entityType": "1",
-    "sortOrder": "284",
-    "entityIdParent": "168514",
     "titleTextEncoded": "Fox-Surf-Presents-Ian-Walsh-Factor-Boardshort",
     "category": null,
     "duration": "34",
@@ -39,14 +37,7 @@
         "hookText": "Ian Walsh's Premium boardshort is designed for performance, comfort and style. Using top of the line technology mixed with stylish graphics and textures, this short is the ..."
     },
     "transcripts": null,
-    "metrics_statistics": {
-        "VV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "engagement_score": {
-                "lastUpdatedDate": "2017-05-25"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

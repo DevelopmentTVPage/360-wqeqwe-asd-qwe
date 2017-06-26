@@ -19,8 +19,6 @@
     "id": "6416600",
     "loginId": "753",
     "entityType": "1",
-    "sortOrder": "16",
-    "entityIdParent": "168534",
     "titleTextEncoded": "ELEMENT-RISE-SHINE-AVAILABLE-NOW-SKATEBOARDING",
     "category": null,
     "duration": "14",
@@ -39,14 +37,7 @@
         "hookText": "Element is proud to announce that \"RISE & SHINE\" The Nyjah Huston video, is now available on iTunes worldwide! Click here to view in iTunes: http:\/\/itunes.ap."
     },
     "transcripts": null,
-    "metrics_statistics": {
-        "VV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "engagement_score": {
-                "lastUpdatedDate": "2017-05-25"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

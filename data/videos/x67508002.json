@@ -19,8 +19,6 @@
     "id": "67508002",
     "loginId": "753",
     "entityType": "1",
-    "sortOrder": "21",
-    "entityIdParent": "168551",
     "titleTextEncoded": "Dickies-FR-Twill-Pant-Relaxed-Fit",
     "category": "",
     "duration": 58,
@@ -40,14 +38,7 @@
         "quality": ""
     },
     "transcripts": "The Flame-Resistant Twill Pant by Dickies. This durable FR pant sits slightly below the waist, with a relaxed fit providing extra room through the seat and thigh and a straight leg. It\u2019s crafted of a sturdy 9 oz twill cotton-nylon fabric blend that's FR treated, has an ARC rating of 12.2, is HRC (Hazard Risk Category) Level 2, and is both NFPA 70E and NFPA 2112 compliant. This FR pant features classic workpant styling with deep back welt pockets, a heavy-duty tack button closure and brass zipper-fly. Carefully designed and constructed for protection and comfort, this garment will stand up to tough working conditions. Dickies, Quality Workwear since 1922.",
-    "metrics_statistics": {
-        "VV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "engagement_score": {
-                "lastUpdatedDate": "2017-05-25"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

@@ -19,8 +19,6 @@
     "id": "67540529",
     "loginId": "753",
     "entityType": "1",
-    "sortOrder": "15",
-    "entityIdParent": "168513",
     "titleTextEncoded": "Nike-Unlimited-Courage",
     "category": "",
     "duration": 40,
@@ -40,14 +38,7 @@
         "quality": ""
     },
     "transcripts": "CHRIS MOSIER DUATHLETE \nThis is Chris Mosier. Morning, Chris! Morning! Chris is the first transgender athlete to make the men's national team. Hey, Chris? How'd you know you'd be fast enough to compete against men? I didn't! Or strong enough? I didn't. Yeah, but how'd you know the team would accept you? I didn't. Or that you'd even be allowed to compete? I didn't. That must have been tough! Didn't you ever just want to give up? Yeah! But I didn't! UNLIMITED COURAGE JUST DO IT.",
-    "metrics_statistics": {
-        "VV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "engagement_score": {
-                "lastUpdatedDate": "2017-05-25"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

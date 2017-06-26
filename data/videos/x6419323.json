@@ -19,8 +19,6 @@
     "id": "6419323",
     "loginId": "753",
     "entityType": "1",
-    "sortOrder": "308",
-    "entityIdParent": "168524",
     "titleTextEncoded": "Converse-Wall-To-Wall-Los-Angeles-CA",
     "category": null,
     "duration": "162",
@@ -39,14 +37,7 @@
         "hookText": "In collaboration with Urban Outfitters, the unrivaled Steve Harrington took to the UO flagship store in Santa Monica to bring his character-based art to life."
     },
     "transcripts": null,
-    "metrics_statistics": {
-        "VV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "engagement_score": {
-                "lastUpdatedDate": "2017-05-25"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

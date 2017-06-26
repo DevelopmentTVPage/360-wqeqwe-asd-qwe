@@ -19,8 +19,6 @@
     "id": "68389546",
     "loginId": "753",
     "entityType": "1",
-    "sortOrder": "10",
-    "entityIdParent": "168544",
     "titleTextEncoded": "Burton-Rider-Hailey-Langland-On-Celebrating-Her-16th-Birthday",
     "category": "",
     "duration": 80,
@@ -40,14 +38,7 @@
         "quality": ""
     },
     "transcripts": "Some of my favorite memories of my 15th year are definitely being able to travel the season with all my best friends and being able to experience, contest with them and I think the best place I went was New Zealand. New Zealand's so pretty it was just really awesome to be there and be able to have such good weather on the hill too like wanting to go to a beautiful place. I took my written permit test three weeks ago I think I was the last one out of all my friends to get it and I studied so hard the night before and it was time to take the test. I only got two wrong something about if there's an animal over a hill and you don't know what's coming what are you gonna do and I was like I don't know? What would I do? SUV or Sports car? Sports car, when I drive I'll definitely listen to a lot of Guns and Roses and The Who and music like that.",
-    "metrics_statistics": {
-        "VV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "engagement_score": {
-                "lastUpdatedDate": "2017-05-25"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

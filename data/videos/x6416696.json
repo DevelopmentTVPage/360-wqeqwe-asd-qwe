@@ -19,8 +19,6 @@
     "id": "6416696",
     "loginId": "753",
     "entityType": "1",
-    "sortOrder": "11",
-    "entityIdParent": "168533",
     "titleTextEncoded": "VonZipper-SIN-Elmore",
     "category": null,
     "duration": "19",
@@ -39,14 +37,7 @@
         "hookText": "Donavon Frankenreiter in the Shift Into Neutral Elmore.\n\nTruth be told, VZ has the hots for Mother Nature... So much in fact, we hug trees on a daily basis. It's with that embrace in mind; we're launching Shift Into Neutral -- a collection of sunglasses t"
     },
     "transcripts": null,
-    "metrics_statistics": {
-        "VV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "engagement_score": {
-                "lastUpdatedDate": "2017-05-25"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

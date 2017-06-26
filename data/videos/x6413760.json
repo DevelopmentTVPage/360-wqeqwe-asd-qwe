@@ -19,8 +19,6 @@
     "id": "6413760",
     "loginId": "753",
     "entityType": "1",
-    "sortOrder": "480",
-    "entityIdParent": "158318",
     "titleTextEncoded": "XO-IN-THE-HURLEY-STUDIOS-COAST",
     "category": null,
     "duration": "179",
@@ -39,14 +37,7 @@
         "hookText": "Our friends XO jammed right here in the Hurley Studios recently, performing the song 'Coast' from their latest album, Heart. Grab the album here: ..."
     },
     "transcripts": null,
-    "metrics_statistics": {
-        "VV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "engagement_score": {
-                "lastUpdatedDate": "2017-05-25"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

@@ -19,8 +19,6 @@
     "id": "6380762",
     "loginId": "753",
     "entityType": "1",
-    "sortOrder": "569",
-    "entityIdParent": "168524",
     "titleTextEncoded": "Converse-Rubber-Tracks-Boston",
     "category": null,
     "duration": "246",
@@ -39,14 +37,7 @@
         "hookText": "In April 2015, Converse showed its love for Boston by hosting a five-night series of free live shows at the Sinclair in Cambridge. Up-and-coming artists Rozamov, Bent Shapes, Michael Christmas, Radclyffe Hall and The Young Leaves were selected from recent"
     },
     "transcripts": null,
-    "metrics_statistics": {
-        "VV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "engagement_score": {
-                "lastUpdatedDate": "2017-05-25"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

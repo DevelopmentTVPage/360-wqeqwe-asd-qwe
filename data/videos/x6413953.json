@@ -19,8 +19,6 @@
     "id": "6413953",
     "loginId": "753",
     "entityType": "1",
-    "sortOrder": "448",
-    "entityIdParent": "158318",
     "titleTextEncoded": "THE-GARDEN-IN-THE-HURLEY-STUDIOS",
     "category": null,
     "duration": "360",
@@ -39,14 +37,7 @@
         "hookText": "A haunting sound, rad lyrics and identical twins. Let's just say The Garden is as unique as they come which made us beyond stoked when they stopped by the ..."
     },
     "transcripts": null,
-    "metrics_statistics": {
-        "VV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "engagement_score": {
-                "lastUpdatedDate": "2017-05-25"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

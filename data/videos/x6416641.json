@@ -19,8 +19,6 @@
     "id": "6416641",
     "loginId": "753",
     "entityType": "1",
-    "sortOrder": "41",
-    "entityIdParent": "168533",
     "titleTextEncoded": "VonZipper-Eric-Jackson-in-the-Feenom",
     "category": null,
     "duration": "33",
@@ -39,14 +37,7 @@
         "hookText": "The Godfather of all goggles, the Feenom hands out a whole lotta steez to make them fall to their knees and repent if you please."
     },
     "transcripts": null,
-    "metrics_statistics": {
-        "VV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "engagement_score": {
-                "lastUpdatedDate": "2017-05-25"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

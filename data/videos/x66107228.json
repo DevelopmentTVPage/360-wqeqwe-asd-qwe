@@ -19,8 +19,6 @@
     "id": "66107228",
     "loginId": "753",
     "entityType": "1",
-    "sortOrder": "5",
-    "entityIdParent": "66115250",
     "titleTextEncoded": "Body-Soul-The-Message-of-the-book",
     "category": "",
     "duration": 56,
@@ -38,14 +36,7 @@
         "views": "6118"
     },
     "transcripts": "A message I really like in the book is sharing with girls that God has created each and every one of us in a special design and in that design he hopes that we will live for him and love him and I think in that like he wants us to take care of our bodies as well, so that's why we're incorporating health and fitness because he's created us to be confident in him, but sometimes when we make unhealthy lifestyle choices our confidence is just taken out and so just finding that balance of like seeking God, taking care of your body, and just making good decisions as your growing up into a woman.",
-    "metrics_statistics": {
-        "VV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "engagement_score": {
-                "lastUpdatedDate": "2017-05-25"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

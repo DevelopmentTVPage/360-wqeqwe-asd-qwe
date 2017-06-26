@@ -19,8 +19,6 @@
     "id": "66174065",
     "loginId": "753",
     "entityType": "1",
-    "sortOrder": "32",
-    "entityIdParent": "3762188",
     "titleTextEncoded": "GoPro-Nicaraguan-Barrels-with-Timmy-Reyes-GoPro-of-the-World-October-Winner",
     "category": "",
     "duration": 84,
@@ -40,14 +38,7 @@
         "quality": ""
     },
     "transcripts": "The trip was super spontaneous, I had a friend say \"hey man there's this swell going to Nicaragua and it's like pretty good.\" My whole goal was trying to go down there to get that clip from behind the tail and I ended up getting a couple of waves but more close out. I was like alright I'm on to it, just got to get the right one. I was trying to get this shot with the pouring sun with the cliff in the background. I just wanted to get one wave with that tail down. It just took everyday till the very last day. Once I did I ripped off my board and threw it down the beach like yes I did it.",
-    "metrics_statistics": {
-        "VV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "engagement_score": {
-                "lastUpdatedDate": "2017-05-25"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

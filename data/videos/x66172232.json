@@ -19,8 +19,6 @@
     "id": "66172232",
     "loginId": "753",
     "entityType": "1",
-    "sortOrder": "25",
-    "entityIdParent": "168515",
     "titleTextEncoded": "Beats-by-Dre-Sound-Symposium-China-Highlight",
     "category": "",
     "duration": 24,
@@ -40,14 +38,7 @@
         "quality": ""
     },
     "transcripts": "What we're going to do tonight is we're going to talk about sound and how sound is related to emotion. I hope that when people listen to my songs they can feel the same emotions that I felt when I was creating this music. If I can feel the music, then I'm sure  listeners will feel it too. [Music Playing]",
-    "metrics_statistics": {
-        "VV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "engagement_score": {
-                "lastUpdatedDate": "2017-05-25"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

@@ -19,8 +19,6 @@
     "id": "6416659",
     "loginId": "753",
     "entityType": "1",
-    "sortOrder": "28",
-    "entityIdParent": "168533",
     "titleTextEncoded": "VonZipper-Joel-Parkinson-in-the-Decco",
     "category": null,
     "duration": "38",
@@ -39,14 +37,7 @@
         "hookText": "Live the fast life and take a roll of the dice with the Decco on your dome. Born on the highway to cheap thrills, this lil hotrod is built to spill."
     },
     "transcripts": null,
-    "metrics_statistics": {
-        "VV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "engagement_score": {
-                "lastUpdatedDate": "2017-05-25"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

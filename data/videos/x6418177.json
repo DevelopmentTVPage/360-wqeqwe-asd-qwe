@@ -1,0 +1,46 @@
+{
+    "title": "Pancho Sullivan",
+    "description": "",
+    "referenceId": "23692358",
+    "date_created": "1443638093",
+    "date_modified": "1443638093",
+    "tags": "Array,Array,Array",
+    "sourceId": "3",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6418177",
+    "loginId": "753",
+    "entityType": "1",
+    "titleTextEncoded": "Pancho-Sullivan",
+    "category": null,
+    "duration": 163,
+    "settings": {},
+    "asset": {
+        "type": "mp4",
+        "sources": [
+            {
+                "file": "https:\/\/player.vimeo.com\/external\/23692358.hd.mp4?s=764312d306d74c7f0f0b73cae4bbcbeb&profile_id=113&oauth2_token_id=56801069"
+            }
+        ],
+        "hdvFlag": 1,
+        "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/154509773_1280x720.jpg",
+        "mediaDuration": 163,
+        "prettyDuration": "02:43",
+        "uploadDate": 1305304621,
+        "tags": "Array,Array,Array",
+        "hookText": ""
+    },
+    "transcripts": null,
+    "metrics_statistics": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

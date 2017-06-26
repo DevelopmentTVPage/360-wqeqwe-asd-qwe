@@ -1,0 +1,46 @@
+{
+    "title": "DAKINE CJ Hobgood Surfing",
+    "description": "Ceej was a favorite coming into the Billabong Tahiti Pro. Unfortunately he came up short, but his free surfs proved he's still a major threat!",
+    "referenceId": null,
+    "date_created": "1440450035",
+    "date_modified": "1440450035",
+    "tags": "Array,Array,Array,Array",
+    "sourceId": "3",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6380664",
+    "loginId": "753",
+    "entityType": "1",
+    "titleTextEncoded": "DAKINE-CJ-Hobgood-Surfing",
+    "category": null,
+    "duration": 103,
+    "settings": {},
+    "asset": {
+        "type": "mp4",
+        "sources": [
+            {
+                "file": "https:\/\/player.vimeo.com\/external\/29754485.hd.mp4?s=f5498b3fc6a1ee593c8f78e09c9f1880&profile_id=113&oauth2_token_id=56801069"
+            }
+        ],
+        "hdvFlag": 1,
+        "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/199861253_1280x716.jpg",
+        "mediaDuration": 103,
+        "prettyDuration": "01:43",
+        "uploadDate": 1317252440,
+        "tags": "Array,Array,Array,Array",
+        "hookText": "Ceej was a favorite coming into the Billabong Tahiti Pro. Unfortunately he came up short, but his free surfs proved he's still a major threat!"
+    },
+    "transcripts": null,
+    "metrics_statistics": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

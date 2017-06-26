@@ -19,8 +19,6 @@
     "id": "6384741",
     "loginId": "753",
     "entityType": "1",
-    "sortOrder": "106",
-    "entityIdParent": "168523",
     "titleTextEncoded": "Emerica-Wild-in-the-Streets-2013-Austin-Texas",
     "category": null,
     "duration": "122",
@@ -39,14 +37,7 @@
         "hookText": "Emerica Wild in the Streets 2013: Austin, Texas Emerica.com facebook.com\/Emerica twitter.com\/Emerica youtube.com\/Emerica instagram @Emerica."
     },
     "transcripts": null,
-    "metrics_statistics": {
-        "VV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "engagement_score": {
-                "lastUpdatedDate": "2017-05-25"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

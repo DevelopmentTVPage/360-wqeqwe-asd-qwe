@@ -19,8 +19,6 @@
     "id": "6419159",
     "loginId": "753",
     "entityType": "1",
-    "sortOrder": "95",
-    "entityIdParent": "3763996",
     "titleTextEncoded": "ASHBURY-MONTAGE",
     "category": null,
     "duration": "69",
@@ -39,14 +37,7 @@
         "hookText": "Just some random clips of some of our team and friends. In order of appearance: Victor Garibay, Alex Gourdouros, Forrest Edwards, Jake Van Orden, Mike White ..."
     },
     "transcripts": null,
-    "metrics_statistics": {
-        "VV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "engagement_score": {
-                "lastUpdatedDate": "2017-05-25"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

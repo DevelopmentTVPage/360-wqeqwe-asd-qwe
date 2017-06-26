@@ -19,8 +19,6 @@
     "id": "6418713",
     "loginId": "753",
     "entityType": "1",
-    "sortOrder": "149",
-    "entityIdParent": "168514",
     "titleTextEncoded": "Ryan-Dungey-Ricky-Carmichael-Ken-Roczen-Fox-Moving-Forward-MX13-Racewear",
     "category": null,
     "duration": "69",
@@ -39,20 +37,7 @@
         "hookText": "For over 3 decades Fox has been the innovation leader in Motocross Racewear. Fox is relentless in the pursuit of innovation. You can only lead if you're moving ..."
     },
     "transcripts": null,
-    "metrics_statistics": {
-        "VV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "engagement_score": {
-                "lastUpdatedDate": "2017-05-25"
-            }
-        },
-        "CVV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "conversion_score": {
-                "lastUpdatedDate": "2017-05-25"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}},\"CVV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"conversion_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

@@ -1,0 +1,46 @@
+{
+    "title": "Ryan Sheckler Street League 2011 Seattle qualfiers",
+    "description": "Ryan Sheckler Street League 2011 Seattle qualfiers",
+    "referenceId": null,
+    "date_created": "1440443349",
+    "date_modified": "1444762426",
+    "tags": "ryan sheckler,etnies skateboarding,street league,monster energy,street league 2011,red bull",
+    "sourceId": "3",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6379385",
+    "loginId": "753",
+    "entityType": "1",
+    "titleTextEncoded": "Ryan-Sheckler-Street-League-2011-Seattle-qualfiers",
+    "category": null,
+    "duration": 22,
+    "settings": {},
+    "asset": {
+        "type": "mp4",
+        "hdvFlag": 0,
+        "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/155769565_960x720.jpg",
+        "mediaDuration": 22,
+        "prettyDuration": "00:22",
+        "uploadDate": 1305654578,
+        "tags": "ryan sheckler,etnies skateboarding,street league,monster energy,street league 2011,red bull",
+        "hookText": "http:\/\/www.facebook.com\/etnies Ryan Sheckler Street League 2011 Seattle qualfiers",
+        "sources": [
+            {
+                "file": "https:\/\/player.vimeo.com\/external\/23869823.sd.mp4?s=f02b152a8afb35a457f640dbfbb66618&profile_id=112&oauth2_token_id=62432308"
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

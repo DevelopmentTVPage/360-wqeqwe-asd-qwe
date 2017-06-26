@@ -19,8 +19,6 @@
     "id": "66090748",
     "loginId": "753",
     "entityType": "1",
-    "sortOrder": "25",
-    "entityIdParent": "195960",
     "titleTextEncoded": "The-Story-of-Vans-Art-50th-Anniversary-VANS",
     "category": "",
     "duration": 40,
@@ -40,14 +38,7 @@
         "quality": ""
     },
     "transcripts": "Some people see our shoes as a blank canvas. Makes sense. Their canvas. And we sell shoes to people who draw on shoes. So when kids started doodling across the sidewalk and checkerboarding the upper. We follow their lead. Taking art off the wall and putting it on the shoe. One print at a time. Because art takes many forms. Sometimes the forms are Vans. We weren't trying to be a fashion brand. We were trying to make a better deck shoe. And the skaters with down with the punks. And the punks were making music.",
-    "metrics_statistics": {
-        "VV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "engagement_score": {
-                "lastUpdatedDate": "2017-05-25"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

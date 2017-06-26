@@ -19,8 +19,6 @@
     "id": "6383692",
     "loginId": "753",
     "entityType": "1",
-    "sortOrder": "307",
-    "entityIdParent": "168514",
     "titleTextEncoded": "Fox-Amateur-Motocross-presents-Chasing-Dreams",
     "category": null,
     "duration": "273",
@@ -39,14 +37,7 @@
         "hookText": "Check out the 2014 Fox Amateur Motocross team throughout their season on the road.Their hard work and dedication to the sport of Motocross is shown through ..."
     },
     "transcripts": null,
-    "metrics_statistics": {
-        "VV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "engagement_score": {
-                "lastUpdatedDate": "2017-05-25"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

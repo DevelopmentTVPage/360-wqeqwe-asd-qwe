@@ -19,8 +19,6 @@
     "id": "6419529",
     "loginId": "753",
     "entityType": "1",
-    "sortOrder": "240",
-    "entityIdParent": "158318",
     "titleTextEncoded": "2012-PHANTOM-SERIES-MICHAEL-DUNPHY",
     "category": null,
     "duration": "47",
@@ -39,14 +37,7 @@
         "hookText": "Turns, tubes and airs. A little bit of everything from the East Coast standout."
     },
     "transcripts": null,
-    "metrics_statistics": {
-        "VV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "engagement_score": {
-                "lastUpdatedDate": "2017-05-25"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

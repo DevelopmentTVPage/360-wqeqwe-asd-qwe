@@ -19,8 +19,6 @@
     "id": "68288771",
     "loginId": "753",
     "entityType": "1",
-    "sortOrder": "113",
-    "entityIdParent": "3762188",
     "titleTextEncoded": "DOG-STEALS-GOPRO",
     "category": null,
     "duration": 50,
@@ -39,14 +37,7 @@
         "quality": ""
     },
     "transcripts": "Max, come in come on in, come in come on in, ohh haha. Max, haha. Dog panting.",
-    "metrics_statistics": {
-        "VV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "engagement_score": {
-                "lastUpdatedDate": "2017-05-25"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

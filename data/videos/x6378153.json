@@ -19,8 +19,6 @@
     "id": "6378153",
     "loginId": "753",
     "entityType": "1",
-    "sortOrder": "7",
-    "entityIdParent": "3764287",
     "titleTextEncoded": "Commercial-Chris-Cole-Children-Of-Bodom",
     "category": null,
     "duration": "55",
@@ -39,14 +37,7 @@
         "hookText": "Here is the commercial for Chris Cole's colab shoe with Children Of Bodom."
     },
     "transcripts": null,
-    "metrics_statistics": {
-        "VV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "engagement_score": {
-                "lastUpdatedDate": "2017-05-25"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

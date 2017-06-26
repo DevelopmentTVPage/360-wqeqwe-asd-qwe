@@ -1,0 +1,46 @@
+{
+    "title": "Down With Douwe",
+    "description": "Douwe Macare has been on the Dutch etnies team for quiet some years now. Time for his first etnies edit, we're down with Douwe!",
+    "referenceId": null,
+    "date_created": "1440443196",
+    "date_modified": "1444167193",
+    "tags": "etnies,skateboard,douwe macare,alien workshop,RVCA,Monster energy",
+    "sourceId": "3",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6379295",
+    "loginId": "753",
+    "entityType": "1",
+    "titleTextEncoded": "Down-With-Douwe",
+    "category": null,
+    "duration": 257,
+    "settings": {},
+    "asset": {
+        "type": "mp4",
+        "hdvFlag": 1,
+        "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/268155378_1280x709.jpg",
+        "mediaDuration": 257,
+        "prettyDuration": "04:17",
+        "uploadDate": 1332336409,
+        "tags": "etnies,skateboard,douwe macare,alien workshop,RVCA,Monster energy",
+        "hookText": "Douwe Macare has been on the Dutch etnies team for quiet some years now. Time for his first etnies edit, we're down with Douwe!\n\n\nFollow etnies on www.etnies.com and www.facebook.com\/etnies.europe",
+        "sources": [
+            {
+                "file": "https:\/\/player.vimeo.com\/external\/38916798.hd.mp4?s=db5d3239ebab70207bd31f4d2a04e681&profile_id=113&oauth2_token_id=62432308"
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

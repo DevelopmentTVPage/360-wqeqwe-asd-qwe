@@ -1,0 +1,46 @@
+{
+    "title": "The Other Side of Axel",
+    "description": "The first time I saw Axel, he was about 11 years old, skating at a contest in Rotterdam. He was skating the big rail during the best trick contest and I was surprised to see a tiny kid skate with so much control and confidence. Right there and then it was",
+    "referenceId": null,
+    "date_created": "1440443273",
+    "date_modified": "1440443273",
+    "tags": "etnies skateboarding,axel cruysberghs,etnies europe,volcom,red bull,alien workshop,zumiez",
+    "sourceId": "3",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6379336",
+    "loginId": "753",
+    "entityType": "1",
+    "titleTextEncoded": "The-Other-Side-of-Axel",
+    "category": null,
+    "duration": 183,
+    "settings": {},
+    "asset": {
+        "type": "mp4",
+        "sources": [
+            {
+                "file": "https:\/\/player.vimeo.com\/external\/30567868.hd.mp4?s=bda399fd76f087fb6339da37dcf468aa&profile_id=113&oauth2_token_id=62432308"
+            }
+        ],
+        "hdvFlag": 1,
+        "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/205521178_1280x699.jpg",
+        "mediaDuration": 183,
+        "prettyDuration": "03:03",
+        "uploadDate": 1318625487,
+        "tags": "etnies skateboarding,axel cruysberghs,etnies europe,volcom,red bull,alien workshop,zumiez",
+        "hookText": "The first time I saw Axel, he was about 11 years old, skating at a contest in Rotterdam. He was skating the big rail during the best trick contest and I was surprised to see a tiny kid skate with so much control and confidence. Right there and then it was"
+    },
+    "transcripts": null,
+    "metrics_statistics": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

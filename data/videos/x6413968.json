@@ -19,8 +19,6 @@
     "id": "6413968",
     "loginId": "753",
     "entityType": "1",
-    "sortOrder": "266",
-    "entityIdParent": "168514",
     "titleTextEncoded": "FOX-EUROPE-PRESENTS-HAPPY-RIDE-2013",
     "category": null,
     "duration": "240",
@@ -39,14 +37,7 @@
         "hookText": "Fox sponsored La Poma Bike Park in Barcelona and what a great show this year for Happy Ride Weekend. There was an amazing turnout with a great bunch of ..."
     },
     "transcripts": null,
-    "metrics_statistics": {
-        "VV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "engagement_score": {
-                "lastUpdatedDate": "2017-05-25"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

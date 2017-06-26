@@ -19,8 +19,6 @@
     "id": "66176695",
     "loginId": "753",
     "entityType": "1",
-    "sortOrder": "4",
-    "entityIdParent": "66220746",
     "titleTextEncoded": "The-North-Face-The-Power-In-Me-Always-Moving",
     "category": "",
     "duration": 206,
@@ -40,14 +38,7 @@
         "quality": ""
     },
     "transcripts": "\"Do you ever stop running Lizzy?\"\n\"No, It's better to be moving, always moving.\"\n\"Is that what your life's like?\"\n\"Exactly.\"\nI kind of fell into competition, so competition just been a fine line of wanting to run so much. It's just a natural movement, rhythmical natural movement feels good. I've always used running as a way of exploring and while you are healthy and fit, no one can tell you how much is enough. Then when injury come you have to deal with it. Over the last two years I've had six different stress fractures so each time I've had to stop running. It's heal perfectly and you start training again and then the next one has come so uhm yeah it's been a tough, tough time. But lets see what happens. Appeared an injury can actually be rich in itself, it does in a way give you more space to try and ignite that passion in somebody else. So here in Nepal trying to encourage more girls to start running. Watching Mira developing her career is really really special. Seeing her that love of running that always been there for me. Yeah it's just great to see where it will take her to. Something like running can really empower in very valuable ways because life is continually evolving. It doesn't stay still, it's a constant flow, constantly changing but that the challenge to learn to play with it, right.",
-    "metrics_statistics": {
-        "VV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "engagement_score": {
-                "lastUpdatedDate": "2017-05-25"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

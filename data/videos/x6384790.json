@@ -19,8 +19,6 @@
     "id": "6384790",
     "loginId": "753",
     "entityType": "1",
-    "sortOrder": "524",
-    "entityIdParent": "158318",
     "titleTextEncoded": "TOURNOTES-TO-CLAIM-OR-NOT-TO-CLAIM",
     "category": null,
     "duration": "190",
@@ -39,14 +37,7 @@
         "hookText": "With the 2015 WSL Tour kicking off at Snapper Rocks, a few of the Top 34 and others explain the ins and outs of claiming."
     },
     "transcripts": null,
-    "metrics_statistics": {
-        "VV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "engagement_score": {
-                "lastUpdatedDate": "2017-05-25"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

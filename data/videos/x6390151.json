@@ -19,8 +19,6 @@
     "id": "6390151",
     "loginId": "753",
     "entityType": "1",
-    "sortOrder": "80",
-    "entityIdParent": "168523",
     "titleTextEncoded": "Emerica-Catches-up-with-PJ-Claeys",
     "category": null,
     "duration": "170",
@@ -39,14 +37,7 @@
         "hookText": "Emerica EU's Belgian ripper PJ Claeys has a new mini part, filmed and edited by Nick Geboers. Check it out and go skate! Emerica.com Facebook.com\/Emerica."
     },
     "transcripts": null,
-    "metrics_statistics": {
-        "VV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "engagement_score": {
-                "lastUpdatedDate": "2017-05-25"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

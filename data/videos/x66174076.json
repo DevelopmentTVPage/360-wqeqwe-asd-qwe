@@ -19,8 +19,6 @@
     "id": "66174076",
     "loginId": "753",
     "entityType": "1",
-    "sortOrder": "42",
-    "entityIdParent": "3762188",
     "titleTextEncoded": "GoPro-Speedfly-Sheep-Herding-with-Marshall-Miller",
     "category": "",
     "duration": 69,
@@ -40,14 +38,7 @@
         "quality": ""
     },
     "transcripts": "Lace strap, lace strap, chest strap, flying with anybody. Oh, oh my gosh. Come on man. [Music Playing] Yeah! Ah how bout it, that was cool dude. That was so awesome!",
-    "metrics_statistics": {
-        "VV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "engagement_score": {
-                "lastUpdatedDate": "2017-05-25"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

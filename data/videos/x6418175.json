@@ -1,0 +1,48 @@
+{
+    "title": "Geoff Gulevich in Hood River",
+    "description": "Timing your road trips in the spring is everything, especially this year with winter holding on longer than most of us out west were bargaining for. Geoff Gulevich, Ross Measures and Harookz snuck down to Oregon for a quick strike of sunshine, a visit to ",
+    "referenceId": "24542883",
+    "date_created": "1443638092",
+    "date_modified": "1443638092",
+    "tags": "Array,Array,Array,Array,Array,Array,Array,Array,Array,Array,Array",
+    "sourceId": "3",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6418175",
+    "loginId": "753",
+    "entityType": "1",
+    "titleTextEncoded": "Geoff-Gulevich-in-Hood-River",
+    "category": null,
+    "duration": 214,
+    "settings": [],
+    "asset": {
+        "type": "mp4",
+        "sources": [
+            {
+                "file": "https:\/\/player.vimeo.com\/external\/24542883.hd.mp4?s=8b0b240e3e43cc0c5bebba6120cdc5d2&profile_id=113&oauth2_token_id=56801069"
+            }
+        ],
+        "hdvFlag": 1,
+        "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/160905428_1280x720.jpg",
+        "mediaDuration": 214,
+        "prettyDuration": "03:34",
+        "uploadDate": 1306972467,
+        "tags": "Array,Array,Array,Array,Array,Array,Array,Array,Array,Array,Array",
+        "hookText": "Timing your road trips in the spring is everything, especially this year with winter holding on longer than most of us out west were bargaining for. Geoff Gulevich, Ross Measures and Harookz snuck down to Oregon for a quick strike of sunshine, a visit to "
+    },
+    "transcripts": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "25"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

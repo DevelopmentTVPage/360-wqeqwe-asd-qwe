@@ -1,0 +1,46 @@
+{
+    "title": "Rob Machado",
+    "description": "Thanks to Rook Productions Media for the filming\/production.",
+    "referenceId": null,
+    "date_created": "1440450064",
+    "date_modified": "1440450064",
+    "tags": "Array,Array,Array,Array",
+    "sourceId": "3",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6380682",
+    "loginId": "753",
+    "entityType": "1",
+    "titleTextEncoded": "Rob-Machado",
+    "category": null,
+    "duration": 113,
+    "settings": {},
+    "asset": {
+        "type": "mp4",
+        "sources": [
+            {
+                "file": "https:\/\/player.vimeo.com\/external\/27020488.hd.mp4?s=8b01b6d07eba0c519567ec4c9a6589c2&profile_id=113&oauth2_token_id=56801069"
+            }
+        ],
+        "hdvFlag": 1,
+        "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/187037628_1280x720.jpg",
+        "mediaDuration": 113,
+        "prettyDuration": "01:53",
+        "uploadDate": 1311879791,
+        "tags": "Array,Array,Array,Array",
+        "hookText": "Thanks to Rook Productions Media for the filming\/production."
+    },
+    "transcripts": null,
+    "metrics_statistics": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

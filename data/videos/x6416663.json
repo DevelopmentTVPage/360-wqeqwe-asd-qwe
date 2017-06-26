@@ -19,8 +19,6 @@
     "id": "6416663",
     "loginId": "753",
     "entityType": "1",
-    "sortOrder": "24",
-    "entityIdParent": "168533",
     "titleTextEncoded": "VonZipper-Ether-Collection",
     "category": null,
     "duration": "36",
@@ -39,14 +37,7 @@
         "hookText": "The ether collection by VonZipper is a full frontal assault on frames being technical without losing design creativity and edge. Here's where the rubber hits the road. If you wanna rip, have lots of grip, with no slip, our RGNS system features rubber nose"
     },
     "transcripts": null,
-    "metrics_statistics": {
-        "VV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "engagement_score": {
-                "lastUpdatedDate": "2017-05-25"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

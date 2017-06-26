@@ -1,0 +1,54 @@
+{
+    "title": "full_tilt_dream.mp4",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1406365087",
+    "date_modified": "1418182168",
+    "tags": "",
+    "sourceId": "1",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "3782911",
+    "loginId": "753",
+    "entityType": "1",
+    "titleTextEncoded": "full-tilt-dream-mp4",
+    "category": null,
+    "duration": "60",
+    "settings": [],
+    "asset": {
+        "type": "mp4",
+        "sources": [
+            {
+                "file": "https:\/\/d2mhchrq41duh4.cloudfront.net\/753\/3782911\/6e704c77_0662_4f83_a65e_d36bf2e1e092.mp4"
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/3782911\/720p_6e704c77_0662_4f83_a65e_d36bf2e1e092.mp4",
+                "quality": "720p"
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/3782911\/480p_6e704c77_0662_4f83_a65e_d36bf2e1e092.mp4",
+                "quality": "480p"
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/3782911\/360p_6e704c77_0662_4f83_a65e_d36bf2e1e092.mp4",
+                "quality": "360p"
+            }
+        ],
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/assets\/thumb\/mp4default.jpg",
+        "mediaDuration": "60",
+        "prettyDuration": "00:01:00"
+    },
+    "transcripts": null,
+    "metrics_statistics": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

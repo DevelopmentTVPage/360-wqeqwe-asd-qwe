@@ -19,8 +19,6 @@
     "id": "6414560",
     "loginId": "753",
     "entityType": "1",
-    "sortOrder": "227",
-    "entityIdParent": "168514",
     "titleTextEncoded": "Fox-Footwear-Presents-The-Motion-Varial",
     "category": null,
     "duration": "51",
@@ -39,14 +37,7 @@
         "hookText": "The Motion Varial fuses athletic footwear technology, construction, and comfort with the best in casual footwear styling. This is lifestyle reimagined. \u2022 Modern ..."
     },
     "transcripts": null,
-    "metrics_statistics": {
-        "VV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "engagement_score": {
-                "lastUpdatedDate": "2017-05-25"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

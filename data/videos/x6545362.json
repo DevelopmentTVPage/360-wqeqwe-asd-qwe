@@ -19,8 +19,6 @@
     "id": "6545362",
     "loginId": "753",
     "entityType": "1",
-    "sortOrder": "109",
-    "entityIdParent": "158318",
     "titleTextEncoded": "MAKING-OF-AWESOME",
     "category": null,
     "duration": "44",
@@ -41,14 +39,7 @@
         "views": "2721"
     },
     "transcripts": null,
-    "metrics_statistics": {
-        "VV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "engagement_score": {
-                "lastUpdatedDate": "2017-05-25"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
     "tvp_profiles": [
         "15"
     ],

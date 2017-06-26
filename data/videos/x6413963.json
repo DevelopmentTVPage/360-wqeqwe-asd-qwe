@@ -19,8 +19,6 @@
     "id": "6413963",
     "loginId": "753",
     "entityType": "1",
-    "sortOrder": "271",
-    "entityIdParent": "168514",
     "titleTextEncoded": "Fox-Surf-Presents-Ian-Talks-The-Eddie-2014",
     "category": null,
     "duration": "78",
@@ -39,14 +37,7 @@
         "hookText": "Foxsurf's Ian Walsh shares his views on being involved in the 2014 Eddie Aikua competition at Waimea. Look for updates throughout the winter for the ..."
     },
     "transcripts": null,
-    "metrics_statistics": {
-        "VV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "engagement_score": {
-                "lastUpdatedDate": "2017-05-25"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

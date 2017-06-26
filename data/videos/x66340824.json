@@ -19,8 +19,6 @@
     "id": "66340824",
     "loginId": "753",
     "entityType": "1",
-    "sortOrder": "39",
-    "entityIdParent": "168546",
     "titleTextEncoded": "First-Wave-Mick-Fanning-Returns-to-J-BAY-South-Africa",
     "category": "",
     "duration": 54,
@@ -40,14 +38,7 @@
         "quality": ""
     },
     "transcripts": "Obviously J-Bay is a real special place for me and uh even if I didn't come back and do the event I was always gonna come back and surf and uh. Yeah I had so many great memories here so I just wanted to uh yeah get back here and surf. This morning you know wasn't too many waves so I just went and had a little look and, yeah I don't know it's a little bit of anxiety sort of came up and uh few different emotions but uhm once I got the wetsuit on and got the board ready and padded out it was pretty much fun you know. Once you catch that first wave and you realize  that it was just a one off incident, hopefully. Then, they just get on with it and just go surfing.",
-    "metrics_statistics": {
-        "VV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "engagement_score": {
-                "lastUpdatedDate": "2017-05-25"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

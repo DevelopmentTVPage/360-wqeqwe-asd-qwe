@@ -1,0 +1,46 @@
+{
+    "title": "Mark Abma Shred Flick",
+    "description": "Mark Abma has always been one of the best skiers on the planet in the park, pipe, backcountry, or in Alaska. Check out another great segment from a great skier!",
+    "referenceId": null,
+    "date_created": "1440450128",
+    "date_modified": "1440450128",
+    "tags": "",
+    "sourceId": "3",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6380724",
+    "loginId": "753",
+    "entityType": "1",
+    "titleTextEncoded": "Mark-Abma-Shred-Flick",
+    "category": null,
+    "duration": 98,
+    "settings": {},
+    "asset": {
+        "type": "mp4",
+        "sources": [
+            {
+                "file": "https:\/\/player.vimeo.com\/external\/19412912.hd.mp4?s=5ab83b2565493378004632fed952f9f0&profile_id=113&oauth2_token_id=56801069"
+            }
+        ],
+        "hdvFlag": 1,
+        "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/142164864_1280x720.jpg",
+        "mediaDuration": 98,
+        "prettyDuration": "01:38",
+        "uploadDate": 1296517775,
+        "tags": "",
+        "hookText": "Mark Abma has always been one of the best skiers on the planet in the park, pipe, backcountry, or in Alaska. Check out another great segment from a great skier!"
+    },
+    "transcripts": null,
+    "metrics_statistics": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

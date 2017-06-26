@@ -19,8 +19,6 @@
     "id": "66174183",
     "loginId": "753",
     "entityType": "1",
-    "sortOrder": "40",
-    "entityIdParent": "3762188",
     "titleTextEncoded": "GoPro-Epic-Party-Line-with-MAJER-Crew-SkateboardingIsFun-powered-by-The-Berrics-September-Winner",
     "category": "",
     "duration": 139,
@@ -40,14 +38,7 @@
         "quality": ""
     },
     "transcripts": "Woah, every time you land a clip you know you get excited, but when you land a group clip there's more hype to it. Doing lines is something we've always done for fun, we've never done one this big before so we knew it would be a challenge and that's why this project took about 4 days to get done. Awe man! Awe man, that's the first one you've ever missed. When someone would fall it was kind of discouraging. You wished they would get it, but at the same time you couldn't show that discouragement you had to be supportive. You alright? Oh uh, you good or not? After each line we'd always just hype each other up and just be like alright next one, this is it, the next one right here. Oh! We only made it to the last person 6, 7 times out of 200, 300 times we tried it. We got it! [Cheering!] [Music Playing]",
-    "metrics_statistics": {
-        "VV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "engagement_score": {
-                "lastUpdatedDate": "2017-05-25"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

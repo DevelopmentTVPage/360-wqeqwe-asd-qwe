@@ -19,8 +19,6 @@
     "id": "6377773",
     "loginId": "753",
     "entityType": "1",
-    "sortOrder": "29",
-    "entityIdParent": "3764400",
     "titleTextEncoded": "Christian-Hosoi-Penny-Skateboards-go-to-Carlsbad-CA",
     "category": null,
     "duration": "109",
@@ -39,14 +37,7 @@
         "hookText": "Find out more about the Penny x Christian Hosoi collaboration at http:\/\/www.pennyskateboards.com\/blog\/hosoi-signing-in-carlsbad\/\n\nWe loaded up the Penny truck with Penny 22\u201d and 27\u201d skateboards, shirts, hats and other prizes and made our way through the h"
     },
     "transcripts": null,
-    "metrics_statistics": {
-        "VV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "engagement_score": {
-                "lastUpdatedDate": "2017-05-25"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

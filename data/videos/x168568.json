@@ -19,8 +19,6 @@
     "id": "168568",
     "loginId": "753",
     "entityType": "1",
-    "sortOrder": "155",
-    "entityIdParent": "168557",
     "titleTextEncoded": "Kelly-Slater-Perfect-Ten-Volcom-Pipe-Pro-2014",
     "category": null,
     "duration": 86,
@@ -37,14 +35,7 @@
         "prettyDuration": "01:26"
     },
     "transcripts": null,
-    "metrics_statistics": {
-        "VV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "engagement_score": {
-                "lastUpdatedDate": "2017-05-25"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
     "tvp_profiles": [
         "33"
     ],

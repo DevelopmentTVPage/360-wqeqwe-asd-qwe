@@ -19,8 +19,6 @@
     "id": "6416702",
     "loginId": "753",
     "entityType": "1",
-    "sortOrder": "5",
-    "entityIdParent": "168533",
     "titleTextEncoded": "VonZipper-Smokeout",
     "category": null,
     "duration": "30",
@@ -39,14 +37,7 @@
         "hookText": "When its time to blow your hair back and let your freak flag fly, put a pair of funny sunnies from the VonZipper Smoke Out Collection in your pipe and pass it around. Keep it casual, dab on some patchouli and smoke em' if you got em', in the Smoke Out."
     },
     "transcripts": null,
-    "metrics_statistics": {
-        "VV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "engagement_score": {
-                "lastUpdatedDate": "2017-05-25"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

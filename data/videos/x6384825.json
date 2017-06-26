@@ -19,8 +19,6 @@
     "id": "6384825",
     "loginId": "753",
     "entityType": "1",
-    "sortOrder": "545",
-    "entityIdParent": "168524",
     "titleTextEncoded": "Converse-Rubber-Tracks-Live-Boston",
     "category": null,
     "duration": "35",
@@ -39,14 +37,7 @@
         "hookText": "www.converse-music.com\/ For five nights, Converse Rubber Tracks Live is taking over The Sinclair in Cambridge, Massachusetts. Each night, local Boston ..."
     },
     "transcripts": null,
-    "metrics_statistics": {
-        "VV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "engagement_score": {
-                "lastUpdatedDate": "2017-05-25"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

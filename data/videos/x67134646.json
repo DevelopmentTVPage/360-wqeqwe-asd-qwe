@@ -19,8 +19,6 @@
     "id": "67134646",
     "loginId": "753",
     "entityType": "1",
-    "sortOrder": "112",
-    "entityIdParent": "168510",
     "titleTextEncoded": "Yohan-Blake-Speed-Takes-Transformation-adidas",
     "category": "",
     "duration": 53,
@@ -40,14 +38,7 @@
         "quality": ""
     },
     "transcripts": "Hey, ah! Four years ago I was young, I was naive, and I was scared, and as my first big race you know every day the stadium was full. When it came to the final it was really good, came second with what I wanted to do I didn't get to do it because it was nervous, I'm inexperienced, and I'm too young to be more confident, believe in yourself more. On the track you get all pumped up, the blood starts flowing, the adrenaline, most of them get bigger you know I'm fully in race mode I'm ready to kill anybody not, not  literally today's the day, lets race.",
-    "metrics_statistics": {
-        "VV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "engagement_score": {
-                "lastUpdatedDate": "2017-05-25"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

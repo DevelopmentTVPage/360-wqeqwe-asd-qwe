@@ -1,0 +1,46 @@
+{
+    "title": "Chris Grenier for ThirtyTwo",
+    "description": "www.ThirtyTwo.com\nwww.etnies.com\n\nChris Grenier",
+    "referenceId": null,
+    "date_created": "1440443452",
+    "date_modified": "1440443452",
+    "tags": "Chris Grenier,Day in the Life,etnies,32,thirtytwo",
+    "sourceId": "3",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6379441",
+    "loginId": "753",
+    "entityType": "1",
+    "titleTextEncoded": "Chris-Grenier-for-ThirtyTwo",
+    "category": null,
+    "duration": 15,
+    "settings": {},
+    "asset": {
+        "type": "mp4",
+        "sources": [
+            {
+                "file": "https:\/\/player.vimeo.com\/external\/17584110.hd.mp4?s=4b1a46c95edd88f6aa12779e62b5437d&profile_id=113&oauth2_token_id=62432308"
+            }
+        ],
+        "hdvFlag": 1,
+        "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/109480876_1280x720.jpg",
+        "mediaDuration": 15,
+        "prettyDuration": "00:15",
+        "uploadDate": 1291771909,
+        "tags": "Chris Grenier,Day in the Life,etnies,32,thirtytwo",
+        "hookText": "www.ThirtyTwo.com\nwww.etnies.com\n\nChris Grenier"
+    },
+    "transcripts": null,
+    "metrics_statistics": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

@@ -19,8 +19,6 @@
     "id": "6386444",
     "loginId": "753",
     "entityType": "1",
-    "sortOrder": "288",
-    "entityIdParent": "168514",
     "titleTextEncoded": "Fox-Surf-Presents-Caroline-Marks-Makes-history-2014-Surfing-America-USA-Championships",
     "category": null,
     "duration": "150",
@@ -39,14 +37,7 @@
         "hookText": "Fox Surf's Caroline Marks made history at the 2014 Surfing America USA Championships at Lower Trestles in Southern California. Caroline also won the Open ..."
     },
     "transcripts": null,
-    "metrics_statistics": {
-        "VV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "engagement_score": {
-                "lastUpdatedDate": "2017-05-25"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

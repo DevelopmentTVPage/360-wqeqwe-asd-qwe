@@ -19,8 +19,6 @@
     "id": "6419433",
     "loginId": "753",
     "entityType": "1",
-    "sortOrder": "270",
-    "entityIdParent": "168524",
     "titleTextEncoded": "Wiz-Khalifa-Collection-By-Converse-Preview",
     "category": null,
     "duration": "33",
@@ -39,14 +37,7 @@
         "hookText": "Wiz Khalifa Collection By Converse coming August 23rd to Foot Locker. Check out Wiz's Under The Influence of Music Tour starting July 17th. http:\/\/www.wizkha."
     },
     "transcripts": null,
-    "metrics_statistics": {
-        "VV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "engagement_score": {
-                "lastUpdatedDate": "2017-05-25"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

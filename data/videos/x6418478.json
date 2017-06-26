@@ -19,8 +19,6 @@
     "id": "6418478",
     "loginId": "753",
     "entityType": "1",
-    "sortOrder": "164",
-    "entityIdParent": "168514",
     "titleTextEncoded": "Fox-Wake-Nor-Cal-Crue-Trailer-3-featuring-Derek-Cook",
     "category": null,
     "duration": "57",
@@ -39,14 +37,7 @@
         "hookText": "Nor Cal Fox wake team members hit the water. Music By: Automatic Static \"Bow Down\" (instrumental) The Murder Of California ..."
     },
     "transcripts": null,
-    "metrics_statistics": {
-        "VV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "engagement_score": {
-                "lastUpdatedDate": "2017-05-25"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

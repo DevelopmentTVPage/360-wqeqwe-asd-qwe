@@ -19,8 +19,6 @@
     "id": "66090747",
     "loginId": "753",
     "entityType": "1",
-    "sortOrder": "26",
-    "entityIdParent": "195960",
     "titleTextEncoded": "The-Story-of-Vans-Music-50th-Anniversary-VANS",
     "category": "",
     "duration": 42,
@@ -40,14 +38,7 @@
         "quality": ""
     },
     "transcripts": "We were rolling with the skaters, and the skaters were down with the punks, and the punks were making music. And the next thing you know, we were going to skate punk shows. Hardcore shows. Metal shows. Whatever shows. Then we started putting on our own shows, bringing the underground to the main stage, uniting a nation of millions under a checkerboard flag. These shoes were inspired by surfing, adopted by skating, and embraced by everything. So when kids started doodling across the sidewall and checkerboarding the upper, we follow their lead.",
-    "metrics_statistics": {
-        "VV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "engagement_score": {
-                "lastUpdatedDate": "2017-05-25"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

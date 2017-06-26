@@ -19,8 +19,6 @@
     "id": "67602822",
     "loginId": "753",
     "entityType": "1",
-    "sortOrder": "41",
-    "entityIdParent": "168556",
     "titleTextEncoded": "G-SHOCK-X-Respect-Street-Style",
     "category": "",
     "duration": 111,
@@ -40,14 +38,7 @@
         "quality": ""
     },
     "transcripts": "I don't look at BMX riding as a job you know, I wake up and do what I love, I get to express myself in so many different ways. I get to connect with amazing people, travel to incredible cities and experience through this bicycle. This city is made up of so many different things and that's the reason why it's so special. Why it has the energy that it has, why it's so contagious, I've been able to put that into my style like on my bikes and of my bicycle. Bicycle culture was always something  that I was very dominate in the hood you know, where having a dope bike was something to be proud about you know. Seeing all my older cousins and older brothers always having cool bikes and what not it was something I had to have. So while, when I was old enough to actually get a dope bike it was all I really thought about, and BMX became something I fell in love with. I feel like what I stand for and what a brand like G-shock stands for they strive to make a good product  that is durable, that puts into people's lifestyles seamlessly, and I, I thought for the same thing man, like I try to create things that can stand the test of time. I feel I ride them bikes until the wheels fall off, you know. I feel even if I'm not good in professional in 15-20 years I'll still be on a bicycle that feeling that the bike gives me is second to none. It's allowed me to truly live out of my imagination and I want to continue to do that for as long as I possibly can.",
-    "metrics_statistics": {
-        "VV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "engagement_score": {
-                "lastUpdatedDate": "2017-05-25"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

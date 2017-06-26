@@ -19,8 +19,6 @@
     "id": "6414568",
     "loginId": "753",
     "entityType": "1",
-    "sortOrder": "479",
-    "entityIdParent": "168524",
     "titleTextEncoded": "Converse-Cons-congratulates-Ben-Raemers-on-turning-Pro",
     "category": null,
     "duration": "153",
@@ -39,14 +37,7 @@
         "hookText": "Converse CONS congratulates Ben Raemers on joining the ranks of professional skateboarding. In celebration, Ben gave us a look into his life and took us arou."
     },
     "transcripts": null,
-    "metrics_statistics": {
-        "VV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "engagement_score": {
-                "lastUpdatedDate": "2017-05-25"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

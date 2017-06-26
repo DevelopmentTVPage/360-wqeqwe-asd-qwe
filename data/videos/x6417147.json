@@ -19,8 +19,6 @@
     "id": "6417147",
     "loginId": "753",
     "entityType": "1",
-    "sortOrder": "423",
-    "entityIdParent": "168524",
     "titleTextEncoded": "Converse-Wall-to-Wall-Vexta-in-Brooklyn-NY",
     "category": null,
     "duration": "88",
@@ -39,14 +37,7 @@
         "hookText": "An Australian \u00e9migr\u00e9 to Brooklyn -- artist Vexta has showcased her talents the world over. For the newest Wall to Wall she picked a vertical wall in Williams..."
     },
     "transcripts": null,
-    "metrics_statistics": {
-        "VV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "engagement_score": {
-                "lastUpdatedDate": "2017-05-25"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

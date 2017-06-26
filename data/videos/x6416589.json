@@ -19,8 +19,6 @@
     "id": "6416589",
     "loginId": "753",
     "entityType": "1",
-    "sortOrder": "61",
-    "entityIdParent": "168533",
     "titleTextEncoded": "VonZipper-Support-Wildlife-Tour-Trailer-3",
     "category": null,
     "duration": "105",
@@ -39,14 +37,7 @@
         "hookText": "The Support Wildlife Tour hopped in the van and put the rubber to the road again. In this edit, Matt Edgers, Gray Thompson and Matt Wainhouse headed north to Big Sky Country and scored more than powder lines.. Season edit coming soon."
     },
     "transcripts": null,
-    "metrics_statistics": {
-        "VV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "engagement_score": {
-                "lastUpdatedDate": "2017-05-25"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

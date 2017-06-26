@@ -19,8 +19,6 @@
     "id": "6419775",
     "loginId": "753",
     "entityType": "1",
-    "sortOrder": "183",
-    "entityIdParent": "168524",
     "titleTextEncoded": "Converse-Rubber-Tracks-Track-of-the-Week-Sid-Sriram-records-Anymore",
     "category": null,
     "duration": "159",
@@ -39,14 +37,7 @@
         "hookText": "This \"Track of the Week\" features the single \"Anymore\" recorded at Converse Rubber Tracks by Sid Sriram. Watch as Sid sets up in the Converse Rubber Tracks ..."
     },
     "transcripts": null,
-    "metrics_statistics": {
-        "VV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "engagement_score": {
-                "lastUpdatedDate": "2017-05-25"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

@@ -1,0 +1,46 @@
+{
+    "title": "Marc Ramseier kitesurfing waves in Indonesia",
+    "description": "See an Episode of Marc Ramseier about life in Indonesia. Take an insight look into the action from a variety of angles on and off the water. See what a kite can pull you into.",
+    "referenceId": null,
+    "date_created": "1440450064",
+    "date_modified": "1450138096",
+    "tags": "Array,Array,Array,Array",
+    "sourceId": "3",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6380677",
+    "loginId": "753",
+    "entityType": "1",
+    "titleTextEncoded": "Marc-Ramseier-kitesurfing-waves-in-Indonesia",
+    "category": null,
+    "duration": 349,
+    "settings": {},
+    "asset": {
+        "type": "mp4",
+        "hdvFlag": 1,
+        "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/186535289_1280x720.jpg",
+        "mediaDuration": 349,
+        "prettyDuration": "05:49",
+        "uploadDate": 1314034523,
+        "tags": "Array,Array,Array,Array",
+        "hookText": "See an Episode of Marc Ramseier about life in Indonesia. Take an insight look into the action from a variety of angles on and off the water. See what a kite can pull you into.",
+        "sources": [
+            {
+                "file": "https:\/\/player.vimeo.com\/external\/28019151.hd.mp4?s=a96af5d7cf0ad4b4d97aab66fc2fe479&profile_id=113&oauth2_token_id=56801069"
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

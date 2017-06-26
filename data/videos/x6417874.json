@@ -19,8 +19,6 @@
     "id": "6417874",
     "loginId": "753",
     "entityType": "1",
-    "sortOrder": "199",
-    "entityIdParent": "168514",
     "titleTextEncoded": "Fox-Wake-Presents-Sunset-Sessions-Part-2-Ibiza-Spain",
     "category": null,
     "duration": "160",
@@ -39,14 +37,7 @@
         "hookText": "Fox presents Sunset Sessions. Our global wake team travel to Europe for a 4 stop wake tour. Follow the team trough stops in FISE (Montpelier), Ibiza, Barcelona ..."
     },
     "transcripts": null,
-    "metrics_statistics": {
-        "VV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "engagement_score": {
-                "lastUpdatedDate": "2017-05-25"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

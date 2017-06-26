@@ -19,8 +19,6 @@
     "id": "160185",
     "loginId": "753",
     "entityType": "1",
-    "sortOrder": "78",
-    "entityIdParent": "168557",
     "titleTextEncoded": "Stop-2-Volcom-Stone-s-Peanut-Butter-And-Rail-Jam-at-Boreal-Mountain-2013",
     "category": null,
     "duration": "250",
@@ -36,14 +34,7 @@
         "prettyDuration": "00:04:10"
     },
     "transcripts": null,
-    "metrics_statistics": {
-        "VV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "engagement_score": {
-                "lastUpdatedDate": "2017-05-25"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

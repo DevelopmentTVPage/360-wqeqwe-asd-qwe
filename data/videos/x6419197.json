@@ -19,8 +19,6 @@
     "id": "6419197",
     "loginId": "753",
     "entityType": "1",
-    "sortOrder": "71",
-    "entityIdParent": "3763996",
     "titleTextEncoded": "ASHBURY-WELCOMES-JOSH-MURPHY",
     "category": null,
     "duration": "73",
@@ -39,14 +37,7 @@
         "hookText": "Shot by: David Chang, Debow Flynn, Cory Miller, and Ryan Lovell. Edited by: Ransacker."
     },
     "transcripts": null,
-    "metrics_statistics": {
-        "VV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "engagement_score": {
-                "lastUpdatedDate": "2017-05-25"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

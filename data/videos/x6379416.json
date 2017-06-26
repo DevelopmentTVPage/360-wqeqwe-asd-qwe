@@ -1,0 +1,46 @@
+{
+    "title": "Eric Geiselman on Four Wheels!",
+    "description": "Eric Geiselman on four wheels!",
+    "referenceId": null,
+    "date_created": "1440443402",
+    "date_modified": "1444174826",
+    "tags": "etnies surf,eric geiselman,EG,etnies skate",
+    "sourceId": "3",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6379416",
+    "loginId": "753",
+    "entityType": "1",
+    "titleTextEncoded": "Eric-Geiselman-on-Four-Wheels",
+    "category": null,
+    "duration": 169,
+    "settings": {},
+    "asset": {
+        "type": "mp4",
+        "hdvFlag": 0,
+        "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/129980896_960x536.jpg",
+        "mediaDuration": 169,
+        "prettyDuration": "02:49",
+        "uploadDate": 1298602060,
+        "tags": "etnies surf,eric geiselman,EG,etnies skate",
+        "hookText": "http:\/\/www.facebook.com\/etnies Eric Geiselman on four wheels!",
+        "sources": [
+            {
+                "file": "https:\/\/player.vimeo.com\/external\/20355240.sd.mp4?s=5d659bb87057b277e67ce641ed499d04&profile_id=112&oauth2_token_id=62432308"
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

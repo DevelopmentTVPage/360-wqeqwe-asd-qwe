@@ -1,0 +1,46 @@
+{
+    "title": "Yannick Granieri",
+    "description": "Yannick Granieri riding a secret spot in France.",
+    "referenceId": null,
+    "date_created": "1440450128",
+    "date_modified": "1440450128",
+    "tags": "Array,Array,Array,Array,Array",
+    "sourceId": "3",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6380729",
+    "loginId": "753",
+    "entityType": "1",
+    "titleTextEncoded": "Yannick-Granieri",
+    "category": null,
+    "duration": 159,
+    "settings": {},
+    "asset": {
+        "type": "mp4",
+        "sources": [
+            {
+                "file": "https:\/\/player.vimeo.com\/external\/17785617.hd.mp4?s=6a15cc164947ca80903ef3663623ddfd&profile_id=113&oauth2_token_id=56801069"
+            }
+        ],
+        "hdvFlag": 1,
+        "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/111034259_1280x720.jpg",
+        "mediaDuration": 159,
+        "prettyDuration": "02:39",
+        "uploadDate": 1292286911,
+        "tags": "Array,Array,Array,Array,Array",
+        "hookText": "Yannick Granieri riding a secret spot in France."
+    },
+    "transcripts": null,
+    "metrics_statistics": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

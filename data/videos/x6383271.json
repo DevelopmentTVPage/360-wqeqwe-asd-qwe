@@ -19,8 +19,6 @@
     "id": "6383271",
     "loginId": "753",
     "entityType": "1",
-    "sortOrder": "13",
-    "entityIdParent": "168553",
     "titleTextEncoded": "Arnette-O-Marisqui\u00f1o-XIV",
     "category": null,
     "duration": "98",
@@ -39,14 +37,7 @@
         "hookText": "Disfruta de toda la pasada edici\u00f3n del Arnette O'Marisqui\u00f1o condensada en apenas 90 segundos. Un resumen de todo el Skate, BMX, Dirt Jump, Down Hill y ..."
     },
     "transcripts": null,
-    "metrics_statistics": {
-        "VV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "engagement_score": {
-                "lastUpdatedDate": "2017-05-25"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

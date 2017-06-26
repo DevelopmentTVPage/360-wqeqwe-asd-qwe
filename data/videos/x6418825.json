@@ -19,8 +19,6 @@
     "id": "6418825",
     "loginId": "753",
     "entityType": "1",
-    "sortOrder": "326",
-    "entityIdParent": "158318",
     "titleTextEncoded": "PARKWAY-DRIVE-GUITAR-GIVEAWAY",
     "category": null,
     "duration": "52",
@@ -39,14 +37,7 @@
         "hookText": "Make an epic cover of Parkway Drive's song \"Carrion\" for your chance to get a guitar or a prize pack from Hurley. Upload your clips to YouTube and send links to ..."
     },
     "transcripts": null,
-    "metrics_statistics": {
-        "VV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "engagement_score": {
-                "lastUpdatedDate": "2017-05-25"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
     "tvp_profiles": [
         "3"
     ],

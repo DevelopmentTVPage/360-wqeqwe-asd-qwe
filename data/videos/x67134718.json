@@ -19,8 +19,6 @@
     "id": "67134718",
     "loginId": "753",
     "entityType": "1",
-    "sortOrder": "103",
-    "entityIdParent": "168538",
     "titleTextEncoded": "LiveOutside2016-Rio-de-Janeiro-Episode-3",
     "category": "",
     "duration": 88,
@@ -40,14 +38,7 @@
         "quality": ""
     },
     "transcripts": "yeah sitting give me everything that I need that I need to give back something to the city so selects change this is the way that I like to make my relationship my dialogue with the city I know Nina for something years at five years I don't know no but I never met body so - first time India's it's our first time drawing together it's a big challenge to work to get about it was removed the layout swag why not ok yeah",
-    "metrics_statistics": {
-        "VV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "engagement_score": {
-                "lastUpdatedDate": "2017-05-25"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

@@ -1,0 +1,46 @@
+{
+    "title": "etnies Welcomes Luc LeGrand to the European Team",
+    "description": "http:\/\/www.facebook.com\/etnies",
+    "referenceId": null,
+    "date_created": "1440443361",
+    "date_modified": "1440443361",
+    "tags": "etnies,Luc LeGrand,etnies BMX",
+    "sourceId": "3",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6379394",
+    "loginId": "753",
+    "entityType": "1",
+    "titleTextEncoded": "etnies-Welcomes-Luc-LeGrand-to-the-European-Team",
+    "category": null,
+    "duration": 184,
+    "settings": {},
+    "asset": {
+        "type": "mp4",
+        "sources": [
+            {
+                "file": "https:\/\/player.vimeo.com\/external\/22913789.hd.mp4?s=5fa768ca65fa62f88d7a154938f44212&profile_id=113&oauth2_token_id=62432308"
+            }
+        ],
+        "hdvFlag": 1,
+        "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/148784161_1280x720.jpg",
+        "mediaDuration": 184,
+        "prettyDuration": "03:04",
+        "uploadDate": 1303853213,
+        "tags": "etnies,Luc LeGrand,etnies BMX",
+        "hookText": "http:\/\/www.facebook.com\/etnies"
+    },
+    "transcripts": null,
+    "metrics_statistics": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

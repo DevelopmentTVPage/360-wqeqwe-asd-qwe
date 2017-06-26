@@ -1,0 +1,46 @@
+{
+    "title": "etnies Presents: Pura Vida, Part 1. Buy A Shoe, Plant A Tree",
+    "description": "http:\/\/www.facebook.com\/etnies",
+    "referenceId": null,
+    "date_created": "1440443386",
+    "date_modified": "1440443386",
+    "tags": "etnies Rainforest,Buy A Shoe Plant A Tree,Ryan Sheckler,CJ Kanuha,Kyle Leeper,Benji Weatherly,La Reserva,Costa Rica,skateboarding,Chirs Del Moro",
+    "sourceId": "3",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6379398",
+    "loginId": "753",
+    "entityType": "1",
+    "titleTextEncoded": "etnies-Presents-Pura-Vida-Part-1-Buy-A-Shoe-Plant-A-Tree",
+    "category": null,
+    "duration": 340,
+    "settings": {},
+    "asset": {
+        "type": "mp4",
+        "sources": [
+            {
+                "file": "https:\/\/player.vimeo.com\/external\/22760240.hd.mp4?s=34eb19809eb2392036d527f77dccd7fb&profile_id=113&oauth2_token_id=62432308"
+            }
+        ],
+        "hdvFlag": 1,
+        "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/252961731_1280x720.jpg",
+        "mediaDuration": 340,
+        "prettyDuration": "05:40",
+        "uploadDate": 1303510142,
+        "tags": "etnies Rainforest,Buy A Shoe Plant A Tree,Ryan Sheckler,CJ Kanuha,Kyle Leeper,Benji Weatherly,La Reserva,Costa Rica,skateboarding,Chirs Del Moro",
+        "hookText": "http:\/\/www.facebook.com\/etnies"
+    },
+    "transcripts": null,
+    "metrics_statistics": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

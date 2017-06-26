@@ -19,8 +19,6 @@
     "id": "6386906",
     "loginId": "753",
     "entityType": "1",
-    "sortOrder": "82",
-    "entityIdParent": "168534",
     "titleTextEncoded": "ELEMENT-SKATEBOARDS-CLIPPINGS-001-PHILADELPHIA-PA",
     "category": null,
     "duration": "95",
@@ -39,14 +37,7 @@
         "hookText": "After a stay in Evan Smith's hometown of Pittsburgh, the Element team stopped through the new \"Paine's Park\" park in philly to skate with the locals and visi..."
     },
     "transcripts": null,
-    "metrics_statistics": {
-        "VV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "engagement_score": {
-                "lastUpdatedDate": "2017-05-25"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

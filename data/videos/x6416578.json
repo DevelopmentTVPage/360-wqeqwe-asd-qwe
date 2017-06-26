@@ -19,8 +19,6 @@
     "id": "6416578",
     "loginId": "753",
     "entityType": "1",
-    "sortOrder": "464",
-    "entityIdParent": "168524",
     "titleTextEncoded": "F-cked-Up-The-Other-Shoe-Rubber-Tracks-Live",
     "category": null,
     "duration": "303",
@@ -39,14 +37,7 @@
         "hookText": "Frontman Damian Abraham, of the Canadian hardcore punk outfit F*cked Up, invited the audience to participate in their performance of \"The Other Shoe\" on ..."
     },
     "transcripts": null,
-    "metrics_statistics": {
-        "VV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "engagement_score": {
-                "lastUpdatedDate": "2017-05-25"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

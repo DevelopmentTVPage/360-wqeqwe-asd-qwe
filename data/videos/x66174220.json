@@ -19,8 +19,6 @@
     "id": "66174220",
     "loginId": "753",
     "entityType": "1",
-    "sortOrder": "38",
-    "entityIdParent": "3762188",
     "titleTextEncoded": "GoPro-for-a-Cause-Bicycles-Against-Poverty",
     "category": "",
     "duration": 155,
@@ -40,14 +38,7 @@
         "quality": ""
     },
     "transcripts": "This story is of bicycles, a story of bicycles against poverty (BAP) Today is quite an exciting day because we are having people move all the way ten kilometers from each village just to travel to come and get a bicycle, take them back home. There are villages deep in rural Africa a way of life that remains difficult, it's not a lack of empowerment that holds us back, but the distance from where we live to where we can find opportunities. Our place here to the health center is far, you can walk like 3 hours, 3 to 4 hours. They cannot easily access the trading centers, the busy market areas, the schools, and the hospitals. With the BAP's program coming up and especially when you really look at the beneficiaries they are so much grateful, BAP has made their life in terms of transport, easy. By getting the bicycle accessibility has become very open everyone is full of excitement. Now in only 45 minutes someone bikes to the nearest health center. This story is about an answer, about taking responsibility for our future, about taking responsibility for ourselves. This story is of bicycles, a story of bicycles against poverty.",
-    "metrics_statistics": {
-        "VV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "engagement_score": {
-                "lastUpdatedDate": "2017-05-25"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

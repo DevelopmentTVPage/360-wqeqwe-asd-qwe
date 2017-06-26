@@ -19,8 +19,6 @@
     "id": "6419367",
     "loginId": "753",
     "entityType": "1",
-    "sortOrder": "285",
-    "entityIdParent": "168524",
     "titleTextEncoded": "Small-Black-perform-No-Stranger-Converse-Rubber-Tracks-Ready-Set",
     "category": null,
     "duration": "269",
@@ -39,14 +37,7 @@
         "hookText": "Brooklyn-based band Small Black stopped by to perform \"No Stranger\" in the latest Ready, Set filmed at Converse Rubber Tracks Studio. For more on Small ..."
     },
     "transcripts": null,
-    "metrics_statistics": {
-        "VV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "engagement_score": {
-                "lastUpdatedDate": "2017-05-25"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

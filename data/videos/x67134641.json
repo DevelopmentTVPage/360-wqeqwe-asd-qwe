@@ -19,8 +19,6 @@
     "id": "67134641",
     "loginId": "753",
     "entityType": "1",
-    "sortOrder": "110",
-    "entityIdParent": "168510",
     "titleTextEncoded": "Allison-Schmitt-Speed-Takes-Progress-adidas",
     "category": "",
     "duration": 49,
@@ -40,14 +38,7 @@
         "quality": ""
     },
     "transcripts": "If I'm behind in a race I know that it's my race and I know exactly how to swim it. I'll put my head down and put everything I have into that last 50 meters to hit the wall first I've learned a lot more from my disappointments than I did for my successes especially me always wants the success in the pool and having those disappointments I feel like it's a blessing in disguise but has helped me become a better person and swimmer. I learned from defeat and know what I have to work on to be successful the next time I know that I'm gonna have to have a goal each day so that I can stay on that path and accomplish my ultimate goals.",
-    "metrics_statistics": {
-        "VV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "engagement_score": {
-                "lastUpdatedDate": "2017-05-25"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

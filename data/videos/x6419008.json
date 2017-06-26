@@ -19,8 +19,6 @@
     "id": "6419008",
     "loginId": "753",
     "entityType": "1",
-    "sortOrder": "4",
-    "entityIdParent": "6381989",
     "titleTextEncoded": "Jimmy-Wilkins-at-Phishlips-Ramp",
     "category": null,
     "duration": "116",
@@ -39,14 +37,7 @@
         "hookText": "Jimmy Wilkins: Phishlips Ramp\n\nWhat's better than a backyard ramp sesh?... Jimmy Wilkins and the Creach Coast Vertcation crew attack Phishlips' Ramp, and conjure up some serious U-Pipe manipulation. Wilkins, Russell, Scizzors, and Navs are not to be recko"
     },
     "transcripts": null,
-    "metrics_statistics": {
-        "VV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "engagement_score": {
-                "lastUpdatedDate": "2017-05-25"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

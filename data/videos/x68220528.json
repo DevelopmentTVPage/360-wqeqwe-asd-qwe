@@ -19,8 +19,6 @@
     "id": "68220528",
     "loginId": "753",
     "entityType": "1",
-    "sortOrder": "127",
-    "entityIdParent": "3762188",
     "titleTextEncoded": "GoPro-Erupting-Volcano-Mountain-Bike-Shred-with-Kurt-Sorge",
     "category": "",
     "duration": 308,
@@ -40,14 +38,7 @@
         "quality": ""
     },
     "transcripts": "Holy volcano just in the ash, breathing in the gases here. This side, yeah, yeah totally yup, you can build jumps there really easy like yeah, we can probably go over there hey. Motor over, here we are on top of a volcano in Indonesia sitting above a crater. Some gas coming up over there, it's pretty sick up here, can\u2019t stop some of these lines, into the crater we go! Woo, what is going on Sorge? It's cloudy man, now we're in a storm of ash here it's coming down heavy right now, like I gotta have my goggles on, but I'm all fogging up, I gotta have my mask on that makes it even worse so pretty tough conditions to try to work in but you know it was worth checking out and you know the search continues. Woo, getting close, what did you think about climbing aye, yeah we\u2019re like above five thousand feet probably getting near 6000 it's nice and cool up here up in the clouds, in the mist, the dirt\u2019s tacky. Ha she's erupting, haha come on let's go! Rolling! [Music Playing] Hi, Hi. Woah-ho, wind oh baby.",
-    "metrics_statistics": {
-        "VV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "engagement_score": {
-                "lastUpdatedDate": "2017-05-25"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

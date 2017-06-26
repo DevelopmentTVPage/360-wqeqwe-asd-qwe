@@ -1,0 +1,46 @@
+{
+    "title": "september sessions with JAMIE O\u2019BRIEN",
+    "description": "www.etnies.com",
+    "referenceId": null,
+    "date_created": "1440443273",
+    "date_modified": "1444776270",
+    "tags": "etnies,Jamie O'Brien,Surfing",
+    "sourceId": "3",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6379332",
+    "loginId": "753",
+    "entityType": "1",
+    "titleTextEncoded": "september-sessions-with-JAMIE-O-BRIEN",
+    "category": null,
+    "duration": 97,
+    "settings": {},
+    "asset": {
+        "type": "mp4",
+        "hdvFlag": 1,
+        "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/210701473_1280x699.jpg",
+        "mediaDuration": 97,
+        "prettyDuration": "01:37",
+        "uploadDate": 1319843993,
+        "tags": "etnies,Jamie O'Brien,Surfing",
+        "hookText": "www.etnies.com\nwww.facebook.com\/etnies",
+        "sources": [
+            {
+                "file": "https:\/\/player.vimeo.com\/external\/31280096.hd.mp4?s=1e6191c5fa227ed2094c938270360880&profile_id=113&oauth2_token_id=62432308"
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

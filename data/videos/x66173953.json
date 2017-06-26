@@ -19,8 +19,6 @@
     "id": "66173953",
     "loginId": "753",
     "entityType": "1",
-    "sortOrder": "153",
-    "entityIdParent": "3762188",
     "titleTextEncoded": "GoPro-Man-and-Grizzly-Bear-A-Unique-Relationship",
     "category": "",
     "duration": 83,
@@ -40,14 +38,7 @@
         "quality": ""
     },
     "transcripts": "They went on the endangered species list in 1975. We think of them as man killers and blood thirsty beast. The real battle is helping people understand that there not monsters and hopefully taking that fear, changing it into respect so that they realize that they need them around. \"Look at that view bud, gorgeous huh.\" They always say that the bear is kind of an umbrella species, it's protection remains, there is so many other things protected underneath that. So taking that bear out your going to see other thing go instinct like amphibians and butterflies. \"Go boy.\" I want to bring wildlife and present it in a way that kids will listen to it and realize how cool it is. Let the voice, lets be heard. If the voice is heard then they'll be fine. People are not dumb. Their going to do the right thing.",
-    "metrics_statistics": {
-        "VV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "engagement_score": {
-                "lastUpdatedDate": "2017-05-25"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

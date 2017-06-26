@@ -19,8 +19,6 @@
     "id": "6418135",
     "loginId": "753",
     "entityType": "1",
-    "sortOrder": "115",
-    "entityIdParent": "168527",
     "titleTextEncoded": "ETNIES-PRESENTS-THE-FRONT-GIRLS-AT-HEVY-2011-EPISODE-2",
     "category": null,
     "duration": 160,
@@ -41,14 +39,7 @@
         "hookText": "Day one of Hevy ended with some good old mathcore from Dillinger Escape Plan, so Front girls Mellisa and  Lauren are ready for day two.  In episode 2 you see the Front girls take a peek on how life on the campsite is. Lauren takes some time to talk to \u201cDo"
     },
     "transcripts": null,
-    "metrics_statistics": {
-        "VV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "engagement_score": {
-                "lastUpdatedDate": "2017-05-25"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

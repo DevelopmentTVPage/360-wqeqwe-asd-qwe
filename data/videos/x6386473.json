@@ -19,8 +19,6 @@
     "id": "6386473",
     "loginId": "753",
     "entityType": "1",
-    "sortOrder": "86",
-    "entityIdParent": "168523",
     "titleTextEncoded": "Emerica-Presents-the-Herman-G6-Available-Now",
     "category": null,
     "duration": "95",
@@ -39,14 +37,7 @@
         "hookText": "The Herman G6: Higher Quality, Made in Emerica. Available in skate shops worldwide now! See more at http:\/\/emerica.com\/hermang6 facebook.com\/Emerica ..."
     },
     "transcripts": null,
-    "metrics_statistics": {
-        "VV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "engagement_score": {
-                "lastUpdatedDate": "2017-05-25"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

@@ -19,8 +19,6 @@
     "id": "6417877",
     "loginId": "753",
     "entityType": "1",
-    "sortOrder": "196",
-    "entityIdParent": "168514",
     "titleTextEncoded": "Fox-Surf-Presents-Ken-Roczen-downtime-in-sunny-California",
     "category": null,
     "duration": "58",
@@ -39,14 +37,7 @@
         "hookText": "Kenny Roczen doing some cross training with some FOX pro surfers Music by: Daniel Ellsworth & The Great Lakes \"Wolf Is Me\" Civilized Man Subscribe to Fox ..."
     },
     "transcripts": null,
-    "metrics_statistics": {
-        "VV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "engagement_score": {
-                "lastUpdatedDate": "2017-05-25"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

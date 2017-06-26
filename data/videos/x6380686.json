@@ -1,0 +1,46 @@
+{
+    "title": "Graham Ezzy: Maui Son",
+    "description": "Video profile of Maui local Graham Ezzy. Shot at Ho'okipa and Peahi, courtesy of Umi Pictures.",
+    "referenceId": null,
+    "date_created": "1440450082",
+    "date_modified": "1440450082",
+    "tags": "Array,Array,Array,Array,Array,Array,Array,Array",
+    "sourceId": "3",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6380686",
+    "loginId": "753",
+    "entityType": "1",
+    "titleTextEncoded": "Graham-Ezzy-Maui-Son",
+    "category": null,
+    "duration": 684,
+    "settings": {},
+    "asset": {
+        "type": "mp4",
+        "sources": [
+            {
+                "file": "https:\/\/player.vimeo.com\/external\/26165939.hd.mp4?s=8022174866a5c66023da31a9a4671a88&profile_id=113&oauth2_token_id=56801069"
+            }
+        ],
+        "hdvFlag": 1,
+        "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/172845509_1280x720.jpg",
+        "mediaDuration": 684,
+        "prettyDuration": "11:24",
+        "uploadDate": 1310141320,
+        "tags": "Array,Array,Array,Array,Array,Array,Array,Array",
+        "hookText": "Video profile of Maui local Graham Ezzy. Shot at Ho'okipa and Peahi, courtesy of Umi Pictures."
+    },
+    "transcripts": null,
+    "metrics_statistics": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

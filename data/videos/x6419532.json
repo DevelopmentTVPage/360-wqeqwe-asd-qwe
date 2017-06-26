@@ -19,8 +19,6 @@
     "id": "6419532",
     "loginId": "753",
     "entityType": "1",
-    "sortOrder": "237",
-    "entityIdParent": "158318",
     "titleTextEncoded": "SWITCHFOOT-FOR-H2O",
     "category": null,
     "duration": "201",
@@ -39,14 +37,7 @@
         "hookText": "Happy World Water Day. It's been 12 months since last World Water Day and we sure have been busy. Along with our friend Jon Rose at Waves For Water, ..."
     },
     "transcripts": null,
-    "metrics_statistics": {
-        "VV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "engagement_score": {
-                "lastUpdatedDate": "2017-05-25"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

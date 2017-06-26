@@ -1,0 +1,48 @@
+{
+    "title": "AMAZING!! Snowing during Surf Contest",
+    "description": "On Day 6 of the O'Neill Cold Water Classic Scotland snow hit Thurso East.",
+    "referenceId": "8MjXhBeGHu8",
+    "date_created": "1271932976",
+    "date_modified": "1445737680",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "1",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6438176",
+    "loginId": "753",
+    "entityType": "1",
+    "titleTextEncoded": "AMAZING-Snowing-during-Surf-Contest",
+    "category": null,
+    "duration": "100",
+    "settings": {
+        "parentFeedId": "6438082",
+        "parentFeedLoginId": "753"
+    },
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/8MjXhBeGHu8\/hqdefault.jpg",
+        "uploadDate": 1271932976,
+        "videoId": "8MjXhBeGHu8",
+        "title": "AMAZING!! Snowing during Surf Contest",
+        "description": "On Day 6 of the O'Neill Cold Water Classic Scotland snow hit Thurso East.",
+        "author": "TeamONeill",
+        "mediaDuration": "100",
+        "prettyDuration": "00:01:40",
+        "views": "443"
+    },
+    "transcripts": null,
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "tvp_profiles": [
+        "2"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

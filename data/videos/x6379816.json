@@ -19,8 +19,6 @@
     "id": "6379816",
     "loginId": "753",
     "entityType": "1",
-    "sortOrder": "319",
-    "entityIdParent": "168514",
     "titleTextEncoded": "Fox-MX-Presents-Alex-Frye-Going-Pro",
     "category": null,
     "duration": "167",
@@ -39,14 +37,7 @@
         "hookText": "Hailing from Huntington, Maryland Fox MX team athlete Alexander Frye prepares for the big leagues of his professional motocross debut. Watch Alex as he excels within training and focuses on the dreams he has been chasing since a young racer while living a"
     },
     "transcripts": null,
-    "metrics_statistics": {
-        "VV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "engagement_score": {
-                "lastUpdatedDate": "2017-05-25"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

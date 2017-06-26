@@ -19,8 +19,6 @@
     "id": "65524797",
     "loginId": "753",
     "entityType": "1",
-    "sortOrder": "251",
-    "entityIdParent": "168557",
     "titleTextEncoded": "Day-1-Highlights-2016-Volcom-Pipe-Pro",
     "category": "",
     "duration": 111,
@@ -40,14 +38,7 @@
         "quality": ""
     },
     "transcripts": "Aloha! Good morning, welcome to the North Shore of Oahu this is the Volcom Pipe Pro. For solid surf entering our line of pipe line and a easy call to start off with a round of 1-12 to kick off things. Markie barneu is getting absolutely blasted out into the channel. Chris Fasta hammping weaving through a beautiful hollow line and just spat out. Out the back another big tube here and into the channel and a nice easy exit. Head up an riding that is orange clothes Koa Rothman gets deep, pulls in still traveling and whoa he comes out. Kiron speeding again, he's so deep on this one, tell me he doesn't exit, absolutely blown out into the channel and a big larry on the inside throughout it and chomp down. A bigger one setting up for Bryan Toff packs it nice and deep again spits it out every wave. Blue that is Bryan Toff and he sneaks into another barrel and comes out.",
-    "metrics_statistics": {
-        "VV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "engagement_score": {
-                "lastUpdatedDate": "2017-05-25"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
     "tvp_profiles": [
         "32"
     ],

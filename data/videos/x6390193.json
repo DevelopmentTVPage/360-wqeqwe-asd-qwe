@@ -19,8 +19,6 @@
     "id": "6390193",
     "loginId": "753",
     "entityType": "1",
-    "sortOrder": "492",
-    "entityIdParent": "158318",
     "titleTextEncoded": "THE-KEY-TO-DUNGEONS-FRANK-SOLOMON",
     "category": null,
     "duration": "200",
@@ -39,14 +37,7 @@
         "hookText": "As opening day of Dungeons Challenge nears, South African big wave surfer Frank Solomon discusses the training and dedication required to take on this wave ..."
     },
     "transcripts": null,
-    "metrics_statistics": {
-        "VV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "engagement_score": {
-                "lastUpdatedDate": "2017-05-25"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

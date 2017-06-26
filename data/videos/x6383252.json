@@ -19,8 +19,6 @@
     "id": "6383252",
     "loginId": "753",
     "entityType": "1",
-    "sortOrder": "555",
-    "entityIdParent": "168524",
     "titleTextEncoded": "Tale-of-Four-Cities-Los-Angeles-Converse-CONS",
     "category": null,
     "duration": "275",
@@ -39,14 +37,7 @@
         "hookText": "Tale of Four Cities explores the skate communities within the four cities that CONS Project takes place-- Boston, Toronto, Los Angeles and New York. This film ..."
     },
     "transcripts": null,
-    "metrics_statistics": {
-        "VV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "engagement_score": {
-                "lastUpdatedDate": "2017-05-25"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

@@ -19,8 +19,6 @@
     "id": "6416546",
     "loginId": "753",
     "entityType": "1",
-    "sortOrder": "215",
-    "entityIdParent": "168514",
     "titleTextEncoded": "Fox-Active-Presents-The-Fall-2013-Active-Collection-Prepare-to-Perform",
     "category": null,
     "duration": "73",
@@ -39,20 +37,7 @@
         "hookText": "Introducing the Fall 2013 Fox Active Collection, featuring all new Training, Tech, and Sportswear products. Fox Active brings you functional training gear ..."
     },
     "transcripts": null,
-    "metrics_statistics": {
-        "VV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "engagement_score": {
-                "lastUpdatedDate": "2017-05-25"
-            }
-        },
-        "CVV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "conversion_score": {
-                "lastUpdatedDate": "2017-05-25"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}},\"CVV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"conversion_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

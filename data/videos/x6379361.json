@@ -1,0 +1,46 @@
+{
+    "title": "etnies Presents: Paris Days",
+    "description": "etnies Presents: Paris Days\n\nwww.etnies.com",
+    "referenceId": null,
+    "date_created": "1440443322",
+    "date_modified": "1444178244",
+    "tags": "etnies,paris,skateboarding,jose rojo,willow,tyler bledsoe,Ryan Pearce,Barney Page,Jameson Decew,Kyle Leeper",
+    "sourceId": "3",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6379361",
+    "loginId": "753",
+    "entityType": "1",
+    "titleTextEncoded": "etnies-Presents-Paris-Days",
+    "category": null,
+    "duration": 177,
+    "settings": {},
+    "asset": {
+        "type": "mp4",
+        "hdvFlag": 1,
+        "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/181020504_1280x699.jpg",
+        "mediaDuration": 177,
+        "prettyDuration": "02:57",
+        "uploadDate": 1311816283,
+        "tags": "etnies,paris,skateboarding,jose rojo,willow,tyler bledsoe,Ryan Pearce,Barney Page,Jameson Decew,Kyle Leeper",
+        "hookText": "etnies Presents: Paris Days\n\nwww.etnies.com\nwww.facebook.com\/\u200betnies\nwww.facebook.com\/\u200betnies.europe",
+        "sources": [
+            {
+                "file": "https:\/\/player.vimeo.com\/external\/26988550.hd.mp4?s=1f7b5c80f1cbf5999cfcba7443a6992e&profile_id=113&oauth2_token_id=62432308"
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

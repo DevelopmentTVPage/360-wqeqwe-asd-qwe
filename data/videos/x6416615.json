@@ -19,8 +19,6 @@
     "id": "6416615",
     "loginId": "753",
     "entityType": "1",
-    "sortOrder": "58",
-    "entityIdParent": "168533",
     "titleTextEncoded": "VonZipper-Welcomes-Halldor-Helgason-in-the-Feenom-N-L-S",
     "category": null,
     "duration": "15",
@@ -39,14 +37,7 @@
         "hookText": "Irvine, CA, January 30, 2015 \u2013 Halldor Helgason never played varsity basketball. He also never won Homecoming King. But as the snowboarding world knows, he is the one getting the last laugh, which is exactly why VonZipper is proud to welcome him to the te"
     },
     "transcripts": null,
-    "metrics_statistics": {
-        "VV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "engagement_score": {
-                "lastUpdatedDate": "2017-05-25"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

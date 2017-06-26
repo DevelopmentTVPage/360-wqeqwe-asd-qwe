@@ -19,8 +19,6 @@
     "id": "66805628",
     "loginId": "753",
     "entityType": "1",
-    "sortOrder": "71",
-    "entityIdParent": "3762188",
     "titleTextEncoded": "GoPro-Valentino-Rossi-Joins-the-GoPro-Family",
     "category": "",
     "duration": 64,
@@ -40,14 +38,7 @@
         "quality": ""
     },
     "transcripts": "This is day three, seven punctures have happened. Now we want to try and ride in a skate park.",
-    "metrics_statistics": {
-        "VV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "engagement_score": {
-                "lastUpdatedDate": "2017-05-25"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

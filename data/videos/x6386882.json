@@ -19,8 +19,6 @@
     "id": "6386882",
     "loginId": "753",
     "entityType": "1",
-    "sortOrder": "501",
-    "entityIdParent": "158318",
     "titleTextEncoded": "TOURNOTES-JOHN-JOHN-FLORENCE-S-10-OR-9-96",
     "category": null,
     "duration": "120",
@@ -39,14 +37,7 @@
         "hookText": "Kelly Slater and Jason Andre judge John John Florence's high-scoring heats at the 2014 Quiksilver Pro France."
     },
     "transcripts": null,
-    "metrics_statistics": {
-        "VV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "engagement_score": {
-                "lastUpdatedDate": "2017-05-25"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

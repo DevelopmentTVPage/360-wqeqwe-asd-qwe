@@ -19,8 +19,6 @@
     "id": "6413888",
     "loginId": "753",
     "entityType": "1",
-    "sortOrder": "497",
-    "entityIdParent": "168524",
     "titleTextEncoded": "Dum-Dum-Girls-On-Christmas",
     "category": null,
     "duration": "186",
@@ -39,14 +37,7 @@
         "hookText": "On Christmas\u201d is a delectable synth-pop nugget from New York's Dum Dum Girls, recorded at Winter Station in Brooklyn, NY. Featured on Converse Rubber ..."
     },
     "transcripts": null,
-    "metrics_statistics": {
-        "VV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "engagement_score": {
-                "lastUpdatedDate": "2017-05-25"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

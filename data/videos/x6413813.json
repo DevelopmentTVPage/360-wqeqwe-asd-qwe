@@ -19,8 +19,6 @@
     "id": "6413813",
     "loginId": "753",
     "entityType": "1",
-    "sortOrder": "59",
-    "entityIdParent": "168534",
     "titleTextEncoded": "ELEMENT-MADARS-APSE-FUTURE-NATURE",
     "category": null,
     "duration": "275",
@@ -39,14 +37,7 @@
         "hookText": "Element proudly presents Madars Apse in FUTURE NATURE, a visual exploration of skateboarders in their natural environments. Around the world, two major ..."
     },
     "transcripts": null,
-    "metrics_statistics": {
-        "VV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "engagement_score": {
-                "lastUpdatedDate": "2017-05-25"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

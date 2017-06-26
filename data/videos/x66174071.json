@@ -19,8 +19,6 @@
     "id": "66174071",
     "loginId": "753",
     "entityType": "1",
-    "sortOrder": "30",
-    "entityIdParent": "3762188",
     "titleTextEncoded": "GoPro-Awards-Wandering-the-French-Alps",
     "category": "",
     "duration": 141,
@@ -40,14 +38,7 @@
         "quality": ""
     },
     "transcripts": "Someone once told me that some moments should not be captured \"You could be my next Gopro featured.\" \"That's what you\u2019re aiming for.\" not in a photo \"You hate it don't you?\" not in a story. \"I'm actually doing a Hollywood mega movie.\" \"Yeah I know you are.\"  not at all.\"You're getting your shoulder and mainly that.\" \"Thought that's what you wanted, so my time\" \"You got it lower, you're going to be a terrible assistant Alice.\" \"Don't say that.\" \"You're a terrible camera assistant, You got to frame it.It's a dead end is it.\" Some moments the said should only live in the memory. \"What way do you want me to take my hands.\" \"To the gap is over here, off like that, go. Hopefully that go it.That's a path there.\" Even though this moment will live in memory. I need to remember every detail. \"Alice.\" Memories like these no matter how big or small \"Yes.\" I have to capture them.",
-    "metrics_statistics": {
-        "VV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "engagement_score": {
-                "lastUpdatedDate": "2017-05-25"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

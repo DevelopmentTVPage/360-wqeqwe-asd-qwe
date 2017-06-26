@@ -1,0 +1,46 @@
+{
+    "title": "Levi Sherwood: Flight of the Kontra",
+    "description": "Levi Sherwood takes flight & introduces his colorway of the etnies Kontra.",
+    "referenceId": null,
+    "date_created": "1440443124",
+    "date_modified": "1444350259",
+    "tags": "etnies,etnies moto,etnies mx etnies fmx,Levi Sherwood,Kontra,Space Jam,I believe I can fly,Flight of the Kontra",
+    "sourceId": "3",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6379255",
+    "loginId": "753",
+    "entityType": "1",
+    "titleTextEncoded": "Levi-Sherwood-Flight-of-the-Kontra",
+    "category": null,
+    "duration": 149,
+    "settings": {},
+    "asset": {
+        "type": "mp4",
+        "hdvFlag": 1,
+        "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/328183909_1280x721.jpg",
+        "mediaDuration": 149,
+        "prettyDuration": "02:29",
+        "uploadDate": 1343258596,
+        "tags": "etnies,etnies moto,etnies mx etnies fmx,Levi Sherwood,Kontra,Space Jam,I believe I can fly,Flight of the Kontra",
+        "hookText": "Levi Sherwood takes flight & introduces his colorway of the etnies Kontra. Take a closer look at http:\/\/etni.es\/levi-sherwood-kontra",
+        "sources": [
+            {
+                "file": "https:\/\/player.vimeo.com\/external\/46394702.hd.mp4?s=f6644dd267c25beb3b8c9033c4852aca&profile_id=113&oauth2_token_id=62432308"
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

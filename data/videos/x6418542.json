@@ -19,8 +19,6 @@
     "id": "6418542",
     "loginId": "753",
     "entityType": "1",
-    "sortOrder": "368",
-    "entityIdParent": "158318",
     "titleTextEncoded": "RIP-MY-SHRED-STICK-OCEAN-CITY-NEW-JERSEY",
     "category": null,
     "duration": "218",
@@ -39,14 +37,7 @@
         "hookText": "We just wrapped up our first stop in the north east, with 60 kids joining in on the fun in Ocean City, NJ. The waves were small and the water was cold, but the kids ..."
     },
     "transcripts": null,
-    "metrics_statistics": {
-        "VV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "engagement_score": {
-                "lastUpdatedDate": "2017-05-25"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

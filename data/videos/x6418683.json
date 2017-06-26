@@ -19,8 +19,6 @@
     "id": "6418683",
     "loginId": "753",
     "entityType": "1",
-    "sortOrder": "399",
-    "entityIdParent": "168524",
     "titleTextEncoded": "Vince-Staples-x-Bad-Rabbits-Made-OFFICIAL-VIDEO-STREAM",
     "category": null,
     "duration": "185",
@@ -39,14 +37,7 @@
         "hookText": "Stream and download \"Made\" here: http:\/\/conversecons.com\/CONSep \"Made\" is the first single off of the second Converse CONS compilation, CONS EP Vol."
     },
     "transcripts": null,
-    "metrics_statistics": {
-        "VV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "engagement_score": {
-                "lastUpdatedDate": "2017-05-25"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

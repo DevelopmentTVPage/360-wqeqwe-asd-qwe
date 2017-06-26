@@ -19,8 +19,6 @@
     "id": "6386059",
     "loginId": "753",
     "entityType": "1",
-    "sortOrder": "96",
-    "entityIdParent": "168534",
     "titleTextEncoded": "ELEMENT-MAKE-IT-COUNT-DETROIT",
     "category": null,
     "duration": "92",
@@ -39,14 +37,7 @@
         "hookText": "The Element Make It Count 2014 tour trucked on through the Midwest and into Detroit for an event at Modern Skate Park. Skaters came from all over to compete ."
     },
     "transcripts": null,
-    "metrics_statistics": {
-        "VV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "engagement_score": {
-                "lastUpdatedDate": "2017-05-25"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

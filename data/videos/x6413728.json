@@ -19,8 +19,6 @@
     "id": "6413728",
     "loginId": "753",
     "entityType": "1",
-    "sortOrder": "62",
-    "entityIdParent": "168534",
     "titleTextEncoded": "ELEMENT-THE-EVAN-SMITH-EXPERIENCE",
     "category": null,
     "duration": "264",
@@ -39,14 +37,7 @@
         "hookText": "The Evan Smith Experience offers the sights, sounds and amazing skateboarding of the newest Element and DC pro, Evan Smith. Enjoy."
     },
     "transcripts": null,
-    "metrics_statistics": {
-        "VV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "engagement_score": {
-                "lastUpdatedDate": "2017-05-25"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

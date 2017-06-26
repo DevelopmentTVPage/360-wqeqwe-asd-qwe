@@ -19,8 +19,6 @@
     "id": "6386177",
     "loginId": "753",
     "entityType": "1",
-    "sortOrder": "70",
-    "entityIdParent": "168510",
     "titleTextEncoded": "adidas-Skateboarding-The-Obstacle",
     "category": null,
     "duration": "253",
@@ -39,14 +37,7 @@
         "hookText": "In February of 2012 adidas France rented out Le 104, a community center in Paris and created a free indoor event and skatepark. Visitors were encouraged to ..."
     },
     "transcripts": null,
-    "metrics_statistics": {
-        "VV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "engagement_score": {
-                "lastUpdatedDate": "2017-05-25"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

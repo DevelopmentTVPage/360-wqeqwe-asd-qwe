@@ -19,8 +19,6 @@
     "id": "6380446",
     "loginId": "753",
     "entityType": "1",
-    "sortOrder": "373",
-    "entityIdParent": "168543",
     "titleTextEncoded": "Dakine-Mission-Backpack",
     "category": null,
     "duration": 94,
@@ -37,14 +35,7 @@
         "hookText": "Vertical board carry straps\nFleece lined goggle pocket\nOrganizer pocket\nFleece lined sunglass pocket\nPadded laptop sleeve\nFits most 15\" laptops\nPadded waist belt\nAdjustable sternum strap\n\nFor more info visit:\nhttp:\/\/www.dakine.com\/p\/snowboard\/technical-ba"
     },
     "transcripts": null,
-    "metrics_statistics": {
-        "VV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "engagement_score": {
-                "lastUpdatedDate": "2017-05-25"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

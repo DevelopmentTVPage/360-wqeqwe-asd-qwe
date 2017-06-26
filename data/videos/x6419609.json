@@ -19,8 +19,6 @@
     "id": "6419609",
     "loginId": "753",
     "entityType": "1",
-    "sortOrder": "210",
-    "entityIdParent": "168524",
     "titleTextEncoded": "Converse-Rubber-Tracks-Track-of-the-Week-The-White-Mandingos-records-Rubbertracks-Meltdown",
     "category": null,
     "duration": "127",
@@ -39,14 +37,7 @@
         "hookText": "The single \"Rubbertracks Meltdown\" by The White Mandingos is this week's \"Track of the Week\". The group is made up of rapper Murs, Bad Brains bassist Darryl ..."
     },
     "transcripts": null,
-    "metrics_statistics": {
-        "VV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "engagement_score": {
-                "lastUpdatedDate": "2017-05-25"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

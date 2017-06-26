@@ -19,8 +19,6 @@
     "id": "6390219",
     "loginId": "753",
     "entityType": "1",
-    "sortOrder": "59",
-    "entityIdParent": "168523",
     "titleTextEncoded": "Emerica-Design-a-Tee-13-with-Jerry-Hsu",
     "category": null,
     "duration": "42",
@@ -39,14 +37,7 @@
         "hookText": "Emerica Design a Tee 13 with Jerry Hsu! Enter at http:\/\/emerica.com\/design-a-tee http:\/\/www.facebook.com\/emerica."
     },
     "transcripts": null,
-    "metrics_statistics": {
-        "VV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "engagement_score": {
-                "lastUpdatedDate": "2017-05-25"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

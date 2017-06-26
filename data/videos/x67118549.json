@@ -19,8 +19,6 @@
     "id": "67118549",
     "loginId": "753",
     "entityType": "1",
-    "sortOrder": "69",
-    "entityIdParent": "3762188",
     "titleTextEncoded": "GoPro-Awards-Perfect-Surf-Day-in-the-Maldives",
     "category": "",
     "duration": 34,
@@ -40,14 +38,7 @@
         "quality": ""
     },
     "transcripts": "The conditions that day was really really perfect. Everything the wind, the direction, good size as well i don't know maybe 8 to 10 feet. In cut break the barrel is super long and I like to be in the barrel the whole time. Feeling to surf a barrel in cut break, it's amazing all the conditions was really perfect.",
-    "metrics_statistics": {
-        "VV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "engagement_score": {
-                "lastUpdatedDate": "2017-05-25"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

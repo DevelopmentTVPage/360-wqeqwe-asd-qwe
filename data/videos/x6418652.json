@@ -19,8 +19,6 @@
     "id": "6418652",
     "loginId": "753",
     "entityType": "1",
-    "sortOrder": "418",
-    "entityIdParent": "168524",
     "titleTextEncoded": "Converse-CONS-Project-London-Artists-on-Inspiration",
     "category": null,
     "duration": "130",
@@ -39,14 +37,7 @@
         "hookText": "We asked London based illustrator Sam Taylor to curate a tight crew of artists to transform the CONS Project space in London. Inspiration was everywhere, fro..."
     },
     "transcripts": null,
-    "metrics_statistics": {
-        "VV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "engagement_score": {
-                "lastUpdatedDate": "2017-05-25"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

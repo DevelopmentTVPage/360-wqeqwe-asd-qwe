@@ -19,8 +19,6 @@
     "id": "6386884",
     "loginId": "753",
     "entityType": "1",
-    "sortOrder": "499",
-    "entityIdParent": "158318",
     "titleTextEncoded": "BEHIND-THE-INK-TOKYO-HIRO",
     "category": null,
     "duration": "87",
@@ -39,14 +37,7 @@
         "hookText": "Punk rock and tattoo art go hand in hand, and Tokyo Hiro is one of the great connectors. Apprenticed under the great tattoo artist Bob Roberts, Tokyo Hiro has ..."
     },
     "transcripts": null,
-    "metrics_statistics": {
-        "VV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "engagement_score": {
-                "lastUpdatedDate": "2017-05-25"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

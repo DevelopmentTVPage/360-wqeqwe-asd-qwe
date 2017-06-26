@@ -19,8 +19,6 @@
     "id": "66298447",
     "loginId": "753",
     "entityType": "1",
-    "sortOrder": "8",
-    "entityIdParent": "3764406",
     "titleTextEncoded": "Ray-Ban-x-Boiler-Room-curated-by-Virgil-Abloh",
     "category": "",
     "duration": 61,
@@ -40,14 +38,7 @@
         "quality": ""
     },
     "transcripts": "I think culture doesn't have time to be perfect, us throwing a party improve to last minute, we live in the imperfection. We fight tooth and nail just get the sonics in the air, who's going to play when? What's the vibe you know. We fight the perfection of what they presume is like a good night, by playing songs that make us feel a certain way its all about the party, it's all about giving people the best night of their lives, and that's our job as facilitators of the culture. We've had some legendary sessions in everywhere from LA, London, Paris, connecting dots you know in a way that's like you know examples of not living for perfection, but actually like embracing the imperfections is what I would call it.",
-    "metrics_statistics": {
-        "VV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "engagement_score": {
-                "lastUpdatedDate": "2017-05-25"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

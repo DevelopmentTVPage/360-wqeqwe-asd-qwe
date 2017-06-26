@@ -19,8 +19,6 @@
     "id": "6419484",
     "loginId": "753",
     "entityType": "1",
-    "sortOrder": "251",
-    "entityIdParent": "168524",
     "titleTextEncoded": "Las-Ardillas-Linda-Ni\u00f1a-Converse-Red-Light-Sessions",
     "category": null,
     "duration": "249",
@@ -39,14 +37,7 @@
         "hookText": "Las Ardillas visited the Red Light Radio team at their pop up space in the Fader Fort in Texas to record this live version of Linda Ni\u00f1a. For more Red Light ..."
     },
     "transcripts": null,
-    "metrics_statistics": {
-        "VV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "engagement_score": {
-                "lastUpdatedDate": "2017-05-25"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
     "tvp_profiles": [
         "33"
     ],

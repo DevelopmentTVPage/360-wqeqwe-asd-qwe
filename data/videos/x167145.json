@@ -1,0 +1,43 @@
+{
+    "title": "Dakota Jacket",
+    "description": "Dakota Jacket",
+    "referenceId": null,
+    "date_created": "1400521218",
+    "date_modified": "1418181422",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "167145",
+    "loginId": "753",
+    "entityType": "1",
+    "titleTextEncoded": "Dakota-Jacket",
+    "category": null,
+    "duration": "36",
+    "settings": [],
+    "asset": {
+        "author": "Fox Head",
+        "videoId": "KEq-xgIi7as",
+        "hookText": "Dakota Jacket",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/KEq-xgIi7as\/maxresdefault.jpg",
+        "mediaDuration": "36",
+        "hdvFlag": 1,
+        "uploadDate": 1260009195,
+        "prettyDuration": "00:00:36"
+    },
+    "transcripts": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "9"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

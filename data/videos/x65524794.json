@@ -19,8 +19,6 @@
     "id": "65524794",
     "loginId": "753",
     "entityType": "1",
-    "sortOrder": "248",
-    "entityIdParent": "168557",
     "titleTextEncoded": "Gemma-O-Brien-Teaches-You-Block-Lettering-Techniques-Volcom-School-Of-Cool",
     "category": "",
     "duration": 78,
@@ -40,14 +38,7 @@
         "quality": ""
     },
     "transcripts": "So for this alphabet we're working with a bold kind of Tuscan style of lettering. It's called Tuscan because you've got these kind of spurred feet at the end of the letter form. It's kind of more of a bold blocky version than more con Tuscan have bold shapes. So I'm going to take this blank alphabet build out a bit of dimension and then add some color. I'm going to write the word rad. So this is the rad piece finished off. We started with our structural outline a little bit of dimension and then used the color to kind of give it a two tone shadow with the finishing up from the dots. All done.",
-    "metrics_statistics": {
-        "VV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "engagement_score": {
-                "lastUpdatedDate": "2017-05-25"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

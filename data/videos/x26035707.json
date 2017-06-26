@@ -19,8 +19,6 @@
     "id": "26035707",
     "loginId": "753",
     "entityType": "1",
-    "sortOrder": "12",
-    "entityIdParent": "168510",
     "titleTextEncoded": "Futurecraft-Tailored-Fibre-adidas",
     "category": "",
     "duration": "112",
@@ -38,14 +36,7 @@
         "views": "3982"
     },
     "transcripts": "",
-    "metrics_statistics": {
-        "VV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "engagement_score": {
-                "lastUpdatedDate": "2017-05-25"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

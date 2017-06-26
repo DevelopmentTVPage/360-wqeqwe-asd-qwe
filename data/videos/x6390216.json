@@ -19,8 +19,6 @@
     "id": "6390216",
     "loginId": "753",
     "entityType": "1",
-    "sortOrder": "62",
-    "entityIdParent": "168523",
     "titleTextEncoded": "Emerica-s-Trevor-Colden-Oscar-Meza-at-Damn-Am",
     "category": null,
     "duration": "85",
@@ -39,14 +37,7 @@
         "hookText": "http:\/\/facebook.com\/emerica, http:\/\/emerica.com Trevor Colden & Emerica flow rider Oscar Meza at Damn Am."
     },
     "transcripts": null,
-    "metrics_statistics": {
-        "VV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "engagement_score": {
-                "lastUpdatedDate": "2017-05-25"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
     "tvp_profiles": [
         "33"
     ],

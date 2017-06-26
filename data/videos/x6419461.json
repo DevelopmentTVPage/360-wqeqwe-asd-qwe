@@ -19,8 +19,6 @@
     "id": "6419461",
     "loginId": "753",
     "entityType": "1",
-    "sortOrder": "278",
-    "entityIdParent": "158318",
     "titleTextEncoded": "THE-ROYALTY-PERFORMING-IT-WON-T-BE-LONG",
     "category": null,
     "duration": "214",
@@ -39,14 +37,7 @@
         "hookText": "We'd venture to say The Royalty isn't your average one trick pony show. Have a look for yourself and see a different side of them -- stripped down to the bare ..."
     },
     "transcripts": null,
-    "metrics_statistics": {
-        "VV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "engagement_score": {
-                "lastUpdatedDate": "2017-05-25"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
     "tvp_profiles": [
         "18"
     ],

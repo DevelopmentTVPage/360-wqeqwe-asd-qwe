@@ -19,8 +19,6 @@
     "id": "6386881",
     "loginId": "753",
     "entityType": "1",
-    "sortOrder": "502",
-    "entityIdParent": "158318",
     "titleTextEncoded": "TOURNOTES-NIC-VON-RUPP-PORTUGAL-WILD-CARD",
     "category": null,
     "duration": "72",
@@ -39,14 +37,7 @@
         "hookText": "After three years of narrowly missing out on the coveted wild card spot into the Portugal event, Nic Von Rupp sealed the deal with a 9.5 in the trials. With a coffee ..."
     },
     "transcripts": null,
-    "metrics_statistics": {
-        "VV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "engagement_score": {
-                "lastUpdatedDate": "2017-05-25"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

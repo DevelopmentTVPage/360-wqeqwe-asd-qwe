@@ -19,8 +19,6 @@
     "id": "6378083",
     "loginId": "753",
     "entityType": "1",
-    "sortOrder": "22",
-    "entityIdParent": "3764400",
     "titleTextEncoded": "Penny-Skateboards-4th-of-July-Board",
     "category": null,
     "duration": "15",
@@ -39,14 +37,7 @@
         "hookText": "Show your Stars and Stripes like Lizzie Armanto with this LIMITED EDITION 4th of July Penny Skateboard. Available in 22\" and 27\", get yours now at http:\/\/www.pennyskateboards.com\/4th-of-july"
     },
     "transcripts": null,
-    "metrics_statistics": {
-        "VV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "engagement_score": {
-                "lastUpdatedDate": "2017-05-25"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

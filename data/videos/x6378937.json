@@ -19,8 +19,6 @@
     "id": "6378937",
     "loginId": "753",
     "entityType": "1",
-    "sortOrder": "121",
-    "entityIdParent": "168523",
     "titleTextEncoded": "Emerica-Presents-Collin-Provost-Draws-the-Line",
     "category": null,
     "duration": "80",
@@ -39,14 +37,7 @@
         "hookText": "The Provost Slim: http:\/\/emerica.com\/shoes\/the-provost-...\n\nProvost does what he does best, taking the line less traveled, at the legendary Santa Rosa Skatepark in Northern Cali. Collin's second shoe, The Provost Slim, is a slimmed down version of his fir"
     },
     "transcripts": null,
-    "metrics_statistics": {
-        "VV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "engagement_score": {
-                "lastUpdatedDate": "2017-05-25"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

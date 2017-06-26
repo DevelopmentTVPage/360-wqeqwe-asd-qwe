@@ -19,8 +19,6 @@
     "id": "6381991",
     "loginId": "753",
     "entityType": "1",
-    "sortOrder": "15",
-    "entityIdParent": "6381989",
     "titleTextEncoded": "AM-Squad-In-the-Park-with-Santa-Cruz-Creature",
     "category": null,
     "duration": "208",
@@ -39,14 +37,7 @@
         "hookText": "Can't stop this crew of AM's...The SC and Creature AM Squad get it goin' out in AZ, and shut down Pecos Park! "
     },
     "transcripts": null,
-    "metrics_statistics": {
-        "VV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "engagement_score": {
-                "lastUpdatedDate": "2017-05-25"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

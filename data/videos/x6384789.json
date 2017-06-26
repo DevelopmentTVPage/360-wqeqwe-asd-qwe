@@ -19,8 +19,6 @@
     "id": "6384789",
     "loginId": "753",
     "entityType": "1",
-    "sortOrder": "525",
-    "entityIdParent": "158318",
     "titleTextEncoded": "TOURNOTES-GOLD-COAST-WRAP",
     "category": null,
     "duration": "248",
@@ -39,14 +37,7 @@
         "hookText": "Relive everything from Simpo and John John Florence's practice heats, animal park visits, to Filipe Toledo and Carissa Moore's wins on the Gold Coast."
     },
     "transcripts": null,
-    "metrics_statistics": {
-        "VV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "engagement_score": {
-                "lastUpdatedDate": "2017-05-25"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

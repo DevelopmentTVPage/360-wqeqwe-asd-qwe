@@ -1,0 +1,46 @@
+{
+    "title": "Whip Practice with Todd Potter!",
+    "description": "Whip Practice with Todd Potter!",
+    "referenceId": null,
+    "date_created": "1440443361",
+    "date_modified": "1455838000",
+    "tags": "etnies,etnies moto,FMX,Todd Potter,Metal Mulisha",
+    "sourceId": "3",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6379396",
+    "loginId": "753",
+    "entityType": "1",
+    "titleTextEncoded": "Whip-Practice-with-Todd-Potter",
+    "category": null,
+    "duration": 106,
+    "settings": {},
+    "asset": {
+        "type": "mp4",
+        "hdvFlag": 1,
+        "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/147439202_1280x720.jpg",
+        "mediaDuration": 106,
+        "prettyDuration": "01:46",
+        "uploadDate": 1303510225,
+        "tags": "etnies,etnies moto,FMX,Todd Potter,Metal Mulisha",
+        "hookText": "http:\/\/www.facebook.com\/etnies",
+        "sources": [
+            {
+                "file": "https:\/\/player.vimeo.com\/external\/22760294.hd.mp4?s=733a099bdbff771e15bb6a27dc76c244&profile_id=113&oauth2_token_id=62432308"
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

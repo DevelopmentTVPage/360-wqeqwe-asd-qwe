@@ -19,8 +19,6 @@
     "id": "6384786",
     "loginId": "753",
     "entityType": "1",
-    "sortOrder": "294",
-    "entityIdParent": "168514",
     "titleTextEncoded": "Fox-Wake-Presents-Bob-Soven-We-Live-A-Tad-Unconventional",
     "category": null,
     "duration": "261",
@@ -39,14 +37,7 @@
         "hookText": "Bob Soven's approach to life isn't as much about seizing the moment as it is about letting the moment seize him. Always game for an adventure, new experience, ..."
     },
     "transcripts": null,
-    "metrics_statistics": {
-        "VV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "engagement_score": {
-                "lastUpdatedDate": "2017-05-25"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

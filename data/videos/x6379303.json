@@ -1,0 +1,46 @@
+{
+    "title": "Wilko Lands on etnies",
+    "description": "etnies welcomes Matt \"Wilko\" Wilkinson to the team.\n\nhttp:\/\/etnies.com\/blog\/2012\/1\/26\/wilko-lands-on-etnies\/",
+    "referenceId": null,
+    "date_created": "1440443218",
+    "date_modified": "1440443218",
+    "tags": "etnies,etnies surf,matt wilkinson,wilko,etnies australia,rip curl,australia",
+    "sourceId": "3",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6379303",
+    "loginId": "753",
+    "entityType": "1",
+    "titleTextEncoded": "Wilko-Lands-on-etnies",
+    "category": null,
+    "duration": 123,
+    "settings": {},
+    "asset": {
+        "type": "mp4",
+        "sources": [
+            {
+                "file": "https:\/\/player.vimeo.com\/external\/35712187.hd.mp4?s=9a66edae8c3af7a7931cfd14f71d9d40&profile_id=113&oauth2_token_id=62432308"
+            }
+        ],
+        "hdvFlag": 1,
+        "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/246163871_1280x699.jpg",
+        "mediaDuration": 123,
+        "prettyDuration": "02:03",
+        "uploadDate": 1327609961,
+        "tags": "etnies,etnies surf,matt wilkinson,wilko,etnies australia,rip curl,australia",
+        "hookText": "etnies welcomes Matt \"Wilko\" Wilkinson to the team.\n\nhttp:\/\/etnies.com\/blog\/2012\/1\/26\/wilko-lands-on-etnies\/"
+    },
+    "transcripts": null,
+    "metrics_statistics": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

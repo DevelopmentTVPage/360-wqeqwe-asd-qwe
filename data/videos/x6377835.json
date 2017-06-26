@@ -1,0 +1,46 @@
+{
+    "title": "Arbor Snowboards :: The Postcard Series - Japan",
+    "description": "The third episode of the Postcard Series brings the Arbor team to the Land of the Rising Sun for adventures including, but not limited to: deep powder, sketchy street rails, sake bombs, backcountry booters, new beginnings and happy endings.",
+    "referenceId": null,
+    "date_created": "1440437512",
+    "date_modified": "1454554224",
+    "tags": "Arbor,Arbor Snowboards,Postcard Series,Snowboarding,Japan,Scotty Vine,Blake Axelson,Erik Leon,Yuma Abe",
+    "sourceId": "3",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6377835",
+    "loginId": "753",
+    "entityType": "1",
+    "titleTextEncoded": "Arbor-Snowboards-The-Postcard-Series-Japan",
+    "category": null,
+    "duration": 382,
+    "settings": {},
+    "asset": {
+        "type": "mp4",
+        "hdvFlag": 1,
+        "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/494946315_1280x720.jpg",
+        "mediaDuration": 382,
+        "prettyDuration": "06:22",
+        "uploadDate": 1414793244,
+        "tags": "Arbor,Arbor Snowboards,Postcard Series,Snowboarding,Japan,Scotty Vine,Blake Axelson,Erik Leon,Yuma Abe",
+        "hookText": "The third episode of the Postcard Series brings the Arbor team to the Land of the Rising Sun for adventures including, but not limited to: deep powder, sketchy street rails, sake bombs, backcountry booters, new beginnings and happy endings.\n\nOther Episode",
+        "sources": [
+            {
+                "file": "https:\/\/player.vimeo.com\/external\/110620598.hd.mp4?s=f6b8c599626d49897d5827193f578a2e&profile_id=113&oauth2_token_id=74680278"
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

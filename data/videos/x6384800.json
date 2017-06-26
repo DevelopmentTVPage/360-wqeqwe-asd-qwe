@@ -19,8 +19,6 @@
     "id": "6384800",
     "loginId": "753",
     "entityType": "1",
-    "sortOrder": "105",
-    "entityIdParent": "168534",
     "titleTextEncoded": "SUBJECT-MADARS-MADARS-APSE-IS-PRO",
     "category": null,
     "duration": "226",
@@ -39,14 +37,7 @@
         "hookText": "We proudly welcome Madars Apse to the Pro team. It's impossible not to get entranced by the creative skateboarding of this lanky, Latvian. The world-travelin..."
     },
     "transcripts": null,
-    "metrics_statistics": {
-        "VV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "engagement_score": {
-                "lastUpdatedDate": "2017-05-25"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

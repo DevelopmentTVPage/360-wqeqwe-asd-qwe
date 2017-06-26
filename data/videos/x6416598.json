@@ -19,8 +19,6 @@
     "id": "6416598",
     "loginId": "753",
     "entityType": "1",
-    "sortOrder": "17",
-    "entityIdParent": "168534",
     "titleTextEncoded": "ELEMENTAL-AWARENESS-CHANGING-LIVES-THROUGH-SKATEBOARDING",
     "category": null,
     "duration": "182",
@@ -39,14 +37,7 @@
         "hookText": "Elemental Awareness hit the road to visit their friends on the Apache, Flathead, and Navajo reservations, where they were able to skate with the kids, and co..."
     },
     "transcripts": null,
-    "metrics_statistics": {
-        "VV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "engagement_score": {
-                "lastUpdatedDate": "2017-05-25"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

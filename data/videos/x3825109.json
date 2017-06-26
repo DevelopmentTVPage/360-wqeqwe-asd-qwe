@@ -1,0 +1,57 @@
+{
+    "title": "Sperry  - Brand Video Spring 2015",
+    "description": "Sperry  - Brand Video Spring 2015",
+    "referenceId": null,
+    "date_created": "1424813153",
+    "date_modified": "1424897815",
+    "tags": "Sperry, shoes, Boat Shoes, Top siders, Tilly's, Shopping,",
+    "sourceId": "1",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "3825109",
+    "loginId": "753",
+    "entityType": "1",
+    "titleTextEncoded": "Sperry-Brand-Video-Spring-2015",
+    "category": null,
+    "duration": "30",
+    "settings": [],
+    "asset": {
+        "type": "mp4",
+        "sources": [
+            {
+                "file": "https:\/\/d2mhchrq41duh4.cloudfront.net\/753\/3825109\/8a6cfc1b_b037_4bfe_d63d_de6278cad404.mp4"
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/3825109\/720p_8a6cfc1b_b037_4bfe_d63d_de6278cad404.mp4",
+                "quality": "720p"
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/3825109\/480p_8a6cfc1b_b037_4bfe_d63d_de6278cad404.mp4",
+                "quality": "480p",
+                "tvpdefault": true
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/3825109\/360p_8a6cfc1b_b037_4bfe_d63d_de6278cad404.mp4",
+                "quality": "360p"
+            }
+        ],
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/753\/canvas\/655\/368\/160342064-5526456252.png",
+        "mediaDuration": "30",
+        "prettyDuration": "00:00:30",
+        "hookText": "Sperry  - Brand Video Spring 2015",
+        "tags": "Sperry, shoes, Boat Shoes, Top siders, Tilly's, Shopping,"
+    },
+    "transcripts": null,
+    "metrics_statistics": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

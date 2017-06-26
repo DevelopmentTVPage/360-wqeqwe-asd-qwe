@@ -1,0 +1,44 @@
+{
+    "title": "Freaks Of Warmth",
+    "description": " ",
+    "referenceId": null,
+    "date_created": "1408991123",
+    "date_modified": "1418181930",
+    "tags": "",
+    "sourceId": "5",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "1",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "3761234",
+    "loginId": "753",
+    "entityType": "1",
+    "titleTextEncoded": "Freaks-Of-Warmth",
+    "category": null,
+    "duration": "201",
+    "settings": [],
+    "asset": {
+        "type": "mp4",
+        "sources": [
+            {
+                "file": "\/\/do0631budpzeh.cloudfront.net\/live\/videos\/753\/9de7c4cd_79cd_473a_fbe2_8934ffb3c281.mp4"
+            }
+        ],
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/753\/canvas\/655\/368\/492129732-67391188669.png",
+        "mediaDuration": "201",
+        "prettyDuration": "00:03:21",
+        "hookText": " ",
+        "tags": ""
+    },
+    "transcripts": null,
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

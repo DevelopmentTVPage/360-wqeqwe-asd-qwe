@@ -19,8 +19,6 @@
     "id": "6414524",
     "loginId": "753",
     "entityType": "1",
-    "sortOrder": "41",
-    "entityIdParent": "168534",
     "titleTextEncoded": "ELEMENT-DROPSPOT-FUN-BOX-WITH-NYJAH-HUSTON-AND-FRIENDS",
     "category": null,
     "duration": "46",
@@ -39,14 +37,7 @@
         "hookText": "When the sun goes down, Nyjah Huston along with Chase Webb and Ethan Loy set out to quickly make their own spot with the Fun Box. The Element Drop Spot ..."
     },
     "transcripts": null,
-    "metrics_statistics": {
-        "VV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "engagement_score": {
-                "lastUpdatedDate": "2017-05-25"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

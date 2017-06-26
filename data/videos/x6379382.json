@@ -1,0 +1,46 @@
+{
+    "title": "etnies Presents the Tyler Bledsoe Mid pro model, Part 2",
+    "description": "www.facebook.com\/etnies",
+    "referenceId": null,
+    "date_created": "1440443349",
+    "date_modified": "1440443349",
+    "tags": "etnies skateboarding,Tyler Bledsoe,Bledsoe Mid pro model,Portland,Alien Workshop",
+    "sourceId": "3",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6379382",
+    "loginId": "753",
+    "entityType": "1",
+    "titleTextEncoded": "etnies-Presents-the-Tyler-Bledsoe-Mid-pro-model-Part-2",
+    "category": null,
+    "duration": 177,
+    "settings": {},
+    "asset": {
+        "type": "mp4",
+        "sources": [
+            {
+                "file": "https:\/\/player.vimeo.com\/external\/24275383.sd.mp4?s=9f144d391c58d8ed1e01d7208a3a3fa4&profile_id=112&oauth2_token_id=62432308"
+            }
+        ],
+        "hdvFlag": 0,
+        "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/158872574_960x720.jpg",
+        "mediaDuration": 177,
+        "prettyDuration": "02:57",
+        "uploadDate": 1306427264,
+        "tags": "etnies skateboarding,Tyler Bledsoe,Bledsoe Mid pro model,Portland,Alien Workshop",
+        "hookText": "www.facebook.com\/etnies"
+    },
+    "transcripts": null,
+    "metrics_statistics": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

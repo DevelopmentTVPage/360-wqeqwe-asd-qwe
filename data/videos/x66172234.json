@@ -19,8 +19,6 @@
     "id": "66172234",
     "loginId": "753",
     "entityType": "1",
-    "sortOrder": "24",
-    "entityIdParent": "168515",
     "titleTextEncoded": "Beats-by-Dre-Sound-Symposium-China-Recap",
     "category": "",
     "duration": 65,
@@ -40,14 +38,7 @@
         "quality": ""
     },
     "transcripts": "What we're going to do tonight is we're going to talk about sound and how sound is related to emotion, and we're talking about sound, we're talking about how do you hear the music that artist record. I believe music has the power to communicate emotion, recording music is simply a process of packaging these feelings, so that when an audience listens to the music, they are immersed in them. Pursuing high quality sound and music is a lifelong mission for us as musicians. When I recorded my new album, I was doing things that hadn't been done before. It's an unprecedented album, recorded in 3D, meant to be listened to on headphones. When I was mastering the album, I was working on headphones. You should also wear headphones in order to hear the full 3D sound. If I can feel the music, then I'm sure  listeners will feel it too. \n[Music Playing]",
-    "metrics_statistics": {
-        "VV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "engagement_score": {
-                "lastUpdatedDate": "2017-05-25"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

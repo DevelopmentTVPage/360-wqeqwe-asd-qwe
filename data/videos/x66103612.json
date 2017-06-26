@@ -19,8 +19,6 @@
     "id": "66103612",
     "loginId": "753",
     "entityType": "1",
-    "sortOrder": "2",
-    "entityIdParent": "66115242",
     "titleTextEncoded": "Carpe-Diem-Espresso",
     "category": "",
     "duration": 15,
@@ -38,14 +36,7 @@
         "views": "1157"
     },
     "transcripts": "My name is Angel Master Roasting for Toms roasting cup, our Carpe Diem espresso is an intercontinental affair. It is a blend featuring medium roasted premium coffee beans from East Africa and Latin America. Enjoy it early in the morning or after a meal, salud.",
-    "metrics_statistics": {
-        "VV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "engagement_score": {
-                "lastUpdatedDate": "2017-05-25"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

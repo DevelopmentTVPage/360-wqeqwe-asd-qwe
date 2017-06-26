@@ -19,8 +19,6 @@
     "id": "6390198",
     "loginId": "753",
     "entityType": "1",
-    "sortOrder": "487",
-    "entityIdParent": "158318",
     "titleTextEncoded": "PHANTOM-WETSUITS-PETE-DEVRIES",
     "category": null,
     "duration": "15",
@@ -39,14 +37,7 @@
         "hookText": "Phantom Wetsuits featuring Thermo Light technology, for your lightest, warmest surf yet."
     },
     "transcripts": null,
-    "metrics_statistics": {
-        "VV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "engagement_score": {
-                "lastUpdatedDate": "2017-05-25"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

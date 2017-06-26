@@ -19,8 +19,6 @@
     "id": "161342",
     "loginId": "753",
     "entityType": "1",
-    "sortOrder": "200",
-    "entityIdParent": "168557",
     "titleTextEncoded": "Building-The-New-Skatepark-Volcom-Damn-Am-2013",
     "category": null,
     "duration": "169",
@@ -36,14 +34,7 @@
         "prettyDuration": "00:02:49"
     },
     "transcripts": null,
-    "metrics_statistics": {
-        "VV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "engagement_score": {
-                "lastUpdatedDate": "2017-05-25"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

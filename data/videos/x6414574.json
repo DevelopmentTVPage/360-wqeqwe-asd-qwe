@@ -19,8 +19,6 @@
     "id": "6414574",
     "loginId": "753",
     "entityType": "1",
-    "sortOrder": "473",
-    "entityIdParent": "168524",
     "titleTextEncoded": "Manhattan-Days-A-film-by-Pontus-Alv-for-Converse-Cons",
     "category": null,
     "duration": "390",
@@ -39,14 +37,7 @@
         "hookText": "Manhattan Days is a film composed by Pontus Alv celebrating the Converse Cons Polar Skate Co. CTAS Pro and featuring Cons and Polar riders Aaron ..."
     },
     "transcripts": null,
-    "metrics_statistics": {
-        "VV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "engagement_score": {
-                "lastUpdatedDate": "2017-05-25"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

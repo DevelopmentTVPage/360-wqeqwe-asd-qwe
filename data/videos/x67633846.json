@@ -19,8 +19,6 @@
     "id": "67633846",
     "loginId": "753",
     "entityType": "1",
-    "sortOrder": "89",
-    "entityIdParent": "3762188",
     "titleTextEncoded": "monkey-eats-gopro",
     "category": null,
     "duration": 75,
@@ -39,14 +37,7 @@
         "quality": ""
     },
     "transcripts": "What happened with that monkey? The monkey story basically goes like this: I just got to Nicaragua haven't even put my fins on my surfboard yet, and I look over and see this monkey sitting in the cage and I was like agh what a cute little monkey I'm gonna go play with him. Hi, what is it buddy, he grabbed my GoPro, hi nice to meet you buddy! Hey! No, no, no, hey, no, what do I do? Hey, hey, hey ,hey. I can't talk, that's not how the story went, he ate it for about 35 seconds until he figured out how to eject the SD card and then once he ejected the SD card he took this off and he ate the battery. Bottom line is a monkey ate my GoPro.",
-    "metrics_statistics": {
-        "VV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "engagement_score": {
-                "lastUpdatedDate": "2017-05-25"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

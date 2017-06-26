@@ -1,0 +1,46 @@
+{
+    "title": "3 Minutes With Joe Gavin",
+    "description": "Etnies presents: 3 Minutes With Joe Gavin",
+    "referenceId": null,
+    "date_created": "1440443386",
+    "date_modified": "1455840218",
+    "tags": "etnies,etnies UK,skateboarding,Joe Gavin,Harmony,Note,carhartt",
+    "sourceId": "3",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6379401",
+    "loginId": "753",
+    "entityType": "1",
+    "titleTextEncoded": "3-Minutes-With-Joe-Gavin",
+    "category": null,
+    "duration": 265,
+    "settings": {},
+    "asset": {
+        "type": "mp4",
+        "hdvFlag": 0,
+        "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/181024903_960x524.jpg",
+        "mediaDuration": 265,
+        "prettyDuration": "04:25",
+        "uploadDate": 1302202148,
+        "tags": "etnies,etnies UK,skateboarding,Joe Gavin,Harmony,Note,carhartt",
+        "hookText": "Etnies presents: 3 Minutes With Joe Gavin\n\nwww.etnies.com\nwww.facebook.com\/etnies\nwww.facebook.com\/etnies.europe",
+        "sources": [
+            {
+                "file": "https:\/\/player.vimeo.com\/external\/22091323.sd.mp4?s=231198026e37acf4ce74fcdadc39047c&profile_id=112&oauth2_token_id=62432308"
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

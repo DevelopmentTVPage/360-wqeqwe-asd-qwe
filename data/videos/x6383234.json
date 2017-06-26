@@ -19,8 +19,6 @@
     "id": "6383234",
     "loginId": "753",
     "entityType": "1",
-    "sortOrder": "108",
-    "entityIdParent": "168534",
     "titleTextEncoded": "Element-Make-It-Count-2015-Wildcard",
     "category": null,
     "duration": "13",
@@ -39,14 +37,7 @@
         "hookText": "Win a trip to compete in the Element \"Make it Count\" Finals! \n\nWinners will be announced the first week of June.\n \n1. Post a 15 sec. video of you at your local park on Instagram or Twitter\n2. Hashtag #elementmakeitcount and #liveyours \n3. Include your cit"
     },
     "transcripts": null,
-    "metrics_statistics": {
-        "VV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "engagement_score": {
-                "lastUpdatedDate": "2017-05-25"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

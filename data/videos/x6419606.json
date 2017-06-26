@@ -19,8 +19,6 @@
     "id": "6419606",
     "loginId": "753",
     "entityType": "1",
-    "sortOrder": "213",
-    "entityIdParent": "168524",
     "titleTextEncoded": "Converse-Wall-to-Wall-San-Diego-California",
     "category": null,
     "duration": "83",
@@ -39,14 +37,7 @@
         "hookText": "As part of our Wall to Wall series, Californian Beau Stanton took an interesting approach to an exceptionally ornate piece. Painting with oil and using light..."
     },
     "transcripts": null,
-    "metrics_statistics": {
-        "VV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "engagement_score": {
-                "lastUpdatedDate": "2017-05-25"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

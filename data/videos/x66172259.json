@@ -19,8 +19,6 @@
     "id": "66172259",
     "loginId": "753",
     "entityType": "1",
-    "sortOrder": "17",
-    "entityIdParent": "168515",
     "titleTextEncoded": "Black-Thought-Speaks-on-BeatsxRootsJam-2016",
     "category": "",
     "duration": 37,
@@ -40,14 +38,7 @@
         "quality": ""
     },
     "transcripts": "Aye what's up this is Blackthought, we're in the backroom at the Roots Jam. Give it up ladies and gentleman for John Legend in the building, Leon Bridges, my name is Tish Hyman and I came to have all of yall vibing. Lenny Kravitz, yes! The fire marshalls have been here every night, it's a meeting of the minds, it's a jam session, I mean it's cool being able to interact with these artists, legends, upstarts, and just embrace the brilliance. The legacy in the legend lives on.",
-    "metrics_statistics": {
-        "VV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "engagement_score": {
-                "lastUpdatedDate": "2017-05-25"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

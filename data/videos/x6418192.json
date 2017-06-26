@@ -1,0 +1,46 @@
+{
+    "title": "Hank Gaskell",
+    "description": "",
+    "referenceId": "21490557",
+    "date_created": "1443638110",
+    "date_modified": "1443638110",
+    "tags": "",
+    "sourceId": "3",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6418192",
+    "loginId": "753",
+    "entityType": "1",
+    "titleTextEncoded": "Hank-Gaskell",
+    "category": null,
+    "duration": 139,
+    "settings": {},
+    "asset": {
+        "type": "mp4",
+        "sources": [
+            {
+                "file": "https:\/\/player.vimeo.com\/external\/21490557.hd.mp4?s=9afdbb24d77650438c8241743416f1ed&profile_id=113&oauth2_token_id=56801069"
+            }
+        ],
+        "hdvFlag": 1,
+        "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/138270724_1280x720.jpg",
+        "mediaDuration": 139,
+        "prettyDuration": "02:19",
+        "uploadDate": 1301070784,
+        "tags": "",
+        "hookText": ""
+    },
+    "transcripts": null,
+    "metrics_statistics": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

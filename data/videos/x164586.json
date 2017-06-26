@@ -19,8 +19,6 @@
     "id": "164586",
     "loginId": "753",
     "entityType": "1",
-    "sortOrder": "8",
-    "entityIdParent": "168557",
     "titleTextEncoded": "Bruce-Alex-on-V6S-Boardies",
     "category": null,
     "duration": "78",
@@ -36,14 +34,7 @@
         "prettyDuration": "00:01:18"
     },
     "transcripts": null,
-    "metrics_statistics": {
-        "VV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "engagement_score": {
-                "lastUpdatedDate": "2017-05-25"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

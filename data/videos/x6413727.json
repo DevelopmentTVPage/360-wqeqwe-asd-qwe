@@ -19,8 +19,6 @@
     "id": "6413727",
     "loginId": "753",
     "entityType": "1",
-    "sortOrder": "63",
-    "entityIdParent": "168534",
     "titleTextEncoded": "ELEMENT-MICHAEL-KERSHNAR-SHOE-AND-VIDEO",
     "category": null,
     "duration": "54",
@@ -39,14 +37,7 @@
         "hookText": "We are proud to announce the Michael Kershnar for Element collaboration. Mike took our classic shoe, the Topaz, and re-imagined with his artwork. To launch t."
     },
     "transcripts": null,
-    "metrics_statistics": {
-        "VV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "engagement_score": {
-                "lastUpdatedDate": "2017-05-25"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

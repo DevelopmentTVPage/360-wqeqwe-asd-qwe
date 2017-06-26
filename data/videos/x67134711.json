@@ -19,8 +19,6 @@
     "id": "67134711",
     "loginId": "753",
     "entityType": "1",
-    "sortOrder": "96",
-    "entityIdParent": "168538",
     "titleTextEncoded": "JanSport-Pack-Review-Cool-Student",
     "category": "",
     "duration": 79,
@@ -40,14 +38,7 @@
         "quality": ""
     },
     "transcripts": "Hey guys i'm Ahren pack designer here at jansport and today I'm going to walk you through some awesome new products. So we're going to look at the cool student it's a 34 liter pack it's made out of 600 denier polyester that's lightweight and highly abrasion resistant also features a synthetic leather bottom and touch points on the back of this pack is where you'll find really nicely padded s-curve shoulder straps as well as a fully padded back panel and a haul loop on the side you'll notice a really nice expandable water bottle pocket will fit really large water bottles this bag has two main compartments the back compartment is where you'll find your laptop sleeve it's up to a 15 inch laptop the second compartment just a nice additional dump zone for larger items like notebooks in front of that you've got a quick stash pocket right here for smaller items easy to access on the go and your organizer pocket up here is where your key fob lives you got pen loops and another little pocket to keep cords out of the way finally in front of that is a additional quick drop pocket great spot for other small islands and there you have it you're cool student as always guaranteed for life.",
-    "metrics_statistics": {
-        "VV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "engagement_score": {
-                "lastUpdatedDate": "2017-05-25"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

@@ -19,8 +19,6 @@
     "id": "66103611",
     "loginId": "753",
     "entityType": "1",
-    "sortOrder": "3",
-    "entityIdParent": "66115242",
     "titleTextEncoded": "Giving-Partner-Spotlight-Global-Communities",
     "category": "",
     "duration": 85,
@@ -38,14 +36,7 @@
         "views": "3712"
     },
     "transcripts": "My name is Juste Kayihura I'm a program coordinator at global communities in Rwanda. We are in more than 30 countries our main purpose is to reach by millions and try to need lift them out of poverty. TOMS shoes is just that perfect fit to what we do, we give the shoes to all the children of the members of savings and lending groups. The parents save up to a dollar-a-week so from the savings and lending group they were able to buy a small livestock, they're able to produce vegetables, tomatoes, and other fruits. So the impact is the increased resilience to the economic shocks. We have many group that are forming because they know that their neighbors received shoes parents are asking to join savings and lending group so to us it's a recruitment without any efforts, we have many members we can reach more people with uh all the range of services that we have to offer just because we're providing that pair of shoes in a certain community.",
-    "metrics_statistics": {
-        "VV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "engagement_score": {
-                "lastUpdatedDate": "2017-05-25"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

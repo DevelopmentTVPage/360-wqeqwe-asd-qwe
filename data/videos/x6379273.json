@@ -1,0 +1,46 @@
+{
+    "title": "Sidewalk Surfing with Wilko",
+    "description": "Wilko checks the waves & takes to the streets for some sidewalk surfing.\nhttp:\/\/etni.es\/sidewalksurferwilko",
+    "referenceId": null,
+    "date_created": "1440443159",
+    "date_modified": "1444778872",
+    "tags": "etnies,etnies surf,Wilko,Matt Wilkinson,Out 2 Brunch,Rip Curl,facebook.com\/etnies,Newport Beach",
+    "sourceId": "3",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6379273",
+    "loginId": "753",
+    "entityType": "1",
+    "titleTextEncoded": "Sidewalk-Surfing-with-Wilko",
+    "category": null,
+    "duration": 97,
+    "settings": {},
+    "asset": {
+        "type": "mp4",
+        "hdvFlag": 1,
+        "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/308919583_1280x721.jpg",
+        "mediaDuration": 97,
+        "prettyDuration": "01:37",
+        "uploadDate": 1340057770,
+        "tags": "etnies,etnies surf,Wilko,Matt Wilkinson,Out 2 Brunch,Rip Curl,facebook.com\/etnies,Newport Beach",
+        "hookText": "Wilko checks the waves & takes to the streets for some sidewalk surfing.\nhttp:\/\/etni.es\/sidewalksurferwilko\nhttp:\/\/www.facebook.com\/etnies",
+        "sources": [
+            {
+                "file": "https:\/\/player.vimeo.com\/external\/44277437.hd.mp4?s=6369287fd2b181768d6e6684ef1b867b&profile_id=113&oauth2_token_id=62432308"
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

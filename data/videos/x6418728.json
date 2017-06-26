@@ -19,8 +19,6 @@
     "id": "6418728",
     "loginId": "753",
     "entityType": "1",
-    "sortOrder": "365",
-    "entityIdParent": "168524",
     "titleTextEncoded": "Stereophant-Vermelha-Converse-Rubber-Tracks-Track-Of-The-Week",
     "category": null,
     "duration": "187",
@@ -39,14 +37,7 @@
         "hookText": "The single \"Vermelha\" by Stereophant is this week's \"Track of the Week\". The band arrived to Rubber Tracks Studio in Rio de Janeiro to record a song that the..."
     },
     "transcripts": null,
-    "metrics_statistics": {
-        "VV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "engagement_score": {
-                "lastUpdatedDate": "2017-05-25"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

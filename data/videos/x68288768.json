@@ -19,8 +19,6 @@
     "id": "68288768",
     "loginId": "753",
     "entityType": "1",
-    "sortOrder": "110",
-    "entityIdParent": "3762188",
     "titleTextEncoded": "Teaching-a-Kitten-To-Swim",
     "category": null,
     "duration": 115,
@@ -39,14 +37,7 @@
         "quality": ""
     },
     "transcripts": "Okay it's going, It's videoing? I think yeah. Ready? Bandy teaching a kitten how to swim, she\u2019s like no! There she goes go on and follow mommy. One of the two kittens that Brandy bottle fed from the time they were born, a day old, 8 weeks now. Awe cowboy you're such a good grandpa, hehe swim little Phantom, Cowboy you're in the way haha, so that's my spot where I get out haha! Not so sure about the steps yet, good girl, good girl. Want to swim a little bit more haha. There you go, good job good girl, say hi, say hi, hi cute face. There she is haha not so sure about this whole swimming thing though haha, you're doing good, but you're doing so good, yes. Want some water? You're not you're not scratching me or anything, look at you. She's got those paws out all ready to go huh, lets just hang out, lets just float. ",
-    "metrics_statistics": {
-        "VV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "engagement_score": {
-                "lastUpdatedDate": "2017-05-25"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null
