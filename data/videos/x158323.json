@@ -1,0 +1,57 @@
+{
+    "title": "Rook Brand Available At Tilly's",
+    "description": "Rook and Tilly's are celebrating spring and art.",
+    "referenceId": null,
+    "date_created": "1398284863",
+    "date_modified": "1418181328",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "76",
+    "CVV_VI": "3",
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "158323",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "2",
+    "entityIdParent": "3778165",
+    "titleTextEncoded": "Rook-Brand-Available-At-Tilly-s",
+    "category": null,
+    "duration": "60",
+    "settings": [],
+    "asset": {
+        "author": "tillys",
+        "hdvFlag": 1,
+        "hookText": "Rook and Tilly's are celebrating spring and art.",
+        "tags": "",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/Z5v2yZxkVzg\/maxresdefault.jpg",
+        "uploadDate": 1397069844,
+        "videoId": "Z5v2yZxkVzg",
+        "mediaDuration": "60",
+        "prettyDuration": "00:01:00"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "conversion_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

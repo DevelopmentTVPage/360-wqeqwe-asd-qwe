@@ -1,0 +1,31 @@
+{
+    "title": "LK",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1401128812",
+    "date_modified": "1406939786",
+    "tags": "",
+    "sourceId": null,
+    "status": "approved",
+    "visibility": "1",
+    "id": "168525",
+    "loginId": "753",
+    "entityType": "3",
+    "titleTextEncoded": "LK",
+    "category": null,
+    "duration": null,
+    "settings": {
+        "canvasImage": "175281167-0.jpg",
+        "colorClass": "light",
+        "canvasType": "cropped",
+        "canvasCropped": "175281167-0401280761.jpg",
+        "auto": {
+            "dynamic": 0
+        },
+        "optimize": 1,
+        "autoPlay": 1,
+        "autoNext": 1,
+        "hideoos": 1
+    },
+    "transcripts": null
+}

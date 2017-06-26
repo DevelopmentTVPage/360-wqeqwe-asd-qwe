@@ -1,0 +1,50 @@
+{
+    "title": "LEI DAY 4: Morning Update",
+    "description": "No description.",
+    "referenceId": null,
+    "date_created": "1398814010",
+    "date_modified": "1449883565",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "1",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "164628",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "144",
+    "entityIdParent": "168557",
+    "titleTextEncoded": "LEI-DAY-4-Morning-Update",
+    "category": null,
+    "duration": "43",
+    "settings": [],
+    "asset": {
+        "author": "Volcom",
+        "videoId": "5h0VNL2M5pI",
+        "hookText": "No description.",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/5h0VNL2M5pI\/maxresdefault.jpg",
+        "mediaDuration": "43",
+        "hdvFlag": 1,
+        "uploadDate": 1264644024,
+        "prettyDuration": "00:00:43"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

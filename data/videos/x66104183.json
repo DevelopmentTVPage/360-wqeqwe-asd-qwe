@@ -1,0 +1,54 @@
+{
+    "title": "Resurface:Underground_II",
+    "description": "Resurface:Underground_II",
+    "referenceId": "XzDD-uwwGls",
+    "date_created": "1424295643",
+    "date_modified": "1465341113",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "6",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "66104183",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "15",
+    "entityIdParent": "168555",
+    "titleTextEncoded": "Resurface-Underground-II",
+    "category": "",
+    "duration": 107,
+    "settings": {},
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/XzDD-uwwGls\/hqdefault.jpg",
+        "uploadDate": 1424295643,
+        "videoId": "XzDD-uwwGls",
+        "title": "Resurface:Underground_II",
+        "description": "",
+        "author": "Alien Workshop",
+        "mediaDuration": 107,
+        "prettyDuration": "00:01:47",
+        "views": "39037",
+        "uploadAsset": false,
+        "quality": ""
+    },
+    "transcripts": "[Music Playing]",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

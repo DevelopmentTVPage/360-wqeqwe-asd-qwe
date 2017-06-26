@@ -1,0 +1,30 @@
+{
+    "title": "Madden Girl",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1410196992",
+    "date_modified": "1410197460",
+    "tags": "",
+    "sourceId": null,
+    "status": "approved",
+    "visibility": "1",
+    "id": "3764367",
+    "loginId": "753",
+    "entityType": "3",
+    "titleTextEncoded": "Madden-Girl",
+    "category": null,
+    "duration": null,
+    "settings": {
+        "canvasImage": "202528371-0.jpg",
+        "colorClass": "light",
+        "canvasType": "cropped",
+        "hideoos": 1,
+        "auto": {
+            "dynamic": 0,
+            "limit": 8
+        },
+        "optimize": 1,
+        "canvasCropped": "202528371-0358525654.jpg"
+    },
+    "transcripts": null
+}

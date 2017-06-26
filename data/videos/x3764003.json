@@ -1,0 +1,59 @@
+{
+    "title": "Introducing Aaron \"Jaws\" Homoki | AYC",
+    "description": "AYC proudly welcomes Aaron \"Jaws\" Homoki to the team\n\nFilmed by: Don Luong",
+    "referenceId": null,
+    "date_created": "1409867097",
+    "date_modified": "1470241069",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": "Asphalt_Yacht_Club",
+    "video_celeb": null,
+    "video_activity": "Skating",
+    "VV_VI": "17",
+    "CVV_VI": "1",
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "3764003",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "2",
+    "entityIdParent": "3764001",
+    "titleTextEncoded": "Introducing-Aaron-Jaws-Homoki-AYC",
+    "category": null,
+    "duration": "42",
+    "settings": [],
+    "asset": {
+        "author": "Asphalt Yacht Club",
+        "hdvFlag": 1,
+        "hookText": "AYC proudly welcomes Aaron \"Jaws\" Homoki to the team Filmed by: Don Luong Shop now at: http:\/\/www.asphaltyachtclub.com Subscribe to Asphalt Yacht Club: http:...",
+        "tags": "",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/81UN-Zg8k3Q\/maxresdefault.jpg",
+        "uploadDate": 1396285195,
+        "videoId": "81UN-Zg8k3Q",
+        "mediaDuration": "42",
+        "prettyDuration": "00:00:42",
+        "uploadAsset": false,
+        "quality": ""
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "conversion_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

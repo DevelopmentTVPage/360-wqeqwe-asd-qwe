@@ -1,0 +1,50 @@
+{
+    "title": "Day 2 Highlights",
+    "description": "Day 2 Highlights",
+    "referenceId": null,
+    "date_created": "1398814050",
+    "date_modified": "1448329724",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "1",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "164291",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "177",
+    "entityIdParent": "168557",
+    "titleTextEncoded": "Day-2-Highlights",
+    "category": null,
+    "duration": "131",
+    "settings": [],
+    "asset": {
+        "author": "Volcom",
+        "videoId": "Pe3sPcAJ0As",
+        "hookText": "No description.",
+        "thumbnailUrl": "https:\/\/i1.ytimg.com\/vi\/Pe3sPcAJ0As\/hqdefault.jpg",
+        "mediaDuration": "131",
+        "hdvFlag": 0,
+        "uploadDate": 1265031069,
+        "prettyDuration": "00:02:11"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

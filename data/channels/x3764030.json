@@ -1,0 +1,30 @@
+{
+    "title": "Casual Industrees",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1409875146",
+    "date_modified": "1409876057",
+    "tags": "",
+    "sourceId": null,
+    "status": "approved",
+    "visibility": "1",
+    "id": "3764030",
+    "loginId": "753",
+    "entityType": "3",
+    "titleTextEncoded": "Casual-Industrees",
+    "category": null,
+    "duration": null,
+    "settings": {
+        "canvasImage": "716884398-0.jpg",
+        "colorClass": "light",
+        "canvasType": "cropped",
+        "canvasCropped": "716884398-9118786407.jpg",
+        "hideoos": 1,
+        "auto": {
+            "dynamic": 0
+        },
+        "optimize": 1,
+        "autoPlay": 0
+    },
+    "transcripts": null
+}

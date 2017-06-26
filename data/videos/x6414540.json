@@ -1,0 +1,55 @@
+{
+    "title": "Shop etnies Spring 2012",
+    "description": "Shop the new etnies Spring collection, available now!",
+    "referenceId": "36099452",
+    "date_created": "1443200118",
+    "date_modified": "1450479952",
+    "tags": "etnies,etnies spring12,shop etnies,ryan sheckler,devine calloway,jose rojo,nathan wiliams,corey martinez",
+    "sourceId": "3",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "1",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6414540",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "171",
+    "entityIdParent": "168527",
+    "titleTextEncoded": "Shop-etnies-Spring-2012",
+    "category": null,
+    "duration": 114,
+    "settings": {},
+    "asset": {
+        "type": "mp4",
+        "hdvFlag": 1,
+        "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/258047064_1280x699.jpg",
+        "mediaDuration": 114,
+        "prettyDuration": "01:54",
+        "uploadDate": 1328211002,
+        "tags": "etnies,etnies spring12,shop etnies,ryan sheckler,devine calloway,jose rojo,nathan wiliams,corey martinez",
+        "hookText": "Shop the new etnies Spring collection, available now! http:\/\/etnies.com\/shop\/mens\/spring-12\/instock\n\nhttp:\/\/www.facebook.com\/etnies",
+        "sources": [
+            {
+                "file": "https:\/\/player.vimeo.com\/external\/36099452.hd.mp4?s=cf9475add73b5e05fde130325dd48cd9&profile_id=113&oauth2_token_id=62432308"
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

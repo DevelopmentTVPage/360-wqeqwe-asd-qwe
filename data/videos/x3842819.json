@@ -1,0 +1,61 @@
+{
+    "title": "#TOURNOTES: JJF VS. PAT O",
+    "description": "Brett Simpson and Joel Turpel commentate a pre-Rio Pro faceoff between John John Florence and Pat O'Connell.",
+    "referenceId": null,
+    "date_created": "1432833825",
+    "date_modified": "1470245512",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": "Hurley",
+    "video_celeb": "Pat_O_Connell",
+    "video_activity": "Surfing",
+    "VV_VI": "91",
+    "CVV_VI": "1",
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "3842819",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "215",
+    "entityIdParent": "3764790",
+    "titleTextEncoded": "TOURNOTES-JJF-VS-PAT-O",
+    "category": null,
+    "duration": "157",
+    "settings": [],
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/V56k9R8vv04\/hqdefault.jpg",
+        "uploadDate": 1431368533,
+        "videoId": "V56k9R8vv04",
+        "title": "#TOURNOTES: JJF VS. PAT O",
+        "description": "Brett Simpson and Joel Turpel commentate a pre-Rio Pro faceoff between John John Florence and Pat O'Connell.",
+        "author": "hurley",
+        "mediaDuration": "157",
+        "prettyDuration": "00:02:37",
+        "views": "94961",
+        "hookText": "Brett Simpson and Joel Turpel commentate a pre-Rio Pro faceoff between John John Florence and Pat O'Connell.",
+        "uploadAsset": false,
+        "quality": ""
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "conversion_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

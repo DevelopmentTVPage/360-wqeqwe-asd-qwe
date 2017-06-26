@@ -1,0 +1,78 @@
+{
+    "title": "Billabong Surf Capsule Summer 2015",
+    "description": "From treasured archives to modern day salty moments, this season\u2019s Surf Capsule is in full Billabong celebratory spirit. With uninterrupted daydreams of times way back, this meant-to-be-wet collection is all about the sweet side of surfing. For beautiful moments on an epic wave where there\u2019s a dance and a touch of rootsy romanticism, this season\u2019s collection is made with love for the girl who still gets butterflies when she slips on her suit and rubs wax on her board. From classic colorblocking to our sunbaked Heritage print, this season\u2019s soul food is salt water and pure stoke.",
+    "referenceId": null,
+    "date_created": "1430952027",
+    "date_modified": "1470243907",
+    "tags": "",
+    "sourceId": "1",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": "Billabong",
+    "video_celeb": null,
+    "video_activity": "Surfing",
+    "VV_VI": "419",
+    "CVV_VI": "28",
+    "engagement_score": "3",
+    "conversion_score": "2",
+    "id": "3837610",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "8",
+    "entityIdParent": "168512",
+    "titleTextEncoded": "Billabong-Surf-Capsule-Summer-2015",
+    "category": null,
+    "duration": "70",
+    "settings": [],
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "70"
+        },
+        "thumbnailUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/3837610\/a15aee7a78a814e1fcb2322a3c151304.png",
+        "hookText": "",
+        "type": "mp4",
+        "mediaDuration": "70",
+        "prettyDuration": "00:01:10",
+        "tags": "",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/3837610\/720p_47d39_BBG_SUM15_SURF_CAPSULE_V4_FINAL.mp4",
+                "quality": "720p"
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/3837610\/480p_47d39_BBG_SUM15_SURF_CAPSULE_V4_FINAL.mp4",
+                "quality": "480p"
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/3837610\/360p_47d39_BBG_SUM15_SURF_CAPSULE_V4_FINAL.mp4",
+                "quality": "360p"
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "conversion_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

@@ -1,0 +1,26 @@
+{
+    "title": "IVI",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1441756925",
+    "date_modified": "1441757054",
+    "tags": "",
+    "sourceId": null,
+    "status": "approved",
+    "visibility": "1",
+    "id": "6396358",
+    "loginId": "753",
+    "entityType": "3",
+    "titleTextEncoded": "IVI",
+    "category": null,
+    "duration": null,
+    "settings": {
+        "canvasImage": "112778495-0.png",
+        "colorClass": "light",
+        "canvasType": "cropped",
+        "autoPlay": 1,
+        "autoNext": 1,
+        "canvasCropped": "112778495-011274716.png"
+    },
+    "transcripts": null
+}

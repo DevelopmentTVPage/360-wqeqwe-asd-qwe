@@ -1,0 +1,56 @@
+{
+    "title": "Instax SP-2 Printer Product Video",
+    "description": "Instax SP-2 Printer Product Video",
+    "referenceId": "PXNHLEtK4l0",
+    "date_created": "1467031636",
+    "date_modified": "1471380211",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "10",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "67507738",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "9",
+    "entityIdParent": "3764328",
+    "titleTextEncoded": "Instax-SP-2-Printer-Product-Video",
+    "category": "",
+    "duration": 67,
+    "settings": "",
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/PXNHLEtK4l0\/hqdefault.jpg",
+        "uploadDate": 1467031636,
+        "videoId": "PXNHLEtK4l0",
+        "title": "Instax SP-2 Printer Product Video",
+        "description": "",
+        "author": "Fujifilm North America",
+        "mediaDuration": 67,
+        "prettyDuration": "00:01:07",
+        "views": "6084",
+        "uploadAsset": false,
+        "quality": ""
+    },
+    "transcripts": "[Music Playing]",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": [
+        "12"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

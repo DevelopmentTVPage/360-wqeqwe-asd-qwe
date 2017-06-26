@@ -1,0 +1,51 @@
+{
+    "title": "For Nekst",
+    "description": "In fitting tribute to his recently passed brother, VIZIE heads to their hometown of Houston to honor the memory of NEKST as part of our ongoing Artist Driven series.",
+    "referenceId": null,
+    "date_created": "1401412208",
+    "date_modified": "1449179742",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "11",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "170666",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "5",
+    "entityIdParent": "168518",
+    "titleTextEncoded": "For-Nekst",
+    "category": null,
+    "duration": "296",
+    "settings": [],
+    "asset": {
+        "author": "LRG Clothing",
+        "hdvFlag": 1,
+        "hookText": "In fitting tribute to his recently passed brother, VIZIE heads to their hometown of Houston to honor the memory of NEKST as part of our ongoing Artist Driven...",
+        "tags": "",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/aE3d4A1RuxM\/sddefault.jpg",
+        "uploadDate": 1362509641,
+        "videoId": "aE3d4A1RuxM",
+        "mediaDuration": "296",
+        "prettyDuration": "00:04:56"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

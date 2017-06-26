@@ -1,0 +1,31 @@
+{
+    "title": "Iron Fist",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1410807259",
+    "date_modified": "1410810520",
+    "tags": "",
+    "sourceId": null,
+    "status": "approved",
+    "visibility": "1",
+    "id": "3764866",
+    "loginId": "753",
+    "entityType": "3",
+    "titleTextEncoded": "Iron-Fist",
+    "category": null,
+    "duration": null,
+    "settings": {
+        "canvasImage": "720947185-0.jpg",
+        "colorClass": "light",
+        "canvasType": "cropped",
+        "autoPlay": 0,
+        "hideoos": 1,
+        "auto": {
+            "dynamic": 0,
+            "limit": 8
+        },
+        "optimize": 1,
+        "canvasCropped": "720947185-0502600840.jpg"
+    },
+    "transcripts": null
+}

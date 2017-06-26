@@ -1,0 +1,90 @@
+{
+    "title": "itsdavantewilson",
+    "description": "itsdavantewilson",
+    "referenceId": "40f7605590f86bd6d0e942ed46705e9f",
+    "date_created": "1470675017",
+    "date_modified": "1470677723",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "6",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "67360329",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "269",
+    "entityIdParent": "67314311",
+    "titleTextEncoded": "itsdavantewilson2-mp4",
+    "category": "",
+    "duration": "15",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "15",
+            "width": 478,
+            "height": 598
+        },
+        "mediaDuration": "15",
+        "prettyDuration": "00:00:15",
+        "thumbnailUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67360329\/91256\/thumb-40f7605590f86bd6d0e942ed46705e9f-00001.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67360329\/91256\/media.mpd",
+        "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67360329\/91256\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67360329\/91256\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 478,
+                "height": 598
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67360329\/91256\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 384,
+                "height": 480
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67360329\/91256\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 288,
+                "height": 360
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67360329\/91256\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 192,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": "",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

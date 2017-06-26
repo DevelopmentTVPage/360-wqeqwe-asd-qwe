@@ -1,0 +1,31 @@
+{
+    "title": "Ride",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1407372431",
+    "date_modified": "1407374263",
+    "tags": "",
+    "sourceId": null,
+    "status": "approved",
+    "visibility": "1",
+    "id": "195849",
+    "loginId": "753",
+    "entityType": "3",
+    "titleTextEncoded": "Ride",
+    "category": null,
+    "duration": null,
+    "settings": {
+        "canvasImage": "790166869-0.jpg",
+        "colorClass": "light",
+        "canvasType": "cropped",
+        "canvasCropped": "790166869-361231016672.jpg",
+        "hideoos": 1,
+        "auto": {
+            "dynamic": 0
+        },
+        "optimize": 1,
+        "autoPlay": 1,
+        "autoNext": 1
+    },
+    "transcripts": null
+}

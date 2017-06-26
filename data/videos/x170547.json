@@ -1,0 +1,53 @@
+{
+    "title": "DGK - Scratch off decks - Available now",
+    "description": "DGK Scratch off decks available at The Kayo Store.",
+    "referenceId": null,
+    "date_created": "1401388553",
+    "date_modified": "1470260927",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": "DGK",
+    "video_celeb": null,
+    "video_activity": "Skating",
+    "VV_VI": "23",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "170547",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "4",
+    "entityIdParent": "168528",
+    "titleTextEncoded": "DGK-Scratch-off-decks-Available-now",
+    "category": null,
+    "duration": "31",
+    "settings": [],
+    "asset": {
+        "author": "DGK",
+        "hdvFlag": 1,
+        "hookText": "DGK Scratch off decks available at The Kayo Store: http:\/\/www.thekayostore.com\/collections\/dgk?constraint=decks FOLLOW DGK AT: SITE: http:\/\/www.dgk.com FACEB...",
+        "tags": "",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/ewQI8PNn9_w\/sddefault.jpg",
+        "uploadDate": 1399446000,
+        "videoId": "ewQI8PNn9_w",
+        "mediaDuration": "31",
+        "prettyDuration": "00:00:31",
+        "uploadAsset": false,
+        "quality": ""
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

@@ -1,0 +1,54 @@
+{
+    "title": "Unlimited Fight",
+    "description": "Don\u2019t let limits define you.",
+    "referenceId": "rJ6vJ5o4GDE",
+    "date_created": "1471732465",
+    "date_modified": "1473209334",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": "Nike",
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "7",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "67582366",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "23",
+    "entityIdParent": "168513",
+    "titleTextEncoded": "Unlimited-Fight",
+    "category": "",
+    "duration": 41,
+    "settings": "",
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/rJ6vJ5o4GDE\/hqdefault.jpg",
+        "uploadDate": 1471732465,
+        "videoId": "rJ6vJ5o4GDE",
+        "title": "Unlimited Fight",
+        "description": "Don\u2019t let limits define you.\nBegin your story here. http:\/\/gonike.me\/justdoit",
+        "author": "Nike",
+        "mediaDuration": 41,
+        "prettyDuration": "00:00:41",
+        "views": "157228",
+        "uploadAsset": false,
+        "quality": ""
+    },
+    "transcripts": "They say I'm too big, I'm too fast, I'm too tough, I'm too pretty, I'm not pretty enough, I win, I win too much, I have to stop, they say I'm too me, I'm not what they want me to be, I still win, anything else?",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

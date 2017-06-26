@@ -1,0 +1,83 @@
+{
+    "title": "itisjasonbourne",
+    "description": "itisjasonbourne",
+    "referenceId": "4ab828acfe10a2e0677c1fb180e1ceca",
+    "date_created": "1470933115",
+    "date_modified": "1470935375",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "67425827",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "197",
+    "entityIdParent": "67314311",
+    "titleTextEncoded": "itisjasonbourne5-4-mp4",
+    "category": "",
+    "duration": "28",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "28",
+            "width": 640,
+            "height": 640
+        },
+        "mediaDuration": "28",
+        "prettyDuration": "00:00:28",
+        "thumbnailUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67425827\/c1fcb\/thumb-4ab828acfe10a2e0677c1fb180e1ceca-00001.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67425827\/c1fcb\/media.mpd",
+        "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67425827\/c1fcb\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67425827\/c1fcb\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 640
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67425827\/c1fcb\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67425827\/c1fcb\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 360,
+                "height": 360
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67425827\/c1fcb\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 240,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": "",
+    "metrics_statistics": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

@@ -1,0 +1,55 @@
+{
+    "title": "Simon Evans for Altamont",
+    "description": "Simon Evans for Altamont.",
+    "referenceId": "xAnRKuKykAs",
+    "date_created": "1441756353",
+    "date_modified": "1470239675",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": "Altamont",
+    "video_celeb": null,
+    "video_activity": "Skating",
+    "VV_VI": "1",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6396354",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "4",
+    "entityIdParent": "168548",
+    "titleTextEncoded": "Simon-Evans-for-Altamont",
+    "category": null,
+    "duration": "251",
+    "settings": {},
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/xAnRKuKykAs\/hqdefault.jpg",
+        "uploadDate": 1363331557,
+        "videoId": "xAnRKuKykAs",
+        "title": "Simon Evans for Altamont",
+        "description": "Simon Evans for Altamont. Shop the collection: http:\/\/altamontapparel.com\/collections\/simon-evans\/ http:\/\/facebook.com\/altamont http:\/\/twitter.com\/altamont ...",
+        "author": "Altamont",
+        "mediaDuration": "251",
+        "prettyDuration": "00:04:11",
+        "views": "6453",
+        "hookText": "Simon Evans for Altamont. Shop the collection: http:\/\/altamontapparel.com\/collections\/simon-evans\/ http:\/\/facebook.com\/altamont http:\/\/twitter.com\/altamont ...",
+        "uploadAsset": false,
+        "quality": ""
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

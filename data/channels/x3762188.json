@@ -1,0 +1,35 @@
+{
+    "title": "GoPro",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1409248449",
+    "date_modified": "1409249664",
+    "tags": "",
+    "sourceId": null,
+    "status": "approved",
+    "visibility": "1",
+    "id": "3762188",
+    "loginId": "753",
+    "entityType": "3",
+    "titleTextEncoded": "GoPro",
+    "category": null,
+    "duration": null,
+    "settings": {
+        "canvasImage": "797036874-0.jpg",
+        "colorClass": "light",
+        "canvasType": "cropped",
+        "autoPlay": 0,
+        "hideoos": 1,
+        "auto": {
+            "dynamic": 0,
+            "limit": 16,
+            "excIds": [
+                "3762189",
+                "3762191"
+            ]
+        },
+        "optimize": 1,
+        "canvasCropped": "797036874-01640360.jpg"
+    },
+    "transcripts": null
+}

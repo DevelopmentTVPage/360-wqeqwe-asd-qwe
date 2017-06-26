@@ -1,0 +1,55 @@
+{
+    "title": "Red Bull Camp Peru Med",
+    "description": "Red Bull Camp Peru Med",
+    "referenceId": "19815416",
+    "date_created": "1443815036",
+    "date_modified": "1450386491",
+    "tags": "",
+    "sourceId": "3",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "1",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6418953",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "42",
+    "entityIdParent": "168527",
+    "titleTextEncoded": "Red-Bull-Camp-Peru-Med",
+    "category": null,
+    "duration": 157,
+    "settings": {},
+    "asset": {
+        "type": "mp4",
+        "hdvFlag": 0,
+        "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/125956367_295x166.jpg",
+        "mediaDuration": 157,
+        "prettyDuration": "02:37",
+        "uploadDate": 1297392498,
+        "tags": "",
+        "hookText": "",
+        "sources": [
+            {
+                "file": "https:\/\/player.vimeo.com\/external\/19815416.sd.mp4?s=a3e1a6bb76c6db7c52b2b51d3dd54d23&profile_id=112&oauth2_token_id=62432308"
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

@@ -1,0 +1,53 @@
+{
+    "title": "ALMOST SKATEBOARDS 10YRS 3 7 14",
+    "description": "ALMOST SKATEBOARDS 10YRS 3 7 14",
+    "referenceId": null,
+    "date_created": "1409863501",
+    "date_modified": "1470186112",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": "Almost",
+    "video_celeb": null,
+    "video_activity": "Skating",
+    "VV_VI": "4",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "3763976",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "2",
+    "entityIdParent": "3763979",
+    "titleTextEncoded": "ALMOST-SKATEBOARDS-10YRS-3-7-14",
+    "category": null,
+    "duration": "203",
+    "settings": [],
+    "asset": {
+        "author": "Almost Skateboards",
+        "hdvFlag": 1,
+        "hookText": "",
+        "tags": "",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/JLCONNr1geE\/sddefault.jpg",
+        "uploadDate": 1395790376,
+        "videoId": "JLCONNr1geE",
+        "mediaDuration": "203",
+        "prettyDuration": "00:03:23",
+        "uploadAsset": false,
+        "quality": ""
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

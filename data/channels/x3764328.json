@@ -1,0 +1,30 @@
+{
+    "title": "Fujifilm",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1409954337",
+    "date_modified": "1409955013",
+    "tags": "",
+    "sourceId": null,
+    "status": "approved",
+    "visibility": "1",
+    "id": "3764328",
+    "loginId": "753",
+    "entityType": "3",
+    "titleTextEncoded": "Fujifilm",
+    "category": null,
+    "duration": null,
+    "settings": {
+        "canvasImage": "352587665-0.jpg",
+        "colorClass": "light",
+        "canvasType": "cropped",
+        "canvasCropped": "352587665-051213731280.jpg",
+        "hideoos": 1,
+        "auto": {
+            "dynamic": 0,
+            "limit": 8
+        },
+        "optimize": 1
+    },
+    "transcripts": null
+}

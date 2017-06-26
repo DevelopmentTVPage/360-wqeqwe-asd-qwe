@@ -1,0 +1,74 @@
+{
+    "pageNumber": 0,
+    "data": [
+        {
+            "id": "3764034",
+            "title": "Casual Industrees Skate Team @ATS Skatepark",
+            "date_created": "1409875601",
+            "loginId": "753",
+            "tags": "",
+            "description": "Opening Week of ATS Skatepark, Casual Industrees Skate team kills it.",
+            "asset": {
+                "author": "Casual TV",
+                "hdvFlag": 1,
+                "hookText": "Opening Week of ATS Skatepark, Casual Industrees Skate team kills it.",
+                "tags": "",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/Z-MMQG6eQI0\/maxresdefault.jpg",
+                "uploadDate": 1386392358,
+                "videoId": "Z-MMQG6eQI0",
+                "mediaDuration": "220",
+                "prettyDuration": "00:03:40",
+                "uploadAsset": false,
+                "quality": ""
+            },
+            "parentId": "3764030",
+            "url": "\/casual-industrees\/casual-industrees-skate-team-ats-skatepark\/3764030-3764034"
+        },
+        {
+            "id": "3764032",
+            "title": "Starbucks and Greenlake w\/Simon Bannerot",
+            "date_created": "1409875422",
+            "loginId": "753",
+            "tags": "",
+            "description": "Chill day around Greenlake. \n\nsong: 112 ft BIGGIE & MASE - ONLY YOU",
+            "asset": {
+                "author": "Casual TV",
+                "hdvFlag": 1,
+                "hookText": "Chill day around Greenlake. song: 112 ft BIGGIE & MASE - ONLY YOU.",
+                "tags": "",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/Noi6cIJaceU\/maxresdefault.jpg",
+                "uploadDate": 1406583481,
+                "videoId": "Noi6cIJaceU",
+                "mediaDuration": "101",
+                "prettyDuration": "00:01:41",
+                "uploadAsset": false,
+                "quality": ""
+            },
+            "parentId": "3764030",
+            "url": "\/casual-industrees\/starbucks-and-greenlake-w-simon-bannerot\/3764030-3764032"
+        },
+        {
+            "id": "3764031",
+            "title": "July9thPhotoshoot",
+            "date_created": "1409875357",
+            "loginId": "753",
+            "tags": "",
+            "description": "July9thPhotoshoot",
+            "asset": {
+                "author": "Casual TV",
+                "hdvFlag": 1,
+                "hookText": "",
+                "tags": "",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/B0VVQgxmmUk\/maxresdefault.jpg",
+                "uploadDate": 1408067691,
+                "videoId": "B0VVQgxmmUk",
+                "mediaDuration": "96",
+                "prettyDuration": "00:01:36",
+                "uploadAsset": false,
+                "quality": ""
+            },
+            "parentId": "3764030",
+            "url": "\/casual-industrees\/july9thphotoshoot\/3764030-3764031"
+        }
+    ]
+}

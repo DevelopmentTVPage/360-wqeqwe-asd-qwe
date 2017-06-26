@@ -1,0 +1,53 @@
+{
+    "title": "The Rainbow\u00ae Sandals Story",
+    "description": "The story of how Rainbow\u00ae Sandals originated and how they became the sandal staple in the world that they are today.",
+    "referenceId": null,
+    "date_created": "1410205659",
+    "date_modified": "1470330068",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": "Rainbow",
+    "video_celeb": null,
+    "video_activity": "Art___Design",
+    "VV_VI": "3",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "3764407",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "3",
+    "entityIdParent": "3764405",
+    "titleTextEncoded": "The-Rainbow-Sandals-Story",
+    "category": null,
+    "duration": "300",
+    "settings": [],
+    "asset": {
+        "author": "Rainbow Sandals",
+        "hdvFlag": 1,
+        "hookText": "The story of how Rainbow\u00ae Sandals originated and how they became the sandal staple in the world that they are today.",
+        "tags": "",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/KJOvhsiZg40\/maxresdefault.jpg",
+        "uploadDate": 1367125565,
+        "videoId": "KJOvhsiZg40",
+        "mediaDuration": "300",
+        "prettyDuration": "00:05:00",
+        "uploadAsset": false,
+        "quality": ""
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

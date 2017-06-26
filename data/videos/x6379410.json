@@ -1,0 +1,46 @@
+{
+    "title": "Welcome to Brett Metcalfe's Beat Lab!",
+    "description": "http:\/\/www.facebook.com\/etnies",
+    "referenceId": null,
+    "date_created": "1440443402",
+    "date_modified": "1440443402",
+    "tags": "etnies,Brett Metcalfe,beat lab,etnies MX,Moto",
+    "sourceId": "3",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6379410",
+    "loginId": "753",
+    "entityType": "1",
+    "titleTextEncoded": "Welcome-to-Brett-Metcalfe-s-Beat-Lab",
+    "category": null,
+    "duration": 144,
+    "settings": {},
+    "asset": {
+        "type": "mp4",
+        "sources": [
+            {
+                "file": "https:\/\/player.vimeo.com\/external\/21446117.hd.mp4?s=9c0c687b05535ad03aa7222748b34d03&profile_id=113&oauth2_token_id=62432308"
+            }
+        ],
+        "hdvFlag": 1,
+        "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/137950151_1280x720.jpg",
+        "mediaDuration": 144,
+        "prettyDuration": "02:24",
+        "uploadDate": 1300983745,
+        "tags": "etnies,Brett Metcalfe,beat lab,etnies MX,Moto",
+        "hookText": "http:\/\/www.facebook.com\/etnies"
+    },
+    "transcripts": null,
+    "metrics_statistics": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

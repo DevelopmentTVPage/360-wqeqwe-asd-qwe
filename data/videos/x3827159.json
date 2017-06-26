@@ -1,0 +1,78 @@
+{
+    "title": "Young & Reckless Spring 15",
+    "description": "Young & Reckless Spring 15",
+    "referenceId": null,
+    "date_created": "1426289344",
+    "date_modified": "1470185396",
+    "tags": "",
+    "sourceId": "1",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": "Young___Reckless",
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "120",
+    "CVV_VI": "2",
+    "engagement_score": "1",
+    "conversion_score": null,
+    "id": "3827159",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "7",
+    "entityIdParent": "168529",
+    "titleTextEncoded": "Young-Reckless-Spring-15",
+    "category": null,
+    "duration": "53",
+    "settings": [],
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "53"
+        },
+        "thumbnailUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/3827159\/37815b91e802c19bca8cfbd9a7603ce2.png",
+        "hookText": "Young & Reckless Spring 15",
+        "type": "mp4",
+        "mediaDuration": "53",
+        "prettyDuration": "00:00:53",
+        "tags": "",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/3827159\/720p_37815b91e802c19bca8cfbd9a7603ce2.mp4",
+                "quality": "720p"
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/3827159\/480p_37815b91e802c19bca8cfbd9a7603ce2.mp4",
+                "quality": "480p"
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/3827159\/360p_37815b91e802c19bca8cfbd9a7603ce2.mp4",
+                "quality": "360p"
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "conversion_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

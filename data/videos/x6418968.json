@@ -1,0 +1,46 @@
+{
+    "title": "Day In The Life - Joe Sexton",
+    "description": "etnies ThirtyTwo rider Joe Sexton",
+    "referenceId": "16981092",
+    "date_created": "1443816161",
+    "date_modified": "1448386063",
+    "tags": "etnies,ThirtyTwo,32,Joe Sexton,etnies.com",
+    "sourceId": "3",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "2",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6418968",
+    "loginId": "753",
+    "entityType": "1",
+    "titleTextEncoded": "Day-In-The-Life-Joe-Sexton",
+    "category": null,
+    "duration": 15,
+    "settings": {},
+    "asset": {
+        "type": "mp4",
+        "hdvFlag": 1,
+        "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/104812925_1280x720.jpg",
+        "mediaDuration": 15,
+        "prettyDuration": "00:15",
+        "uploadDate": 1290123300,
+        "tags": "etnies,ThirtyTwo,32,Joe Sexton,etnies.com",
+        "hookText": "etnies ThirtyTwo rider Joe Sexton",
+        "sources": [
+            {
+                "file": "https:\/\/player.vimeo.com\/external\/16981092.hd.mp4?s=568fdbdaed01bda2f10ccc96ed517dce&profile_id=113&oauth2_token_id=62432308"
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

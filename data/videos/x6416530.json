@@ -1,0 +1,48 @@
+{
+    "title": "Arbor Snowboards :: Product Profiles - A-Frame",
+    "description": "A contemporary big-mountain gun for riders who want superior on-edge camber performance and exceptional float in powder. The A-frame will lock and hold a deeply carved line, provide powerful control in the steeps, and deliver amazing stability at speed.\n\n",
+    "referenceId": "138683832",
+    "date_created": "1443463015",
+    "date_modified": "1443463015",
+    "tags": "A-Frame,Product Profiles,Snowboarding,Arbor,Product Video,Arbor Snowboards",
+    "sourceId": "3",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6416530",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "214",
+    "entityIdParent": "3763991",
+    "titleTextEncoded": "Arbor-Snowboards-Product-Profiles-A-Frame",
+    "category": null,
+    "duration": 114,
+    "settings": {},
+    "asset": {
+        "type": "mp4",
+        "sources": [
+            {
+                "file": "https:\/\/player.vimeo.com\/external\/138683832.hd.mp4?s=457f3ad416b55cb6e87a65c24b3a834f&profile_id=119&oauth2_token_id=74680278"
+            }
+        ],
+        "hdvFlag": 1,
+        "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/534151865_1280x720.jpg",
+        "mediaDuration": 114,
+        "prettyDuration": "01:54",
+        "uploadDate": 1441751387,
+        "tags": "A-Frame,Product Profiles,Snowboarding,Arbor,Product Video,Arbor Snowboards",
+        "hookText": "A contemporary big-mountain gun for riders who want superior on-edge camber performance and exceptional float in powder. The A-frame will lock and hold a deeply carved line, provide powerful control in the steeps, and deliver amazing stability at speed.\n\n"
+    },
+    "transcripts": null,
+    "metrics_statistics": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

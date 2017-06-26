@@ -1,0 +1,60 @@
+{
+    "title": "Chuck Hack: Weather",
+    "description": "Our friends at Chapter, in San Francisco, hacked a pair of Chucks to bring the weather forecast to your feet. Converse Beacon lets you know when rain is coming, when the surf is just right, or when conditions are perfect to get outside. Can you hack it?\n\nMade by: C\u200bhapter\nDirector: A\u200bdam Warmington \nMusic: T\u200bhe Strange Land",
+    "referenceId": "U6yOGPhJTB0",
+    "date_created": "1456345499",
+    "date_modified": "1470256324",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": "Converse",
+    "video_celeb": null,
+    "video_activity": "Art___Design",
+    "VV_VI": "1",
+    "CVV_VI": "1",
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "26156552",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "3",
+    "entityIdParent": "168524",
+    "titleTextEncoded": "Chuck-Hack-Weather",
+    "category": "",
+    "duration": 94,
+    "settings": "",
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/U6yOGPhJTB0\/hqdefault.jpg",
+        "uploadDate": 1456345499,
+        "videoId": "U6yOGPhJTB0",
+        "title": "Chuck Hack: Weather",
+        "description": "Our friends at Chapter, in San Francisco, hacked a pair of Chucks to bring the weather forecast to your feet. Converse Beacon lets you know when rain is coming, when the surf is just right, or when conditions are perfect to get outside. Can you hack it? http:\/\/www.chaptersf.com\/chuckhack\n\nMade by: C\u200bhapter\nDirector: A\u200bdam Warmington \nMusic: T\u200bhe Strange Land",
+        "author": "Converse",
+        "mediaDuration": 94,
+        "prettyDuration": "00:01:34",
+        "views": "179",
+        "uploadAsset": false,
+        "quality": ""
+    },
+    "transcripts": "",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "conversion_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

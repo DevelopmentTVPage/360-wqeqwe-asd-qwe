@@ -1,0 +1,53 @@
+{
+    "title": "Fall \/ Holiday 2014 Inspiration Video",
+    "description": "Fall \/ Holiday 2014 Inspiration Video",
+    "referenceId": null,
+    "date_created": "1410201788",
+    "date_modified": "1470330791",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": "Ocean_Minded",
+    "video_celeb": null,
+    "video_activity": "Art___Design",
+    "VV_VI": "10",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "3764395",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "0",
+    "entityIdParent": "3764399",
+    "titleTextEncoded": "Fall-Holiday-2014-Inspiration-Video",
+    "category": null,
+    "duration": "168",
+    "settings": [],
+    "asset": {
+        "author": "oceanminded",
+        "hdvFlag": 1,
+        "hookText": "",
+        "tags": "",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/o27P8zqkAug\/maxresdefault.jpg",
+        "uploadDate": 1389050124,
+        "videoId": "o27P8zqkAug",
+        "mediaDuration": "168",
+        "prettyDuration": "00:02:48",
+        "uploadAsset": false,
+        "quality": ""
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

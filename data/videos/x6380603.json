@@ -1,0 +1,46 @@
+{
+    "title": "Sammy Carlson Presents his 2013 Dakine Team Heli Pro Pack!",
+    "description": "Sammy's Winter 2013 Signature Series pack is a collaborative effort between Sammy and our in-house designers, featuring unique colors, prints and graphics. Part of his collection also features a coordinated glove - the Sammy Carlson Team Impreza glove.",
+    "referenceId": null,
+    "date_created": "1440449956",
+    "date_modified": "1440449956",
+    "tags": "",
+    "sourceId": "3",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6380603",
+    "loginId": "753",
+    "entityType": "1",
+    "titleTextEncoded": "Sammy-Carlson-Presents-his-2013-Dakine-Team-Heli-Pro-Pack",
+    "category": null,
+    "duration": 95,
+    "settings": {},
+    "asset": {
+        "type": "mp4",
+        "sources": [
+            {
+                "file": "https:\/\/player.vimeo.com\/external\/47728828.hd.mp4?s=ce6185c4ec094e2130d99c205045f34d&profile_id=113&oauth2_token_id=56801069"
+            }
+        ],
+        "hdvFlag": 1,
+        "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/337279346_1280x720.jpg",
+        "mediaDuration": 95,
+        "prettyDuration": "01:35",
+        "uploadDate": 1345218910,
+        "tags": "",
+        "hookText": "Sammy's Winter 2013 Signature Series pack is a collaborative effort between Sammy and our in-house designers, featuring unique colors, prints and graphics. Part of his collection also features a coordinated glove - the Sammy Carlson Team Impreza glove."
+    },
+    "transcripts": null,
+    "metrics_statistics": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

@@ -1,0 +1,28 @@
+{
+    "pageNumber": 0,
+    "data": [
+        {
+            "id": "189314",
+            "title": "The Jogger",
+            "date_created": "1405364394",
+            "loginId": "753",
+            "tags": "",
+            "description": "Whether you're skating or just kicking back, sport the latest in killer menswear trends with a pair of joggers. ",
+            "asset": {
+                "type": "mp4",
+                "sources": [
+                    {
+                        "file": "\/\/do0631budpzeh.cloudfront.net\/live\/videos\/753\/0a9bf40a_53cb_4b31_ea07_56dc1e924368.mp4"
+                    }
+                ],
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/753\/canvas\/655\/368\/823428522-40024761369.png",
+                "mediaDuration": "48",
+                "prettyDuration": "00:00:48",
+                "hookText": "Whether you're skating or just kicking back, sport the latest in killer menswear trends with a pair of joggers. ",
+                "tags": ""
+            },
+            "parentId": "189304",
+            "url": "\/joggers\/the-jogger\/189304-189314"
+        }
+    ]
+}

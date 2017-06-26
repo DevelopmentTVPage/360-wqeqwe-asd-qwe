@@ -1,0 +1,73 @@
+{
+    "title": "Tillys Fall 2015",
+    "description": "New season. New style. Get outside and give your clothes some good stories to tell.",
+    "referenceId": null,
+    "date_created": "1436458907",
+    "date_modified": "1470242240",
+    "tags": "Fall, Tillys, Volcom, Hurley, models, clothing, fashion, rvca, rocky barnes,",
+    "sourceId": "1",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": "Art___Design",
+    "VV_VI": "4346",
+    "CVV_VI": "419",
+    "engagement_score": "40",
+    "conversion_score": "35",
+    "id": "3848617",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "8",
+    "entityIdParent": "195929",
+    "titleTextEncoded": "Tillys-Fall-2015",
+    "category": null,
+    "duration": "81",
+    "settings": [],
+    "asset": {
+        "type": "mp4",
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/753\/canvas\/655\/368\/999049665-021035583.png",
+        "mediaDuration": "81",
+        "prettyDuration": "00:01:21",
+        "hookText": "New season. New style. Get outside and give your clothes some good stories to tell.",
+        "tags": "Fall, Tillys, Volcom, Hurley, models, clothing, fashion, rvca, rocky barnes,",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/3848617\/56bb6d1d_5c0c_48c0_81ac_64704af1195d.mp4"
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/3848617\/720p_56bb6d1d_5c0c_48c0_81ac_64704af1195d.mp4",
+                "quality": "720p"
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/3848617\/480p_56bb6d1d_5c0c_48c0_81ac_64704af1195d.mp4",
+                "quality": "480p"
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/3848617\/360p_56bb6d1d_5c0c_48c0_81ac_64704af1195d.mp4",
+                "quality": "360p"
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "conversion_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

@@ -1,0 +1,55 @@
+{
+    "title": "Dakine Prom Backpack",
+    "description": "Padded laptop sleeve\nFits most 14\" laptops\nFleece lined sunglass pocket\nOrganizer pocket\nDeployable water bottle pocket\nInsulated cooler pocket\n\nFor more info visit:\nhttp:\/\/www.dakine.com\/p\/backpacks-and-gear\/lifestyle-bags\/backpacks\/prom-25l-16w",
+    "referenceId": null,
+    "date_created": "1440449702",
+    "date_modified": "1440449702",
+    "tags": "",
+    "sourceId": "3",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "4",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6380443",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "370",
+    "entityIdParent": "168543",
+    "titleTextEncoded": "Dakine-Prom-Backpack",
+    "category": null,
+    "duration": 66,
+    "settings": {},
+    "asset": {
+        "type": "mp4",
+        "sources": [
+            {
+                "file": "https:\/\/player.vimeo.com\/external\/135272501.hd.mp4?s=72909773068f3c553678ee0e1de71dc6&profile_id=119&oauth2_token_id=56801069"
+            }
+        ],
+        "hdvFlag": 1,
+        "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/529132764_1280x720.jpg",
+        "mediaDuration": 66,
+        "prettyDuration": "01:06",
+        "uploadDate": 1438622588,
+        "tags": "",
+        "hookText": "Padded laptop sleeve\nFits most 14\" laptops\nFleece lined sunglass pocket\nOrganizer pocket\nDeployable water bottle pocket\nInsulated cooler pocket\n\nFor more info visit:\nhttp:\/\/www.dakine.com\/p\/backpacks-and-gear\/lifestyle-bags\/backpacks\/prom-25l-16w"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

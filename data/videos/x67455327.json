@@ -1,0 +1,90 @@
+{
+    "title": "simpleighjordan",
+    "description": "simpleighjordan",
+    "referenceId": "c03568eb3214ec4147c26ab8dcc8eb56",
+    "date_created": "1471020357",
+    "date_modified": "1471020638",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "67455327",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "127",
+    "entityIdParent": "67314311",
+    "titleTextEncoded": "simpleighjordan6-mp4",
+    "category": "",
+    "duration": "21",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "21",
+            "width": 640,
+            "height": 800
+        },
+        "mediaDuration": "21",
+        "prettyDuration": "00:00:21",
+        "thumbnailUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67455327\/517c2\/thumb-c03568eb3214ec4147c26ab8dcc8eb56-00001.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67455327\/517c2\/media.mpd",
+        "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67455327\/517c2\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67455327\/517c2\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 800
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67455327\/517c2\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 576,
+                "height": 720
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67455327\/517c2\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 384,
+                "height": 480
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67455327\/517c2\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 288,
+                "height": 360
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67455327\/517c2\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 192,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": "",
+    "metrics_statistics": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

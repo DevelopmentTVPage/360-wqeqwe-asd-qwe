@@ -1,0 +1,1156 @@
+{
+    "pageNumber": 9,
+    "data": [
+        {
+            "id": "67425845",
+            "title": "smokengunsmusic",
+            "date_created": "1470933147",
+            "loginId": "753",
+            "tags": "",
+            "description": "smokengunsmusic",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "10",
+                    "width": 640,
+                    "height": 800
+                },
+                "mediaDuration": "10",
+                "prettyDuration": "00:00:10",
+                "thumbnailUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67425845\/a45f9\/thumb-0e376fc84453c9ef5b85115b8a745dd7-00001.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67425845\/a45f9\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67425845\/a45f9\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67425845\/a45f9\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 800
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67425845\/a45f9\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 576,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67425845\/a45f9\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 384,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67425845\/a45f9\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 288,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67425845\/a45f9\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 192,
+                        "height": 240
+                    }
+                ]
+            },
+            "parentId": "67314311",
+            "url": "\/star-search\/smokengunsmusic5-mp4\/67314311-67425845"
+        },
+        {
+            "id": "67425841",
+            "title": "princess.espinal",
+            "date_created": "1470933141",
+            "loginId": "753",
+            "tags": "",
+            "description": "princess.espinal",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "39",
+                    "width": 480,
+                    "height": 480
+                },
+                "mediaDuration": "39",
+                "prettyDuration": "00:00:39",
+                "thumbnailUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67425841\/74396\/thumb-15d0ebc5341013ac96b05daa548d3460-00001.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67425841\/74396\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67425841\/74396\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67425841\/74396\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67425841\/74396\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 360,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67425841\/74396\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 240,
+                        "height": 240
+                    }
+                ]
+            },
+            "parentId": "67314311",
+            "url": "\/star-search\/princess-espinal5-mp4\/67314311-67425841"
+        },
+        {
+            "id": "67425853",
+            "title": "tj_mortensen",
+            "date_created": "1470933158",
+            "loginId": "753",
+            "tags": "",
+            "description": "tj_mortensen",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "60",
+                    "width": 640,
+                    "height": 360
+                },
+                "mediaDuration": "60",
+                "prettyDuration": "00:01:00",
+                "thumbnailUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67425853\/c3c94\/thumb-9d2d00ab5b60f16fcd3e904a640e6d4a-00001.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67425853\/c3c94\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67425853\/c3c94\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67425853\/c3c94\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67425853\/c3c94\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "67314311",
+            "url": "\/star-search\/tj-mortensen5-mp4\/67314311-67425853"
+        },
+        {
+            "id": "67425835",
+            "title": "melaniexsinger",
+            "date_created": "1470933131",
+            "loginId": "753",
+            "tags": "",
+            "description": "melaniexsinger",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "46",
+                    "width": 640,
+                    "height": 640
+                },
+                "mediaDuration": "46",
+                "prettyDuration": "00:00:46",
+                "thumbnailUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67425835\/f67ff\/thumb-582043de8fe6afea152744ae2f648ff3-00001.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67425835\/f67ff\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67425835\/f67ff\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67425835\/f67ff\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 640
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67425835\/f67ff\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67425835\/f67ff\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 360,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67425835\/f67ff\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 240,
+                        "height": 240
+                    }
+                ]
+            },
+            "parentId": "67314311",
+            "url": "\/star-search\/melaniexsinger5-mp4\/67314311-67425835"
+        },
+        {
+            "id": "67425837",
+            "title": "mshill",
+            "date_created": "1470933135",
+            "loginId": "753",
+            "tags": "",
+            "description": "mshill",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "35",
+                    "width": 640,
+                    "height": 640
+                },
+                "mediaDuration": "35",
+                "prettyDuration": "00:00:35",
+                "thumbnailUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67425837\/52761\/thumb-b04bc0844d0b78329085d33983e2a978-00001.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67425837\/52761\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67425837\/52761\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67425837\/52761\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 640
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67425837\/52761\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67425837\/52761\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 360,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67425837\/52761\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 240,
+                        "height": 240
+                    }
+                ]
+            },
+            "parentId": "67314311",
+            "url": "\/star-search\/mshill5-mp4\/67314311-67425837"
+        },
+        {
+            "id": "67425851",
+            "title": "tayleek22",
+            "date_created": "1470933153",
+            "loginId": "753",
+            "tags": "",
+            "description": "tayleek22",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "33",
+                    "width": 640,
+                    "height": 360
+                },
+                "mediaDuration": "33",
+                "prettyDuration": "00:00:33",
+                "thumbnailUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67425851\/ec337\/thumb-3789c299236a327acd7357a465cc3ead-00001.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67425851\/ec337\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67425851\/ec337\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67425851\/ec337\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67425851\/ec337\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "67314311",
+            "url": "\/star-search\/tayleek225-mp4\/67314311-67425851"
+        },
+        {
+            "id": "67425833",
+            "title": "killawes92",
+            "date_created": "1470933127",
+            "loginId": "753",
+            "tags": "",
+            "description": "killawes92",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "53",
+                    "width": 640,
+                    "height": 360
+                },
+                "mediaDuration": "53",
+                "prettyDuration": "00:00:53",
+                "thumbnailUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67425833\/a97a8\/thumb-a1c0f9d2aab99703f0ec0299746af64d-00001.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67425833\/a97a8\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67425833\/a97a8\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67425833\/a97a8\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67425833\/a97a8\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "67314311",
+            "url": "\/star-search\/killawes925-mp4\/67314311-67425833"
+        },
+        {
+            "id": "67425840",
+            "title": "omgifhy",
+            "date_created": "1470933139",
+            "loginId": "753",
+            "tags": "",
+            "description": "omgifhy",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "10",
+                    "width": 640,
+                    "height": 640
+                },
+                "mediaDuration": "10",
+                "prettyDuration": "00:00:10",
+                "thumbnailUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67425840\/0972d\/thumb-f4d4c1acd048e1bed9d3e4ef2d2b2806-00001.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67425840\/0972d\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67425840\/0972d\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67425840\/0972d\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 640
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67425840\/0972d\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67425840\/0972d\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 360,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67425840\/0972d\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 240,
+                        "height": 240
+                    }
+                ]
+            },
+            "parentId": "67314311",
+            "url": "\/star-search\/omgifhy5-mp4\/67314311-67425840"
+        },
+        {
+            "id": "67425842",
+            "title": "rachael_desrochers",
+            "date_created": "1470933142",
+            "loginId": "753",
+            "tags": "",
+            "description": "rachael_desrochers",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "5",
+                    "width": 640,
+                    "height": 800
+                },
+                "mediaDuration": "5",
+                "prettyDuration": "00:00:05",
+                "thumbnailUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67425842\/657c5\/thumb-2e1ad0e53c64103ebb137f9290322c8f-00001.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67425842\/657c5\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67425842\/657c5\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67425842\/657c5\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 800
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67425842\/657c5\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 576,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67425842\/657c5\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 384,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67425842\/657c5\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 288,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67425842\/657c5\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 192,
+                        "height": 240
+                    }
+                ]
+            },
+            "parentId": "67314311",
+            "url": "\/star-search\/rachael-desrochers5-mp4\/67314311-67425842"
+        },
+        {
+            "id": "67425832",
+            "title": "jun_sagez",
+            "date_created": "1470933124",
+            "loginId": "753",
+            "tags": "",
+            "description": "jun_sagez",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "52",
+                    "width": 640,
+                    "height": 640
+                },
+                "mediaDuration": "52",
+                "prettyDuration": "00:00:52",
+                "thumbnailUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67425832\/e636c\/thumb-b1e061ee8c7de88b09655afcd18802cd-00001.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67425832\/e636c\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67425832\/e636c\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67425832\/e636c\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 640
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67425832\/e636c\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67425832\/e636c\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 360,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67425832\/e636c\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 240,
+                        "height": 240
+                    }
+                ]
+            },
+            "parentId": "67314311",
+            "url": "\/star-search\/jun-sagez5-mp4\/67314311-67425832"
+        },
+        {
+            "id": "67425826",
+            "title": "itisjasonbourne",
+            "date_created": "1470933113",
+            "loginId": "753",
+            "tags": "",
+            "description": "itisjasonbourne",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "43",
+                    "width": 640,
+                    "height": 640
+                },
+                "mediaDuration": "43",
+                "prettyDuration": "00:00:43",
+                "thumbnailUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67425826\/a3305\/thumb-bbb979919a3bbefb0381a05377bea99e-00001.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67425826\/a3305\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67425826\/a3305\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67425826\/a3305\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 640
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67425826\/a3305\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67425826\/a3305\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 360,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67425826\/a3305\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 240,
+                        "height": 240
+                    }
+                ]
+            },
+            "parentId": "67314311",
+            "url": "\/star-search\/itisjasonbourne5-3-mp4\/67314311-67425826"
+        },
+        {
+            "id": "67425830",
+            "title": "itsdavantewilson",
+            "date_created": "1470933119",
+            "loginId": "753",
+            "tags": "",
+            "description": "itsdavantewilson",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "7",
+                    "width": 478,
+                    "height": 598
+                },
+                "mediaDuration": "7",
+                "prettyDuration": "00:00:07",
+                "thumbnailUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67425830\/6717b\/thumb-56758a7a5ece7f58dc7ed8c33e1d6868-00001.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67425830\/6717b\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67425830\/6717b\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67425830\/6717b\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 478,
+                        "height": 598
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67425830\/6717b\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 384,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67425830\/6717b\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 288,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67425830\/6717b\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 192,
+                        "height": 240
+                    }
+                ]
+            },
+            "parentId": "67314311",
+            "url": "\/star-search\/itsdavantewilson5-1-mp4\/67314311-67425830"
+        },
+        {
+            "id": "67425820",
+            "title": "euniceekang",
+            "date_created": "1470933100",
+            "loginId": "753",
+            "tags": "",
+            "description": "euniceekang",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "60",
+                    "width": 640,
+                    "height": 360
+                },
+                "mediaDuration": "60",
+                "prettyDuration": "00:01:00",
+                "thumbnailUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67425820\/bf764\/thumb-54849f9d01026fac8f146e6b2392aaac-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67425820\/bf764\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67425820\/bf764\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67425820\/bf764\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67425820\/bf764\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "67314311",
+            "url": "\/star-search\/euniceekang5-mp4\/67314311-67425820"
+        },
+        {
+            "id": "67425825",
+            "title": "itisjasonbourne",
+            "date_created": "1470933110",
+            "loginId": "753",
+            "tags": "",
+            "description": "itisjasonbourne",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "26",
+                    "width": 640,
+                    "height": 640
+                },
+                "mediaDuration": "26",
+                "prettyDuration": "00:00:26",
+                "thumbnailUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67425825\/06eb7\/thumb-ae2d51088c6a7d12ff479493618de83f-00001.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67425825\/06eb7\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67425825\/06eb7\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67425825\/06eb7\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 640
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67425825\/06eb7\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67425825\/06eb7\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 360,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67425825\/06eb7\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 240,
+                        "height": 240
+                    }
+                ]
+            },
+            "parentId": "67314311",
+            "url": "\/star-search\/itisjasonbourne5-2-mp4\/67314311-67425825"
+        },
+        {
+            "id": "67425828",
+            "title": "itisjasonbourne",
+            "date_created": "1470933117",
+            "loginId": "753",
+            "tags": "",
+            "description": "itisjasonbourne",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "18",
+                    "width": 640,
+                    "height": 640
+                },
+                "mediaDuration": "18",
+                "prettyDuration": "00:00:18",
+                "thumbnailUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67425828\/61857\/thumb-8cc15347678036621ad1c373ade39c89-00001.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67425828\/61857\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67425828\/61857\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67425828\/61857\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 640
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67425828\/61857\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67425828\/61857\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 360,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67425828\/61857\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 240,
+                        "height": 240
+                    }
+                ]
+            },
+            "parentId": "67314311",
+            "url": "\/star-search\/itisjasonbourne5-5-mp4\/67314311-67425828"
+        },
+        {
+            "id": "67425819",
+            "title": "erwinstaholic",
+            "date_created": "1470933098",
+            "loginId": "753",
+            "tags": "",
+            "description": "erwinstaholic",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "41",
+                    "width": 640,
+                    "height": 640
+                },
+                "mediaDuration": "41",
+                "prettyDuration": "00:00:41",
+                "thumbnailUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67425819\/a76fc\/thumb-a7aa96b41a01d23b9ad6d5010268180b-00001.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67425819\/a76fc\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67425819\/a76fc\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67425819\/a76fc\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 640
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67425819\/a76fc\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67425819\/a76fc\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 360,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67425819\/a76fc\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 240,
+                        "height": 240
+                    }
+                ]
+            },
+            "parentId": "67314311",
+            "url": "\/star-search\/erwinstaholic5-mp4\/67314311-67425819"
+        },
+        {
+            "id": "67425822",
+            "title": "fallenangel_00",
+            "date_created": "1470933104",
+            "loginId": "753",
+            "tags": "",
+            "description": "fallenangel_00",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "55",
+                    "width": 640,
+                    "height": 640
+                },
+                "mediaDuration": "55",
+                "prettyDuration": "00:00:55",
+                "thumbnailUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67425822\/62c2c\/thumb-0c787621bf5f3a5dac24af38b3cd9bfa-00001.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67425822\/62c2c\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67425822\/62c2c\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67425822\/62c2c\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 640
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67425822\/62c2c\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67425822\/62c2c\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 360,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67425822\/62c2c\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 240,
+                        "height": 240
+                    }
+                ]
+            },
+            "parentId": "67314311",
+            "url": "\/star-search\/fallenangel-005-mp4\/67314311-67425822"
+        },
+        {
+            "id": "67425827",
+            "title": "itisjasonbourne",
+            "date_created": "1470933115",
+            "loginId": "753",
+            "tags": "",
+            "description": "itisjasonbourne",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "28",
+                    "width": 640,
+                    "height": 640
+                },
+                "mediaDuration": "28",
+                "prettyDuration": "00:00:28",
+                "thumbnailUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67425827\/c1fcb\/thumb-4ab828acfe10a2e0677c1fb180e1ceca-00001.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67425827\/c1fcb\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67425827\/c1fcb\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67425827\/c1fcb\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 640
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67425827\/c1fcb\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67425827\/c1fcb\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 360,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67425827\/c1fcb\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 240,
+                        "height": 240
+                    }
+                ]
+            },
+            "parentId": "67314311",
+            "url": "\/star-search\/itisjasonbourne5-4-mp4\/67314311-67425827"
+        },
+        {
+            "id": "67425829",
+            "title": "itisjasonbourne",
+            "date_created": "1470933118",
+            "loginId": "753",
+            "tags": "",
+            "description": "itisjasonbourne",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "8",
+                    "width": 640,
+                    "height": 640
+                },
+                "mediaDuration": "8",
+                "prettyDuration": "00:00:08",
+                "thumbnailUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67425829\/526f0\/thumb-085c9b854b1d38c1a5624630e0099920-00001.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67425829\/526f0\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67425829\/526f0\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67425829\/526f0\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 640
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67425829\/526f0\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67425829\/526f0\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 360,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67425829\/526f0\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 240,
+                        "height": 240
+                    }
+                ]
+            },
+            "parentId": "67314311",
+            "url": "\/star-search\/itisjasonbourne5-mp4\/67314311-67425829"
+        },
+        {
+            "id": "67425814",
+            "title": "cc_squad_",
+            "date_created": "1470933088",
+            "loginId": "753",
+            "tags": "",
+            "description": "cc_squad_",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "60",
+                    "width": 640,
+                    "height": 640
+                },
+                "mediaDuration": "60",
+                "prettyDuration": "00:01:00",
+                "thumbnailUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67425814\/87a65\/thumb-9e82914569bb8b897d732258c922ab9f-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67425814\/87a65\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67425814\/87a65\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67425814\/87a65\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 640
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67425814\/87a65\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67425814\/87a65\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 360,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67425814\/87a65\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 240,
+                        "height": 240
+                    }
+                ]
+            },
+            "parentId": "67314311",
+            "url": "\/star-search\/cc-squad-5-mp4\/67314311-67425814"
+        }
+    ]
+}

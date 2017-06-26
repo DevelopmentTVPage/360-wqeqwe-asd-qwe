@@ -1,0 +1,47 @@
+{
+    "pageNumber": 0,
+    "data": [
+        {
+            "id": "3763960",
+            "title": "9FIVE \"Ingredients\" KLS2",
+            "date_created": "1409857751",
+            "loginId": "753",
+            "tags": "",
+            "description": "9FIVE \"Ingredients\" KLS2",
+            "asset": {
+                "author": "9fiveEyewear",
+                "hdvFlag": 1,
+                "hookText": "Follow the @9fivers on Instagram. http:\/\/9fivesite.com\/",
+                "tags": "",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/dRDJ382-HwU\/maxresdefault.jpg",
+                "uploadDate": 1390243801,
+                "videoId": "dRDJ382-HwU",
+                "mediaDuration": "15",
+                "prettyDuration": "00:00:15"
+            },
+            "parentId": "3763957",
+            "url": "\/9five\/9five-ingredients-kls2\/3763957-3763960"
+        },
+        {
+            "id": "3763961",
+            "title": "Five Years Of 9FIVE Presented by Hypebeast",
+            "date_created": "1409857759",
+            "loginId": "753",
+            "tags": "",
+            "description": "As 9FIVE celebrates the brands five year anniversary, we take a look at the first Five years of 9FIVE Eyewear. Presented by Hypebeast.\n@hypebeast @9fivers",
+            "asset": {
+                "author": "9fiveEyewear",
+                "hdvFlag": 1,
+                "hookText": "As 9FIVE celebrates the brands five year anniversary, we take a look at the first Five years of 9FIVE Eyewear. Presented by Hypebeast. @hypebeast @9fivers.",
+                "tags": "",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/4-OppfahiGE\/maxresdefault.jpg",
+                "uploadDate": 1378273591,
+                "videoId": "4-OppfahiGE",
+                "mediaDuration": "174",
+                "prettyDuration": "00:02:54"
+            },
+            "parentId": "3763957",
+            "url": "\/9five\/five-years-of-9five-presented-by-hypebeast\/3763957-3763961"
+        }
+    ]
+}

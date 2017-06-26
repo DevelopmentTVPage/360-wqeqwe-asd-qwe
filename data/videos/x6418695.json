@@ -1,0 +1,53 @@
+{
+    "title": "Converse Cons presents: Lisbon Story",
+    "description": "Cons Ambassadors Jerome Campbell, Harry Lintell, Javier Mendizabal, Calos Cardenosa, Remy Taviera, Kevin Rodrigues and David Stenstrom recently ...",
+    "referenceId": "wuQBcAT4TYo",
+    "date_created": "1443740147",
+    "date_modified": "1443740147",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "2",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6418695",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "387",
+    "entityIdParent": "168524",
+    "titleTextEncoded": "Converse-Cons-presents-Lisbon-Story",
+    "category": null,
+    "duration": "249",
+    "settings": {},
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/wuQBcAT4TYo\/hqdefault.jpg",
+        "uploadDate": 1398682069,
+        "videoId": "wuQBcAT4TYo",
+        "title": "Converse Cons presents: Lisbon Story",
+        "description": "Cons Ambassadors Jerome Campbell, Harry Lintell, Javier Mendizabal, Calos Cardenosa, Remy Taviera, Kevin Rodrigues and David Stenstrom recently ...",
+        "author": "converse",
+        "mediaDuration": "249",
+        "prettyDuration": "00:04:09",
+        "views": "3580",
+        "hookText": "Cons Ambassadors Jerome Campbell, Harry Lintell, Javier Mendizabal, Calos Cardenosa, Remy Taviera, Kevin Rodrigues and David Stenstrom recently ..."
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

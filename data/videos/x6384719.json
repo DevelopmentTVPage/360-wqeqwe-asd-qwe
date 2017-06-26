@@ -1,0 +1,53 @@
+{
+    "title": "Wieger Behind The Scenes: TWS 12 Pack",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1440798813",
+    "date_modified": "1440798813",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "2",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6384719",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "13",
+    "entityIdParent": "3764281",
+    "titleTextEncoded": "Wieger-Behind-The-Scenes-TWS-12-Pack",
+    "category": null,
+    "duration": "80",
+    "settings": {},
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/82wwZmqCn3M\/hqdefault.jpg",
+        "uploadDate": 1387575930,
+        "videoId": "82wwZmqCn3M",
+        "title": "Wieger Behind The Scenes: TWS 12 Pack",
+        "description": "",
+        "author": "enjoicoskateboards",
+        "mediaDuration": "80",
+        "prettyDuration": "00:01:20",
+        "views": "3332",
+        "hookText": ""
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

@@ -1,0 +1,97 @@
+{
+    "pageNumber": 0,
+    "data": [
+        {
+            "id": "3764013",
+            "title": "Fall 2014 Lifestyle Video",
+            "date_created": "1409869753",
+            "loginId": "753",
+            "tags": "",
+            "description": "Check out a behind the scenes from our Fall 2014 photo shoot!",
+            "asset": {
+                "author": "BlowfishShoes",
+                "hdvFlag": 1,
+                "hookText": "Check out a behind the scenes from our Fall 2014 photo shoot!",
+                "tags": "",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/ATQlY41LZH4\/maxresdefault.jpg",
+                "uploadDate": 1406843577,
+                "videoId": "ATQlY41LZH4",
+                "mediaDuration": "48",
+                "prettyDuration": "00:00:48",
+                "uploadAsset": false,
+                "quality": ""
+            },
+            "parentId": "3764011",
+            "url": "\/blowfish\/fall-2014-lifestyle-video\/3764011-3764013"
+        },
+        {
+            "id": "3764015",
+            "title": "Inside Look: Cona",
+            "date_created": "1409869891",
+            "loginId": "753",
+            "tags": "",
+            "description": "Style Cona is new for Blowfish Shoes Fall 2014. Learn more about this little cutie here!",
+            "asset": {
+                "author": "BlowfishShoes",
+                "hdvFlag": 1,
+                "hookText": "Style Cona is new for Blowfish Shoes Fall 2014. Learn more about this little cutie here!",
+                "tags": "",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/iNRs6yUomkg\/maxresdefault.jpg",
+                "uploadDate": 1409186973,
+                "videoId": "iNRs6yUomkg",
+                "mediaDuration": "21",
+                "prettyDuration": "00:00:21",
+                "uploadAsset": false,
+                "quality": ""
+            },
+            "parentId": "3764011",
+            "url": "\/blowfish\/inside-look-cona\/3764011-3764015"
+        },
+        {
+            "id": "3764014",
+            "title": "Inside Look: Nyack",
+            "date_created": "1409869869",
+            "loginId": "753",
+            "tags": "",
+            "description": "A new espadrille flat for this Summer!\n\nMusic by: \"THEDEEPR & LISA CRISTI (ft. CDK\/THE DEEPER)\" by BOCrew",
+            "asset": {
+                "author": "BlowfishShoes",
+                "hdvFlag": 1,
+                "hookText": "A new espadrille flat for this Summer! Get a pair of Nyack here: http:\/\/goo.gl\/wp4dw Check us out elsewhere: http:\/\/www.blowfishshoes.com http:\/\/www.facebook...",
+                "tags": "",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/-D1sG4meMZ8\/maxresdefault.jpg",
+                "uploadDate": 1370391080,
+                "videoId": "-D1sG4meMZ8",
+                "mediaDuration": "20",
+                "prettyDuration": "00:00:20",
+                "uploadAsset": false,
+                "quality": ""
+            },
+            "parentId": "3764011",
+            "url": "\/blowfish\/inside-look-nyack\/3764011-3764014"
+        },
+        {
+            "id": "3764012",
+            "title": "Brink",
+            "date_created": "1409869638",
+            "loginId": "753",
+            "tags": "",
+            "description": "Brink",
+            "asset": {
+                "author": "BlowfishShoes",
+                "hdvFlag": 1,
+                "hookText": "",
+                "tags": "",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/0vmB3q-amV8\/maxresdefault.jpg",
+                "uploadDate": 1392927003,
+                "videoId": "0vmB3q-amV8",
+                "mediaDuration": "23",
+                "prettyDuration": "00:00:23",
+                "uploadAsset": false,
+                "quality": ""
+            },
+            "parentId": "3764011",
+            "url": "\/blowfish\/brink\/3764011-3764012"
+        }
+    ]
+}

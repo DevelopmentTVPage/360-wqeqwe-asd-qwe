@@ -1,0 +1,66 @@
+{
+    "title": "Element Presents - The Road To Wolfeboro",
+    "description": "Introducing the Road To Wolfeboro: a documentary of a 10-day journey from New York to Wolfeboro; a coming of age story of the maturing Element brand and the evolvement of Brian Gaberman, outstanding photographer to exquisite artist; a road in which two entities have developed a state of mind, where nature and family values are embraced as a priority, but where the love for skateboarding will never be denied.",
+    "referenceId": null,
+    "date_created": "1417828305",
+    "date_modified": "1448994680",
+    "tags": "",
+    "sourceId": "1",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "9",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "3791139",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "139",
+    "entityIdParent": "168534",
+    "titleTextEncoded": "Element-Presents-The-Road-To-Wolfeboro",
+    "category": null,
+    "duration": "504",
+    "settings": [],
+    "asset": {
+        "type": "mp4",
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/753\/canvas\/655\/368\/705603000-01640360.jpg",
+        "mediaDuration": "504",
+        "prettyDuration": "00:08:24",
+        "hookText": "Element Presents - The Road To Wolfeboro",
+        "tags": "",
+        "sources": [
+            {
+                "file": "https:\/\/d2mhchrq41duh4.cloudfront.net\/753\/3791139\/03c40fa0_d8e5_4ff7_fccf_0ca1c6a1b849.mp4"
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/3791139\/720p_03c40fa0_d8e5_4ff7_fccf_0ca1c6a1b849.mp4",
+                "quality": "720p"
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/3791139\/480p_03c40fa0_d8e5_4ff7_fccf_0ca1c6a1b849.mp4",
+                "quality": "480p",
+                "default": true
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/3791139\/360p_03c40fa0_d8e5_4ff7_fccf_0ca1c6a1b849.mp4",
+                "quality": "360p"
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

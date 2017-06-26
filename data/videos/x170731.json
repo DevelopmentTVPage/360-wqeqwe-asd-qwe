@@ -1,0 +1,51 @@
+{
+    "title": "Billabong Pipe Masters 2013 Trailer",
+    "description": "It's that time of the year again... The biggest event in the surfing calendar is about to start. Check out the official event's trailer!",
+    "referenceId": null,
+    "date_created": "1401414108",
+    "date_modified": "1447275106",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "20",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "170731",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "4",
+    "entityIdParent": "168512",
+    "titleTextEncoded": "Billabong-Pipe-Masters-2013-Trailer",
+    "category": null,
+    "duration": "80",
+    "settings": [],
+    "asset": {
+        "author": "billabong",
+        "hdvFlag": 1,
+        "hookText": "It's that time of the year again... The biggest event in the surfing calendar is about to start. Check out the official event's trailer!",
+        "tags": "",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/0X--5HeC2WM\/sddefault.jpg",
+        "uploadDate": 1384499383,
+        "videoId": "0X--5HeC2WM",
+        "mediaDuration": "80",
+        "prettyDuration": "00:01:20"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

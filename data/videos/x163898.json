@@ -1,0 +1,50 @@
+{
+    "title": "Nico Izzi",
+    "description": "Nico Izzi turns some laps on a misty day at Pala",
+    "referenceId": null,
+    "date_created": "1398814003",
+    "date_modified": "1450225700",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "1",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "163898",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "131",
+    "entityIdParent": "168557",
+    "titleTextEncoded": "Nico-Izzi",
+    "category": null,
+    "duration": "133",
+    "settings": [],
+    "asset": {
+        "author": "Volcom",
+        "videoId": "j2UFSuzbsTY",
+        "hookText": "Nico Izzi turns some laps on a misty day at Pala",
+        "thumbnailUrl": "https:\/\/i1.ytimg.com\/vi\/j2UFSuzbsTY\/hqdefault.jpg",
+        "mediaDuration": "133",
+        "hdvFlag": 1,
+        "uploadDate": 1276730617,
+        "prettyDuration": "00:02:13"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

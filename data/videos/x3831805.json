@@ -1,0 +1,55 @@
+{
+    "title": "Freestyle Watches | Luke Davis",
+    "description": "Freestyle Watches X Luke Davis",
+    "referenceId": null,
+    "date_created": "1427822846",
+    "date_modified": "1444264017",
+    "tags": "Freestyle Watches,Luke Davis,Shark Clip,Shark Watches",
+    "sourceId": "3",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "67",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "3831805",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "31",
+    "entityIdParent": "3764319",
+    "titleTextEncoded": "Freestyle-Watches-Luke-Davis",
+    "category": null,
+    "duration": 18,
+    "settings": null,
+    "asset": {
+        "type": "mp4",
+        "hdvFlag": 0,
+        "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/510560623_1280x720.jpg",
+        "mediaDuration": 18,
+        "prettyDuration": "00:18",
+        "uploadDate": 1425505155,
+        "tags": "Freestyle Watches,Luke Davis,Shark Clip,Shark Watches",
+        "hookText": "Freestyle Watches X Luke Davis\n#oftencopiedneverduplicated\n",
+        "sources": [
+            {
+                "file": "https:\/\/player.vimeo.com\/external\/121296126.sd.mp4?s=1d8a9364ff42fb89a479bc20833d999f&profile_id=112&oauth2_token_id=58902408"
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

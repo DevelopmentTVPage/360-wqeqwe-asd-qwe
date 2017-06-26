@@ -1,0 +1,55 @@
+{
+    "title": "Austin Smith Interview",
+    "description": "After being hurt for nearly two years, Austin Smith sits down to talk about the excitement of coming back, what he has been doing while he was injured, and his filming plans for this winter!",
+    "referenceId": "21505517",
+    "date_created": "1443640515",
+    "date_modified": "1443640515",
+    "tags": "",
+    "sourceId": "3",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "1",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6418298",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "47",
+    "entityIdParent": "168543",
+    "titleTextEncoded": "Austin-Smith-Interview",
+    "category": null,
+    "duration": 124,
+    "settings": {},
+    "asset": {
+        "type": "mp4",
+        "sources": [
+            {
+                "file": "https:\/\/player.vimeo.com\/external\/21505517.hd.mp4?s=ea0a81e78efbe4f05cd89f72c26444b0&profile_id=113&oauth2_token_id=56801069"
+            }
+        ],
+        "hdvFlag": 1,
+        "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/138380774_1280x720.jpg",
+        "mediaDuration": 124,
+        "prettyDuration": "02:04",
+        "uploadDate": 1301094255,
+        "tags": "",
+        "hookText": "After being hurt for nearly two years, Austin Smith sits down to talk about the excitement of coming back, what he has been doing while he was injured, and his filming plans for this winter!"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

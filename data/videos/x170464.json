@@ -1,0 +1,51 @@
+{
+    "title": "VonZipper : Hell On Wheels",
+    "description": "A throwback race held in the spirit of \"run what you brung,\" VonZipper pulled out their old dirt bikes and teamed up with the folks at The Hell on Wheels for a weekend of camping, and popping wheelies. Join the VZ FreewheelerMX club over Thanksgiving weekend at Glen Helen Raceway as they eat their leftovers and some dust at the Red Bull Day in the Dirt.",
+    "referenceId": null,
+    "date_created": "1401377563",
+    "date_modified": "1445878436",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "3",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "170464",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "68",
+    "entityIdParent": "168533",
+    "titleTextEncoded": "VonZipper-Hell-On-Wheels",
+    "category": null,
+    "duration": "98",
+    "settings": [],
+    "asset": {
+        "author": "VonZipper",
+        "hdvFlag": 1,
+        "hookText": "A throwback race held in the spirit of \"run what you brung,\" VonZipper pulled out their old dirt bikes and teamed up with the folks at The Hell on Wheels for...",
+        "tags": "",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/vQbU0qIRPi8\/sddefault.jpg",
+        "uploadDate": 1384798240,
+        "videoId": "vQbU0qIRPi8",
+        "mediaDuration": "98",
+        "prettyDuration": "00:01:38"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

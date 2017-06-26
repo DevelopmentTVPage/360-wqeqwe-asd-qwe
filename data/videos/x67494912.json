@@ -1,0 +1,69 @@
+{
+    "title": "ibrahima_acro",
+    "description": "ibrahima_acro",
+    "referenceId": "8d7c8d62407ecd037df11c5beab9a8ed",
+    "date_created": "1471281633",
+    "date_modified": "1471285066",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "67494912",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "47",
+    "entityIdParent": "67314311",
+    "titleTextEncoded": "ibrahima-acro7-8-mp4",
+    "category": "",
+    "duration": "11",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "11",
+            "width": 640,
+            "height": 360
+        },
+        "mediaDuration": "11",
+        "prettyDuration": "00:00:11",
+        "thumbnailUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67494912\/3531a\/thumb-8d7c8d62407ecd037df11c5beab9a8ed-00001.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67494912\/3531a\/media.mpd",
+        "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67494912\/3531a\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67494912\/3531a\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67494912\/3531a\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "metrics_statistics": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

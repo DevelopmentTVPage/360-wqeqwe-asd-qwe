@@ -1,0 +1,53 @@
+{
+    "title": "Creative Recreation Fall 2014 Campaign Video",
+    "description": "Creative Conversations opens up a dialogue with LA tastemakers profiling their distinctive crafts and the passions that drive their ambition. Watch the full stories unfold",
+    "referenceId": null,
+    "date_created": "1409879207",
+    "date_modified": "1470254945",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": "Creative_Reaction",
+    "video_celeb": null,
+    "video_activity": "Art___Design",
+    "VV_VI": "5",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "3764046",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "0",
+    "entityIdParent": "3764045",
+    "titleTextEncoded": "Creative-Recreation-Fall-2014-Campaign-Video",
+    "category": null,
+    "duration": "83",
+    "settings": [],
+    "asset": {
+        "author": "Creative Recreation",
+        "hdvFlag": 1,
+        "hookText": "Creative Conversations opens up a dialogue with LA tastemakers profiling their distinctive crafts and the passions that drive their ambition. Watch the full ...",
+        "tags": "",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/T-lAdivJnlY\/maxresdefault.jpg",
+        "uploadDate": 1407805141,
+        "videoId": "T-lAdivJnlY",
+        "mediaDuration": "83",
+        "prettyDuration": "00:01:23",
+        "uploadAsset": false,
+        "quality": ""
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

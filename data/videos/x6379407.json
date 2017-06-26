@@ -1,0 +1,46 @@
+{
+    "title": "etnies Presents: Jamie O'Brien",
+    "description": "http:\/\/www.facebook.com\/etnies",
+    "referenceId": null,
+    "date_created": "1440443401",
+    "date_modified": "1440443401",
+    "tags": "etnies,etnies surf,JOB,Who is JOB,Jamie O'Brien",
+    "sourceId": "3",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6379407",
+    "loginId": "753",
+    "entityType": "1",
+    "titleTextEncoded": "etnies-Presents-Jamie-O-Brien",
+    "category": null,
+    "duration": 167,
+    "settings": {},
+    "asset": {
+        "type": "mp4",
+        "sources": [
+            {
+                "file": "https:\/\/player.vimeo.com\/external\/21446526.hd.mp4?s=41a1ccc41664a52ef5852ba088e3075c&profile_id=113&oauth2_token_id=62432308"
+            }
+        ],
+        "hdvFlag": 1,
+        "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/137954184_1280x720.jpg",
+        "mediaDuration": 167,
+        "prettyDuration": "02:47",
+        "uploadDate": 1300984303,
+        "tags": "etnies,etnies surf,JOB,Who is JOB,Jamie O'Brien",
+        "hookText": "http:\/\/www.facebook.com\/etnies"
+    },
+    "transcripts": null,
+    "metrics_statistics": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

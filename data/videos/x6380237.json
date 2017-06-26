@@ -1,0 +1,55 @@
+{
+    "title": "Freestyle Watches | Navigator 3.0",
+    "description": "The 3rd installment of the successful Navigator style featuring outstanding compass functionality, the Navigator 3.0 has been upgraded with a glass lens and ultra comfortable silicone strap. Ready and willing to be the co-pilot on your next adventure. Like all Freestyle Watches, the Navigator 2.0 is backed by our limited lifetime warranty and 100 meter water resistance.",
+    "referenceId": null,
+    "date_created": "1440445666",
+    "date_modified": "1449711053",
+    "tags": "Navigator 3.0,Freestyle Watches,Shark Watches",
+    "sourceId": "3",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "2",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6380237",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "19",
+    "entityIdParent": "3764319",
+    "titleTextEncoded": "Freestyle-Watches-Navigator-3-0",
+    "category": null,
+    "duration": 15,
+    "settings": {},
+    "asset": {
+        "type": "mp4",
+        "hdvFlag": 0,
+        "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/510562267_1280x720.jpg",
+        "mediaDuration": 15,
+        "prettyDuration": "00:15",
+        "uploadDate": 1419037092,
+        "tags": "Navigator 3.0,Freestyle Watches,Shark Watches",
+        "hookText": "The 3rd installment of the successful Navigator style featuring outstanding compass functionality, the Navigator 3.0 has been upgraded with a glass lens and ultra comfortable silicone strap. Ready and willing to be the co-pilot on your next adventure. Lik",
+        "sources": [
+            {
+                "file": "https:\/\/player.vimeo.com\/external\/115030734.sd.mp4?s=5d5f0b0b010ce566e32a2870969f8332&profile_id=112&oauth2_token_id=58902408"
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

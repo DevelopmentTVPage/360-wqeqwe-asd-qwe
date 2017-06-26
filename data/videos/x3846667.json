@@ -1,0 +1,62 @@
+{
+    "title": "HAZE X STECYK COLLECTION",
+    "description": "Eric Haze, a legend of New York street art. Craig Stecyk, the Godfather of Surf and Skate. Bringing together two icons under one roof, the Haze X Stecyk collection delivers the ultimate representation of East and West.",
+    "referenceId": null,
+    "date_created": "1435683968",
+    "date_modified": "1470242531",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": "Art___Design",
+    "VV_VI": "168",
+    "CVV_VI": "16",
+    "engagement_score": "1",
+    "conversion_score": "1",
+    "id": "3846667",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "74",
+    "entityIdParent": "3764789",
+    "titleTextEncoded": "HAZE-X-STECYK-COLLECTION",
+    "category": null,
+    "duration": "110",
+    "settings": [],
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/W3mL03rbICs\/hqdefault.jpg",
+        "uploadDate": 1435599377,
+        "videoId": "W3mL03rbICs",
+        "title": "HAZE X STECYK COLLECTION",
+        "description": "Eric Haze, a legend of New York street art. Craig Stecyk, the Godfather of Surf and Skate. Bringing together two icons under one roof, the Haze X Stecyk collection delivers the ultimate representation of East and West.\n\nAvailable June 29 at hurley.com",
+        "author": "Hurley",
+        "mediaDuration": "110",
+        "prettyDuration": "00:01:50",
+        "views": "486",
+        "hookText": "Eric Haze, a legend of New York street art. Craig Stecyk, the Godfather of Surf and Skate. Bringing together two icons under one roof, the Haze X Stecyk collection delivers the ultimate representation of East and West.",
+        "tags": "",
+        "uploadAsset": false,
+        "quality": ""
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "conversion_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

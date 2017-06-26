@@ -1,0 +1,46 @@
+{
+    "title": "Lean & Mean",
+    "description": "Brian Kachinsky is Lean & Mean.\n\nhttp:\/\/www.facebook.com\/etnies\nhttp:\/\/etnies.com\/blog\/2012\/6\/11\/lean-mean\/",
+    "referenceId": null,
+    "date_created": "1440443181",
+    "date_modified": "1440443181",
+    "tags": "etnies,etnies BMX,etnies Jameson,Jameson 2 Eco,Brian Kachinsky,BK,DK Bikes",
+    "sourceId": "3",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6379281",
+    "loginId": "753",
+    "entityType": "1",
+    "titleTextEncoded": "Lean-Mean",
+    "category": null,
+    "duration": 110,
+    "settings": {},
+    "asset": {
+        "type": "mp4",
+        "sources": [
+            {
+                "file": "https:\/\/player.vimeo.com\/external\/41888729.hd.mp4?s=27294839d03a0f068cf733424e6a8793&profile_id=113&oauth2_token_id=62432308"
+            }
+        ],
+        "hdvFlag": 1,
+        "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/304830231_1280x721.jpg",
+        "mediaDuration": 110,
+        "prettyDuration": "01:50",
+        "uploadDate": 1336614094,
+        "tags": "etnies,etnies BMX,etnies Jameson,Jameson 2 Eco,Brian Kachinsky,BK,DK Bikes",
+        "hookText": "Brian Kachinsky is Lean & Mean.\n\nhttp:\/\/www.facebook.com\/etnies\nhttp:\/\/etnies.com\/blog\/2012\/6\/11\/lean-mean\/"
+    },
+    "transcripts": null,
+    "metrics_statistics": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

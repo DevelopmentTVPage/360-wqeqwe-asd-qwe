@@ -1,0 +1,55 @@
+{
+    "title": "Converse Pro Streets: Madrid",
+    "description": "Lavapi\u00e9s. Madrid R\u00edo. Cuesta de Moyano. Barrio de Tetu\u00e1n. Pro Streets is live across the city celebrating some of the most unique and diverse areas of Madrid. We meet some of the locals who make each neighborhood what it is.",
+    "referenceId": "CptPKLczgvE",
+    "date_created": "1444243992",
+    "date_modified": "1447382943",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "1",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6419926",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "130",
+    "entityIdParent": "168524",
+    "titleTextEncoded": "Converse-Pro-Streets-Madrid",
+    "category": null,
+    "duration": "131",
+    "settings": [],
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/CptPKLczgvE\/hqdefault.jpg",
+        "uploadDate": 1348133923,
+        "videoId": "CptPKLczgvE",
+        "title": "Converse Pro Streets: Madrid",
+        "description": "Lavapi\u00e9s. Madrid R\u00edo. Cuesta de Moyano. Barrio de Tetu\u00e1n. Pro Streets is live across the city celebrating some of the most unique and diverse areas of Madrid...",
+        "author": "converse",
+        "mediaDuration": "131",
+        "prettyDuration": "00:02:11",
+        "views": "48690",
+        "hookText": "Lavapi\u00e9s. Madrid R\u00edo. Cuesta de Moyano. Barrio de Tetu\u00e1n. Pro Streets is live across the city celebrating some of the most unique and diverse areas of Madrid..."
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": [
+        "7"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

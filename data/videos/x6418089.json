@@ -1,0 +1,55 @@
+{
+    "title": "Dakine Sentinel Bike Glove",
+    "description": "Check out 360\u00b0 views of the 2012 Sentinel Glove, shown in Red.\n\nGlove Features:\n- Synthetic suede Palm\n- D30\u2122 flexible palm and knuckle armor\n- Adjustable hook and loop closure\n- One piece seamless palm construction",
+    "referenceId": "35909855",
+    "date_created": "1443633977",
+    "date_modified": "1448311877",
+    "tags": "",
+    "sourceId": "3",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "2",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6418089",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "96",
+    "entityIdParent": "168543",
+    "titleTextEncoded": "Dakine-Sentinel-Bike-Glove",
+    "category": null,
+    "duration": 38,
+    "settings": {},
+    "asset": {
+        "type": "mp4",
+        "hdvFlag": 1,
+        "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/245882642_1280x720.jpg",
+        "mediaDuration": 38,
+        "prettyDuration": "00:38",
+        "uploadDate": 1327956374,
+        "tags": "",
+        "hookText": "Check out 360\u00b0 views of the 2012 Sentinel Glove, shown in Red.\n\nGlove Features:\n- Synthetic suede Palm\n- D30\u2122 flexible palm and knuckle armor\n- Adjustable hook and loop closure\n- One piece seamless palm construction",
+        "sources": [
+            {
+                "file": "https:\/\/player.vimeo.com\/external\/35909855.hd.mp4?s=35e92abf1cdbb036a221cda39a106208&profile_id=113&oauth2_token_id=56801069"
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

@@ -1,0 +1,48 @@
+{
+    "title": "DAKINE - S15 - MENS APPAREL LOOBOOK",
+    "description": "DAKINE S15 - MENS APPAREL LOOBOOK",
+    "referenceId": "121480725",
+    "date_created": "1441409148",
+    "date_modified": "1441409148",
+    "tags": "",
+    "sourceId": "3",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6390421",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "304",
+    "entityIdParent": "168543",
+    "titleTextEncoded": "DAKINE-S15-MENS-APPAREL-LOOBOOK",
+    "category": null,
+    "duration": 134,
+    "settings": {},
+    "asset": {
+        "type": "mp4",
+        "sources": [
+            {
+                "file": "https:\/\/player.vimeo.com\/external\/121480725.hd.mp4?s=83441c456e137ac225b1c0fcb03b42d8&profile_id=113&oauth2_token_id=56801069"
+            }
+        ],
+        "hdvFlag": 1,
+        "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/509778678_1280x720.jpg",
+        "mediaDuration": 134,
+        "prettyDuration": "02:14",
+        "uploadDate": 1425661924,
+        "tags": "",
+        "hookText": "DAKINE S15 - MENS APPAREL LOOBOOK"
+    },
+    "transcripts": null,
+    "metrics_statistics": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

@@ -1,0 +1,73 @@
+{
+    "title": "Lady GroupLove For Volcom",
+    "description": "After four years of touring Hannah Hooper the female lead of Grouplove walked into Volcom and emptied her suitcase on a table for the Volcom design team. Three hours later the team of women had the beginnings of what would become the inspiration behind the \"Lady Grouplove Collection\" for Volcom product collaboration.",
+    "referenceId": null,
+    "date_created": "1434475557",
+    "date_modified": "1470242557",
+    "tags": "",
+    "sourceId": "1",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": "Volcom",
+    "video_celeb": null,
+    "video_activity": "Art___Design",
+    "VV_VI": "512",
+    "CVV_VI": "14",
+    "engagement_score": "4",
+    "conversion_score": "1",
+    "id": "3844837",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "75",
+    "entityIdParent": "3764789",
+    "titleTextEncoded": "Lady-GroupLove-For-Volcom",
+    "category": null,
+    "duration": "139",
+    "settings": [],
+    "asset": {
+        "type": "mp4",
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/753\/canvas\/655\/368\/956250461-173791236677.png",
+        "mediaDuration": "139",
+        "prettyDuration": "00:02:19",
+        "hookText": "Lady GroupLove For Volcom",
+        "tags": "",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/3844837\/0f1f9b77_5d60_48e4_d6dc_1bdd753971e1.mp4"
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/3844837\/720p_0f1f9b77_5d60_48e4_d6dc_1bdd753971e1.mp4",
+                "quality": "720p"
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/3844837\/480p_0f1f9b77_5d60_48e4_d6dc_1bdd753971e1.mp4",
+                "quality": "480p"
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/3844837\/360p_0f1f9b77_5d60_48e4_d6dc_1bdd753971e1.mp4",
+                "quality": "360p"
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "conversion_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

@@ -1,0 +1,50 @@
+{
+    "title": "Marcus Kleveland European Open Winning Run",
+    "description": "Marcus Kleveland wins the European Open Junior Jam Slopestyle at Laax, Switzerland. This is his winning run.",
+    "referenceId": null,
+    "date_created": "1398813935",
+    "date_modified": "1450139302",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "1",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "163367",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "140",
+    "entityIdParent": "168557",
+    "titleTextEncoded": "Marcus-Kleveland-European-Open-Winning-Run",
+    "category": null,
+    "duration": "53",
+    "settings": [],
+    "asset": {
+        "author": "Volcom",
+        "videoId": "OiCyAEcZsks",
+        "hookText": "Marcus Kleveland wins the European Open Junior Jam Slopestyle at Laax, Switzerland. This is his winning run.",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/OiCyAEcZsks\/maxresdefault.jpg",
+        "mediaDuration": "53",
+        "hdvFlag": 1,
+        "uploadDate": 1360840658,
+        "prettyDuration": "00:00:53"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

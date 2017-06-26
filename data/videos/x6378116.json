@@ -1,0 +1,53 @@
+{
+    "title": "Fallen Jamie Thomas Spirit Commercial",
+    "description": "Jamie Thomas introduces his new signature shoe from Fallen, the Spirit.",
+    "referenceId": null,
+    "date_created": "1440439226",
+    "date_modified": "1449110888",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "5",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6378116",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "23",
+    "entityIdParent": "3764287",
+    "titleTextEncoded": "Fallen-Jamie-Thomas-Spirit-Commercial",
+    "category": null,
+    "duration": "15",
+    "settings": {},
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/_tzKVtBbbcA\/hqdefault.jpg",
+        "uploadDate": 1432661680,
+        "videoId": "_tzKVtBbbcA",
+        "title": "Fallen Jamie Thomas Spirit Commercial",
+        "description": "Jamie Thomas introduces his new signature shoe from Fallen, the Spirit.",
+        "author": "fallenfootweartv",
+        "mediaDuration": "15",
+        "prettyDuration": "00:00:15",
+        "views": "4382",
+        "hookText": "Jamie Thomas introduces his new signature shoe from Fallen, the Spirit."
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

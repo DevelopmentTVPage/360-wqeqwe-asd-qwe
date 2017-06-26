@@ -1,0 +1,55 @@
+{
+    "title": "15-Sec Surfline Spot",
+    "description": "The Durbo 15-sec spot featuring Bede Durbidge and the only watch in the\nworld with an integrated fin key. More info? http:\/\/www.freestyleusa.com\/products\/Mens\/Durbo",
+    "referenceId": null,
+    "date_created": "1440445680",
+    "date_modified": "1443215273",
+    "tags": "bede durbidge,the durbo,freestyle watches,shark watch,fin key",
+    "sourceId": "3",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "2",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6380245",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "11",
+    "entityIdParent": "3764319",
+    "titleTextEncoded": "15-Sec-Surfline-Spot",
+    "category": null,
+    "duration": 15,
+    "settings": {},
+    "asset": {
+        "type": "mp4",
+        "hdvFlag": 0,
+        "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/53436146_960x540.jpg",
+        "mediaDuration": 15,
+        "prettyDuration": "00:15",
+        "uploadDate": 1269020283,
+        "tags": "bede durbidge,the durbo,freestyle watches,shark watch,fin key",
+        "hookText": "The Durbo 15-sec spot featuring Bede Durbidge and the only watch in the\nworld with an integrated fin key. More info? http:\/\/www.freestyleusa.com\/products\/Mens\/Durbo",
+        "sources": [
+            {
+                "file": "https:\/\/player.vimeo.com\/external\/10289352.sd.mp4?s=fec5bdb26f6d165d47a887b1a1210f57&profile_id=112&oauth2_token_id=58902408"
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

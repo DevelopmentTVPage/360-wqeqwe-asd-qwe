@@ -1,0 +1,53 @@
+{
+    "title": "Austin, Texas - Arnette Field Trip",
+    "description": "Arnette Eyewear takes you on a tour of Austin, TX and all the sights and sounds this city has to offer.",
+    "referenceId": null,
+    "date_created": "1440637277",
+    "date_modified": "1447199159",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "1",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6383243",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "30",
+    "entityIdParent": "168553",
+    "titleTextEncoded": "Austin-Texas-Arnette-Field-Trip",
+    "category": null,
+    "duration": "182",
+    "settings": {},
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/w9SaMhT141s\/hqdefault.jpg",
+        "uploadDate": 1432656846,
+        "videoId": "w9SaMhT141s",
+        "title": "Austin, Texas - Arnette Field Trip",
+        "description": "Arnette Eyewear takes you on a tour of Austin, TX and all the sights and sounds this city has to offer.\nGet the full Austin Field Trip experience at http:\/\/www.arnette.com\/field-trip-austin\/",
+        "author": "Arnette",
+        "mediaDuration": "182",
+        "prettyDuration": "00:03:02",
+        "views": "275",
+        "hookText": "Arnette Eyewear takes you on a tour of Austin, TX and all the sights and sounds this city has to offer.\nGet the full Austin Field Trip experience at http:\/\/www.arnette.com\/field-trip-austin\/"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

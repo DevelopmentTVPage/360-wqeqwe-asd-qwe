@@ -1,0 +1,53 @@
+{
+    "title": "adidas Skateboarding Gonz Tokyo",
+    "description": "Travel to Tokyo and observe the creative process of Mark Gonzales as he prepares for his solo show at The Last Gallery and cruises the streets of Roppongi and Minato-Ku.",
+    "referenceId": null,
+    "date_created": "1441150192",
+    "date_modified": "1455844415",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "12",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6386181",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "68",
+    "entityIdParent": "168510",
+    "titleTextEncoded": "adidas-Skateboarding-Gonz-Tokyo",
+    "category": null,
+    "duration": "132",
+    "settings": {},
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/At0hF1zSrnk\/hqdefault.jpg",
+        "uploadDate": 1318531730,
+        "videoId": "At0hF1zSrnk",
+        "title": "adidas Skateboarding Gonz Tokyo",
+        "description": "Travel to Tokyo and observe the creative process of Mark Gonzales as he prepares for his solo show at The Last Gallery and cruises the streets of Roppongi and ...",
+        "author": "adidasSkateboarding",
+        "mediaDuration": "132",
+        "prettyDuration": "00:02:12",
+        "views": "95121",
+        "hookText": "Travel to Tokyo and observe the creative process of Mark Gonzales as he prepares for his solo show at The Last Gallery and cruises the streets of Roppongi and ..."
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

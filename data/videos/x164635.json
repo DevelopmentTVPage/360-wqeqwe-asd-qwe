@@ -1,0 +1,50 @@
+{
+    "title": "LEI DAY 2: In Deep",
+    "description": "A more in depth discussion about Pipe with Derek Ho",
+    "referenceId": null,
+    "date_created": "1398814011",
+    "date_modified": "1418181393",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "1",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "164635",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "150",
+    "entityIdParent": "168557",
+    "titleTextEncoded": "LEI-DAY-2-In-Deep",
+    "category": null,
+    "duration": "121",
+    "settings": [],
+    "asset": {
+        "author": "Volcom",
+        "videoId": "_MKuMN4Z6h4",
+        "hookText": "A more in depth discussion about Pipe with Derek Ho",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/_MKuMN4Z6h4\/maxresdefault.jpg",
+        "mediaDuration": "121",
+        "hdvFlag": 1,
+        "uploadDate": 1264506163,
+        "prettyDuration": "00:02:01"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

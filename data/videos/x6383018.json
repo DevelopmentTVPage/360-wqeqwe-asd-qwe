@@ -1,0 +1,53 @@
+{
+    "title": "Road Less Traveled - Garrett Hill interrupted",
+    "description": "Garrett Hill gets interrupted.",
+    "referenceId": null,
+    "date_created": "1440611361",
+    "date_modified": "1450403746",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "1",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6383018",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "11",
+    "entityIdParent": "3764287",
+    "titleTextEncoded": "Road-Less-Traveled-Garrett-Hill-interrupted",
+    "category": null,
+    "duration": "7",
+    "settings": {},
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/sZr8BsCvY6E\/hqdefault.jpg",
+        "uploadDate": 1334177593,
+        "videoId": "sZr8BsCvY6E",
+        "title": "Road Less Traveled - Garrett Hill interrupted",
+        "description": "Garrett Hill gets interrupted.",
+        "author": "fallenfootweartv",
+        "mediaDuration": "7",
+        "prettyDuration": "00:00:07",
+        "views": "4662",
+        "hookText": "Garrett Hill gets interrupted."
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

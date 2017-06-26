@@ -1,0 +1,46 @@
+{
+    "title": "etnies Proudly Welcomes Chad Reed to the Team",
+    "description": "etnies Proudly welcomes Chad Reed to the Team!",
+    "referenceId": null,
+    "date_created": "1440443402",
+    "date_modified": "1449023806",
+    "tags": "etnies MX,Chad Reed,etnies",
+    "sourceId": "3",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6379415",
+    "loginId": "753",
+    "entityType": "1",
+    "titleTextEncoded": "etnies-Proudly-Welcomes-Chad-Reed-to-the-Team",
+    "category": null,
+    "duration": 154,
+    "settings": {},
+    "asset": {
+        "type": "mp4",
+        "hdvFlag": 1,
+        "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/129982462_1280x720.jpg",
+        "mediaDuration": 154,
+        "prettyDuration": "02:34",
+        "uploadDate": 1298602443,
+        "tags": "etnies MX,Chad Reed,etnies",
+        "hookText": "www.facebook.com\/etnies etnies Proudly welcomes Chad Re... http:\/\/www.facebook.com\/etnies etnies Proudly welcomes Chad Reed to the Team!",
+        "sources": [
+            {
+                "file": "https:\/\/player.vimeo.com\/external\/20355380.hd.mp4?s=1006db95b60569769090338358b647ee&profile_id=113&oauth2_token_id=62432308"
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

@@ -1,0 +1,93 @@
+{
+    "pageNumber": 0,
+    "data": [
+        {
+            "id": "3764412",
+            "title": "Battle of the Paddle Hawaii",
+            "date_created": "1410205870",
+            "loginId": "753",
+            "tags": "",
+            "description": "Rainbow Sandals Gerry Lopez Battle of the Paddle Hawaii. June 12-13. Duke Kahanamoku Beach at Ft. DeRussy, Waikiki.",
+            "asset": {
+                "author": "Rainbow Sandals",
+                "hdvFlag": 1,
+                "hookText": "Rainbow Sandals Gerry Lopez Battle of the Paddle Hawaii. June 12-13. Duke Kahanamoku Beach at Ft. DeRussy, Waikiki. Go to www.RainbowSandals.com for more info.",
+                "tags": "",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/v8Q3pJslhLk\/maxresdefault.jpg",
+                "uploadDate": 1269881545,
+                "videoId": "v8Q3pJslhLk",
+                "mediaDuration": "40",
+                "prettyDuration": "00:00:40"
+            },
+            "parentId": "3764405",
+            "url": "\/rainbow\/battle-of-the-paddle-hawaii\/3764405-3764412"
+        },
+        {
+            "id": "3764411",
+            "title": "Battle of the Paddle Hawaii, Distance Race",
+            "date_created": "1410205718",
+            "loginId": "753",
+            "tags": "",
+            "description": "Gerry Lopez explains the distance race course for the BoP Hawaii. Hawaii Kai to Fort DeRussy is the course.",
+            "asset": {
+                "author": "Rainbow Sandals",
+                "hdvFlag": 1,
+                "hookText": "Gerry Lopez explains the distance race course for the BoP Hawaii. Hawaii Kai to Fort DeRussy is the course. For more info, go to www.RainbowSandals.com.",
+                "tags": "",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/2gdrzRHM6N4\/sddefault.jpg",
+                "uploadDate": 1269970345,
+                "videoId": "2gdrzRHM6N4",
+                "mediaDuration": "172",
+                "prettyDuration": "00:02:52"
+            },
+            "parentId": "3764405",
+            "url": "\/rainbow\/battle-of-the-paddle-hawaii-distance-race\/3764405-3764411"
+        },
+        {
+            "id": "3764408",
+            "title": "Inside a Rainbow Sandal by Sparky",
+            "date_created": "1410205681",
+            "loginId": "753",
+            "tags": "",
+            "description": "Founder and President Jay \"Sparky\" Longley demonstrates what goes behind a Rainbow Sandal.",
+            "asset": {
+                "author": "Rainbow Sandals",
+                "hdvFlag": 0,
+                "hookText": "Founder and President Jay \"Sparky\" Longley demonstrates what goes behind a Rainbow Sandal.",
+                "tags": "",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/09Payu4lh7U\/hqdefault.jpg",
+                "uploadDate": 1307121175,
+                "videoId": "09Payu4lh7U",
+                "mediaDuration": "228",
+                "prettyDuration": "00:03:48",
+                "uploadAsset": false,
+                "quality": ""
+            },
+            "parentId": "3764405",
+            "url": "\/rainbow\/inside-a-rainbow-sandal-by-sparky\/3764405-3764408"
+        },
+        {
+            "id": "3764407",
+            "title": "The Rainbow\u00ae Sandals Story",
+            "date_created": "1410205659",
+            "loginId": "753",
+            "tags": "",
+            "description": "The story of how Rainbow\u00ae Sandals originated and how they became the sandal staple in the world that they are today.",
+            "asset": {
+                "author": "Rainbow Sandals",
+                "hdvFlag": 1,
+                "hookText": "The story of how Rainbow\u00ae Sandals originated and how they became the sandal staple in the world that they are today.",
+                "tags": "",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/KJOvhsiZg40\/maxresdefault.jpg",
+                "uploadDate": 1367125565,
+                "videoId": "KJOvhsiZg40",
+                "mediaDuration": "300",
+                "prettyDuration": "00:05:00",
+                "uploadAsset": false,
+                "quality": ""
+            },
+            "parentId": "3764405",
+            "url": "\/rainbow\/the-rainbow-sandals-story\/3764405-3764407"
+        }
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "title": "Levi's Skateboarding - Behind the Scenes w\/ Jon Humphries",
+    "description": "Behind the scenes with director Jon Humphries during the making of Levi's Skateboarding's 2014 Spring collection video in downtown Oakland featuring Del The Funky Homosapien and Dan The Automator.",
+    "referenceId": null,
+    "date_created": "1401384648",
+    "date_modified": "1470272216",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": "Levi_s",
+    "video_celeb": null,
+    "video_activity": "Skating",
+    "VV_VI": "10",
+    "CVV_VI": "1",
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "170520",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "9",
+    "entityIdParent": "168530",
+    "titleTextEncoded": "Levi-s-Skateboarding-Behind-the-Scenes-w-Jon-Humphries",
+    "category": null,
+    "duration": "63",
+    "settings": [],
+    "asset": {
+        "author": "Levi's\u00ae",
+        "hdvFlag": 1,
+        "hookText": "Behind the scenes with director Jon Humphries during the making of Levi's Skateboarding's 2014 Spring collection video in downtown Oakland featuring Del The ...",
+        "tags": "",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/UXiWZ9kBhVE\/sddefault.jpg",
+        "uploadDate": 1392143223,
+        "videoId": "UXiWZ9kBhVE",
+        "mediaDuration": "63",
+        "prettyDuration": "00:01:03",
+        "uploadAsset": false,
+        "quality": ""
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "conversion_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

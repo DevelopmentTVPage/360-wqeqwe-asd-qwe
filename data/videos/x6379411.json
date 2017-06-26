@@ -1,0 +1,46 @@
+{
+    "title": "etnies Presents: Kyle Leeper, Rain or Shine",
+    "description": "etnies Presents: Kyle Leeper, Rain or Shine. A short film by Mike Manzoori.",
+    "referenceId": null,
+    "date_created": "1440443402",
+    "date_modified": "1444177996",
+    "tags": "etnies,skateboarding,kyle leeper,rain or shine,mike manzoori",
+    "sourceId": "3",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6379411",
+    "loginId": "753",
+    "entityType": "1",
+    "titleTextEncoded": "etnies-Presents-Kyle-Leeper-Rain-or-Shine",
+    "category": null,
+    "duration": 300,
+    "settings": {},
+    "asset": {
+        "type": "mp4",
+        "hdvFlag": 0,
+        "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/131994797_960x534.jpg",
+        "mediaDuration": 300,
+        "prettyDuration": "05:00",
+        "uploadDate": 1299198442,
+        "tags": "etnies,skateboarding,kyle leeper,rain or shine,mike manzoori",
+        "hookText": "etnies Presents: Kyle Leeper, Rain or Shine. A short film by Mike Manzoori.\n\nFollow etnies on:\nhttp:\/\/www.etnies.com\nhttp:\/\/www.facebook.com\/etnies\nhttp:\/\/www.facebook.com\/etnies.europe",
+        "sources": [
+            {
+                "file": "https:\/\/player.vimeo.com\/external\/20625729.sd.mp4?s=3a0b57fe89257478fac51eb6a3d7e2f9&profile_id=112&oauth2_token_id=62432308"
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

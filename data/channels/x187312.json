@@ -1,0 +1,31 @@
+{
+    "title": "Summer Sound Check Tour",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1404757770",
+    "date_modified": "1409778334",
+    "tags": "",
+    "sourceId": null,
+    "status": "approved",
+    "visibility": "1",
+    "id": "187312",
+    "loginId": "753",
+    "entityType": "3",
+    "titleTextEncoded": "Summer-Sound-Check-Tour",
+    "category": null,
+    "duration": null,
+    "settings": {
+        "canvasImage": "962409024-0.png",
+        "colorClass": "light",
+        "canvasType": "cropped",
+        "canvasCropped": "962409024-59024771361.png",
+        "auto": {
+            "dynamic": 0
+        },
+        "optimize": 1,
+        "autoPlay": 1,
+        "autoNext": 1,
+        "hideoos": 1
+    },
+    "transcripts": null
+}

@@ -1,0 +1,53 @@
+{
+    "title": "theotis beasley part3",
+    "description": "theotis beasley part3",
+    "referenceId": "hBjTIz_0STE",
+    "date_created": "1441406590",
+    "date_modified": "1455738103",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "1",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6390313",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "15",
+    "entityIdParent": "168548",
+    "titleTextEncoded": "theotis-beasley-part3",
+    "category": null,
+    "duration": "89",
+    "settings": {},
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/hBjTIz_0STE\/hqdefault.jpg",
+        "uploadDate": 1286381334,
+        "videoId": "hBjTIz_0STE",
+        "title": "theotis beasley part3",
+        "description": "",
+        "author": "Altamont",
+        "mediaDuration": "89",
+        "prettyDuration": "00:01:29",
+        "views": "4219",
+        "hookText": ""
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

@@ -1,0 +1,46 @@
+{
+    "title": "Dakine Winter 2014 ABS",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1440449898",
+    "date_modified": "1440449898",
+    "tags": "",
+    "sourceId": "3",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6380556",
+    "loginId": "753",
+    "entityType": "1",
+    "titleTextEncoded": "Dakine-Winter-2014-ABS",
+    "category": null,
+    "duration": 243,
+    "settings": {},
+    "asset": {
+        "type": "mp4",
+        "sources": [
+            {
+                "file": "https:\/\/player.vimeo.com\/external\/70441537.hd.mp4?s=34f96d8659b892b0788bd254ff127368&profile_id=113&oauth2_token_id=56801069"
+            }
+        ],
+        "hdvFlag": 1,
+        "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/443708932_1280x720.jpg",
+        "mediaDuration": 243,
+        "prettyDuration": "04:03",
+        "uploadDate": 1374010204,
+        "tags": "",
+        "hookText": ""
+    },
+    "transcripts": null,
+    "metrics_statistics": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

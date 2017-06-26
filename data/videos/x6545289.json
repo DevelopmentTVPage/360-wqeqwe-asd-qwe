@@ -1,0 +1,50 @@
+{
+    "title": "PHANTOM INNOVATION: 4D",
+    "description": "The next dimension of innovation is here: Phantom 4D.",
+    "referenceId": "oF1U3kQlwg8",
+    "date_created": "1308606969",
+    "date_modified": "1450376797",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6545289",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "118",
+    "entityIdParent": "158318",
+    "titleTextEncoded": "PHANTOM-INNOVATION-4D",
+    "category": null,
+    "duration": "34",
+    "settings": {
+        "parentFeedId": "6544969",
+        "parentFeedLoginId": "753"
+    },
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/oF1U3kQlwg8\/hqdefault.jpg",
+        "uploadDate": 1308606969,
+        "videoId": "oF1U3kQlwg8",
+        "title": "PHANTOM INNOVATION: 4D",
+        "description": "The next dimension of innovation is here: Phantom 4D.",
+        "author": "hurley",
+        "mediaDuration": "34",
+        "prettyDuration": "00:00:34",
+        "views": "3160"
+    },
+    "transcripts": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "16"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

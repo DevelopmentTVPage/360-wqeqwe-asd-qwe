@@ -1,0 +1,24 @@
+{
+    "title": "Vestal",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1426289766",
+    "date_modified": "1426290002",
+    "tags": "",
+    "sourceId": null,
+    "status": "approved",
+    "visibility": "1",
+    "id": "3827161",
+    "loginId": "753",
+    "entityType": "3",
+    "titleTextEncoded": "Vestal",
+    "category": null,
+    "duration": null,
+    "settings": {
+        "canvasImage": "843317099-0.png",
+        "colorClass": "light",
+        "canvasType": "cropped",
+        "canvasCropped": "843317099-049685434.png"
+    },
+    "transcripts": null
+}

@@ -1,0 +1,55 @@
+{
+    "title": "Real Snow",
+    "description": "This year the X Games added the \"Real Snow\" event to it's already impressive venue. Pro Snowboarders JP Walker and Louif Paradise give you some insight on what it was like to join the new event for the X Games!",
+    "referenceId": "21510169",
+    "date_created": "1443640515",
+    "date_modified": "1450386431",
+    "tags": "",
+    "sourceId": "3",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "1",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6418295",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "50",
+    "entityIdParent": "168543",
+    "titleTextEncoded": "Real-Snow",
+    "category": null,
+    "duration": 91,
+    "settings": {},
+    "asset": {
+        "type": "mp4",
+        "hdvFlag": 1,
+        "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/138416008_1280x720.jpg",
+        "mediaDuration": 91,
+        "prettyDuration": "01:31",
+        "uploadDate": 1301106015,
+        "tags": "",
+        "hookText": "This year the X Games added the \"Real Snow\" event to it's already impressive venue. Pro Snowboarders JP Walker and Louif Paradise give you some insight on what it was like to join the new event for the X Games!",
+        "sources": [
+            {
+                "file": "https:\/\/player.vimeo.com\/external\/21510169.hd.mp4?s=797e8b1d7f29c5eed6dbe8ad4954e7f0&profile_id=113&oauth2_token_id=56801069"
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

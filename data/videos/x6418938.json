@@ -1,0 +1,55 @@
+{
+    "title": "On The Pipe 6 Trailer 2",
+    "description": "etnies on the Pipe 6 Trailer!",
+    "referenceId": "20625218",
+    "date_created": "1443815022",
+    "date_modified": "1450300728",
+    "tags": "",
+    "sourceId": "3",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "1",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6418938",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "57",
+    "entityIdParent": "168527",
+    "titleTextEncoded": "On-The-Pipe-6-Trailer-2",
+    "category": null,
+    "duration": 164,
+    "settings": {},
+    "asset": {
+        "type": "mp4",
+        "hdvFlag": 0,
+        "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/131990930_960x720.jpg",
+        "mediaDuration": 164,
+        "prettyDuration": "02:44",
+        "uploadDate": 1299197467,
+        "tags": "",
+        "hookText": "http:\/\/www.facebook.com\/etnies On the Pipe 6 Trailer!",
+        "sources": [
+            {
+                "file": "https:\/\/player.vimeo.com\/external\/20625218.sd.mp4?s=fa5eebb0f38ec5b27690993e80ee666e&profile_id=112&oauth2_token_id=62432308"
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

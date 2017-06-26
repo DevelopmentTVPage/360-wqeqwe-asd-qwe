@@ -1,0 +1,51 @@
+{
+    "title": "adidas | Andy Murray Hit the Winner",
+    "description": "Go all in for Murray to win. Every time he hits a winner, you could win too.",
+    "referenceId": null,
+    "date_created": "1401414732",
+    "date_modified": "1455845504",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "40",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "170760",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "6",
+    "entityIdParent": "168510",
+    "titleTextEncoded": "adidas-Andy-Murray-Hit-the-Winner",
+    "category": null,
+    "duration": "41",
+    "settings": [],
+    "asset": {
+        "author": "adidas",
+        "hdvFlag": 1,
+        "hookText": "Go all in for Murray to win. Every time he hits a winner, you could win too. Visit http:\/\/a.did.as\/11IzSs6 to get involved.",
+        "tags": "",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/RXFw9fcfGsM\/sddefault.jpg",
+        "uploadDate": 1372088978,
+        "videoId": "RXFw9fcfGsM",
+        "mediaDuration": "41",
+        "prettyDuration": "00:00:41"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

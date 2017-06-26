@@ -1,0 +1,31 @@
+{
+    "title": "Forty Seven Brand",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1409855118",
+    "date_modified": "1409855961",
+    "tags": "",
+    "sourceId": null,
+    "status": "approved",
+    "visibility": "1",
+    "id": "3763931",
+    "loginId": "753",
+    "entityType": "3",
+    "titleTextEncoded": "Forty-Seven-Brand",
+    "category": null,
+    "duration": null,
+    "settings": {
+        "canvasImage": "743924439-0.jpg",
+        "colorClass": "light",
+        "canvasType": "cropped",
+        "canvasCropped": "743924439-0301000593.jpg",
+        "hideoos": 1,
+        "auto": {
+            "dynamic": 0,
+            "limit": 12
+        },
+        "optimize": 1,
+        "autoPlay": 0
+    },
+    "transcripts": null
+}

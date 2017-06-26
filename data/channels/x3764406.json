@@ -1,0 +1,30 @@
+{
+    "title": "Ray-Ban",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1410203703",
+    "date_modified": "1410206761",
+    "tags": "",
+    "sourceId": null,
+    "status": "approved",
+    "visibility": "1",
+    "id": "3764406",
+    "loginId": "753",
+    "entityType": "3",
+    "titleTextEncoded": "Ray-Ban",
+    "category": null,
+    "duration": null,
+    "settings": {
+        "canvasImage": "281055104-0.JPG",
+        "colorClass": "light",
+        "canvasType": "cropped",
+        "hideoos": 1,
+        "auto": {
+            "dynamic": 0,
+            "limit": 4
+        },
+        "optimize": 1,
+        "canvasCropped": "281055104-026800475.JPG"
+    },
+    "transcripts": null
+}

@@ -1,0 +1,52 @@
+{
+    "title": "Converse - Wall to Wall: Austin, TX",
+    "description": "Austin based artist Josh Row took the vibrant Converse spring color palette and turned it into something wholly his own -- featuring a giraffe with rad sungl...",
+    "referenceId": "yrQlrnod5Tk",
+    "date_created": "1341335159",
+    "date_modified": "1444329503",
+    "tags": null,
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "3",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6440219",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "79",
+    "entityIdParent": "168524",
+    "titleTextEncoded": "Converse-Wall-to-Wall-Austin-TX",
+    "category": null,
+    "duration": "53",
+    "settings": null,
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/yrQlrnod5Tk\/hqdefault.jpg",
+        "uploadDate": 1341335159,
+        "videoId": "yrQlrnod5Tk",
+        "title": "Converse - Wall to Wall: Austin, TX",
+        "description": "Austin based artist Josh Row took the vibrant Converse spring color palette and turned it into something wholly his own -- featuring a giraffe with rad sungl...",
+        "author": "converse",
+        "mediaDuration": "53",
+        "prettyDuration": "00:00:53",
+        "views": "1480"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

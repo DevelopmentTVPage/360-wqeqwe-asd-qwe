@@ -1,0 +1,59 @@
+{
+    "title": "adidas Skateboarding NYC Commercial",
+    "description": "New York City campaign shoot in December 2006 with Mark Gonzales, Dennis Busenitz and Tim O'Connor.",
+    "referenceId": "DpsQuaIzRvU",
+    "date_created": "1443046613",
+    "date_modified": "1455844750",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "45",
+    "CVV_VI": "1",
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6413917",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "35",
+    "entityIdParent": "168510",
+    "titleTextEncoded": "adidas-Skateboarding-NYC-Commercial",
+    "category": null,
+    "duration": "90",
+    "settings": {},
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/DpsQuaIzRvU\/hqdefault.jpg",
+        "uploadDate": 1314925706,
+        "videoId": "DpsQuaIzRvU",
+        "title": "adidas Skateboarding NYC Commercial",
+        "description": "New York City campaign shoot in December 2006 with Mark Gonzales, Dennis Busenitz and Tim O'Connor. Official Website: ...",
+        "author": "adidasSkateboarding",
+        "mediaDuration": "90",
+        "prettyDuration": "00:01:30",
+        "views": "6635",
+        "hookText": "New York City campaign shoot in December 2006 with Mark Gonzales, Dennis Busenitz and Tim O'Connor. Official Website: ..."
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "conversion_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

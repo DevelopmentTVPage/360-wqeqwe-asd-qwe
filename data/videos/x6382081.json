@@ -1,0 +1,70 @@
+{
+    "title": "Volcom Women's Spring 15 Collection",
+    "description": "Volcom Women's SP15: http:\/\/vol.cm\/1BhQDhd\n\nThis season we're ditching the streets of Brooklyn for the winding California coastline. We hit CA HWY 1 making our way south from San Fran the City of Love, driving the coastal route until we reach the graffiti scarred beaches of Venice, the inspiration for our Spring collection.\n\n- Music - \nSong: Looking For A Fight\nArtist: Bleached\nRelease: Ride Your Heart\nCourtesy of Dead Oceans",
+    "referenceId": null,
+    "date_created": "1440453471",
+    "date_modified": "1445383003",
+    "tags": "",
+    "sourceId": "1",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "13",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6382081",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "217",
+    "entityIdParent": "168557",
+    "titleTextEncoded": "Volcom-Women-s-Spring-15-Collection",
+    "category": null,
+    "duration": "69",
+    "settings": {},
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "69"
+        },
+        "thumbnailUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/6382081\/e2b6061c4149bf1d0292f762b636ac9c.png",
+        "hookText": "",
+        "type": "mp4",
+        "mediaDuration": "69",
+        "prettyDuration": "00:01:09",
+        "tags": "",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/6382081\/720p_e2b6061c4149bf1d0292f762b636ac9c.mp4",
+                "quality": "720p"
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/6382081\/480p_e2b6061c4149bf1d0292f762b636ac9c.mp4",
+                "quality": "480p"
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/6382081\/360p_e2b6061c4149bf1d0292f762b636ac9c.mp4",
+                "quality": "360p"
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

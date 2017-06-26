@@ -1,0 +1,54 @@
+{
+    "title": "Surfer Burpees",
+    "description": "This workout is featured in Bethany Hamilton's 2014 book, Body and Soul.",
+    "referenceId": "wPVQ8EMfbrQ",
+    "date_created": "1444036092",
+    "date_modified": "1465344287",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "6",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "66107224",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "7",
+    "entityIdParent": "66115250",
+    "titleTextEncoded": "Surfer-Burpees",
+    "category": "",
+    "duration": 46,
+    "settings": {},
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/wPVQ8EMfbrQ\/hqdefault.jpg",
+        "uploadDate": 1444036092,
+        "videoId": "wPVQ8EMfbrQ",
+        "title": "Surfer Burpees",
+        "description": "This workout is featured in Bethany Hamilton's 2014 book, Body and Soul, available here: www.bethanyhamilton.com\/shop",
+        "author": "Bethany Hamilton",
+        "mediaDuration": 46,
+        "prettyDuration": "00:00:46",
+        "views": "6755",
+        "uploadAsset": false,
+        "quality": ""
+    },
+    "transcripts": "Hey I'm Bethany Hamilton hanging out here at one of my favorite beaches and I want to show you one of my favorite ab moves it's called the surfer burpee. What we're gonna do is get down, lay on your back. Make sure hold your core in good, keep make sure you keep your knees wide so that they're not coming in, and power through that jump.",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

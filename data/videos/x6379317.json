@@ -1,0 +1,46 @@
+{
+    "title": "Story Time with Willow - Paris 5 Block",
+    "description": "Farts aside, Willow charms us once again with Story Time. And Despite his stomach problems, he gives us the inside scoop on his latest etnies...\n\nhttp:\/\/etnies.com\nhttp:\/\/www.facebook.com\/etnies",
+    "referenceId": null,
+    "date_created": "1440443252",
+    "date_modified": "1440443252",
+    "tags": "etnies,skateboarding,willow,skate",
+    "sourceId": "3",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6379317",
+    "loginId": "753",
+    "entityType": "1",
+    "titleTextEncoded": "Story-Time-with-Willow-Paris-5-Block",
+    "category": null,
+    "duration": 321,
+    "settings": {},
+    "asset": {
+        "type": "mp4",
+        "sources": [
+            {
+                "file": "https:\/\/player.vimeo.com\/external\/33251102.hd.mp4?s=7b23103c1c15f3a97d8259ea1563e1d3&profile_id=113&oauth2_token_id=62432308"
+            }
+        ],
+        "hdvFlag": 1,
+        "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/225606769_1280x720.jpg",
+        "mediaDuration": 321,
+        "prettyDuration": "05:21",
+        "uploadDate": 1323211863,
+        "tags": "etnies,skateboarding,willow,skate",
+        "hookText": "Farts aside, Willow charms us once again with Story Time. And Despite his stomach problems, he gives us the inside scoop on his latest etnies...\n\nhttp:\/\/etnies.com\nhttp:\/\/www.facebook.com\/etnies"
+    },
+    "transcripts": null,
+    "metrics_statistics": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

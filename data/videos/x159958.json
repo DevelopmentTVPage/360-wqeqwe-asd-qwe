@@ -1,0 +1,43 @@
+{
+    "title": "Volcom Spring 2014",
+    "description": "Volcom Spring 2014.",
+    "referenceId": null,
+    "date_created": "1398384961",
+    "date_modified": "1418181349",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "159958",
+    "loginId": "753",
+    "entityType": "1",
+    "titleTextEncoded": "Volcom-Spring-2014",
+    "category": null,
+    "duration": "105",
+    "settings": [],
+    "asset": {
+        "author": "Volcom",
+        "videoId": "5TWhGf1lnRA",
+        "hookText": "Volcom Spring 2014.",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/5TWhGf1lnRA\/maxresdefault.jpg",
+        "mediaDuration": "105",
+        "hdvFlag": 1,
+        "uploadDate": 1390741282,
+        "prettyDuration": "00:01:45"
+    },
+    "transcripts": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "2"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

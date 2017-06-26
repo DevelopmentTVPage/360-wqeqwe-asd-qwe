@@ -1,0 +1,32 @@
+{
+    "title": "DGK",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1401128852",
+    "date_modified": "1406939827",
+    "tags": "",
+    "sourceId": null,
+    "status": "approved",
+    "visibility": "1",
+    "id": "168528",
+    "loginId": "753",
+    "entityType": "3",
+    "titleTextEncoded": "DGK",
+    "category": null,
+    "duration": null,
+    "settings": {
+        "canvasImage": "958164848-0.jpg",
+        "colorClass": "light",
+        "canvasType": "cropped",
+        "canvasCropped": "958164848-030512801024.jpg",
+        "auto": {
+            "dynamic": 0,
+            "limit": 4
+        },
+        "optimize": 1,
+        "autoPlay": 1,
+        "autoNext": 1,
+        "hideoos": 1
+    },
+    "transcripts": null
+}

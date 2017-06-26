@@ -1,0 +1,51 @@
+{
+    "title": "etnies Presents: Aidan Campbell",
+    "description": "A great skate part is defined by epic spots, amazing style, and gnarly tricks. Aidan Campbell does it all with a smile on his face the whole time. Oh, and he's got the most dipped back smith you've ever seen.",
+    "referenceId": null,
+    "date_created": "1441067932",
+    "date_modified": "1444177265",
+    "tags": "etnies,Aidan Campbell,etnies presents,the berrics,skateboarding,dipped backside smiths",
+    "sourceId": "3",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "1",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6385404",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "255",
+    "entityIdParent": "168527",
+    "titleTextEncoded": "etnies-Presents-Aidan-Campbell",
+    "category": null,
+    "duration": 336,
+    "settings": {},
+    "asset": {
+        "type": "mp4",
+        "hdvFlag": 0,
+        "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/463727562_1280x720.jpg",
+        "mediaDuration": 336,
+        "prettyDuration": "05:36",
+        "uploadDate": 1389727030,
+        "tags": "etnies,Aidan Campbell,etnies presents,the berrics,skateboarding,dipped backside smiths",
+        "hookText": "A great skate part is defined by epic spots, amazing style, and gnarly tricks. Aidan Campbell does it all with a smile on his face the whole time. Oh, and he's got the most dipped back smith you've ever seen.",
+        "sources": []
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

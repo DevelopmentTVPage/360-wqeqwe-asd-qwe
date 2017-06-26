@@ -1,0 +1,55 @@
+{
+    "title": "Catching Up with Benji Weatherly",
+    "description": "http:\/\/www.facebook.com\/etnies Catching Up with Benji Weatherly",
+    "referenceId": "19815346",
+    "date_created": "1443815036",
+    "date_modified": "1443815036",
+    "tags": "etnies,etnies surf,Benji Weatherly",
+    "sourceId": "3",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "2",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6418957",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "38",
+    "entityIdParent": "168527",
+    "titleTextEncoded": "Catching-Up-with-Benji-Weatherly",
+    "category": null,
+    "duration": 283,
+    "settings": {},
+    "asset": {
+        "type": "mp4",
+        "sources": [
+            {
+                "file": "https:\/\/player.vimeo.com\/external\/19815346.sd.mp4?s=f200a542dcddfc3cb7bb4124748053ef&profile_id=112&oauth2_token_id=62432308"
+            }
+        ],
+        "hdvFlag": 0,
+        "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/125955963_960x536.jpg",
+        "mediaDuration": 283,
+        "prettyDuration": "04:43",
+        "uploadDate": 1297392318,
+        "tags": "etnies,etnies surf,Benji Weatherly",
+        "hookText": "http:\/\/www.facebook.com\/etnies Catching Up with Benji Weatherly"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

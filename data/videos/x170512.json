@@ -1,0 +1,57 @@
+{
+    "title": "Levi's\u00ae Lot No. 1: London",
+    "description": "Levi's\u00ae introduces made-to-order jeans for the first time in Europe at our London flagship store on Regent Street. Levi's\u00ae Lot No. 1 offers the chance to have your own piece of Levi's\u00ae history -- a custom made pair of jeans designed for you, crafted by our in-house master tailor.",
+    "referenceId": null,
+    "date_created": "1401384561",
+    "date_modified": "1449880369",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "7",
+    "CVV_VI": "1",
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "170512",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "6",
+    "entityIdParent": "168530",
+    "titleTextEncoded": "Levi-s-Lot-No-1-London",
+    "category": null,
+    "duration": "175",
+    "settings": [],
+    "asset": {
+        "author": "Levi's\u00ae",
+        "hdvFlag": 1,
+        "hookText": "Levi's\u00ae introduces made-to-order jeans for the first time in Europe at our London flagship store on Regent Street. Levi's\u00ae Lot No. 1 offers the chance to hav...",
+        "tags": "",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/7La7oZtJxYE\/sddefault.jpg",
+        "uploadDate": 1393957205,
+        "videoId": "7La7oZtJxYE",
+        "mediaDuration": "175",
+        "prettyDuration": "00:02:55"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "conversion_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

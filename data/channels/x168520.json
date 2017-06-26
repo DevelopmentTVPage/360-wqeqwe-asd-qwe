@@ -1,0 +1,32 @@
+{
+    "title": "UGG",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1401128753",
+    "date_modified": "1406939543",
+    "tags": "",
+    "sourceId": null,
+    "status": "approved",
+    "visibility": "1",
+    "id": "168520",
+    "loginId": "753",
+    "entityType": "3",
+    "titleTextEncoded": "UGG",
+    "category": null,
+    "duration": null,
+    "settings": {
+        "canvasImage": "237282418-0.jpg",
+        "colorClass": "light",
+        "canvasType": "cropped",
+        "canvasCropped": "237282418-018215361044.jpg",
+        "auto": {
+            "dynamic": 0,
+            "limit": 4
+        },
+        "optimize": 1,
+        "autoPlay": 1,
+        "autoNext": 1,
+        "hideoos": 1
+    },
+    "transcripts": null
+}

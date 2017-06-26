@@ -1,0 +1,50 @@
+{
+    "title": "Alejo Muniz",
+    "description": "Alejo Muniz",
+    "referenceId": null,
+    "date_created": "1398813967",
+    "date_modified": "1456273021",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "2",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "163617",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "15",
+    "entityIdParent": "168557",
+    "titleTextEncoded": "Alejo-Muniz",
+    "category": null,
+    "duration": "65",
+    "settings": [],
+    "asset": {
+        "author": "Volcom",
+        "videoId": "Y3CqWTGnQ44",
+        "hookText": "",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/Y3CqWTGnQ44\/maxresdefault.jpg",
+        "mediaDuration": "65",
+        "hdvFlag": 1,
+        "uploadDate": 1338016625,
+        "prettyDuration": "00:01:05"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

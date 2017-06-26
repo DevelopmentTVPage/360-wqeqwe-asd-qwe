@@ -1,0 +1,50 @@
+{
+    "title": "DAY 6 HIGHLIGHTS",
+    "description": "DAY 6 HIGHLIGHTS",
+    "referenceId": null,
+    "date_created": "1398361013",
+    "date_modified": "1448333190",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "10",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "159685",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "25",
+    "entityIdParent": "158318",
+    "titleTextEncoded": "DAY-6-HIGHLIGHTS",
+    "category": null,
+    "duration": "245",
+    "settings": [],
+    "asset": {
+        "author": "Hurley",
+        "videoId": "_TTFTC7jvLU",
+        "hookText": "",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/_TTFTC7jvLU\/sddefault.jpg",
+        "mediaDuration": "245",
+        "hdvFlag": 0,
+        "uploadDate": 1285309243,
+        "prettyDuration": "00:04:05"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

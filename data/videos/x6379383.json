@@ -1,0 +1,46 @@
+{
+    "title": "Alex Midler's Roll-A-Thon for JohnnyKicksCancer",
+    "description": "Alex Midler's first annual Roll-A-Thon raised money for JohnnyKicksCancer. Filmed and edited by Todd Midler.",
+    "referenceId": null,
+    "date_created": "1440443349",
+    "date_modified": "1443561314",
+    "tags": "Alex Midler,Roll-a-thon,JohnnyKicksCancer,Johnny Romano,etnies,Rob Brink,Don Brown,Real Skateboards",
+    "sourceId": "3",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6379383",
+    "loginId": "753",
+    "entityType": "1",
+    "titleTextEncoded": "Alex-Midler-s-Roll-A-Thon-for-JohnnyKicksCancer",
+    "category": null,
+    "duration": 75,
+    "settings": {},
+    "asset": {
+        "type": "mp4",
+        "hdvFlag": 0,
+        "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/158276035_960x704.jpg",
+        "mediaDuration": 75,
+        "prettyDuration": "01:15",
+        "uploadDate": 1306283299,
+        "tags": "Alex Midler,Roll-a-thon,JohnnyKicksCancer,Johnny Romano,etnies,Rob Brink,Don Brown,Real Skateboards",
+        "hookText": "http:\/\/www.facebook.com\/etnies\n\nAlex Midler's first annual Roll-A-Thon raised money for JohnnyKicksCancer. Filmed and edited by Todd Midler.",
+        "sources": [
+            {
+                "file": "https:\/\/player.vimeo.com\/external\/24196693.sd.mp4?s=9b78bb2cc0a37ce831cc26b71703f25c&profile_id=112&oauth2_token_id=62432308"
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

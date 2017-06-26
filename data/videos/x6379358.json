@@ -1,0 +1,46 @@
+{
+    "title": "Malto Breaks It Down: etnies Malto 2",
+    "description": "Malto Breaks It Down: etnies Malto 2",
+    "referenceId": null,
+    "date_created": "1440443322",
+    "date_modified": "1450136752",
+    "tags": "etnies,skateboarding,sean malto,gatorade,girl,escapist",
+    "sourceId": "3",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6379358",
+    "loginId": "753",
+    "entityType": "1",
+    "titleTextEncoded": "Malto-Breaks-It-Down-etnies-Malto-2",
+    "category": null,
+    "duration": 54,
+    "settings": {},
+    "asset": {
+        "type": "mp4",
+        "hdvFlag": 0,
+        "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/181019404_295x166.jpg",
+        "mediaDuration": 54,
+        "prettyDuration": "00:54",
+        "uploadDate": 1312408748,
+        "tags": "etnies,skateboarding,sean malto,gatorade,girl,escapist",
+        "hookText": "www.etnies.com\nwww.facebook.com\/etnies",
+        "sources": [
+            {
+                "file": "https:\/\/player.vimeo.com\/external\/27265012.sd.mp4?s=ff1e78b95ae54bf09569dec2bfd18cd0&profile_id=112&oauth2_token_id=62432308"
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

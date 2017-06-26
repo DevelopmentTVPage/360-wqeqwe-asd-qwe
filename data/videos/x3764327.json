@@ -1,0 +1,53 @@
+{
+    "title": "FUJIFILM INSTAX - Party 15sec",
+    "description": "\"Pass the INSTAX\" \nWatch our latest video and discover how INSTAX makes every occasion a little more special.",
+    "referenceId": null,
+    "date_created": "1409954323",
+    "date_modified": "1470269071",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": "Fujifilm",
+    "video_celeb": null,
+    "video_activity": "Art___Design",
+    "VV_VI": "9",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "3764327",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "14",
+    "entityIdParent": "195870",
+    "titleTextEncoded": "FUJIFILM-INSTAX-Party-15sec",
+    "category": null,
+    "duration": "15",
+    "settings": [],
+    "asset": {
+        "author": "Fujifilm North America",
+        "hdvFlag": 1,
+        "hookText": "\"Pass the INSTAX\" Watch our latest video and discover how INSTAX makes every occasion a little more special.",
+        "tags": "",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/hHf5Tnzx-JQ\/maxresdefault.jpg",
+        "uploadDate": 1385591964,
+        "videoId": "hHf5Tnzx-JQ",
+        "mediaDuration": "15",
+        "prettyDuration": "00:00:15",
+        "uploadAsset": false,
+        "quality": ""
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

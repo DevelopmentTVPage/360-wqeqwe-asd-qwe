@@ -1,0 +1,57 @@
+{
+    "title": "INNERSECTION PREMIERES IN VICTORIA",
+    "description": "A second Canadian premiere of Taylor Steele's new movie, Innersection, which features a section from our own Pete Devries. Video: Adam Chilton.",
+    "referenceId": "RVgn9Ocy67Y",
+    "date_created": "1291622479",
+    "date_modified": "1449793467",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "8",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6545354",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "33",
+    "entityIdParent": "158318",
+    "titleTextEncoded": "INNERSECTION-PREMIERES-IN-VICTORIA",
+    "category": null,
+    "duration": "214",
+    "settings": {
+        "parentFeedId": "6544969",
+        "parentFeedLoginId": "753"
+    },
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/RVgn9Ocy67Y\/hqdefault.jpg",
+        "uploadDate": 1291622479,
+        "videoId": "RVgn9Ocy67Y",
+        "title": "INNERSECTION PREMIERES IN VICTORIA",
+        "description": "A second Canadian premiere of Taylor Steele's new movie, Innersection, which features a section from our own Pete Devries. Video: Adam Chilton.",
+        "author": "hurley",
+        "mediaDuration": "214",
+        "prettyDuration": "00:03:34",
+        "views": "118"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": [
+        "20"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

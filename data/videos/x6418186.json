@@ -1,0 +1,46 @@
+{
+    "title": "Josh Dirksen Interview",
+    "description": "Josh has done it all, from ender video parts with Mack Dawg, to hiking trips with Jeremy Jones. In this intimate interview in Josh's garage he talks about it all.",
+    "referenceId": "21505969",
+    "date_created": "1443638109",
+    "date_modified": "1443638109",
+    "tags": "",
+    "sourceId": "3",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6418186",
+    "loginId": "753",
+    "entityType": "1",
+    "titleTextEncoded": "Josh-Dirksen-Interview",
+    "category": null,
+    "duration": 190,
+    "settings": {},
+    "asset": {
+        "type": "mp4",
+        "sources": [
+            {
+                "file": "https:\/\/player.vimeo.com\/external\/21505969.hd.mp4?s=9a145f5b7f6adcba110a5924bc4f0c68&profile_id=113&oauth2_token_id=56801069"
+            }
+        ],
+        "hdvFlag": 1,
+        "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/138384831_1280x720.jpg",
+        "mediaDuration": 190,
+        "prettyDuration": "03:10",
+        "uploadDate": 1301095280,
+        "tags": "",
+        "hookText": "Josh has done it all, from ender video parts with Mack Dawg, to hiking trips with Jeremy Jones. In this intimate interview in Josh's garage he talks about it all."
+    },
+    "transcripts": null,
+    "metrics_statistics": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

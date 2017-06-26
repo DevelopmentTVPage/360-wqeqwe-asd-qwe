@@ -1,0 +1,53 @@
+{
+    "title": "THE GREEN IN STUDIO: ALONE",
+    "description": "The final recording from The Green's stop at the Hurley Studio. This one is called \"Alone\". Enjoy!",
+    "referenceId": "0bQ-YR8ZtA4",
+    "date_created": "1444247070",
+    "date_modified": "1444951979",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "2",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6419972",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "204",
+    "entityIdParent": "158318",
+    "titleTextEncoded": "THE-GREEN-IN-STUDIO-ALONE",
+    "category": null,
+    "duration": "191",
+    "settings": {},
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/0bQ-YR8ZtA4\/hqdefault.jpg",
+        "uploadDate": 1322068960,
+        "videoId": "0bQ-YR8ZtA4",
+        "title": "THE GREEN IN STUDIO: ALONE",
+        "description": "The final recording from The Green's stop at the Hurley Studio. This one is called \"Alone\". Enjoy! For more on The Green, head over to thegreen808.com.",
+        "author": "hurley",
+        "mediaDuration": "191",
+        "prettyDuration": "00:03:11",
+        "views": "21248",
+        "hookText": "The final recording from The Green's stop at the Hurley Studio. This one is called \"Alone\". Enjoy! For more on The Green, head over to thegreen808.com."
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

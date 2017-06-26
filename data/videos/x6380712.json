@@ -1,0 +1,46 @@
+{
+    "title": "Curtis Ciszek Interview",
+    "description": "Curtis Ciszek is undoubtably one of the most stylish snowboarders in the game. In this interview Curtis talks about filming for People Creative last winter, and his plans to change things up this year.",
+    "referenceId": null,
+    "date_created": "1440450099",
+    "date_modified": "1443832192",
+    "tags": "",
+    "sourceId": "3",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6380712",
+    "loginId": "753",
+    "entityType": "1",
+    "titleTextEncoded": "Curtis-Ciszek-Interview",
+    "category": null,
+    "duration": 87,
+    "settings": {},
+    "asset": {
+        "type": "mp4",
+        "hdvFlag": 1,
+        "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/138382566_1280x720.jpg",
+        "mediaDuration": 87,
+        "prettyDuration": "01:27",
+        "uploadDate": 1301094807,
+        "tags": "",
+        "hookText": "Curtis Ciszek is undoubtably one of the most stylish snowboarders in the game. In this interview Curtis talks about filming for People Creative last winter, and his plans to change things up this year.",
+        "sources": [
+            {
+                "file": "https:\/\/player.vimeo.com\/external\/21505770.hd.mp4?s=5e18c65c0eecb112f4b3b1eaf855ae6e&profile_id=113&oauth2_token_id=56801069"
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

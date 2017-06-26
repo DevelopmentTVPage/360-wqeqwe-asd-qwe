@@ -1,0 +1,57 @@
+{
+    "title": "Miss Reef 2015",
+    "description": "Follow Miss Reef around the storied tip of the Baja Peninsula \u2013 where the rolling Sea of Cortez, Mexico's famed deserts, and the sparkling expanse of the Pacific Ocean all converge into a stunning back-drop as exotic as Miss Reef herself.\n\n#justpassingthrough\n\nMusic \nTones on Tail\n\"Go! (Club Mix)\"",
+    "referenceId": null,
+    "date_created": "1419982431",
+    "date_modified": "1450205975",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "15",
+    "CVV_VI": "13",
+    "engagement_score": null,
+    "conversion_score": "1",
+    "id": "3812792",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "0",
+    "entityIdParent": "3812800",
+    "titleTextEncoded": "Miss-Reef-2015",
+    "category": null,
+    "duration": "150",
+    "settings": null,
+    "asset": {
+        "author": "Reef",
+        "hdvFlag": 1,
+        "hookText": "Follow Miss Reef around the storied tip of the Baja Peninsula \u2013 where the rolling Sea of Cortez, Mexico's famed deserts, and the sparkling expanse of the Pac...",
+        "tags": "",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/7BL4y_bDTzw\/maxresdefault.jpg",
+        "uploadDate": 1415109538,
+        "videoId": "7BL4y_bDTzw",
+        "mediaDuration": "150",
+        "prettyDuration": "00:02:30"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "conversion_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

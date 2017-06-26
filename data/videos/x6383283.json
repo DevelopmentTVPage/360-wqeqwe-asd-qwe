@@ -1,0 +1,53 @@
+{
+    "title": "adidas Skateboarding Kevin Lowry",
+    "description": "The adidas Skateboarding International Team proudly welcomes Kevin Lowry.",
+    "referenceId": null,
+    "date_created": "1440638230",
+    "date_modified": "1440638230",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "8",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6383283",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "79",
+    "entityIdParent": "168510",
+    "titleTextEncoded": "adidas-Skateboarding-Kevin-Lowry",
+    "category": null,
+    "duration": "188",
+    "settings": {},
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/9miF-ki0AXA\/hqdefault.jpg",
+        "uploadDate": 1380520801,
+        "videoId": "9miF-ki0AXA",
+        "title": "adidas Skateboarding Kevin Lowry",
+        "description": "The adidas Skateboarding International Team proudly welcomes Kevin Lowry.",
+        "author": "adidasSkateboarding",
+        "mediaDuration": "188",
+        "prettyDuration": "00:03:08",
+        "views": "89293",
+        "hookText": "The adidas Skateboarding International Team proudly welcomes Kevin Lowry."
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

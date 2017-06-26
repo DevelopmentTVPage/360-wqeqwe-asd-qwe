@@ -1,0 +1,30 @@
+{
+    "title": "FL\u00fcD ",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1409951452",
+    "date_modified": "1409952174",
+    "tags": "",
+    "sourceId": null,
+    "status": "approved",
+    "visibility": "1",
+    "id": "3764308",
+    "loginId": "753",
+    "entityType": "3",
+    "titleTextEncoded": "FL\u00fcD",
+    "category": null,
+    "duration": null,
+    "settings": {
+        "canvasImage": "213853070-0.jpg",
+        "colorClass": "light",
+        "canvasType": "cropped",
+        "canvasCropped": "213853070-1311788447.jpg",
+        "hideoos": 1,
+        "auto": {
+            "dynamic": 0,
+            "limit": 4
+        },
+        "optimize": 1
+    },
+    "transcripts": null
+}

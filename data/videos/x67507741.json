@@ -1,0 +1,54 @@
+{
+    "title": "Instax Mini 70 Camel Video :15",
+    "description": "Instax Mini 70 Camel Video :15",
+    "referenceId": "LusF0U6XnuM",
+    "date_created": "1465507441",
+    "date_modified": "1471380167",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "3",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "67507741",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "6",
+    "entityIdParent": "3764328",
+    "titleTextEncoded": "Instax-Mini-70-Camel-Video-15",
+    "category": "",
+    "duration": 15,
+    "settings": "",
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/LusF0U6XnuM\/hqdefault.jpg",
+        "uploadDate": 1465507441,
+        "videoId": "LusF0U6XnuM",
+        "title": "Instax Mini 70 Camel Video :15",
+        "description": "",
+        "author": "Fujifilm North America",
+        "mediaDuration": 15,
+        "prettyDuration": "00:00:15",
+        "views": "7569",
+        "uploadAsset": false,
+        "quality": ""
+    },
+    "transcripts": "Share an original, Fujifil instax mini 70",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

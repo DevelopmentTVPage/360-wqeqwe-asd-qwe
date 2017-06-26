@@ -1,0 +1,32 @@
+{
+    "title": "Dragon ",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1401128991",
+    "date_modified": "1415397809",
+    "tags": "",
+    "sourceId": null,
+    "status": "approved",
+    "visibility": "1",
+    "id": "168540",
+    "loginId": "753",
+    "entityType": "3",
+    "titleTextEncoded": "Dragon",
+    "category": null,
+    "duration": null,
+    "settings": {
+        "canvasImage": "348100997-0.jpg",
+        "colorClass": "light",
+        "canvasType": "cropped",
+        "canvasCropped": "348100997-013525921594.jpg",
+        "auto": {
+            "dynamic": 0,
+            "limit": 4
+        },
+        "optimize": 1,
+        "autoPlay": 1,
+        "autoNext": 1,
+        "hideoos": 1
+    },
+    "transcripts": null
+}

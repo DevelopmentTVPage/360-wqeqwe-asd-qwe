@@ -1,0 +1,46 @@
+{
+    "title": "etnies End of 2010 Skate Montage",
+    "description": "etnies End of 2010 Skate Montage!",
+    "referenceId": null,
+    "date_created": "1440443425",
+    "date_modified": "1444174375",
+    "tags": "",
+    "sourceId": "3",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6379423",
+    "loginId": "753",
+    "entityType": "1",
+    "titleTextEncoded": "etnies-End-of-2010-Skate-Montage",
+    "category": null,
+    "duration": 202,
+    "settings": {},
+    "asset": {
+        "type": "mp4",
+        "hdvFlag": 0,
+        "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/127238738_960x540.jpg",
+        "mediaDuration": 202,
+        "prettyDuration": "03:22",
+        "uploadDate": 1297801483,
+        "tags": "",
+        "hookText": "http:\/\/www.facebook.com\/etnies etnies End of 2010 Skate Montage!",
+        "sources": [
+            {
+                "file": "https:\/\/player.vimeo.com\/external\/19988914.sd.mp4?s=f31edca769a0f7e38d8b15c611d25cb2&profile_id=112&oauth2_token_id=62432308"
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

@@ -1,0 +1,48 @@
+{
+    "title": "Booger",
+    "description": "The Booger is a durable mini-twin rocker board built for kids whose focus is park and jibs. It\u2019s ideal for progressing spin, press, and butter tricks and expanding junior's skills on rails, boxes, walls, and kickers.",
+    "referenceId": "75441706",
+    "date_created": "1443634306",
+    "date_modified": "1447283652",
+    "tags": "Arbor,Arbor Snowboards,Snowboarding,Kid's Board,Product Profiles",
+    "sourceId": "3",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6418121",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "129",
+    "entityIdParent": "3763991",
+    "titleTextEncoded": "Booger",
+    "category": null,
+    "duration": 75,
+    "settings": {},
+    "asset": {
+        "type": "mp4",
+        "hdvFlag": 0,
+        "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/451157971_1280x720.jpg",
+        "mediaDuration": 75,
+        "prettyDuration": "01:15",
+        "uploadDate": 1380147408,
+        "tags": "Arbor,Arbor Snowboards,Snowboarding,Kid's Board,Product Profiles",
+        "hookText": "The Booger is a durable mini-twin rocker board built for kids whose focus is park and jibs. It\u2019s ideal for progressing spin, press, and butter tricks and expanding junior's skills on rails, boxes, walls, and kickers. \n\nTo learn more about the Booger visit",
+        "sources": [
+            {
+                "file": "https:\/\/player.vimeo.com\/external\/75441706.sd.mp4?s=aa5599678679f846f89e4d3578fa24ce&profile_id=112&oauth2_token_id=74680278"
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

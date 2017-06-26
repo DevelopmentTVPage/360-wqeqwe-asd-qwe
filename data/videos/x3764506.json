@@ -1,0 +1,53 @@
+{
+    "title": "Sean Malto Spitfire Signature Series",
+    "description": "Sean Malto Spitfire Signature Series wheels Ride the fire.",
+    "referenceId": null,
+    "date_created": "1410212621",
+    "date_modified": "1470333825",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": "Spitfire",
+    "video_celeb": null,
+    "video_activity": "Skating",
+    "VV_VI": "36",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "3764506",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "1",
+    "entityIdParent": "3764446",
+    "titleTextEncoded": "Sean-Malto-Spitfire-Signature-Series",
+    "category": null,
+    "duration": "74",
+    "settings": [],
+    "asset": {
+        "author": "OfficialSpitFire",
+        "hdvFlag": 0,
+        "hookText": "Sean Malto Spitfire Signature Series wheels Ride the fire.",
+        "tags": "",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/AKxEU2dMM78\/hqdefault.jpg",
+        "uploadDate": 1269837989,
+        "videoId": "AKxEU2dMM78",
+        "mediaDuration": "74",
+        "prettyDuration": "00:01:14",
+        "uploadAsset": false,
+        "quality": ""
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

@@ -1,0 +1,46 @@
+{
+    "title": "Go Skateboarding Day 2012",
+    "description": "Go Skateboarding!",
+    "referenceId": null,
+    "date_created": "1440443159",
+    "date_modified": "1440443159",
+    "tags": "etnies,etnies skateboarding,Ryan Sheckler,Ryan Allen Sheckler,GoPro,Cairo Foster,GSD2012,Go Skateboarding Day,Jose Rojo,Devine Calloway,Tyler Bledsoe,Nick Garcia",
+    "sourceId": "3",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6379271",
+    "loginId": "753",
+    "entityType": "1",
+    "titleTextEncoded": "Go-Skateboarding-Day-2012",
+    "category": null,
+    "duration": 32,
+    "settings": {},
+    "asset": {
+        "type": "mp4",
+        "sources": [
+            {
+                "file": "https:\/\/player.vimeo.com\/external\/44459633.hd.mp4?s=43be34825235a0388c9f1f678e4ae123&profile_id=113&oauth2_token_id=62432308"
+            }
+        ],
+        "hdvFlag": 1,
+        "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/308836149_1280x720.jpg",
+        "mediaDuration": 32,
+        "prettyDuration": "00:32",
+        "uploadDate": 1340291484,
+        "tags": "etnies,etnies skateboarding,Ryan Sheckler,Ryan Allen Sheckler,GoPro,Cairo Foster,GSD2012,Go Skateboarding Day,Jose Rojo,Devine Calloway,Tyler Bledsoe,Nick Garcia",
+        "hookText": "Go Skateboarding!"
+    },
+    "transcripts": null,
+    "metrics_statistics": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

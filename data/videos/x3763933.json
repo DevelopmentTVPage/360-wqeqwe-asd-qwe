@@ -1,0 +1,50 @@
+{
+    "title": "'47 Brand Coachella | 2014",
+    "description": "'47 Brand Coachella | 2014\n\n'47 Brand is a sports lifestyle brand based out of Boston. We're a proud partner of the NFL, MLB, NBA, NHL and over 900 colleges. Established in 1947.",
+    "referenceId": null,
+    "date_created": "1409855139",
+    "date_modified": "1455735161",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "6",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "3763933",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "5",
+    "entityIdParent": "3763931",
+    "titleTextEncoded": "47-Brand-Coachella-2014",
+    "category": null,
+    "duration": "87",
+    "settings": [],
+    "asset": {
+        "author": "Forty Seven Brand",
+        "videoId": "tVVbrHece6w",
+        "hookText": "'47 Brand Coachella | 2014.",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/tVVbrHece6w\/maxresdefault.jpg",
+        "mediaDuration": "87",
+        "hdvFlag": 1,
+        "uploadDate": 1399588904,
+        "prettyDuration": "00:01:27"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

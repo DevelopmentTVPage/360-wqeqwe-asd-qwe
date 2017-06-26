@@ -1,0 +1,46 @@
+{
+    "title": "etnies US & Europe BMX Teams in Malaga",
+    "description": "etnies BMX Team in Malaga",
+    "referenceId": null,
+    "date_created": "1440443402",
+    "date_modified": "1444252195",
+    "tags": "",
+    "sourceId": "3",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6379414",
+    "loginId": "753",
+    "entityType": "1",
+    "titleTextEncoded": "etnies-US-Europe-BMX-Teams-in-Malaga",
+    "category": null,
+    "duration": 581,
+    "settings": {},
+    "asset": {
+        "type": "mp4",
+        "hdvFlag": 1,
+        "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/131991850_1280x720.jpg",
+        "mediaDuration": 581,
+        "prettyDuration": "09:41",
+        "uploadDate": 1299197334,
+        "tags": "",
+        "hookText": "http:\/\/www.facebook.com\/etnies etnies BMX Team in Malaga",
+        "sources": [
+            {
+                "file": "https:\/\/player.vimeo.com\/external\/20625164.hd.mp4?s=7d2b5ac3c22396eeda5eb7ba5e816b30&profile_id=113&oauth2_token_id=62432308"
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

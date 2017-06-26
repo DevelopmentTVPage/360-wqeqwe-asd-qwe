@@ -1,0 +1,97 @@
+{
+    "pageNumber": 0,
+    "data": [
+        {
+            "id": "3764046",
+            "title": "Creative Recreation Fall 2014 Campaign Video",
+            "date_created": "1409879207",
+            "loginId": "753",
+            "tags": "",
+            "description": "Creative Conversations opens up a dialogue with LA tastemakers profiling their distinctive crafts and the passions that drive their ambition. Watch the full stories unfold",
+            "asset": {
+                "author": "Creative Recreation",
+                "hdvFlag": 1,
+                "hookText": "Creative Conversations opens up a dialogue with LA tastemakers profiling their distinctive crafts and the passions that drive their ambition. Watch the full ...",
+                "tags": "",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/T-lAdivJnlY\/maxresdefault.jpg",
+                "uploadDate": 1407805141,
+                "videoId": "T-lAdivJnlY",
+                "mediaDuration": "83",
+                "prettyDuration": "00:01:23",
+                "uploadAsset": false,
+                "quality": ""
+            },
+            "parentId": "3764045",
+            "url": "\/creative-recreation\/creative-recreation-fall-2014-campaign-video\/3764045-3764046"
+        },
+        {
+            "id": "3764047",
+            "title": "SONUS- She Likes It Like That (CR Sole Sessions)",
+            "date_created": "1409879259",
+            "loginId": "753",
+            "tags": "",
+            "description": "Trio of brothers Marcelo, Alex and Andrew from SONUS stopped by the CR headquarters in Los Angeles to perform their new, hit single, \"She Likes It Like That.\"\n#CRSoleSessions",
+            "asset": {
+                "author": "Creative Recreation",
+                "hdvFlag": 1,
+                "hookText": "Trio of brothers Marcelo, Alex and Andrew from SONUS stopped by the CR headquarters in Los Angeles to perform their new, hit single, \"She Likes It Like That....",
+                "tags": "",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/jcvqGIb3bKA\/sddefault.jpg",
+                "uploadDate": 1407519843,
+                "videoId": "jcvqGIb3bKA",
+                "mediaDuration": "171",
+                "prettyDuration": "00:02:51",
+                "uploadAsset": false,
+                "quality": ""
+            },
+            "parentId": "3764045",
+            "url": "\/creative-recreation\/sonus-she-likes-it-like-that-cr-sole-sessions\/3764045-3764047"
+        },
+        {
+            "id": "3764048",
+            "title": "Creative Conversations: Mikal Angeles (Interview)",
+            "date_created": "1409879290",
+            "loginId": "753",
+            "tags": "",
+            "description": "Independent recording artist, Mikal Angeles talks about his journey to Los Angeles from New York and the artistic space he finds himself in when creating music. Join the entire conversation by following #CreativeConversations",
+            "asset": {
+                "author": "Creative Recreation",
+                "hdvFlag": 1,
+                "hookText": "Independent recording artist, Mikal Angeles talks about his journey to Los Angeles from New York and the artistic space he finds himself in when creating music. Join the entire conversation...",
+                "tags": "",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/xsfHaM7jCBo\/sddefault.jpg",
+                "uploadDate": 1409778945,
+                "videoId": "xsfHaM7jCBo",
+                "mediaDuration": "80",
+                "prettyDuration": "00:01:20",
+                "uploadAsset": false,
+                "quality": ""
+            },
+            "parentId": "3764045",
+            "url": "\/creative-recreation\/creative-conversations-mikal-angeles-interview\/3764045-3764048"
+        },
+        {
+            "id": "3764049",
+            "title": "This Is My Creative Recreation: Haley Arlene",
+            "date_created": "1409879303",
+            "loginId": "753",
+            "tags": "",
+            "description": "Using art to bring her message to the masses, CR follows Haley Arlene in this week's This is My Creative Recreation segment.",
+            "asset": {
+                "author": "Creative Recreation",
+                "hdvFlag": 1,
+                "hookText": "Using art to bring her message to the masses, CR follows Haley Arlene in this week's This is My Creative Recreation segment.",
+                "tags": "",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/6vaRgj-ptIg\/sddefault.jpg",
+                "uploadDate": 1409778376,
+                "videoId": "6vaRgj-ptIg",
+                "mediaDuration": "103",
+                "prettyDuration": "00:01:43",
+                "uploadAsset": false,
+                "quality": ""
+            },
+            "parentId": "3764045",
+            "url": "\/creative-recreation\/this-is-my-creative-recreation-haley-arlene\/3764045-3764049"
+        }
+    ]
+}

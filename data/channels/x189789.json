@@ -1,0 +1,31 @@
+{
+    "title": "ezekiel",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1405467447",
+    "date_modified": "1427821919",
+    "tags": "",
+    "sourceId": null,
+    "status": "approved",
+    "visibility": "1",
+    "id": "189789",
+    "loginId": "753",
+    "entityType": "3",
+    "titleTextEncoded": "ezekiel",
+    "category": null,
+    "duration": null,
+    "settings": {
+        "canvasImage": "968988096-0.jpg",
+        "colorClass": "light",
+        "canvasType": "cropped",
+        "canvasCropped": "968988096-031442280.jpg",
+        "auto": {
+            "dynamic": 0
+        },
+        "optimize": 1,
+        "autoPlay": 1,
+        "autoNext": 1,
+        "hideoos": 1
+    },
+    "transcripts": null
+}

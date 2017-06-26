@@ -1,0 +1,46 @@
+{
+    "title": "etnies Club Med BMX Tour",
+    "description": "http:\/\/etni.es\/bmx-club-med\nThe etnies BMX team made its way along the Mediterranean with stops in France and Spain. Check the edit featuring Aaron Ross, Nathan Williams, Corey Martinez, Ben Lewis, Sergio Layos and Luc Legrand. See the full feature and sh",
+    "referenceId": null,
+    "date_created": "1440443100",
+    "date_modified": "1440443100",
+    "tags": "etnies bmx,etnies,europe,aaron ross,sergio layos,ben lewis,corey martinez,nathan williams,luc legrand,bmx collection,barcelona,avignon,montpelier,france,spain",
+    "sourceId": "3",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6379243",
+    "loginId": "753",
+    "entityType": "1",
+    "titleTextEncoded": "etnies-Club-Med-BMX-Tour",
+    "category": null,
+    "duration": 541,
+    "settings": {},
+    "asset": {
+        "type": "mp4",
+        "sources": [
+            {
+                "file": "https:\/\/player.vimeo.com\/external\/50657272.hd.mp4?s=6ff3f8292d9e85757dedd8b8aea32a68&profile_id=113&oauth2_token_id=62432308"
+            }
+        ],
+        "hdvFlag": 1,
+        "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/349926429_1280x721.jpg",
+        "mediaDuration": 541,
+        "prettyDuration": "09:01",
+        "uploadDate": 1349229327,
+        "tags": "etnies bmx,etnies,europe,aaron ross,sergio layos,ben lewis,corey martinez,nathan williams,luc legrand,bmx collection,barcelona,avignon,montpelier,france,spain",
+        "hookText": "http:\/\/etni.es\/bmx-club-med\nThe etnies BMX team made its way along the Mediterranean with stops in France and Spain. Check the edit featuring Aaron Ross, Nathan Williams, Corey Martinez, Ben Lewis, Sergio Layos and Luc Legrand. See the full feature and sh"
+    },
+    "transcripts": null,
+    "metrics_statistics": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

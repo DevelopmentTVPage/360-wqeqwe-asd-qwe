@@ -1,0 +1,46 @@
+{
+    "title": "Arbor Skateboards :: Tyler Howell",
+    "description": "Arbor Skateboards is proud to announce our newest team rider \u2013 Tyler Howell!\n\nA Santa Barbara local, Tyler Howell takes a naturally fluid California style of downhill skating and matches it with his powerful and technical determination. His approach is un",
+    "referenceId": null,
+    "date_created": "1440438395",
+    "date_modified": "1440438395",
+    "tags": "tyler howell,vugenhausen,arbor,skateboards,downhill,longboarding,arbor collective",
+    "sourceId": "3",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6377953",
+    "loginId": "753",
+    "entityType": "1",
+    "titleTextEncoded": "Arbor-Skateboards-Tyler-Howell",
+    "category": null,
+    "duration": 161,
+    "settings": {},
+    "asset": {
+        "type": "mp4",
+        "sources": [
+            {
+                "file": "https:\/\/player.vimeo.com\/external\/73826094.sd.mp4?s=b28b157648140066b50624b83e6a128e&profile_id=112&oauth2_token_id=74680278"
+            }
+        ],
+        "hdvFlag": 0,
+        "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/448085379_1280x720.jpg",
+        "mediaDuration": 161,
+        "prettyDuration": "02:41",
+        "uploadDate": 1378341899,
+        "tags": "tyler howell,vugenhausen,arbor,skateboards,downhill,longboarding,arbor collective",
+        "hookText": "Arbor Skateboards is proud to announce our newest team rider \u2013 Tyler Howell!\n\nA Santa Barbara local, Tyler Howell takes a naturally fluid California style of downhill skating and matches it with his powerful and technical determination. His approach is un"
+    },
+    "transcripts": null,
+    "metrics_statistics": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

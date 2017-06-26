@@ -1,0 +1,55 @@
+{
+    "title": "etnies Buy A Shoe, Plant A Tree",
+    "description": "The etnies Rainforest is coming!",
+    "referenceId": "19989838",
+    "date_created": "1443815022",
+    "date_modified": "1449014495",
+    "tags": "etnies,JP Walker,MFR,Marie-France Roy,Ryan Sheckler,etnies Jameson Eco,eco,Kyle Leeper,Jose Rojo,Brett Simpson,Simpo,sole technology",
+    "sourceId": "3",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "1",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6418943",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "52",
+    "entityIdParent": "168527",
+    "titleTextEncoded": "etnies-Buy-A-Shoe-Plant-A-Tree",
+    "category": null,
+    "duration": 145,
+    "settings": {},
+    "asset": {
+        "type": "mp4",
+        "hdvFlag": 1,
+        "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/127243650_1280x720.jpg",
+        "mediaDuration": 145,
+        "prettyDuration": "02:25",
+        "uploadDate": 1297802753,
+        "tags": "etnies,JP Walker,MFR,Marie-France Roy,Ryan Sheckler,etnies Jameson Eco,eco,Kyle Leeper,Jose Rojo,Brett Simpson,Simpo,sole technology",
+        "hookText": "The etnies Rainforest is coming!",
+        "sources": [
+            {
+                "file": "https:\/\/player.vimeo.com\/external\/19989838.hd.mp4?s=487a4c9ac1bd79f74f798d760fe6bbb3&profile_id=113&oauth2_token_id=62432308"
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

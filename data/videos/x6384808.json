@@ -1,0 +1,55 @@
+{
+    "title": "Arbor Skateboards :: 2015 Product Profiles - Tom and the Highground",
+    "description": "The Highground is a tapered topmount that was designed to be a force on the racecourse; a speedboard that features a range of wheelbase positions, unique concave shaping techniques, and carefully placed flares that provide leverage points, and keep you locked in.\n\nL: 36.00\" W: 10.00\" WB: 26.50\" - 29.00\"\n\nRider: Tom Flinchbaugh\nFilm\/Edit: Jack Boston",
+    "referenceId": null,
+    "date_created": "1440805598",
+    "date_modified": "1454545946",
+    "tags": "arbor,arbor collective,skateboards,longboard,downhill,highground,tom flinchbaugh,Arbor Skateboards",
+    "sourceId": "3",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "2",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6384808",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "289",
+    "entityIdParent": "3763991",
+    "titleTextEncoded": "Arbor-Skateboards-2015-Product-Profiles-Tom-and-the-Highground",
+    "category": null,
+    "duration": 85,
+    "settings": {},
+    "asset": {
+        "type": "mp4",
+        "hdvFlag": 1,
+        "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/519658408_1280x720.jpg",
+        "mediaDuration": 85,
+        "prettyDuration": "01:25",
+        "uploadDate": 1432175979,
+        "tags": "arbor,arbor collective,skateboards,longboard,downhill,highground,tom flinchbaugh,Arbor Skateboards",
+        "hookText": "The Highground is a tapered topmount that was designed to be a force on the racecourse; a speedboard that features a range of wheelbase positions, unique concave shaping techniques, and carefully placed flares that provide leverage points, and keep you lo",
+        "sources": [
+            {
+                "file": "https:\/\/player.vimeo.com\/external\/128443937.hd.mp4?s=16476643c0732f7d85bf7930775c9ba3&profile_id=113&oauth2_token_id=74680278"
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

@@ -1,0 +1,46 @@
+{
+    "title": "Dakine Featuring Gore-Tex",
+    "description": "Jeremy Prevost, Aline Bock and Roy Kittler visit the Gore European Headquarters and test the Gore-Tex membrane inside Dakine Gloves. The results are incredible!",
+    "referenceId": null,
+    "date_created": "1440450035",
+    "date_modified": "1444080255",
+    "tags": "Array,Array,Array,Array,Array,Array,Array,Array,Array",
+    "sourceId": "3",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6380658",
+    "loginId": "753",
+    "entityType": "1",
+    "titleTextEncoded": "Dakine-Featuring-Gore-Tex",
+    "category": null,
+    "duration": 201,
+    "settings": {},
+    "asset": {
+        "type": "mp4",
+        "hdvFlag": 1,
+        "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/209669627_1280x722.jpg",
+        "mediaDuration": 201,
+        "prettyDuration": "03:21",
+        "uploadDate": 1319562726,
+        "tags": "Array,Array,Array,Array,Array,Array,Array,Array,Array",
+        "hookText": "Jeremy Prevost, Aline Bock and  Roy Kittler visit the Gore European Headquarters and test the Gore-Tex membrane inside Dakine Gloves.  The results are incredible!",
+        "sources": [
+            {
+                "file": "https:\/\/player.vimeo.com\/external\/31096233.hd.mp4?s=f261f6c13180e40287678757f858a3d6&profile_id=113&oauth2_token_id=56801069"
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

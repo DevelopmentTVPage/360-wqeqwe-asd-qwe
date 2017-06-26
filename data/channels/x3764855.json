@@ -1,0 +1,30 @@
+{
+    "title": "Imperial Motion",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1410804598",
+    "date_modified": "1410805186",
+    "tags": "",
+    "sourceId": null,
+    "status": "approved",
+    "visibility": "1",
+    "id": "3764855",
+    "loginId": "753",
+    "entityType": "3",
+    "titleTextEncoded": "Imperial-Motion",
+    "category": null,
+    "duration": null,
+    "settings": {
+        "canvasImage": "674573001-0.jpg",
+        "colorClass": "light",
+        "canvasType": "cropped",
+        "canvasCropped": "674573001-016500297.jpg",
+        "hideoos": 1,
+        "auto": {
+            "dynamic": 0,
+            "limit": 4
+        },
+        "optimize": 1
+    },
+    "transcripts": null
+}

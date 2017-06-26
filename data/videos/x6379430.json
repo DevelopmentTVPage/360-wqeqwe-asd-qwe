@@ -1,0 +1,46 @@
+{
+    "title": "Introducing the etnies French BMX Team",
+    "description": "Introducing the etnies BMX French Team!",
+    "referenceId": null,
+    "date_created": "1440443438",
+    "date_modified": "1444344849",
+    "tags": "etnies EU,etnies bmx,french team",
+    "sourceId": "3",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6379430",
+    "loginId": "753",
+    "entityType": "1",
+    "titleTextEncoded": "Introducing-the-etnies-French-BMX-Team",
+    "category": null,
+    "duration": 212,
+    "settings": {},
+    "asset": {
+        "type": "mp4",
+        "hdvFlag": 0,
+        "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/125956197_960x536.jpg",
+        "mediaDuration": 212,
+        "prettyDuration": "03:32",
+        "uploadDate": 1297392446,
+        "tags": "etnies EU,etnies bmx,french team",
+        "hookText": "http:\/\/www.facebook.com\/etnies Introducing the etnies BMX French Team!",
+        "sources": [
+            {
+                "file": "https:\/\/player.vimeo.com\/external\/19815395.sd.mp4?s=2340d80e7d98f2c8b1882325183835ea&profile_id=112&oauth2_token_id=62432308"
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

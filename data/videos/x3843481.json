@@ -1,0 +1,71 @@
+{
+    "title": "Disney And Vans",
+    "description": "Vans joins hands with Disney for a magical adventure reimagining beloved Disney characters across a collection of footwear, apparel and accessories. Sharing a rich heritage rooted in Southern California, Vans and Disney are both dedicated to those who are young at heart and never stop following their dreams. To celebrate the launch of this special project, Vans Surf team members Dane Gudauskas and Leila Hurst bring us to their happy place alongside Mickey Mouse and his pals for a video that show us what it means to be Young at Heart.\n\nMusic:\n\n\"Morocco\" by The Morrie Morrison Orchestra \n\"I Live for the Sun\" by Surf Punks",
+    "referenceId": null,
+    "date_created": "1433518867",
+    "date_modified": "1444091079",
+    "tags": "",
+    "sourceId": "1",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "1409",
+    "CVV_VI": "82",
+    "engagement_score": "12",
+    "conversion_score": "6",
+    "id": "3843481",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "5",
+    "entityIdParent": "195960",
+    "titleTextEncoded": "Disney-And-Vans",
+    "category": null,
+    "duration": "52",
+    "settings": [],
+    "asset": {
+        "type": "mp4",
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/753\/canvas\/655\/368\/335632885-011276717.png",
+        "mediaDuration": "52",
+        "prettyDuration": "00:00:52",
+        "hookText": "Disney And Vans",
+        "tags": "",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/3843481\/43c26eba_4099_4bd6_e8bf_04eb9913fa6e.mp4"
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/3843481\/720p_43c26eba_4099_4bd6_e8bf_04eb9913fa6e.mp4",
+                "quality": "720p"
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/3843481\/480p_43c26eba_4099_4bd6_e8bf_04eb9913fa6e.mp4",
+                "quality": "480p"
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/3843481\/360p_43c26eba_4099_4bd6_e8bf_04eb9913fa6e.mp4",
+                "quality": "360p"
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "conversion_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

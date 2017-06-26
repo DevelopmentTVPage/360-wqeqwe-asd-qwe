@@ -1,0 +1,30 @@
+{
+    "title": "Dr. Martens",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1409936840",
+    "date_modified": "1433961183",
+    "tags": "",
+    "sourceId": null,
+    "status": "approved",
+    "visibility": "1",
+    "id": "3764258",
+    "loginId": "753",
+    "entityType": "3",
+    "titleTextEncoded": "Dr-Martens",
+    "category": null,
+    "duration": null,
+    "settings": {
+        "canvasImage": "226485126-0.jpg",
+        "colorClass": "light",
+        "canvasType": "cropped",
+        "canvasCropped": "226485126-032544338.jpg",
+        "hideoos": 1,
+        "auto": {
+            "dynamic": 0
+        },
+        "optimize": 1,
+        "autoPlay": 0
+    },
+    "transcripts": null
+}

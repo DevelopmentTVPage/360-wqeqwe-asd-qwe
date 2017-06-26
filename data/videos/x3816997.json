@@ -1,0 +1,71 @@
+{
+    "title": "Volcom Mod-Tech Boardshorts - Spring 2015",
+    "description": "Get the full experience at http:\/\/www.volcom.com\/boardshorts\n\nAt Volcom, we believe that surfing is all about surfing. Rest assured that Volcom Mod-Tech Boardshorts have been worn, torn and tested by the greatest minds in destruction.\n\nWe do the thinking so you don't have to.\n\nVolcom Boardshorts: http:\/\/www.volcom.com\/boardshorts\n\n- Music - \nSong: Raving Mad\nArtist: Conspiracy of Owls\nRelease: Conspiracy of Owls\nCourtesy of Burger Records",
+    "referenceId": null,
+    "date_created": "1423184594",
+    "date_modified": "1445368570",
+    "tags": "volcom, boardshorts, mod-tech boardshorts, surfing",
+    "sourceId": "1",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "1004",
+    "CVV_VI": "95",
+    "engagement_score": "9",
+    "conversion_score": "7",
+    "id": "3816997",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "22",
+    "entityIdParent": "195929",
+    "titleTextEncoded": "Volcom-Mod-Tech-Boardshorts-Spring-2015",
+    "category": null,
+    "duration": "171",
+    "settings": [],
+    "asset": {
+        "type": "mp4",
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/753\/canvas\/655\/368\/697531795-071090619.png",
+        "mediaDuration": "171",
+        "prettyDuration": "00:02:51",
+        "hookText": "Volcom Mod-Tech Boardshorts - Spring 2015",
+        "tags": "volcom, boardshorts, mod-tech boardshorts, surfing",
+        "sources": [
+            {
+                "file": "https:\/\/d2mhchrq41duh4.cloudfront.net\/753\/3816997\/d96e17b1_af99_4c0c_8959_60a197dcbb1c.mp4"
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/3816997\/720p_d96e17b1_af99_4c0c_8959_60a197dcbb1c.mp4",
+                "quality": "720p"
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/3816997\/480p_d96e17b1_af99_4c0c_8959_60a197dcbb1c.mp4",
+                "quality": "480p"
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/3816997\/360p_d96e17b1_af99_4c0c_8959_60a197dcbb1c.mp4",
+                "quality": "360p"
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "conversion_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

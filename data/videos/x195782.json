@@ -1,0 +1,59 @@
+{
+    "title": "Tilly's Summer Sound Check Tour - Never Shout Never",
+    "description": "Tilly's Summer Sound Check Tour wrapped up in Fullerton, CA with a re-grand opening event and live performance by Never Shout Never! Check out their song \"On The Bright Side\" from \"The Summer\" EP.",
+    "referenceId": null,
+    "date_created": "1407192671",
+    "date_modified": "1470246569",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": "Never_Shout_Never",
+    "video_activity": "Music",
+    "VV_VI": "91",
+    "CVV_VI": "1",
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "195782",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "2",
+    "entityIdParent": "187312",
+    "titleTextEncoded": "Tilly-s-Summer-Sound-Check-Tour-Never-Shout-Never",
+    "category": null,
+    "duration": 155,
+    "settings": [],
+    "asset": {
+        "author": "tillys",
+        "hdvFlag": 1,
+        "hookText": "Tilly's Summer Sound Check Tour wrapped up in Fullerton, CA with a re-grand opening event and live performance by Never Shout Never! Check out their song \"On...",
+        "tags": "",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/nHcbXKOFA6c\/maxresdefault.jpg",
+        "uploadDate": 1406828287,
+        "videoId": "nHcbXKOFA6c",
+        "mediaDuration": "155",
+        "prettyDuration": "02:35",
+        "uploadAsset": false,
+        "quality": ""
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "conversion_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

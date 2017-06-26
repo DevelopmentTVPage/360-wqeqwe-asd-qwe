@@ -1,0 +1,70 @@
+{
+    "title": "Sector 9: Alexis Rivera - Brickhouse Mini Ramp",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1440446452",
+    "date_modified": "1440446455",
+    "tags": "",
+    "sourceId": "1",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "13",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6380395",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "5",
+    "entityIdParent": "3764445",
+    "titleTextEncoded": "Sector-9-Alexis-Rivera-Brickhouse-Mini-Ramp",
+    "category": null,
+    "duration": "116",
+    "settings": {},
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "116"
+        },
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/6380395\/720p_4e2c8eeaa16c444806da95c24b72f41b.mp4",
+                "quality": "720p"
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/6380395\/480p_4e2c8eeaa16c444806da95c24b72f41b.mp4",
+                "quality": "480p"
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/6380395\/360p_4e2c8eeaa16c444806da95c24b72f41b.mp4",
+                "quality": "360p"
+            }
+        ],
+        "thumbnailUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/6380395\/4e2c8eeaa16c444806da95c24b72f41b.png",
+        "hookText": "",
+        "type": "mp4",
+        "mediaDuration": "116",
+        "prettyDuration": "00:01:56",
+        "tags": ""
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

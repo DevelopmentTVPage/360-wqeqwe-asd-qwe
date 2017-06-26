@@ -1,0 +1,46 @@
+{
+    "title": "Steepwater",
+    "description": "The Steepwater has a standard-width, directional, classic camber shape and stiff flex. Arbor collaborated on the new Steepwater with Steve Klassen, 5x winner of the Verbier Extreme and owner of Wave Rave snowboard shop.  Steve's 20 years of R&D experience",
+    "referenceId": null,
+    "date_created": "1440438334",
+    "date_modified": "1440438334",
+    "tags": "Arbor,Arbor Steepwater,Arbor Snowboards,Steve Klassen,Wave Rave,Snowboarding,Product Profiles",
+    "sourceId": "3",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6377934",
+    "loginId": "753",
+    "entityType": "1",
+    "titleTextEncoded": "Steepwater",
+    "category": null,
+    "duration": 81,
+    "settings": {},
+    "asset": {
+        "type": "mp4",
+        "sources": [
+            {
+                "file": "https:\/\/player.vimeo.com\/external\/75461630.hd.mp4?s=34c3ffaaab54968b506392a630d101f6&profile_id=113&oauth2_token_id=74680278"
+            }
+        ],
+        "hdvFlag": 1,
+        "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/451154769_1280x720.jpg",
+        "mediaDuration": 81,
+        "prettyDuration": "01:21",
+        "uploadDate": 1380171068,
+        "tags": "Arbor,Arbor Steepwater,Arbor Snowboards,Steve Klassen,Wave Rave,Snowboarding,Product Profiles",
+        "hookText": "The Steepwater has a standard-width, directional, classic camber shape and stiff flex. Arbor collaborated on the new Steepwater with Steve Klassen, 5x winner of the Verbier Extreme and owner of Wave Rave snowboard shop.  Steve's 20 years of R&D experience"
+    },
+    "transcripts": null,
+    "metrics_statistics": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

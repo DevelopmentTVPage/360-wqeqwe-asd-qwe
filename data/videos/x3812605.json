@@ -1,0 +1,53 @@
+{
+    "title": "New Era Heritage Series: Spike Lee",
+    "description": "In 1996, fashion history was made with a simple phone call. The next installment of the New Era Heritage Series: The 1996 Collection. Coming soon.",
+    "referenceId": null,
+    "date_created": "1419453227",
+    "date_modified": "1470326786",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": "New_Era",
+    "video_celeb": null,
+    "video_activity": "Art___Design",
+    "VV_VI": "11",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "3812605",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "0",
+    "entityIdParent": "3764390",
+    "titleTextEncoded": "New-Era-Heritage-Series-Spike-Lee",
+    "category": null,
+    "duration": "19",
+    "settings": null,
+    "asset": {
+        "author": "New Era",
+        "hdvFlag": 1,
+        "hookText": "In 1996, fashion history was made with a simple phone call. The next installment of the New Era Heritage Series: The 1996 Collection. Coming soon.",
+        "tags": "",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/ZPz6m2iaDz4\/maxresdefault.jpg",
+        "uploadDate": 1404936266,
+        "videoId": "ZPz6m2iaDz4",
+        "mediaDuration": "19",
+        "prettyDuration": "00:00:19",
+        "uploadAsset": false,
+        "quality": ""
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

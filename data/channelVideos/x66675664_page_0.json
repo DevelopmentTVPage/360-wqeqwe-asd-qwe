@@ -1,0 +1,28 @@
+{
+    "pageNumber": 0,
+    "data": [
+        {
+            "id": "66676133",
+            "title": "Dummy Video",
+            "date_created": "1467932659",
+            "loginId": "753",
+            "tags": "",
+            "description": "Dummy video untuk website klien www.DuniaWebsite.com",
+            "asset": {
+                "type": "youtube",
+                "author": "Klien DW",
+                "hdvFlag": 1,
+                "hookText": "Dummy video untuk website klien www.DuniaWebsite.com",
+                "tags": "",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/yAoLSRbwxL8\/hqdefault.jpg",
+                "videoId": "yAoLSRbwxL8",
+                "mediaDuration": 16,
+                "prettyDuration": "00:00:16",
+                "uploadAsset": false,
+                "quality": ""
+            },
+            "parentId": "66675664",
+            "url": "\/test2\/dummy-video\/66675664-66676133"
+        }
+    ]
+}

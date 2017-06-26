@@ -1,0 +1,53 @@
+{
+    "title": "Converse Rubber Tracks Live Boston",
+    "description": "For five nights, Converse Rubber Tracks Live is taking over The Sinclair in Cambridge, Massachusetts. Each night, local Boston bands will open for line up of internationally recognized artists.",
+    "referenceId": null,
+    "date_created": "1440805709",
+    "date_modified": "1443829566",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "1",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6384825",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "545",
+    "entityIdParent": "168524",
+    "titleTextEncoded": "Converse-Rubber-Tracks-Live-Boston",
+    "category": null,
+    "duration": "35",
+    "settings": {},
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/7GRC9HEiDe8\/hqdefault.jpg",
+        "uploadDate": 1429189166,
+        "videoId": "7GRC9HEiDe8",
+        "title": "Converse Rubber Tracks Live Boston",
+        "description": "www.converse-music.com\/ For five nights, Converse Rubber Tracks Live is taking over The Sinclair in Cambridge, Massachusetts. Each night, local Boston ...",
+        "author": "converse",
+        "mediaDuration": "35",
+        "prettyDuration": "00:00:35",
+        "views": "3740",
+        "hookText": "www.converse-music.com\/ For five nights, Converse Rubber Tracks Live is taking over The Sinclair in Cambridge, Massachusetts. Each night, local Boston ..."
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

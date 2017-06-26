@@ -1,0 +1,56 @@
+{
+    "title": "#TOURNOTES: JOHN JOHN FLORENCE'S WORKOUT",
+    "description": "Downtime calls for serious training. John John Florence takes you through his pre-heat shorebreak routine.",
+    "referenceId": "BM6YXWnSVbM",
+    "date_created": "1441317690",
+    "date_modified": "1455733176",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "3",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6386885",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "498",
+    "entityIdParent": "158318",
+    "titleTextEncoded": "TOURNOTES-JOHN-JOHN-FLORENCE-S-WORKOUT",
+    "category": null,
+    "duration": "54",
+    "settings": [],
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/BM6YXWnSVbM\/hqdefault.jpg",
+        "uploadDate": 1411946530,
+        "videoId": "BM6YXWnSVbM",
+        "title": "#TOURNOTES: JOHN JOHN FLORENCE'S WORKOUT",
+        "description": "Downtime calls for serious training. John John Florence takes you through his pre-heat shorebreak routine. See more from John John at ...",
+        "author": "hurley",
+        "mediaDuration": "54",
+        "prettyDuration": "00:00:54",
+        "views": "209515",
+        "hookText": "Downtime calls for serious training. John John Florence takes you through his pre-heat shorebreak routine. See more from John John at ..."
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": [
+        "2",
+        "17"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

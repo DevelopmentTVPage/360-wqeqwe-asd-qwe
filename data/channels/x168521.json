@@ -1,0 +1,31 @@
+{
+    "title": "Electric",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1401128764",
+    "date_modified": "1430956215",
+    "tags": "",
+    "sourceId": null,
+    "status": "approved",
+    "visibility": "1",
+    "id": "168521",
+    "loginId": "753",
+    "entityType": "3",
+    "titleTextEncoded": "Electric",
+    "category": null,
+    "duration": null,
+    "settings": {
+        "canvasImage": "510780048-0.jpg",
+        "colorClass": "light",
+        "canvasType": "cropped",
+        "canvasCropped": "510780048-09418001107.jpg",
+        "auto": {
+            "dynamic": 0
+        },
+        "optimize": 1,
+        "autoPlay": 1,
+        "autoNext": 1,
+        "hideoos": 1
+    },
+    "transcripts": null
+}

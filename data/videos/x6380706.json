@@ -1,0 +1,46 @@
+{
+    "title": "Ben Hatchell Ad Day",
+    "description": "In Arizona, on the weekend of the Phoenix AM, it seemed like it was 1000 degrees outside. That didn\u2019t stop Ben Hatchell from killing it all weekend. Not only did he get an ad done, he also qualified first and then won the 2011 Phoenix AM. Not bad for a guy who also turned 21 at the stroke of midnight.",
+    "referenceId": null,
+    "date_created": "1440450099",
+    "date_modified": "1443727520",
+    "tags": "Array,Array,Array,Array",
+    "sourceId": "3",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6380706",
+    "loginId": "753",
+    "entityType": "1",
+    "titleTextEncoded": "Ben-Hatchell-Ad-Day",
+    "category": null,
+    "duration": 149,
+    "settings": {},
+    "asset": {
+        "type": "mp4",
+        "hdvFlag": 1,
+        "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/163565620_1280x720.jpg",
+        "mediaDuration": 149,
+        "prettyDuration": "02:29",
+        "uploadDate": 1302904149,
+        "tags": "Array,Array,Array,Array",
+        "hookText": "In Arizona, on the weekend of the Phoenix AM, it seemed like it was 1000 degrees outside. That didn\u2019t stop Ben Hatchell from killing it all weekend. Not only did he get an ad done, he also qualified first and then won the 2011 Phoenix AM. Not bad for a gu",
+        "sources": [
+            {
+                "file": "https:\/\/player.vimeo.com\/external\/22462169.hd.mp4?s=da8451f2ed2917798125831d58b6128b&profile_id=113&oauth2_token_id=56801069"
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

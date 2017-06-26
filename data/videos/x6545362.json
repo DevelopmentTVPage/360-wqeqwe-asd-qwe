@@ -1,0 +1,57 @@
+{
+    "title": "MAKING OF AWESOME",
+    "description": "A behind-the-scenes look at the build out for the Awesome opening on Saturday, June 11th from 6-9pm.",
+    "referenceId": "sIL6oU-ZJiE",
+    "date_created": "1307645004",
+    "date_modified": "1450134258",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "1",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6545362",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "109",
+    "entityIdParent": "158318",
+    "titleTextEncoded": "MAKING-OF-AWESOME",
+    "category": null,
+    "duration": "44",
+    "settings": {
+        "parentFeedId": "6544969",
+        "parentFeedLoginId": "753"
+    },
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/sIL6oU-ZJiE\/hqdefault.jpg",
+        "uploadDate": 1307645004,
+        "videoId": "sIL6oU-ZJiE",
+        "title": "MAKING OF AWESOME",
+        "description": "A behind-the-scenes look at the build out for the Awesome opening on Saturday, June 11th from 6-9pm.",
+        "author": "hurley",
+        "mediaDuration": "44",
+        "prettyDuration": "00:00:44",
+        "views": "2721"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": [
+        "15"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

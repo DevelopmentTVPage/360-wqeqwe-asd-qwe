@@ -1,0 +1,31 @@
+{
+    "title": "ICECREAM",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1410803144",
+    "date_modified": "1410803912",
+    "tags": "",
+    "sourceId": null,
+    "status": "approved",
+    "visibility": "1",
+    "id": "3764850",
+    "loginId": "753",
+    "entityType": "3",
+    "titleTextEncoded": "ICECREAM",
+    "category": null,
+    "duration": null,
+    "settings": {
+        "canvasImage": "419918485-0.jpg",
+        "colorClass": "light",
+        "canvasType": "cropped",
+        "hideoos": 1,
+        "auto": {
+            "dynamic": 0,
+            "limit": 4
+        },
+        "optimize": 1,
+        "autoPlay": 0,
+        "canvasCropped": "419918485-016620365.jpg"
+    },
+    "transcripts": null
+}

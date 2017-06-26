@@ -1,0 +1,55 @@
+{
+    "title": "HAWAII WEEK 3: SNEAK PEEK",
+    "description": "A little teaser from this week's highlight video from Hawaii that we'll release at the end of the week. Enjoy. Video: Tom Aiello.",
+    "referenceId": "hWmC7IilWAw",
+    "date_created": "1291659540",
+    "date_modified": "1449781900",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "3",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6545211",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "35",
+    "entityIdParent": "158318",
+    "titleTextEncoded": "HAWAII-WEEK-3-SNEAK-PEEK",
+    "category": null,
+    "duration": "38",
+    "settings": {
+        "parentFeedId": "6544969",
+        "parentFeedLoginId": "753"
+    },
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/hWmC7IilWAw\/hqdefault.jpg",
+        "uploadDate": 1291659540,
+        "videoId": "hWmC7IilWAw",
+        "title": "HAWAII WEEK 3: SNEAK PEEK",
+        "description": "A little teaser from this week's highlight video from Hawaii that we'll release at the end of the week. Enjoy. Video: Tom Aiello.",
+        "author": "hurley",
+        "mediaDuration": "38",
+        "prettyDuration": "00:00:38",
+        "views": "1726"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

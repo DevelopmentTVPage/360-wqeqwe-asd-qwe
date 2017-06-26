@@ -1,0 +1,69 @@
+{
+    "title": "Tillys Late Fall 2015",
+    "description": "Back to school we go. We're stuffing our backpacks full with all the fun new school supplies and stocking up on flannels and sweaters. Summer vacations are still fresh in our minds, but it's okay, we'll still find time to escape to the woods on the weekends.",
+    "referenceId": null,
+    "date_created": "1439316887",
+    "date_modified": "1445039112",
+    "tags": "",
+    "sourceId": "1",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "8012",
+    "CVV_VI": "1052",
+    "engagement_score": "73",
+    "conversion_score": "88",
+    "id": "6292147",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "7",
+    "entityIdParent": "195929",
+    "titleTextEncoded": "Tillys-Late-Fall-2015",
+    "category": null,
+    "duration": "56",
+    "settings": null,
+    "asset": {
+        "type": "mp4",
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/753\/canvas\/655\/368\/553232688-06886504.png",
+        "mediaDuration": "56",
+        "prettyDuration": "00:00:56",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/6292147\/45f6dd33_9020_4ce9_f4b1_ccf4a9587ad4.mp4"
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/6292147\/720p_45f6dd33_9020_4ce9_f4b1_ccf4a9587ad4.mp4",
+                "quality": "720p"
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/6292147\/480p_45f6dd33_9020_4ce9_f4b1_ccf4a9587ad4.mp4",
+                "quality": "480p"
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/6292147\/360p_45f6dd33_9020_4ce9_f4b1_ccf4a9587ad4.mp4",
+                "quality": "360p"
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "conversion_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

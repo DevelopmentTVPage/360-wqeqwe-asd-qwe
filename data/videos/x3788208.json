@@ -1,0 +1,62 @@
+{
+    "title": "ELEMENT BACKPACKS \u2013 EVAN SMITH \u2013 KEEP DISCOVERING",
+    "description": "ELEMENT BACKPACKS \u2013 EVAN SMITH \u2013 KEEP DISCOVERING",
+    "referenceId": null,
+    "date_created": "1417808120",
+    "date_modified": "1422645470",
+    "tags": "",
+    "sourceId": "1",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "5",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "3788208",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "136",
+    "entityIdParent": "168534",
+    "titleTextEncoded": "ELEMENT-BACKPACKS-EVAN-SMITH-KEEP-DISCOVERING",
+    "category": null,
+    "duration": "14",
+    "settings": [],
+    "asset": {
+        "type": "mp4",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/3788208\/720p_3945e8b4_ae26_424c_eca8_80335fd6ff6c.mp4",
+                "quality": "720p"
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/3788208\/480p_3945e8b4_ae26_424c_eca8_80335fd6ff6c.mp4",
+                "quality": "480p"
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/3788208\/360p_3945e8b4_ae26_424c_eca8_80335fd6ff6c.mp4",
+                "quality": "360p"
+            }
+        ],
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/753\/canvas\/655\/368\/158940357-046480315.jpg",
+        "mediaDuration": "14",
+        "prettyDuration": "00:00:14",
+        "hookText": "ELEMENT BACKPACKS \u2013 EVAN SMITH \u2013 KEEP DISCOVERING",
+        "tags": ""
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

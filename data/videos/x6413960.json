@@ -1,0 +1,53 @@
+{
+    "title": "#TOURNOTES: THANKSGIVING FROM HAWAII",
+    "description": "Listen to what the Hurley family is thankful and watch chef Coffin at work in this very holiday-filled edition of #TOURNOTES.",
+    "referenceId": "5f45oZuYIX4",
+    "date_created": "1443052073",
+    "date_modified": "1443052073",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "4",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6413960",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "441",
+    "entityIdParent": "158318",
+    "titleTextEncoded": "TOURNOTES-THANKSGIVING-FROM-HAWAII",
+    "category": null,
+    "duration": "71",
+    "settings": {},
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/5f45oZuYIX4\/hqdefault.jpg",
+        "uploadDate": 1385692610,
+        "videoId": "5f45oZuYIX4",
+        "title": "#TOURNOTES: THANKSGIVING FROM HAWAII",
+        "description": "Listen to what the Hurley family is thankful and watch chef Coffin at work in this very holiday-filled edition of #TOURNOTES.",
+        "author": "hurley",
+        "mediaDuration": "71",
+        "prettyDuration": "00:01:11",
+        "views": "17293",
+        "hookText": "Listen to what the Hurley family is thankful and watch chef Coffin at work in this very holiday-filled edition of #TOURNOTES."
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

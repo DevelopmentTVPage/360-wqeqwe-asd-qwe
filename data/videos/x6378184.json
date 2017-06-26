@@ -1,0 +1,53 @@
+{
+    "title": "Enjoi - pandartist series episode #3 - \"This Is Rob Mathieson\"",
+    "description": "This is an enjoi commercial for the artist Rob Mathieson.",
+    "referenceId": null,
+    "date_created": "1440439532",
+    "date_modified": "1449009506",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "3",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6378184",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "33",
+    "entityIdParent": "3764281",
+    "titleTextEncoded": "Enjoi-pandartist-series-episode-3-This-Is-Rob-Mathieson",
+    "category": null,
+    "duration": "151",
+    "settings": {},
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/W-Dc7IG5wCk\/hqdefault.jpg",
+        "uploadDate": 1416255689,
+        "videoId": "W-Dc7IG5wCk",
+        "title": "Enjoi - pandartist series episode #3 - \"This Is Rob Mathieson\"",
+        "description": "This is an enjoi commercial for the artist Rob Mathieson.",
+        "author": "enjoicoskateboards",
+        "mediaDuration": "151",
+        "prettyDuration": "00:02:31",
+        "views": "5769",
+        "hookText": "This is an enjoi commercial for the artist Rob Mathieson."
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

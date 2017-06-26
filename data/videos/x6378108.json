@@ -1,0 +1,55 @@
+{
+    "title": "Penny Australia - Christian Hosoi - Bowl-A-Rama",
+    "description": "Penny Skateboards and Christian Hosoi at Bowl-A-Rama 2013",
+    "referenceId": null,
+    "date_created": "1440439035",
+    "date_modified": "1470330679",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": "Penny",
+    "video_celeb": null,
+    "video_activity": "Meet_And_Greet",
+    "VV_VI": "6",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6378108",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "1",
+    "entityIdParent": "195870",
+    "titleTextEncoded": "Penny-Australia-Christian-Hosoi-Bowl-A-Rama",
+    "category": null,
+    "duration": "138",
+    "settings": {},
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/WH2wcm5OBH0\/hqdefault.jpg",
+        "uploadDate": 1362103027,
+        "videoId": "WH2wcm5OBH0",
+        "title": "Penny Australia - Christian Hosoi - Bowl-A-Rama",
+        "description": "Check out Penny Skateboards and Christian Hosoi at Bowl-A-Rama 2013 http:\/\/www.pennyskateboards.com",
+        "author": "Penny Skateboards",
+        "mediaDuration": "138",
+        "prettyDuration": "00:02:18",
+        "views": "27240",
+        "hookText": "Check out Penny Skateboards and Christian Hosoi at Bowl-A-Rama 2013 http:\/\/www.pennyskateboards.com",
+        "uploadAsset": false,
+        "quality": ""
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

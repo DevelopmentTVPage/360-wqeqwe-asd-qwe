@@ -1,0 +1,46 @@
+{
+    "title": "A Kansas City Halloweekend! Featuring Sean Malto, Mikey Taylor, Davis Torgerson & friends!",
+    "description": "A Kansas City Halloweekend!",
+    "referenceId": null,
+    "date_created": "1440443452",
+    "date_modified": "1443551620",
+    "tags": "Kansas City,Halloweekend,etnies skateboarding,sean malto,davis torgerson,mikey taylor,ryan pearce",
+    "sourceId": "3",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6379438",
+    "loginId": "753",
+    "entityType": "1",
+    "titleTextEncoded": "A-Kansas-City-Halloweekend-Featuring-Sean-Malto-Mikey-Taylor-Davis-Torgerson-friends",
+    "category": null,
+    "duration": 144,
+    "settings": {},
+    "asset": {
+        "type": "mp4",
+        "hdvFlag": 0,
+        "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/109487529_960x540.jpg",
+        "mediaDuration": 144,
+        "prettyDuration": "02:24",
+        "uploadDate": 1291773938,
+        "tags": "Kansas City,Halloweekend,etnies skateboarding,sean malto,davis torgerson,mikey taylor,ryan pearce",
+        "hookText": "http:\/\/www.facebook.com\/etnies A Kansas City Halloweekend!",
+        "sources": [
+            {
+                "file": "https:\/\/player.vimeo.com\/external\/17584908.sd.mp4?s=63624b84afc27e9479c30cf13025534f&profile_id=112&oauth2_token_id=62432308"
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

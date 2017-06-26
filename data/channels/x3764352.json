@@ -1,0 +1,30 @@
+{
+    "title": "Krooked",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1410194729",
+    "date_modified": "1410195053",
+    "tags": "",
+    "sourceId": null,
+    "status": "approved",
+    "visibility": "1",
+    "id": "3764352",
+    "loginId": "753",
+    "entityType": "3",
+    "titleTextEncoded": "Krooked",
+    "category": null,
+    "duration": null,
+    "settings": {
+        "canvasImage": "873739702-0.jpg",
+        "colorClass": "light",
+        "canvasType": "cropped",
+        "canvasCropped": "873739702-011500293.jpg",
+        "autoPlay": 0,
+        "hideoos": 1,
+        "auto": {
+            "dynamic": 0
+        },
+        "optimize": 1
+    },
+    "transcripts": null
+}

@@ -1,0 +1,55 @@
+{
+    "title": "Winter 15 Chris Bencehtler Video Ad",
+    "description": "Winter 15 Chris Bencehtler Video Ad",
+    "referenceId": "109614868",
+    "date_created": "1441409148",
+    "date_modified": "1455837972",
+    "tags": "",
+    "sourceId": "3",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "1",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6390416",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "309",
+    "entityIdParent": "168543",
+    "titleTextEncoded": "Winter-15-Chris-Bencehtler-Video-Ad",
+    "category": null,
+    "duration": 30,
+    "settings": {},
+    "asset": {
+        "type": "mp4",
+        "hdvFlag": 1,
+        "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/493604053_1280x720.jpg",
+        "mediaDuration": 30,
+        "prettyDuration": "00:30",
+        "uploadDate": 1413914648,
+        "tags": "",
+        "hookText": "",
+        "sources": [
+            {
+                "file": "https:\/\/player.vimeo.com\/external\/109614868.hd.mp4?s=e5e660222ffc9013a9702afef5b909f1&profile_id=113&oauth2_token_id=56801069"
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

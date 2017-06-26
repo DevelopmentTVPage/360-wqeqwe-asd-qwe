@@ -1,0 +1,43 @@
+{
+    "title": "Rider Profile Bud Freitas HD",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1400521214",
+    "date_modified": "1418181422",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "167123",
+    "loginId": "753",
+    "entityType": "1",
+    "titleTextEncoded": "Rider-Profile-Bud-Freitas-HD",
+    "category": null,
+    "duration": 231,
+    "settings": [],
+    "asset": {
+        "author": "Fox Head",
+        "videoId": "Aii9szNW4dc",
+        "hookText": "",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/Aii9szNW4dc\/maxresdefault.jpg",
+        "mediaDuration": "231",
+        "hdvFlag": 1,
+        "uploadDate": 1247129981,
+        "prettyDuration": "03:51"
+    },
+    "transcripts": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "2"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

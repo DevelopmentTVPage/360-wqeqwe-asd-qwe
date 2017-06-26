@@ -1,0 +1,30 @@
+{
+    "title": "Alpinestars",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1409864046",
+    "date_modified": "1409864388",
+    "tags": "",
+    "sourceId": null,
+    "status": "approved",
+    "visibility": "1",
+    "id": "3763981",
+    "loginId": "753",
+    "entityType": "3",
+    "titleTextEncoded": "Alpinestars",
+    "category": null,
+    "duration": null,
+    "settings": {
+        "canvasImage": "270979616-0.jpg",
+        "colorClass": "light",
+        "canvasType": "cropped",
+        "canvasCropped": "270979616-028513001016.jpg",
+        "autoPlay": 0,
+        "hideoos": 1,
+        "auto": {
+            "dynamic": 0
+        },
+        "optimize": 1
+    },
+    "transcripts": null
+}

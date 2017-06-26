@@ -1,0 +1,50 @@
+{
+    "title": "BS! Premiere Tour",
+    "description": "Check out what went down during the west coast BS! premiere tour with Alex Gray, Andrew Doheny and the gang.",
+    "referenceId": null,
+    "date_created": "1398814012",
+    "date_modified": "1443740867",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "2",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "164646",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "201",
+    "entityIdParent": "168557",
+    "titleTextEncoded": "BS-Premiere-Tour",
+    "category": null,
+    "duration": "204",
+    "settings": [],
+    "asset": {
+        "author": "Volcom",
+        "videoId": "9vuLR_4JxFw",
+        "hookText": "Check out what went down during the west coast BS! premiere tour with Alex Gray, Andrew Doheny and the gang.",
+        "thumbnailUrl": "https:\/\/i1.ytimg.com\/vi\/9vuLR_4JxFw\/hqdefault.jpg",
+        "mediaDuration": "204",
+        "hdvFlag": 0,
+        "uploadDate": 1264219248,
+        "prettyDuration": "00:03:24"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

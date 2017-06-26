@@ -1,0 +1,46 @@
+{
+    "title": "TWITCH'S 420% ALL NATURAL - Official Trailer",
+    "description": "TWITCH\u2019S 420% ALL NATURAL is a collaboration from Jeremy Stenberg (arguably the best dirt bike freerider of all time) and Producer\/Director Jay Schweitzer of the iconic On the Pipe series. The concept behind this freeride phenomenon was to capture the tru",
+    "referenceId": null,
+    "date_created": "1440443196",
+    "date_modified": "1440443196",
+    "tags": "moto,freeriding,free-riding,twitch,motox,motocross,jeremy stenberg,420",
+    "sourceId": "3",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6379288",
+    "loginId": "753",
+    "entityType": "1",
+    "titleTextEncoded": "TWITCH-S-420-ALL-NATURAL-Official-Trailer",
+    "category": null,
+    "duration": 110,
+    "settings": {},
+    "asset": {
+        "type": "mp4",
+        "sources": [
+            {
+                "file": "https:\/\/player.vimeo.com\/external\/40731666.hd.mp4?s=7b03bbc79411305aa8610baef163294f&profile_id=113&oauth2_token_id=62432308"
+            }
+        ],
+        "hdvFlag": 1,
+        "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/281751684_1280x720.jpg",
+        "mediaDuration": 110,
+        "prettyDuration": "01:50",
+        "uploadDate": 1334939067,
+        "tags": "moto,freeriding,free-riding,twitch,motox,motocross,jeremy stenberg,420",
+        "hookText": "TWITCH\u2019S 420% ALL NATURAL is a collaboration from Jeremy Stenberg (arguably the best dirt bike freerider of all time) and Producer\/Director Jay Schweitzer of the iconic On the Pipe series. The concept behind this freeride phenomenon was to capture the tru"
+    },
+    "transcripts": null,
+    "metrics_statistics": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

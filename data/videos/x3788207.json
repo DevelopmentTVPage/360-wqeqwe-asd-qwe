@@ -1,0 +1,65 @@
+{
+    "title": "ELEMENT BACKPACKS - JULIAN DAVIDSON - KEEP DISCOVERING",
+    "description": "ELEMENT BACKPACKS - JULIAN DAVIDSON - KEEP DISCOVERING",
+    "referenceId": null,
+    "date_created": "1417808039",
+    "date_modified": "1422645470",
+    "tags": "",
+    "sourceId": "1",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "23",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "3788207",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "137",
+    "entityIdParent": "168534",
+    "titleTextEncoded": "ELEMENT-BACKPACKS-JULIAN-DAVIDSON-KEEP-DISCOVERING",
+    "category": null,
+    "duration": "15",
+    "settings": [],
+    "asset": {
+        "type": "mp4",
+        "sources": [
+            {
+                "file": "https:\/\/d2mhchrq41duh4.cloudfront.net\/753\/3788207\/01dad725_3b2b_4f94_ee7c_586fbcaac704.mp4"
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/3788207\/720p_01dad725_3b2b_4f94_ee7c_586fbcaac704.mp4",
+                "quality": "720p"
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/3788207\/480p_01dad725_3b2b_4f94_ee7c_586fbcaac704.mp4",
+                "quality": "480p"
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/3788207\/360p_01dad725_3b2b_4f94_ee7c_586fbcaac704.mp4",
+                "quality": "360p"
+            }
+        ],
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/753\/canvas\/655\/368\/908928604-011340202.png",
+        "mediaDuration": "15",
+        "prettyDuration": "00:00:15",
+        "hookText": "ELEMENT BACKPACKS - JULIAN DAVIDSON - KEEP DISCOVERING",
+        "tags": ""
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

@@ -1,0 +1,43 @@
+{
+    "title": "US OPEN SCORE CARD",
+    "description": "Introducing the US Open Score Card.",
+    "referenceId": null,
+    "date_created": "1398360991",
+    "date_modified": "1418181343",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "159488",
+    "loginId": "753",
+    "entityType": "1",
+    "titleTextEncoded": "US-OPEN-SCORE-CARD",
+    "category": null,
+    "duration": "38",
+    "settings": [],
+    "asset": {
+        "author": "Hurley",
+        "videoId": "xGsjHyFALA8",
+        "hookText": "Introducing the US Open Score Card.",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/xGsjHyFALA8\/maxresdefault.jpg",
+        "mediaDuration": "38",
+        "hdvFlag": 1,
+        "uploadDate": 1321942928,
+        "prettyDuration": "00:00:38"
+    },
+    "transcripts": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "13"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

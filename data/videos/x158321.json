@@ -1,0 +1,51 @@
+{
+    "title": "BILLABONG Made For Living",
+    "description": "Billabong style isn't just for the beach anymore. Forward fashion takes to the streets.",
+    "referenceId": null,
+    "date_created": "1398284837",
+    "date_modified": "1447209959",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "43",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "158321",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "18",
+    "entityIdParent": "168512",
+    "titleTextEncoded": "BILLABONG-Made-For-Living",
+    "category": null,
+    "duration": "60",
+    "settings": [],
+    "asset": {
+        "author": "tillys",
+        "hdvFlag": 1,
+        "hookText": "Billabong style isn't just for the beach anymore. Forward fashion takes to the streets. Get the freshest from Billabong now at Tillys.com!",
+        "tags": "",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/dt3LHAet7vE\/maxresdefault.jpg",
+        "uploadDate": 1380738476,
+        "videoId": "dt3LHAet7vE",
+        "mediaDuration": "60",
+        "prettyDuration": "00:01:00"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

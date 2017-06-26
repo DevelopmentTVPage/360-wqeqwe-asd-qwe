@@ -1,0 +1,59 @@
+{
+    "title": "ELECTRIC COMMERCIALS | Atramental- 2013 Fiji Pro",
+    "description": "In case you missed it, here is our 15-second Atramental commercial that's running during the 2013 Volcom Fiji Pro..\n\nSubscribe to Electric!",
+    "referenceId": null,
+    "date_created": "1401404144",
+    "date_modified": "1470262997",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": "Electric",
+    "video_celeb": null,
+    "video_activity": "Surfing",
+    "VV_VI": "39",
+    "CVV_VI": "2",
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "170633",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "0",
+    "entityIdParent": "168521",
+    "titleTextEncoded": "ELECTRIC-COMMERCIALS-Atramental-2013-Fiji-Pro",
+    "category": null,
+    "duration": "15",
+    "settings": [],
+    "asset": {
+        "author": "Electric Visual",
+        "hdvFlag": 1,
+        "hookText": "In case you missed it, here is our 15-second Atramental commercial that's running during the 2013 Volcom Fiji Pro.. Subscribe to Electric! http:\/\/www.youtube...",
+        "tags": "",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/HhyomD-3SII\/sddefault.jpg",
+        "uploadDate": 1370900704,
+        "videoId": "HhyomD-3SII",
+        "mediaDuration": "15",
+        "prettyDuration": "00:00:15",
+        "uploadAsset": false,
+        "quality": ""
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "conversion_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

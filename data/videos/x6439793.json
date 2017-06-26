@@ -1,0 +1,55 @@
+{
+    "title": "Converse Skateboarding: Pontus Alv & Jerome Campbell in Beirut",
+    "description": "European skate ambassadors Pontus Alv and Jerome Campbell taking on Beirut in Lebanon. Check it out.",
+    "referenceId": "al3SFhjaGgQ",
+    "date_created": "1346077199",
+    "date_modified": "1447448680",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "1",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6439793",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "113",
+    "entityIdParent": "168524",
+    "titleTextEncoded": "Converse-Skateboarding-Pontus-Alv-Jerome-Campbell-in-Beirut",
+    "category": null,
+    "duration": "132",
+    "settings": {
+        "parentFeedId": "6439684",
+        "parentFeedLoginId": "753"
+    },
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/al3SFhjaGgQ\/hqdefault.jpg",
+        "uploadDate": 1346077199,
+        "videoId": "al3SFhjaGgQ",
+        "title": "Converse Skateboarding: Pontus Alv & Jerome Campbell in Beirut",
+        "description": "European skate ambassadors Pontus Alv and Jerome Campbell taking on Beirut in Lebanon. Check it out.",
+        "author": "converse",
+        "mediaDuration": "132",
+        "prettyDuration": "00:02:12",
+        "views": "36444"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

@@ -1,0 +1,54 @@
+{
+    "title": "RD1 H1 - Chelsea Hedges, Paige Hareb, Nikita Robb",
+    "description": "Chelsea Hedges - 12.00\nPaige Hareb - 10.83\nNikita Robb - 8.40",
+    "referenceId": "B4rQsspw5Mo",
+    "date_created": "1286493563",
+    "date_modified": "1465345177",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "2",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "66090357",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "30",
+    "entityIdParent": "168546",
+    "titleTextEncoded": "RD1-H1-Chelsea-Hedges-Paige-Hareb-Nikita-Robb",
+    "category": "",
+    "duration": 105,
+    "settings": "",
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/B4rQsspw5Mo\/hqdefault.jpg",
+        "uploadDate": 1286493563,
+        "videoId": "B4rQsspw5Mo",
+        "title": "RD1 H1 - Chelsea Hedges, Paige Hareb, Nikita Robb",
+        "description": "Chelsea Hedges - 12.00\r\nPaige Hareb - 10.83\r\nNikita Robb - 8.40",
+        "author": "Rip Curl",
+        "mediaDuration": 105,
+        "prettyDuration": "00:01:45",
+        "views": "321",
+        "uploadAsset": false,
+        "quality": ""
+    },
+    "transcripts": "[Music Playing]",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

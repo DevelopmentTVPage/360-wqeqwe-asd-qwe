@@ -1,0 +1,46 @@
+{
+    "title": "Winter Waves with EG",
+    "description": "www.facebook.com\/etnies",
+    "referenceId": null,
+    "date_created": "1440443386",
+    "date_modified": "1440443386",
+    "tags": "etnies,surf,eric geiselman,hawaii,EG,new smyrna beach",
+    "sourceId": "3",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6379399",
+    "loginId": "753",
+    "entityType": "1",
+    "titleTextEncoded": "Winter-Waves-with-EG",
+    "category": null,
+    "duration": 90,
+    "settings": {},
+    "asset": {
+        "type": "mp4",
+        "sources": [
+            {
+                "file": "https:\/\/player.vimeo.com\/external\/22680990.hd.mp4?s=8f3639af3474f193d6f0e82accfff54a&profile_id=113&oauth2_token_id=62432308"
+            }
+        ],
+        "hdvFlag": 1,
+        "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/146830887_1280x720.jpg",
+        "mediaDuration": 90,
+        "prettyDuration": "01:30",
+        "uploadDate": 1303346798,
+        "tags": "etnies,surf,eric geiselman,hawaii,EG,new smyrna beach",
+        "hookText": "www.facebook.com\/etnies"
+    },
+    "transcripts": null,
+    "metrics_statistics": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

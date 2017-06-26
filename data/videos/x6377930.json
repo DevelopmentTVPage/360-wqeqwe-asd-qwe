@@ -1,0 +1,46 @@
+{
+    "title": "Watchtower",
+    "description": "The redesigned Watchtower is a wide, directional, classic camber shape with a medium to stiff flex; an advanced all-mountain bomber that\u2019s built wide to support larger feet, yet designed to provide the quickness of a narrower board; the Watchtower provide",
+    "referenceId": null,
+    "date_created": "1440438333",
+    "date_modified": "1440438333",
+    "tags": "Arbor,Arbor Watchtower,Arbor Snowboards,Snowboarding,Product Profiles",
+    "sourceId": "3",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6377930",
+    "loginId": "753",
+    "entityType": "1",
+    "titleTextEncoded": "Watchtower",
+    "category": null,
+    "duration": 72,
+    "settings": {},
+    "asset": {
+        "type": "mp4",
+        "sources": [
+            {
+                "file": "https:\/\/player.vimeo.com\/external\/75519073.hd.mp4?s=ad1f2ffe358a468bc6c9c1e539da569c&profile_id=113&oauth2_token_id=74680278"
+            }
+        ],
+        "hdvFlag": 1,
+        "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/450467240_1280x720.jpg",
+        "mediaDuration": 72,
+        "prettyDuration": "01:12",
+        "uploadDate": 1380223516,
+        "tags": "Arbor,Arbor Watchtower,Arbor Snowboards,Snowboarding,Product Profiles",
+        "hookText": "The redesigned Watchtower is a wide, directional, classic camber shape with a medium to stiff flex; an advanced all-mountain bomber that\u2019s built wide to support larger feet, yet designed to provide the quickness of a narrower board; the Watchtower provide"
+    },
+    "transcripts": null,
+    "metrics_statistics": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

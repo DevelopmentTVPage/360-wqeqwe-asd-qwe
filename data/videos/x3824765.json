@@ -1,0 +1,73 @@
+{
+    "title": "Tilly's Swim - Early Spring 2015",
+    "description": "Bikini n' boardshort season is right around the corner. Shake off your winter blues with all new swimwear cuts and styles. Check it out!",
+    "referenceId": null,
+    "date_created": "1424711114",
+    "date_modified": "1470242766",
+    "tags": "Tilly's, Swim, Bikini, Boardshorts, Spring, Summer, Shopping,",
+    "sourceId": "1",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": "Art___Design",
+    "VV_VI": "1347",
+    "CVV_VI": "148",
+    "engagement_score": "12",
+    "conversion_score": "12",
+    "id": "3824765",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "16",
+    "entityIdParent": "195929",
+    "titleTextEncoded": "Tilly-s-Swim-Early-Spring-2015",
+    "category": null,
+    "duration": "57",
+    "settings": [],
+    "asset": {
+        "type": "mp4",
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/753\/canvas\/655\/368\/162053861-0271166682.png",
+        "mediaDuration": "57",
+        "prettyDuration": "00:00:57",
+        "hookText": "Tilly's Swim - Early Spring 2015",
+        "tags": "Tilly's, Swim, Bikini, Boardshorts, Spring, Summer, Shopping, ",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/3824765\/480p_3c03f578_0845_4dca_b5b0_9ec7f6e5860f.mp4",
+                "quality": "480p"
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/3824765\/720p_3c03f578_0845_4dca_b5b0_9ec7f6e5860f.mp4",
+                "quality": "720p"
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/3824765\/360p_3c03f578_0845_4dca_b5b0_9ec7f6e5860f.mp4",
+                "quality": "360p"
+            },
+            {
+                "file": "https:\/\/d2mhchrq41duh4.cloudfront.net\/753\/3824765\/3c03f578_0845_4dca_b5b0_9ec7f6e5860f.mp4"
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "conversion_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

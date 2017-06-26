@@ -1,0 +1,72 @@
+{
+    "title": "Sector 9 - On Board with Louis Pilloni",
+    "description": "Take a run with Louis Pilloni as he rips down a hill somewhere in California.. Enjoy the ride.",
+    "referenceId": null,
+    "date_created": "1440446440",
+    "date_modified": "1470333314",
+    "tags": "",
+    "sourceId": "1",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": "Sector_9",
+    "video_celeb": null,
+    "video_activity": "Skating",
+    "VV_VI": "4",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6380393",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "7",
+    "entityIdParent": "3764445",
+    "titleTextEncoded": "Sector-9-On-Board-with-Louis-Pilloni",
+    "category": null,
+    "duration": "211",
+    "settings": {},
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "211"
+        },
+        "thumbnailUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/6380393\/f44e96552af10ba1c83969aba01eeb75.png",
+        "hookText": "",
+        "type": "mp4",
+        "mediaDuration": "211",
+        "prettyDuration": "00:03:31",
+        "tags": "",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/6380393\/720p_f44e96552af10ba1c83969aba01eeb75.mp4",
+                "quality": "720p"
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/6380393\/480p_f44e96552af10ba1c83969aba01eeb75.mp4",
+                "quality": "480p"
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/6380393\/360p_f44e96552af10ba1c83969aba01eeb75.mp4",
+                "quality": "360p"
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

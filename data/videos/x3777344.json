@@ -1,0 +1,61 @@
+{
+    "title": "Nike FlashPack",
+    "description": "Nike FlashPack",
+    "referenceId": null,
+    "date_created": "1412959838",
+    "date_modified": "1470328042",
+    "tags": "Nike, Nike SB, Nike Skateboarding, Skateboarding, P Rod, Janowski, Nike SB Shoes, Shoes",
+    "sourceId": "5",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": "Nike",
+    "video_celeb": null,
+    "video_activity": "Skating",
+    "VV_VI": "74",
+    "CVV_VI": "1",
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "3777344",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "12",
+    "entityIdParent": "168513",
+    "titleTextEncoded": "Nike-FlashPack",
+    "category": null,
+    "duration": "43",
+    "settings": [],
+    "asset": {
+        "type": "mp4",
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/753\/canvas\/655\/368\/182341871-6145555322.png",
+        "mediaDuration": "43",
+        "prettyDuration": "00:00:43",
+        "hookText": "Nike FlashPack",
+        "tags": "Nike, Nike SB, Nike Skateboarding, Skateboarding, P Rod, Janowski, Nike SB Shoes, Shoes",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/do0631budpzeh.cloudfront.net\/live\/videos\/753\/a2109e1d_de41_4d5c_a7a9_325296b8f5df.mp4"
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "conversion_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

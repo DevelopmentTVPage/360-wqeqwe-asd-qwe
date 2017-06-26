@@ -1,0 +1,55 @@
+{
+    "title": "Setup with Brian Kachinsky",
+    "description": "Setup with Brian Kachinsky",
+    "referenceId": "19815322",
+    "date_created": "1443816147",
+    "date_modified": "1450475247",
+    "tags": "etnies bmx,BK,brian kachinsky,bike check,dk bikes",
+    "sourceId": "3",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "1",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6418958",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "37",
+    "entityIdParent": "168527",
+    "titleTextEncoded": "Setup-with-Brian-Kachinsky",
+    "category": null,
+    "duration": 357,
+    "settings": {},
+    "asset": {
+        "type": "mp4",
+        "hdvFlag": 0,
+        "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/125955538_295x166.jpg",
+        "mediaDuration": 357,
+        "prettyDuration": "05:57",
+        "uploadDate": 1297392234,
+        "tags": "etnies bmx,BK,brian kachinsky,bike check,dk bikes",
+        "hookText": "http:\/\/www.facebook.com\/etnies Setup with Brian Kachinsky",
+        "sources": [
+            {
+                "file": "https:\/\/player.vimeo.com\/external\/19815322.sd.mp4?s=dc94719311eca4470f6aac862ba0f2c1&profile_id=112&oauth2_token_id=62432308"
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

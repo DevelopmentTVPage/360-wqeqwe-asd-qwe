@@ -1,0 +1,46 @@
+{
+    "title": "Simpo Slides at Home",
+    "description": "Brett Simpson Slides at Home",
+    "referenceId": null,
+    "date_created": "1440443425",
+    "date_modified": "1444778062",
+    "tags": "etnies surf,brett simpson,simpo,HB,huntington beach",
+    "sourceId": "3",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6379417",
+    "loginId": "753",
+    "entityType": "1",
+    "titleTextEncoded": "Simpo-Slides-at-Home",
+    "category": null,
+    "duration": 86,
+    "settings": {},
+    "asset": {
+        "type": "mp4",
+        "hdvFlag": 1,
+        "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/129978923_295x166.jpg",
+        "mediaDuration": 86,
+        "prettyDuration": "01:26",
+        "uploadDate": 1298601580,
+        "tags": "etnies surf,brett simpson,simpo,HB,huntington beach",
+        "hookText": "http:\/\/www.facebook.com\/etnies Brett Simpson Slides at Home",
+        "sources": [
+            {
+                "file": "https:\/\/player.vimeo.com\/external\/20355054.hd.mp4?s=f924080751ac3ade949d03391a527432&profile_id=113&oauth2_token_id=62432308"
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

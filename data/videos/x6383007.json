@@ -1,0 +1,53 @@
+{
+    "title": "Caswell Berry Goes Doggy Style",
+    "description": "Caswell Berry Goes Doggy Style",
+    "referenceId": null,
+    "date_created": "1440610039",
+    "date_modified": "1456342835",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "3",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6383007",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "19",
+    "entityIdParent": "3764281",
+    "titleTextEncoded": "Caswell-Berry-Goes-Doggy-Style",
+    "category": null,
+    "duration": "38",
+    "settings": {},
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/7sh3gGzIKlQ\/hqdefault.jpg",
+        "uploadDate": 1400137237,
+        "videoId": "7sh3gGzIKlQ",
+        "title": "Caswell Berry Goes Doggy Style",
+        "description": "",
+        "author": "enjoicoskateboards",
+        "mediaDuration": "38",
+        "prettyDuration": "00:00:38",
+        "views": "6034",
+        "hookText": ""
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

@@ -1,0 +1,30 @@
+{
+    "title": "Ashbury",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1409866483",
+    "date_modified": "1409866779",
+    "tags": "",
+    "sourceId": null,
+    "status": "approved",
+    "visibility": "1",
+    "id": "3763996",
+    "loginId": "753",
+    "entityType": "3",
+    "titleTextEncoded": "Ashbury",
+    "category": null,
+    "duration": null,
+    "settings": {
+        "canvasImage": "866250450-0.jpg",
+        "colorClass": "light",
+        "canvasType": "cropped",
+        "canvasCropped": "866250450-0208950743.jpg",
+        "hideoos": 1,
+        "auto": {
+            "dynamic": 0,
+            "limit": 4
+        },
+        "optimize": 1
+    },
+    "transcripts": null
+}

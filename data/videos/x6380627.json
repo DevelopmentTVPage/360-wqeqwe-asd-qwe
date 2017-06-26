@@ -1,0 +1,46 @@
+{
+    "title": "Florian Jung's \"Dont Let Go\" Preview \/ Trailer",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1440449996",
+    "date_modified": "1440449996",
+    "tags": "",
+    "sourceId": "3",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6380627",
+    "loginId": "753",
+    "entityType": "1",
+    "titleTextEncoded": "Florian-Jung-s-Dont-Let-Go-Preview-Trailer",
+    "category": null,
+    "duration": 99,
+    "settings": {},
+    "asset": {
+        "type": "mp4",
+        "sources": [
+            {
+                "file": "https:\/\/player.vimeo.com\/external\/45263315.hd.mp4?s=a3ac8a79495dca2c04362aea752c9185&profile_id=113&oauth2_token_id=56801069"
+            }
+        ],
+        "hdvFlag": 1,
+        "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/314677983_1280x720.jpg",
+        "mediaDuration": 99,
+        "prettyDuration": "01:39",
+        "uploadDate": 1341509957,
+        "tags": "",
+        "hookText": ""
+    },
+    "transcripts": null,
+    "metrics_statistics": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

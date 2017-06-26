@@ -1,0 +1,50 @@
+{
+    "title": "PHANTOM INNOVATION",
+    "description": "4D is here: The next dimension of innovation. \n\nVideo: Francisco Magana.",
+    "referenceId": "oOQDLUhm6qY",
+    "date_created": "1304013996",
+    "date_modified": "1450376371",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6545297",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "86",
+    "entityIdParent": "158318",
+    "titleTextEncoded": "PHANTOM-INNOVATION",
+    "category": null,
+    "duration": "23",
+    "settings": {
+        "parentFeedId": "6544969",
+        "parentFeedLoginId": "753"
+    },
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/oOQDLUhm6qY\/hqdefault.jpg",
+        "uploadDate": 1304013996,
+        "videoId": "oOQDLUhm6qY",
+        "title": "PHANTOM INNOVATION",
+        "description": "4D is here: The next dimension of innovation. Video: Francisco Magana.",
+        "author": "hurley",
+        "mediaDuration": "23",
+        "prettyDuration": "00:00:23",
+        "views": "953"
+    },
+    "transcripts": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "16"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

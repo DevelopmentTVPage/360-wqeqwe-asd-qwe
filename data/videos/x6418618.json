@@ -1,0 +1,55 @@
+{
+    "title": "Tanner Foust takes second at Global RallyCross Irwindale",
+    "description": "http:\/\/www.facebook.com\/etnies",
+    "referenceId": "22004421",
+    "date_created": "1443730207",
+    "date_modified": "1443730207",
+    "tags": "etnies,Rally,Global RallyCross Championship,Tanner Foust,TwoTwo Racing",
+    "sourceId": "3",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "1",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6418618",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "67",
+    "entityIdParent": "168527",
+    "titleTextEncoded": "Tanner-Foust-takes-second-at-Global-RallyCross-Irwindale",
+    "category": null,
+    "duration": 142,
+    "settings": {},
+    "asset": {
+        "type": "mp4",
+        "sources": [
+            {
+                "file": "https:\/\/player.vimeo.com\/external\/22004421.hd.mp4?s=ac11151e988bf29ba008bd892812f5d8&profile_id=113&oauth2_token_id=62432308"
+            }
+        ],
+        "hdvFlag": 1,
+        "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/141894023_1280x720.jpg",
+        "mediaDuration": 142,
+        "prettyDuration": "02:22",
+        "uploadDate": 1302048021,
+        "tags": "etnies,Rally,Global RallyCross Championship,Tanner Foust,TwoTwo Racing",
+        "hookText": "http:\/\/www.facebook.com\/etnies"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

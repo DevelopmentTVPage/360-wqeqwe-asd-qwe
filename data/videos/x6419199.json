@@ -1,0 +1,53 @@
+{
+    "title": "ASHBURY WELCOMES DOLAN STEARNS",
+    "description": "Shot and edited by: Brandon Greer.",
+    "referenceId": "uJ_NRaxLp0o",
+    "date_created": "1444062784",
+    "date_modified": "1444062784",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "1",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6419199",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "69",
+    "entityIdParent": "3763996",
+    "titleTextEncoded": "ASHBURY-WELCOMES-DOLAN-STEARNS",
+    "category": null,
+    "duration": "47",
+    "settings": {},
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/uJ_NRaxLp0o\/hqdefault.jpg",
+        "uploadDate": 1347990624,
+        "videoId": "uJ_NRaxLp0o",
+        "title": "ASHBURY WELCOMES DOLAN STEARNS",
+        "description": "Shot and edited by: Brandon Greer.",
+        "author": "ashburyeyewear",
+        "mediaDuration": "47",
+        "prettyDuration": "00:00:47",
+        "views": "10157",
+        "hookText": "Shot and edited by: Brandon Greer."
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

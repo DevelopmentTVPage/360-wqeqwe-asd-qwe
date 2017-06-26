@@ -1,0 +1,51 @@
+{
+    "title": "#TOURNOTES: THIS IS THE BOARD...",
+    "description": "Find out what everyone is riding for the start of the 2014 ASP World Tour at Snapper Rocks.",
+    "referenceId": null,
+    "date_created": "1398278514",
+    "date_modified": "1418181328",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "25",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "158315",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "538",
+    "entityIdParent": "158318",
+    "titleTextEncoded": "TOURNOTES-THIS-IS-THE-BOARD",
+    "category": null,
+    "duration": 74,
+    "settings": [],
+    "asset": {
+        "author": "Hurley",
+        "hdvFlag": 1,
+        "hookText": "Find out what everyone is riding for the start of the 2014 ASP World Tour at Snapper Rocks.",
+        "tags": "",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/Nv0SafXI_EE\/sddefault.jpg",
+        "uploadDate": 1393608414,
+        "videoId": "Nv0SafXI_EE",
+        "mediaDuration": "74",
+        "prettyDuration": "01:14"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

@@ -1,0 +1,46 @@
+{
+    "title": "Theotis Beasley Ad Day",
+    "description": "Theotis just turned Pro but that doesn\u2019t mean he is slowing down one bit. We wrangled him up one Saturday and had him take us to some of his local spots. Theo handled business and got the back side flip for the Ad. Congrats on turning Pro Theo!!!!",
+    "referenceId": "25519148",
+    "date_created": "1443638079",
+    "date_modified": "1443638079",
+    "tags": "Array,Array,Array,Array",
+    "sourceId": "3",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6418171",
+    "loginId": "753",
+    "entityType": "1",
+    "titleTextEncoded": "Theotis-Beasley-Ad-Day",
+    "category": null,
+    "duration": 187,
+    "settings": {},
+    "asset": {
+        "type": "mp4",
+        "sources": [
+            {
+                "file": "https:\/\/player.vimeo.com\/external\/25519148.hd.mp4?s=1aea3718a1d217a937a7c720e4ea8d48&profile_id=113&oauth2_token_id=56801069"
+            }
+        ],
+        "hdvFlag": 1,
+        "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/168043273_1280x720.jpg",
+        "mediaDuration": 187,
+        "prettyDuration": "03:07",
+        "uploadDate": 1308852677,
+        "tags": "Array,Array,Array,Array",
+        "hookText": "Theotis just turned Pro but that doesn\u2019t mean he is slowing down one bit. We wrangled him up one Saturday and had him take us to some of his local spots. Theo handled business and got the back side flip for the Ad. Congrats on turning Pro Theo!!!!"
+    },
+    "transcripts": null,
+    "metrics_statistics": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

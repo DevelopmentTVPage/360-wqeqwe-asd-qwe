@@ -1,0 +1,55 @@
+{
+    "title": "Arbor Snowboards :: Video Log - Whitefish",
+    "description": "Welcome to Video Log, a new series of moving pictures chronicling the life and times of the Arbor team.\nWe slept in yurts and cabins. We rode steep lines, trees, pat-downs, cheese wedges, snow cats, chairlifts and bottomless powder. We spent time at Whitefish Mountain Resort and Montana's premier cat boarding operation, Great Northern Powder Guides. We left with new memories and a great appreciation for the Great Northern region of Whitefish, Montana. We are Brandon Hammid, Blake Axelson, Erik Leon, Mike Gray, Cam Fitzpatrick, and Sean Black. We are Arbor. This is Video Log :: Coordinate 1 :: Whitefish, Montana.\nFilm: Matt Devino, Sean Black\nEdit: Matt Devino\nMusic: La Luz - Sure As Spring, Tom Tom Club - Genius of Love",
+    "referenceId": null,
+    "date_created": "1441211624",
+    "date_modified": "1447116484",
+    "tags": "Arbor,Video Log,Whitefish,Montana,Snowboarding",
+    "sourceId": "3",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "5",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6386433",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "279",
+    "entityIdParent": "3763991",
+    "titleTextEncoded": "Arbor-Snowboards-Video-Log-Whitefish",
+    "category": null,
+    "duration": 241,
+    "settings": {},
+    "asset": {
+        "type": "mp4",
+        "hdvFlag": 1,
+        "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/509515136_1280x720.jpg",
+        "mediaDuration": 241,
+        "prettyDuration": "04:01",
+        "uploadDate": 1425515885,
+        "tags": "Arbor,Video Log,Whitefish,Montana,Snowboarding",
+        "hookText": "Welcome to Video Log, a new series of moving pictures chronicling the life and times of the Arbor team. \n\nWe slept in yurts and cabins. We rode steep lines, trees, pat-downs, cheese wedges, snow cats, chairlifts and bottomless powder. We spent time at Whi",
+        "sources": [
+            {
+                "file": "https:\/\/player.vimeo.com\/external\/121310977.hd.mp4?s=e852d2fc022736aff24c653058a0a86a&profile_id=113&oauth2_token_id=74680278"
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

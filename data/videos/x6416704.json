@@ -1,0 +1,53 @@
+{
+    "title": "VonZipper : Gatti",
+    "description": "Are you a friend of ours? Are you connected?  Do you got a shylock with a beef because you haven't paid your juice? Fuggeddaboudit!!! Become a made man and a stand up guy in the Gatti.",
+    "referenceId": "Rpkc3VQSM5Y",
+    "date_created": "1443486080",
+    "date_modified": "1443486080",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "7",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6416704",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "3",
+    "entityIdParent": "168533",
+    "titleTextEncoded": "VonZipper-Gatti",
+    "category": null,
+    "duration": "30",
+    "settings": {},
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/Rpkc3VQSM5Y\/hqdefault.jpg",
+        "uploadDate": 1294423144,
+        "videoId": "Rpkc3VQSM5Y",
+        "title": "VonZipper : Gatti",
+        "description": "Are you a friend of ours? Are you connected?  Do you got a shylock with a beef because you haven't paid your juice? Fuggeddaboudit!!! Become a made man and a stand up guy in the Gatti.",
+        "author": "VonZipper",
+        "mediaDuration": "30",
+        "prettyDuration": "00:00:30",
+        "views": "10377",
+        "hookText": "Are you a friend of ours? Are you connected?  Do you got a shylock with a beef because you haven't paid your juice? Fuggeddaboudit!!! Become a made man and a stand up guy in the Gatti."
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

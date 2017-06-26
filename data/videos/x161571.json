@@ -1,0 +1,50 @@
+{
+    "title": "Big Wave Washout",
+    "description": "The crew bails and so does the beach. Check out the exposed reef in front of the house. That's not beachbreak. It's 8-10ft Pipe with giant 3rd reef sets!",
+    "referenceId": null,
+    "date_created": "1398385058",
+    "date_modified": "1447262813",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "1",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "161571",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "205",
+    "entityIdParent": "168557",
+    "titleTextEncoded": "Big-Wave-Washout",
+    "category": null,
+    "duration": "79",
+    "settings": [],
+    "asset": {
+        "author": "Volcom",
+        "videoId": "2Ti8jzOLO44",
+        "hookText": "The crew bails and so does the beach.  Check out the exposed reef in front of the house.  That's not beachbreak.  It's 8-10ft Pipe with giant 3rd reef sets!",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/2Ti8jzOLO44\/maxresdefault.jpg",
+        "mediaDuration": "79",
+        "hdvFlag": 1,
+        "uploadDate": 1264203126,
+        "prettyDuration": "00:01:19"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

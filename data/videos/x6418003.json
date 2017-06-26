@@ -1,0 +1,51 @@
+{
+    "title": "Elias Elhart season recap",
+    "description": "Elias Elhart spent his winter filming with People Creative and produced some of the best footage of his life. Check out Elias as he travels around the world hitting some of the best jumps and terrain known to man.",
+    "referenceId": "56951123",
+    "date_created": "1443631445",
+    "date_modified": "1448997981",
+    "tags": "Array,Array,Array,Array",
+    "sourceId": "3",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "1",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6418003",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "162",
+    "entityIdParent": "168543",
+    "titleTextEncoded": "Elias-Elhart-season-recap",
+    "category": null,
+    "duration": 152,
+    "settings": {},
+    "asset": {
+        "type": "mp4",
+        "hdvFlag": 0,
+        "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/400203601_1280x720.jpg",
+        "mediaDuration": 152,
+        "prettyDuration": "02:32",
+        "uploadDate": 1357602853,
+        "tags": "Array,Array,Array,Array",
+        "hookText": "Elias Elhart spent his winter filming with People Creative and produced some of the best footage of his life. Check out Elias as he travels around the world hitting some of the best jumps and terrain known to man.",
+        "sources": []
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

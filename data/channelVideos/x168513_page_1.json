@@ -1,0 +1,101 @@
+{
+    "pageNumber": 1,
+    "data": [
+        {
+            "id": "67780128",
+            "title": "Nike+ SNKRS App",
+            "date_created": "1472620618",
+            "loginId": "753",
+            "tags": "",
+            "description": "Your Ultimate Sneaker Destination \n\nExplore, buy and share the best of Nike sneakers. From iconic classics to the latest releases, Nike+ SNKRS has insider access on the latest\u2014including launches, drops, and the stories behind all your favorite sneakers.",
+            "asset": {
+                "type": "youtube",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/QJxPsjat028\/hqdefault.jpg",
+                "uploadDate": 1472620618,
+                "videoId": "QJxPsjat028",
+                "title": "Nike+ SNKRS App",
+                "description": "Your Ultimate Sneaker Destination \n\nExplore, buy and share the best of Nike sneakers. From iconic classics to the latest releases, Nike+ SNKRS has insider access on the latest\u2014including launches, drops, and the stories behind all your favorite sneakers.",
+                "author": "Nike",
+                "mediaDuration": 29,
+                "prettyDuration": "00:00:29",
+                "views": "5832",
+                "uploadAsset": false,
+                "quality": ""
+            },
+            "parentId": "168513",
+            "url": "\/nike\/nike-snkrs-app\/168513-67780128"
+        },
+        {
+            "id": "67753265",
+            "title": "Unlimited Scout Bassett",
+            "date_created": "1472540012",
+            "loginId": "753",
+            "tags": "",
+            "description": "\u201cThe only person that\u2019s going to have power over me, is me.\u201d\n\nScout Bassett doesn\u2019t just push limits. She sets them. #justdoit",
+            "asset": {
+                "type": "youtube",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/Uzj29XCl2aQ\/hqdefault.jpg",
+                "uploadDate": 1472540012,
+                "videoId": "Uzj29XCl2aQ",
+                "title": "Unlimited Scout Bassett",
+                "description": "\u201cThe only person that\u2019s going to have power over me, is me.\u201d\n\nScout Bassett doesn\u2019t just push limits. She sets them. #justdoit\n\nFind out how: gonike.me\/justdoit",
+                "author": "Nike",
+                "mediaDuration": 137,
+                "prettyDuration": "00:02:17",
+                "views": "6853",
+                "uploadAsset": false,
+                "quality": ""
+            },
+            "parentId": "168513",
+            "url": "\/nike\/unlimited-scout-bassett\/168513-67753265"
+        },
+        {
+            "id": "67602211",
+            "title": "Nike: Unlimited Pursuit",
+            "date_created": "1471873550",
+            "loginId": "753",
+            "tags": "",
+            "description": "'The End' is just something they put on movies. \n \nMusic: Lissie - Pursuit of Happiness (Kid Cudi cover)",
+            "asset": {
+                "type": "youtube",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/SmLpiHDuLSE\/hqdefault.jpg",
+                "uploadDate": 1471873550,
+                "videoId": "SmLpiHDuLSE",
+                "title": "Nike: Unlimited Pursuit",
+                "description": "'The End' is just something they put on movies. Begin your story at http:\/\/nike.com\/justdoit\n \nMusic: Lissie - Pursuit of Happiness (Kid Cudi cover)",
+                "author": "Nike",
+                "mediaDuration": 40,
+                "prettyDuration": "00:00:40",
+                "views": "482977",
+                "uploadAsset": false,
+                "quality": ""
+            },
+            "parentId": "168513",
+            "url": "\/nike\/nike-unlimited-pursuit\/168513-67602211"
+        },
+        {
+            "id": "67582366",
+            "title": "Unlimited Fight",
+            "date_created": "1471732465",
+            "loginId": "753",
+            "tags": "",
+            "description": "Don\u2019t let limits define you.",
+            "asset": {
+                "type": "youtube",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/rJ6vJ5o4GDE\/hqdefault.jpg",
+                "uploadDate": 1471732465,
+                "videoId": "rJ6vJ5o4GDE",
+                "title": "Unlimited Fight",
+                "description": "Don\u2019t let limits define you.\nBegin your story here. http:\/\/gonike.me\/justdoit",
+                "author": "Nike",
+                "mediaDuration": 41,
+                "prettyDuration": "00:00:41",
+                "views": "157228",
+                "uploadAsset": false,
+                "quality": ""
+            },
+            "parentId": "168513",
+            "url": "\/nike\/unlimited-fight\/168513-67582366"
+        }
+    ]
+}

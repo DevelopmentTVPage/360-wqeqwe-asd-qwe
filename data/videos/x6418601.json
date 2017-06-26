@@ -1,0 +1,59 @@
+{
+    "title": "Chad Reed Wins Las Vegas Supercross Final",
+    "description": "Chad Reed Wins Las Vegas Supercross Final",
+    "referenceId": "23869606",
+    "date_created": "1443727451",
+    "date_modified": "1470184295",
+    "tags": "Chad Reed,twotwo motorsports,etnies moto,las vegas,2011 supercross final",
+    "sourceId": "3",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": "Etnies",
+    "video_celeb": "Chad_Reed",
+    "video_activity": "Supercross",
+    "VV_VI": "1",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6418601",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "84",
+    "entityIdParent": "168527",
+    "titleTextEncoded": "Chad-Reed-Wins-Las-Vegas-Supercross-Final",
+    "category": null,
+    "duration": 270,
+    "settings": [],
+    "asset": {
+        "type": "mp4",
+        "hdvFlag": 1,
+        "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/155768070_1280x720.jpg",
+        "mediaDuration": 270,
+        "prettyDuration": "04:30",
+        "uploadDate": 1305654308,
+        "tags": "Chad Reed,twotwo motorsports,etnies moto,las vegas,2011 supercross final",
+        "hookText": "http:\/\/www.facebook.com\/etnies",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "https:\/\/player.vimeo.com\/external\/23869606.hd.mp4?s=c0200c45ed26427d73fcc0493dc181b6&profile_id=113&oauth2_token_id=62432308"
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": [
+        "33"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

@@ -1,0 +1,55 @@
+{
+    "title": "Winter 15 Eric Pollard Mansfield Video Ad",
+    "description": "Check out Eric Pollard wearing the Mansfield Jacket and other Dakine products deep in the Hakaido Japan backcountry.",
+    "referenceId": null,
+    "date_created": "1440614960",
+    "date_modified": "1440614960",
+    "tags": "Array,Array,Array,Array,Array,Array",
+    "sourceId": "3",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "4",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6383056",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "363",
+    "entityIdParent": "168543",
+    "titleTextEncoded": "Winter-15-Eric-Pollard-Mansfield-Video-Ad",
+    "category": null,
+    "duration": 30,
+    "settings": {},
+    "asset": {
+        "type": "mp4",
+        "sources": [
+            {
+                "file": "https:\/\/player.vimeo.com\/external\/104151035.hd.mp4?s=c14c64e129e65a71953da9a43d57f011&profile_id=119&oauth2_token_id=56801069"
+            }
+        ],
+        "hdvFlag": 1,
+        "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/486608925_1280x720.jpg",
+        "mediaDuration": 30,
+        "prettyDuration": "00:30",
+        "uploadDate": 1408751376,
+        "tags": "Array,Array,Array,Array,Array,Array",
+        "hookText": "Check out Eric Pollard wearing the Mansfield Jacket and other Dakine products deep in the Hakaido Japan backcountry."
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

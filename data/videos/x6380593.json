@@ -1,0 +1,46 @@
+{
+    "title": "Brent Atchley",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1440449942",
+    "date_modified": "1440449942",
+    "tags": "",
+    "sourceId": "3",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6380593",
+    "loginId": "753",
+    "entityType": "1",
+    "titleTextEncoded": "Brent-Atchley",
+    "category": null,
+    "duration": 323,
+    "settings": {},
+    "asset": {
+        "type": "mp4",
+        "sources": [
+            {
+                "file": "https:\/\/player.vimeo.com\/external\/52703558.sd.mp4?s=a8a7f59fc689cc0d2e22c633ac3c6b63&profile_id=112&oauth2_token_id=56801069"
+            }
+        ],
+        "hdvFlag": 0,
+        "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/363702871_960x720.jpg",
+        "mediaDuration": 323,
+        "prettyDuration": "05:23",
+        "uploadDate": 1351879579,
+        "tags": "",
+        "hookText": ""
+    },
+    "transcripts": null,
+    "metrics_statistics": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

@@ -1,0 +1,46 @@
+{
+    "title": "DAKINE Damien Hobgood Surfing",
+    "description": "Another favorite to win the Tahiti Pro, had a shocker and lost early.  Damien and CJ were both on tap and made it look too easy.",
+    "referenceId": null,
+    "date_created": "1440450035",
+    "date_modified": "1440450035",
+    "tags": "Array,Array,Array,Array",
+    "sourceId": "3",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6380665",
+    "loginId": "753",
+    "entityType": "1",
+    "titleTextEncoded": "DAKINE-Damien-Hobgood-Surfing",
+    "category": null,
+    "duration": 125,
+    "settings": {},
+    "asset": {
+        "type": "mp4",
+        "sources": [
+            {
+                "file": "https:\/\/player.vimeo.com\/external\/29732336.hd.mp4?s=ba5b8d808eac291d802e100b4d16a456&profile_id=113&oauth2_token_id=56801069"
+            }
+        ],
+        "hdvFlag": 1,
+        "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/199861459_1280x716.jpg",
+        "mediaDuration": 125,
+        "prettyDuration": "02:05",
+        "uploadDate": 1317226948,
+        "tags": "Array,Array,Array,Array",
+        "hookText": "Another favorite to win the Tahiti Pro, had a shocker and lost early.  Damien and CJ were both on tap and made it look too easy."
+    },
+    "transcripts": null,
+    "metrics_statistics": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

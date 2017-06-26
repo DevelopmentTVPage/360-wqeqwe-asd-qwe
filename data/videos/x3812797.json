@@ -1,0 +1,51 @@
+{
+    "title": "ROUNDHOUSE \/\/ SHOP NOW",
+    "description": "See something you like? Click to shop.",
+    "referenceId": null,
+    "date_created": "1419982816",
+    "date_modified": "1450462463",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "2",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "3812797",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "7",
+    "entityIdParent": "3812800",
+    "titleTextEncoded": "ROUNDHOUSE-SHOP-NOW",
+    "category": null,
+    "duration": "29",
+    "settings": null,
+    "asset": {
+        "author": "Reef",
+        "hdvFlag": 1,
+        "hookText": "See something you like? Click to shop.",
+        "tags": "",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/nIekVvk_1x8\/sddefault.jpg",
+        "uploadDate": 1382990080,
+        "videoId": "nIekVvk_1x8",
+        "mediaDuration": "29",
+        "prettyDuration": "00:00:29"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

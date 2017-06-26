@@ -1,0 +1,57 @@
+{
+    "title": "STANCE X RIHANNA",
+    "description": "Introducing Rihanna's Fall Collection: a standalone collection that pays homage to punk patches, goth through a feminine lens, and all adorned in a pastel color pallette. Her vision. Her designs. We've stepped aside and let her take over everything.",
+    "referenceId": "Rbe6sltd8w4",
+    "date_created": "1441812944",
+    "date_modified": "1450488840",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "433",
+    "CVV_VI": "26",
+    "engagement_score": "3",
+    "conversion_score": "2",
+    "id": "6396476",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "0",
+    "entityIdParent": "195753",
+    "titleTextEncoded": "STANCE-X-RIHANNA",
+    "category": null,
+    "duration": "108",
+    "settings": null,
+    "asset": {
+        "type": "youtube",
+        "author": "Stance",
+        "hdvFlag": 1,
+        "hookText": "https:\/\/www.stance.com\/rihanna",
+        "tags": "",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/Rbe6sltd8w4\/hqdefault.jpg",
+        "videoId": "Rbe6sltd8w4",
+        "mediaDuration": "108",
+        "prettyDuration": "00:01:48"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "conversion_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

@@ -1,0 +1,54 @@
+{
+    "title": "#UAMTN 2013 Ski Team",
+    "description": "#UAMTN Team Riders: Ahmet Dadali \/ Tanner Rainville \/ Sean Jordan \/ Jen Hudak",
+    "referenceId": "ESzxctfQDyo",
+    "date_created": "1387560942",
+    "date_modified": "1466197481",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "2",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "66177500",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "7",
+    "entityIdParent": "66186028",
+    "titleTextEncoded": "UAMTN-2013-Ski-Team",
+    "category": "",
+    "duration": 126,
+    "settings": "",
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/ESzxctfQDyo\/hqdefault.jpg",
+        "uploadDate": 1387560942,
+        "videoId": "ESzxctfQDyo",
+        "title": "#UAMTN 2013 Ski Team",
+        "description": "#UAMTN Team Riders: Ahmet Dadali \/ Tanner Rainville \/ Sean Jordan \/ Jen Hudak\n\nUAACTION.COM + UA.COM",
+        "author": "Under Armour",
+        "mediaDuration": 126,
+        "prettyDuration": "00:02:06",
+        "views": "4245",
+        "uploadAsset": false,
+        "quality": ""
+    },
+    "transcripts": "[Music Playing]",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

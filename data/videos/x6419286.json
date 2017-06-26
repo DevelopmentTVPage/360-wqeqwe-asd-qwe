@@ -1,0 +1,53 @@
+{
+    "title": "BToy x Converse Get Loud: Barcelona",
+    "description": "Barcelona artist BToy used spray paint and tape to add her own #GetLoud twist to our billboard.\n\nTrack: The Parrots \"Gigantic Trees\"",
+    "referenceId": "dbgrFzOaYcE",
+    "date_created": "1444066414",
+    "date_modified": "1447271034",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "2",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6419286",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "323",
+    "entityIdParent": "168524",
+    "titleTextEncoded": "BToy-x-Converse-Get-Loud-Barcelona",
+    "category": null,
+    "duration": "85",
+    "settings": {},
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/dbgrFzOaYcE\/hqdefault.jpg",
+        "uploadDate": 1384963778,
+        "videoId": "dbgrFzOaYcE",
+        "title": "BToy x Converse Get Loud: Barcelona",
+        "description": "Barcelona artist BToy used spray paint and tape to add her own #GetLoud twist to our billboard. Track: The Parrots \"Gigantic Trees\"",
+        "author": "converse",
+        "mediaDuration": "85",
+        "prettyDuration": "00:01:25",
+        "views": "28682",
+        "hookText": "Barcelona artist BToy used spray paint and tape to add her own #GetLoud twist to our billboard. Track: The Parrots \"Gigantic Trees\""
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

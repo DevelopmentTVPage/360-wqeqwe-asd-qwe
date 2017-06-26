@@ -1,0 +1,54 @@
+{
+    "title": "This is Live Outside",
+    "description": "4 years. 5 murals. And 1 crazy road trip. Bringing street artists and musicians together in cities around the world.",
+    "referenceId": "wDctqUFWl00",
+    "date_created": "1470175864",
+    "date_modified": "1470350039",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "2",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "67286624",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "63",
+    "entityIdParent": "168538",
+    "titleTextEncoded": "This-is-Live-Outside",
+    "category": "",
+    "duration": 113,
+    "settings": "",
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/wDctqUFWl00\/hqdefault.jpg",
+        "uploadDate": 1470175864,
+        "videoId": "wDctqUFWl00",
+        "title": "This is Live Outside",
+        "description": "4 years. 5 murals. And 1 crazy road trip. Bringing street artists and musicians together in cities around the world.\n\nSubscribe: http:\/\/bit.ly\/JanSportYT\nTumblr: http:\/\/jansport.tumblr.com\nFollow: https:\/\/twitter.com\/JanSport  \nLike: https:\/\/www.facebook.com\/JanSport\nRead\/Listen: http:\/\/www.jansport.com\/unzipped",
+        "author": "JanSport",
+        "mediaDuration": 113,
+        "prettyDuration": "00:01:53",
+        "views": "129",
+        "uploadAsset": false,
+        "quality": ""
+    },
+    "transcripts": "[Music Playing]",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

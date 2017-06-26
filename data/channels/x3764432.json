@@ -1,0 +1,30 @@
+{
+    "title": "Sanuk",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1410210275",
+    "date_modified": "1410211055",
+    "tags": "",
+    "sourceId": null,
+    "status": "approved",
+    "visibility": "1",
+    "id": "3764432",
+    "loginId": "753",
+    "entityType": "3",
+    "titleTextEncoded": "Sanuk",
+    "category": null,
+    "duration": null,
+    "settings": {
+        "canvasImage": "147437406-0.jpg",
+        "colorClass": "light",
+        "canvasType": "cropped",
+        "canvasCropped": "147437406-0040002246.jpg",
+        "hideoos": 1,
+        "auto": {
+            "dynamic": 0,
+            "limit": 4
+        },
+        "optimize": 1
+    },
+    "transcripts": null
+}

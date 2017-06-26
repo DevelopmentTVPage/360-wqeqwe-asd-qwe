@@ -1,0 +1,55 @@
+{
+    "title": "etnies Presents: Destin Cantrell",
+    "description": "You didn't see Destin whip on the big stage at X... So take in one of the meanest whips in moto here as Destin shows us all how it's done.",
+    "referenceId": "45524865",
+    "date_created": "1443115883",
+    "date_modified": "1449019818",
+    "tags": "Destin,Cantrell,motox,freestyle,motorcross,moto,etnies,etnies moto,fmx,etnies mx,whip,moto whip",
+    "sourceId": "3",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "2",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6414148",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "209",
+    "entityIdParent": "168527",
+    "titleTextEncoded": "etnies-Presents-Destin-Cantrell",
+    "category": null,
+    "duration": 162,
+    "settings": {},
+    "asset": {
+        "type": "mp4",
+        "hdvFlag": 1,
+        "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/316618526_1280x720.jpg",
+        "mediaDuration": 162,
+        "prettyDuration": "02:42",
+        "uploadDate": 1341943334,
+        "tags": "Destin,Cantrell,motox,freestyle,motorcross,moto,etnies,etnies moto,fmx,etnies mx,whip,moto whip",
+        "hookText": "You didn't see Destin whip on the big stage at X... So take in one of the meanest whips in moto here as Destin shows us all how it's done.",
+        "sources": [
+            {
+                "file": "https:\/\/player.vimeo.com\/external\/45524865.hd.mp4?s=0fefb85267e7d2c5568fe0a08394c9a2&profile_id=113&oauth2_token_id=62432308"
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

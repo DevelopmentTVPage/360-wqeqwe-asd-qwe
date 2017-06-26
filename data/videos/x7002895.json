@@ -1,0 +1,56 @@
+{
+    "title": "Eric Pollard | Wyeast Jacket & Troutdale Bib",
+    "description": "Eric Pollard | Wyeast Jacket & Troutdale Bib",
+    "referenceId": "144534246",
+    "date_created": "1446578879",
+    "date_modified": "1470257323",
+    "tags": "",
+    "sourceId": null,
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": "Dakine",
+    "video_celeb": null,
+    "video_activity": "Skiing",
+    "VV_VI": "8",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "7002895",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "1",
+    "entityIdParent": "168543",
+    "titleTextEncoded": "Eric-Pollard-Wyeast-Jacket-Troutdale-Bib",
+    "category": "",
+    "duration": 16,
+    "settings": "",
+    "asset": {
+        "type": "mp4",
+        "hdvFlag": 1,
+        "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/542389642_1280x720.jpg",
+        "mediaDuration": 16,
+        "prettyDuration": "00:16",
+        "uploadDate": 1446578879,
+        "tags": "",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "https:\/\/player.vimeo.com\/external\/144534246.hd.mp4?s=f471323c69d903940007cdf50b6ad708742a3a46&profile_id=113&oauth2_token_id=56801069"
+            }
+        ]
+    },
+    "transcripts": "",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

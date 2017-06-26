@@ -1,0 +1,59 @@
+{
+    "title": "ASHBURY FLOW PART - RUDY GARCIA",
+    "description": "Shot by: Erick Sandoval , Martin Renteria , Fernando Pe\u00f1a, and Andrew Pagano.\n\nEdited by: Ransacker",
+    "referenceId": null,
+    "date_created": "1409866623",
+    "date_modified": "1470240451",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": "Ashbury",
+    "video_celeb": null,
+    "video_activity": "Skating",
+    "VV_VI": "7",
+    "CVV_VI": "6",
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "3763998",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "124",
+    "entityIdParent": "3763996",
+    "titleTextEncoded": "ASHBURY-FLOW-PART-RUDY-GARCIA",
+    "category": null,
+    "duration": "83",
+    "settings": [],
+    "asset": {
+        "author": "Ashbury Eyewear",
+        "hdvFlag": 1,
+        "hookText": "Shot by: Erick Sandoval , Martin Renteria , Fernando Pe\u00f1a, and Andrew Pagano. Edited by: Ransacker.",
+        "tags": "",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/WOWmd53bITQ\/maxresdefault.jpg",
+        "uploadDate": 1387839182,
+        "videoId": "WOWmd53bITQ",
+        "mediaDuration": "83",
+        "prettyDuration": "00:01:23",
+        "uploadAsset": false,
+        "quality": ""
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "conversion_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

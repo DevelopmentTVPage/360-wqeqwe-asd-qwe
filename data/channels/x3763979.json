@@ -1,0 +1,34 @@
+{
+    "title": "Almost ",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1409863590",
+    "date_modified": "1414704482",
+    "tags": "",
+    "sourceId": null,
+    "status": "approved",
+    "visibility": "1",
+    "id": "3763979",
+    "loginId": "753",
+    "entityType": "3",
+    "titleTextEncoded": "Almost",
+    "category": null,
+    "duration": null,
+    "settings": {
+        "canvasImage": "729270473-0.jpg",
+        "colorClass": "light",
+        "canvasType": "cropped",
+        "canvasCropped": "729270473-0-0900507.jpg",
+        "hideoos": 1,
+        "auto": {
+            "dynamic": 0,
+            "limit": 4,
+            "excIds": [
+                "3763978"
+            ]
+        },
+        "optimize": 1,
+        "autoPlay": 0
+    },
+    "transcripts": null
+}

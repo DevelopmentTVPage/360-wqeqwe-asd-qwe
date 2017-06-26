@@ -1,0 +1,26 @@
+{
+    "title": "GroupLove",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1434475162",
+    "date_modified": "1434481115",
+    "tags": "",
+    "sourceId": null,
+    "status": "approved",
+    "visibility": "1",
+    "id": "3844835",
+    "loginId": "753",
+    "entityType": "3",
+    "titleTextEncoded": "GroupLove",
+    "category": null,
+    "duration": null,
+    "settings": {
+        "canvasImage": "469689236-0.png",
+        "colorClass": "light",
+        "canvasType": "cropped",
+        "canvasCropped": "469689236-116571238688.png",
+        "autoPlay": 1,
+        "autoNext": 1
+    },
+    "transcripts": null
+}

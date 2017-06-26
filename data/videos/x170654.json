@@ -1,0 +1,59 @@
+{
+    "title": "Ashley Smith | RVCA Spring 2014",
+    "description": "RVCA Women's Spring 204 collection with Ashley Smith. Video by Sandy Kim, Music by Yeti Beats.",
+    "referenceId": null,
+    "date_created": "1401408660",
+    "date_modified": "1470242075",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": "RVCA",
+    "video_celeb": null,
+    "video_activity": "Art___Design",
+    "VV_VI": "225",
+    "CVV_VI": "40",
+    "engagement_score": "2",
+    "conversion_score": "3",
+    "id": "170654",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "68",
+    "entityIdParent": "3764789",
+    "titleTextEncoded": "Ashley-Smith-RVCA-Spring-2014",
+    "category": null,
+    "duration": "134",
+    "settings": [],
+    "asset": {
+        "author": "rvca",
+        "hdvFlag": 0,
+        "hookText": "RVCA Women's Spring 204 collection with Ashley Smith. Video by Sandy Kim, Music by Yeti Beats. More Ashley Smith: https:\/\/www.rvca.com\/t\/advocate\/ashley-smit...",
+        "tags": "",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/qj7Tzqxg0vc\/sddefault.jpg",
+        "uploadDate": 1391797088,
+        "videoId": "qj7Tzqxg0vc",
+        "mediaDuration": "134",
+        "prettyDuration": "00:02:14",
+        "uploadAsset": false,
+        "quality": ""
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "conversion_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

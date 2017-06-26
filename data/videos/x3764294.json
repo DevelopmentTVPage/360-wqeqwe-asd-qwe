@@ -1,0 +1,53 @@
+{
+    "title": "FieldCandy the Movie",
+    "description": "FieldCandy the Movie",
+    "referenceId": null,
+    "date_created": "1409945131",
+    "date_modified": "1470266464",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": "FieldCandy",
+    "video_celeb": null,
+    "video_activity": "Outdoors",
+    "VV_VI": "2",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "3764294",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "18",
+    "entityIdParent": "195870",
+    "titleTextEncoded": "FieldCandy-the-Movie",
+    "category": null,
+    "duration": "49",
+    "settings": [],
+    "asset": {
+        "author": "FieldCandy",
+        "hdvFlag": 1,
+        "hookText": "",
+        "tags": "",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/wXt3-B4JQDg\/maxresdefault.jpg",
+        "uploadDate": 1322735323,
+        "videoId": "wXt3-B4JQDg",
+        "mediaDuration": "49",
+        "prettyDuration": "00:00:49",
+        "uploadAsset": false,
+        "quality": ""
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

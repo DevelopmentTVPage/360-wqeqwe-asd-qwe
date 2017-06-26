@@ -1,0 +1,31 @@
+{
+    "title": "Supra",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1401128776",
+    "date_modified": "1418332896",
+    "tags": "",
+    "sourceId": null,
+    "status": "approved",
+    "visibility": "1",
+    "id": "168522",
+    "loginId": "753",
+    "entityType": "3",
+    "titleTextEncoded": "Supra",
+    "category": null,
+    "duration": null,
+    "settings": {
+        "canvasImage": "500952684-0.jpg",
+        "colorClass": "light",
+        "canvasType": "cropped",
+        "canvasCropped": "500952684-025233202117.jpg",
+        "auto": {
+            "dynamic": 0
+        },
+        "optimize": 1,
+        "autoPlay": 1,
+        "autoNext": 1,
+        "hideoos": 1
+    },
+    "transcripts": null
+}

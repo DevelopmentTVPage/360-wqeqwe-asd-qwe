@@ -1,0 +1,76 @@
+{
+    "title": "ibrahima_acro",
+    "description": "ibrahima_acro",
+    "referenceId": "29a1850f045c847735549adaf1b17c6a",
+    "date_created": "1471281632",
+    "date_modified": "1471285022",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "67494911",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "46",
+    "entityIdParent": "67314311",
+    "titleTextEncoded": "ibrahima-acro7-7-mp4",
+    "category": "",
+    "duration": "21",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "21",
+            "width": 640,
+            "height": 368
+        },
+        "mediaDuration": "21",
+        "prettyDuration": "00:00:21",
+        "thumbnailUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67494911\/77bf0\/thumb-29a1850f045c847735549adaf1b17c6a-00001.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67494911\/77bf0\/media.mpd",
+        "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67494911\/77bf0\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67494911\/77bf0\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 368
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67494911\/77bf0\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 626,
+                "height": 360
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67494911\/77bf0\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 184
+            }
+        ]
+    },
+    "transcripts": "",
+    "metrics_statistics": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

@@ -1,0 +1,59 @@
+{
+    "title": "The SB Chronicles Vol. 2: Daryl Angel",
+    "description": "Daryl Angel's incredible new part from SB Chronicles, Vol. 2. \n\nNike SB's new full-length video The SB Chronicles Vol. 2",
+    "referenceId": null,
+    "date_created": "1401471963",
+    "date_modified": "1456353910",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "25",
+    "CVV_VI": "1",
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "170785",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "2",
+    "entityIdParent": "168513",
+    "titleTextEncoded": "The-SB-Chronicles-Vol-2-Daryl-Angel",
+    "category": null,
+    "duration": "290",
+    "settings": [],
+    "asset": {
+        "author": "nikeskateboarding",
+        "hdvFlag": 1,
+        "hookText": "Daryl Angel's incredible new part from SB Chronicles, Vol. 2. Nike SB's new full-length video The SB Chronicles Vol. 2 is now available on iTunes here: http:...",
+        "tags": "",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/15Bk633TERA\/sddefault.jpg",
+        "uploadDate": 1390504487,
+        "videoId": "15Bk633TERA",
+        "mediaDuration": "290",
+        "prettyDuration": "00:04:50"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "conversion_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": [
+        "22"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

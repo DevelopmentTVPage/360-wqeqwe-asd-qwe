@@ -1,0 +1,30 @@
+{
+    "title": "Creative Recreation",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1409878759",
+    "date_modified": "1409879483",
+    "tags": "",
+    "sourceId": null,
+    "status": "approved",
+    "visibility": "1",
+    "id": "3764045",
+    "loginId": "753",
+    "entityType": "3",
+    "titleTextEncoded": "Creative-Recreation",
+    "category": null,
+    "duration": null,
+    "settings": {
+        "canvasImage": "244240262-0.jpeg",
+        "colorClass": "light",
+        "canvasType": "cropped",
+        "canvasCropped": "244240262-034646397.jpeg",
+        "autoPlay": 0,
+        "hideoos": 1,
+        "auto": {
+            "dynamic": 0
+        },
+        "optimize": 1
+    },
+    "transcripts": null
+}

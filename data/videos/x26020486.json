@@ -1,0 +1,85 @@
+{
+    "title": "Tribong Platinum X Jack Freestone",
+    "description": "Pulled from deep in the archives, Tribong is the modern day reincarnation of Billabong\u2019s rich, authentic history.\nWith fresh new color combinations and disruptive patterns, this classic style is what a boardshort should look like.\n\nPlatinum X:\n- Lightweight, Recycled Stretch Fabric.\n- Micro Repel, water resistant coating.\n- Surf Lighter, Dry faster.",
+    "referenceId": "6034a21d80dc2d4b0104c7f1ef878ab9",
+    "date_created": "1454633230",
+    "date_modified": "1454635847",
+    "tags": "",
+    "sourceId": null,
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "356",
+    "CVV_VI": "23",
+    "engagement_score": "3",
+    "conversion_score": "1",
+    "id": "26020486",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "1",
+    "entityIdParent": "168512",
+    "titleTextEncoded": "Tribong-Platinum-X-Jack-Freestone",
+    "category": "",
+    "duration": 31,
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "31",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "31",
+        "thumbnailUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/26020486\/6034a21d80dc2d4b0104c7f1ef878ab9.png",
+        "type": "mp4",
+        "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758218\/26020483\/dash.mpd",
+        "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758218\/26020483\/hls.m3u8",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/26020486\/1080p_42813_Jack_PlatinumX_final1.mp4",
+                "quality": "1080p"
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/26020486\/720p_42813_Jack_PlatinumX_final1.mp4",
+                "quality": "720p"
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/26020486\/480p_42813_Jack_PlatinumX_final1.mp4",
+                "quality": "480p"
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/26020486\/360p_42813_Jack_PlatinumX_final1.mp4",
+                "quality": "360p"
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/26020486\/240p_42813_Jack_PlatinumX_final1.mp4",
+                "quality": "240p"
+            }
+        ]
+    },
+    "transcripts": "",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "conversion_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

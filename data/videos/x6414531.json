@@ -1,0 +1,55 @@
+{
+    "title": "etnies Presents: Nick Garcia",
+    "description": "etnies Presents Nick Garcia skating the etnies Freeport. See more from Nick & friends in Element's \"Future Nature\", coming 5\/1\/12.",
+    "referenceId": "39503324",
+    "date_created": "1443200118",
+    "date_modified": "1449020684",
+    "tags": "etnies,skateboard,Nick Garcia,Element,Stance Socks,etnies skate,etnies Freeport",
+    "sourceId": "3",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "1",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6414531",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "180",
+    "entityIdParent": "168527",
+    "titleTextEncoded": "etnies-Presents-Nick-Garcia",
+    "category": null,
+    "duration": 204,
+    "settings": {},
+    "asset": {
+        "type": "mp4",
+        "hdvFlag": 1,
+        "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/273448730_1280x721.jpg",
+        "mediaDuration": 204,
+        "prettyDuration": "03:24",
+        "uploadDate": 1333138635,
+        "tags": "etnies,skateboard,Nick Garcia,Element,Stance Socks,etnies skate,etnies Freeport",
+        "hookText": "etnies Presents Nick Garcia skating the etnies Freeport. See more from Nick & friends in Element's \"Future Nature\", coming 5\/1\/12. Check the teaser here: http:\/\/youtu.be\/y3X-dUGwMxA\n\nhttp:\/\/www.facebook.com\/etnies\nhttp:\/\/etni.es\/nick-garcia-freeport\n\nEnte",
+        "sources": [
+            {
+                "file": "https:\/\/player.vimeo.com\/external\/39503324.hd.mp4?s=3aabbbd1dfbb7d14e5127cc27c057e0c&profile_id=113&oauth2_token_id=62432308"
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

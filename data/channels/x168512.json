@@ -1,0 +1,31 @@
+{
+    "title": "Billabong",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1401128609",
+    "date_modified": "1430952029",
+    "tags": "",
+    "sourceId": null,
+    "status": "approved",
+    "visibility": "1",
+    "id": "168512",
+    "loginId": "753",
+    "entityType": "3",
+    "titleTextEncoded": "Billabong",
+    "category": null,
+    "duration": null,
+    "settings": {
+        "canvasImage": "397091382-0.jpg",
+        "colorClass": "light",
+        "canvasType": "cropped",
+        "canvasCropped": "397091382-01941024768.jpg",
+        "auto": {
+            "dynamic": 0
+        },
+        "optimize": 1,
+        "autoPlay": 1,
+        "autoNext": 1,
+        "hideoos": 1
+    },
+    "transcripts": null
+}

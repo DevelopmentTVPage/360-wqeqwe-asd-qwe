@@ -1,0 +1,437 @@
+{
+    "pageNumber": 0,
+    "data": [
+        {
+            "id": "3765081",
+            "title": "Sami Luhtanen in Distorted Reality re-edited part",
+            "date_created": "1411077069",
+            "loginId": "753",
+            "tags": "",
+            "description": "Three years ago he had no sponsors and didn't speak a word of English. This year, the \"Silent Killer\" has been the revelation of the international snowboarding scene. Meet a snowboarding legend in the making: Sami Luhtanen.\n\nFilming: Pirate Movie Production\nEditing: Julien Mazard\nMusic: Talisco \"So Old\"\n(p) & \u00a9 Roy Music\nMotion: Thibault Roqueirol",
+            "asset": {
+                "type": "mp4",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/753\/canvas\/655\/368\/872805659-01320180.jpg",
+                "mediaDuration": "250",
+                "prettyDuration": "04:10",
+                "hookText": "Three years ago he had no sponsors and didn't speak a word of English. This year, the \"Silent Killer\" has been the revelation of the international snowboarding scene. Meet a snowboarding legend in the making: Sami Luhtanen.",
+                "tags": "",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "http:\/\/player.vimeo.com\/external\/106468497.sd.mp4?s=167b2d543eee5ad48c33c64e4ea4c57d"
+                    }
+                ]
+            },
+            "parentId": "168543",
+            "url": "\/dakine\/sami-luhtanen-in-distorted-reality-re-edited-part\/168543-3765081"
+        },
+        {
+            "id": "7002895",
+            "title": "Eric Pollard | Wyeast Jacket & Troutdale Bib",
+            "date_created": "1446578879",
+            "loginId": "753",
+            "tags": "",
+            "description": "Eric Pollard | Wyeast Jacket & Troutdale Bib",
+            "asset": {
+                "type": "mp4",
+                "hdvFlag": 1,
+                "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/542389642_1280x720.jpg",
+                "mediaDuration": 16,
+                "prettyDuration": "00:16",
+                "uploadDate": 1446578879,
+                "tags": "",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "https:\/\/player.vimeo.com\/external\/144534246.hd.mp4?s=f471323c69d903940007cdf50b6ad708742a3a46&profile_id=113&oauth2_token_id=56801069"
+                    }
+                ]
+            },
+            "parentId": "168543",
+            "url": "\/dakine\/eric-pollard-wyeast-jacket-troutdale-bib\/168543-7002895"
+        },
+        {
+            "id": "6813964",
+            "title": "17W_LIFESTYLE_EDIT",
+            "date_created": "1446160987",
+            "loginId": "753",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "type": "mp4",
+                "sources": [
+                    {
+                        "file": "https:\/\/player.vimeo.com\/external\/144065790.hd.mp4?s=39f1153d64816d809b05bb850964b21c&profile_id=113&oauth2_token_id=56801069"
+                    }
+                ],
+                "hdvFlag": 1,
+                "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/541813091_1280x720.jpg",
+                "mediaDuration": 80,
+                "prettyDuration": "01:20",
+                "uploadDate": 1446160987,
+                "tags": ""
+            },
+            "parentId": "168543",
+            "url": "\/dakine\/17w-lifestyle-edit\/168543-6813964"
+        },
+        {
+            "id": "6418418",
+            "title": "Sammy Carlson Webisode",
+            "date_created": "1443647016",
+            "loginId": "753",
+            "tags": "Array,Array,Array,Array",
+            "description": "Our edit of his footage from Poor Boyz Productions \"Everyday Is A Saturday\"",
+            "asset": {
+                "type": "mp4",
+                "hdvFlag": 0,
+                "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/29779317_960x528.jpg",
+                "mediaDuration": 129,
+                "prettyDuration": "02:09",
+                "uploadDate": 1255978569,
+                "tags": "Array,Array,Array,Array",
+                "hookText": "Our edit of his footage from Poor Boyz Productions \"Everyday Is A Saturday\"",
+                "sources": []
+            },
+            "parentId": "168543",
+            "url": "\/dakine\/sammy-carlson-webisode\/168543-6418418"
+        },
+        {
+            "id": "6418417",
+            "title": "Annie Boulanger Webisode",
+            "date_created": "1443647016",
+            "loginId": "753",
+            "tags": "Array,Array,Array,Array",
+            "description": "Our edit of her footage from Absinthe Films \"Neverland\"",
+            "asset": {
+                "type": "mp4",
+                "sources": [],
+                "hdvFlag": 0,
+                "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/31264756_960x540.jpg",
+                "mediaDuration": 149,
+                "prettyDuration": "02:29",
+                "uploadDate": 1256918270,
+                "tags": "Array,Array,Array,Array",
+                "hookText": "Our edit of her footage from Absinthe Films \"Neverland\""
+            },
+            "parentId": "168543",
+            "url": "\/dakine\/annie-boulanger-webisode\/168543-6418417"
+        },
+        {
+            "id": "6418416",
+            "title": "Sean Pettit Webisode",
+            "date_created": "1443647016",
+            "loginId": "753",
+            "tags": "Array,Array,Array,Array",
+            "description": "Our edit of his footage from Matchstick Productions \"In Deep\"",
+            "asset": {
+                "type": "mp4",
+                "hdvFlag": 0,
+                "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/33466930_960x540.jpg",
+                "mediaDuration": 192,
+                "prettyDuration": "03:12",
+                "uploadDate": 1258391223,
+                "tags": "Array,Array,Array,Array",
+                "hookText": "Our edit of his footage from Matchstick Productions \"In Deep\"",
+                "sources": []
+            },
+            "parentId": "168543",
+            "url": "\/dakine\/sean-pettit-webisode\/168543-6418416"
+        },
+        {
+            "id": "6418415",
+            "title": "Leanne Pelosi Webisode",
+            "date_created": "1443647016",
+            "loginId": "753",
+            "tags": "Array,Array,Array,Array",
+            "description": "Our edit of her footage from Standard Films \"Black Winter\"",
+            "asset": {
+                "type": "mp4",
+                "hdvFlag": 0,
+                "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/34463134_960x542.jpg",
+                "mediaDuration": 143,
+                "prettyDuration": "02:23",
+                "uploadDate": 1258994214,
+                "tags": "Array,Array,Array,Array",
+                "hookText": "Our edit of her footage from Standard Films \"Black Winter\"",
+                "sources": []
+            },
+            "parentId": "168543",
+            "url": "\/dakine\/leanne-pelosi-webisode\/168543-6418415"
+        },
+        {
+            "id": "6418414",
+            "title": "Eric Jackson Webisode",
+            "date_created": "1443647016",
+            "loginId": "753",
+            "tags": "Array,Array,Array,Array",
+            "description": "",
+            "asset": {
+                "type": "mp4",
+                "sources": [],
+                "hdvFlag": 0,
+                "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/35737833_960x542.jpg",
+                "mediaDuration": 141,
+                "prettyDuration": "02:21",
+                "uploadDate": 1259777979,
+                "tags": "Array,Array,Array,Array",
+                "hookText": ""
+            },
+            "parentId": "168543",
+            "url": "\/dakine\/eric-jackson-webisode\/168543-6418414"
+        },
+        {
+            "id": "6418413",
+            "title": "JP Walker Webisode",
+            "date_created": "1443647016",
+            "loginId": "753",
+            "tags": "Array,Array,Array,Array",
+            "description": "Our edit of his footage from Stepchild's \"This Video Sucks\"",
+            "asset": {
+                "type": "mp4",
+                "sources": [],
+                "hdvFlag": 0,
+                "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/35739653_960x542.jpg",
+                "mediaDuration": 145,
+                "prettyDuration": "02:25",
+                "uploadDate": 1259779267,
+                "tags": "Array,Array,Array,Array",
+                "hookText": "Our edit of his footage from Stepchild's \"This Video Sucks\""
+            },
+            "parentId": "168543",
+            "url": "\/dakine\/jp-walker-webisode\/168543-6418413"
+        },
+        {
+            "id": "6418412",
+            "title": "Andy Irons",
+            "date_created": "1443647016",
+            "loginId": "753",
+            "tags": "Array,Array,Array,Array",
+            "description": "",
+            "asset": {
+                "type": "mp4",
+                "sources": [],
+                "hdvFlag": 0,
+                "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/104143756_960x720.jpg",
+                "mediaDuration": 121,
+                "prettyDuration": "02:01",
+                "uploadDate": 1280942511,
+                "tags": "Array,Array,Array,Array",
+                "hookText": ""
+            },
+            "parentId": "168543",
+            "url": "\/dakine\/andy-irons\/168543-6418412"
+        },
+        {
+            "id": "6418411",
+            "title": "Bruce Irons",
+            "date_created": "1443647016",
+            "loginId": "753",
+            "tags": "Array,Array,Array,Array",
+            "description": "",
+            "asset": {
+                "type": "mp4",
+                "sources": [],
+                "hdvFlag": 0,
+                "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/80501801_960x720.jpg",
+                "mediaDuration": 122,
+                "prettyDuration": "02:02",
+                "uploadDate": 1280942891,
+                "tags": "Array,Array,Array,Array",
+                "hookText": ""
+            },
+            "parentId": "168543",
+            "url": "\/dakine\/bruce-irons\/168543-6418411"
+        },
+        {
+            "id": "6418410",
+            "title": "Hank Gaskell",
+            "date_created": "1443647016",
+            "loginId": "753",
+            "tags": "Array,Array,Array,Array",
+            "description": "",
+            "asset": {
+                "type": "mp4",
+                "sources": [],
+                "hdvFlag": 0,
+                "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/80503638_960x720.jpg",
+                "mediaDuration": 129,
+                "prettyDuration": "02:09",
+                "uploadDate": 1280943281,
+                "tags": "Array,Array,Array,Array",
+                "hookText": ""
+            },
+            "parentId": "168543",
+            "url": "\/dakine\/hank-gaskell\/168543-6418410"
+        },
+        {
+            "id": "6418409",
+            "title": "John John Florence",
+            "date_created": "1443647016",
+            "loginId": "753",
+            "tags": "Array,Array,Array,Array",
+            "description": "",
+            "asset": {
+                "type": "mp4",
+                "sources": [],
+                "hdvFlag": 0,
+                "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/80509186_960x720.jpg",
+                "mediaDuration": 133,
+                "prettyDuration": "02:13",
+                "uploadDate": 1280944796,
+                "tags": "Array,Array,Array,Array",
+                "hookText": ""
+            },
+            "parentId": "168543",
+            "url": "\/dakine\/john-john-florence\/168543-6418409"
+        },
+        {
+            "id": "6418392",
+            "title": "Pancho Sullivan",
+            "date_created": "1443643231",
+            "loginId": "753",
+            "tags": "Array,Array,Array,Array",
+            "description": "",
+            "asset": {
+                "type": "mp4",
+                "sources": [],
+                "hdvFlag": 0,
+                "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/80511788_960x720.jpg",
+                "mediaDuration": 126,
+                "prettyDuration": "02:06",
+                "uploadDate": 1280945635,
+                "tags": "Array,Array,Array,Array",
+                "hookText": ""
+            },
+            "parentId": "168543",
+            "url": "\/dakine\/pancho-sullivan\/168543-6418392"
+        },
+        {
+            "id": "6418391",
+            "title": "DAKINE Tiki Tour, Hawaii",
+            "date_created": "1443643231",
+            "loginId": "753",
+            "tags": "Array,Array,Array,Array,Array,Array,Array,Array,Array,Array",
+            "description": "Featuring Chris Haslam, Paul Machnau, Brent Atchley and Sierra Fellers on a two-week tour of Oahu and Maui, Hawaii.",
+            "asset": {
+                "type": "mp4",
+                "sources": [],
+                "hdvFlag": 0,
+                "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/80547070_960x545.jpg",
+                "mediaDuration": 1179,
+                "prettyDuration": "19:39",
+                "uploadDate": 1280955073,
+                "tags": "Array,Array,Array,Array,Array,Array,Array,Array,Array,Array",
+                "hookText": "Featuring Chris Haslam, Paul Machnau, Brent Atchley and Sierra Fellers on a two-week tour of Oahu and Maui, Hawaii."
+            },
+            "parentId": "168543",
+            "url": "\/dakine\/dakine-tiki-tour-hawaii\/168543-6418391"
+        },
+        {
+            "id": "6418390",
+            "title": "DAKINE team rider trip to Argentina",
+            "date_created": "1443643231",
+            "loginId": "753",
+            "tags": "Array,Array,Array,Array,Array,Array,Array,Array,Array,Array",
+            "description": "An eight minute documentary covering the DAKINE Winter 2011 catalog photo shoot in Bariloche, Argentina. Featuring Austin Smith, Leanne Pelosi, Eric Pollard, Chris Benchetler and Josh Dirksen.",
+            "asset": {
+                "type": "mp4",
+                "sources": [],
+                "hdvFlag": 0,
+                "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/139551468_960x636.jpg",
+                "mediaDuration": 483,
+                "prettyDuration": "08:03",
+                "uploadDate": 1284588959,
+                "tags": "Array,Array,Array,Array,Array,Array,Array,Array,Array,Array",
+                "hookText": "An eight minute documentary covering the DAKINE Winter 2011 catalog photo shoot in Bariloche, Argentina. Featuring Austin Smith, Leanne Pelosi, Eric Pollard, Chris Benchetler and Josh Dirksen."
+            },
+            "parentId": "168543",
+            "url": "\/dakine\/dakine-team-rider-trip-to-argentina\/168543-6418390"
+        },
+        {
+            "id": "6418389",
+            "title": "Eric Jackson checks out the Gore-Tex labs!",
+            "date_created": "1443643231",
+            "loginId": "753",
+            "tags": "Array,Array,Array,Array,Array,Array",
+            "description": "Eric visits the Gore-Tex headquarters in Maryland, USA to find out why DAKINE gloves made with Gore-Tex inserts create the best gloves on the market.",
+            "asset": {
+                "type": "mp4",
+                "sources": [],
+                "hdvFlag": 0,
+                "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/102712764_1280x720.jpg",
+                "mediaDuration": 38,
+                "prettyDuration": "00:38",
+                "uploadDate": 1284747981,
+                "tags": "Array,Array,Array,Array,Array,Array",
+                "hookText": "Eric visits the Gore-Tex headquarters in Maryland, USA to find out why DAKINE gloves made with Gore-Tex inserts create the best gloves on the market."
+            },
+            "parentId": "168543",
+            "url": "\/dakine\/eric-jackson-checks-out-the-gore-tex-labs\/168543-6418389"
+        },
+        {
+            "id": "6418388",
+            "title": "Leanne Pelosi at the Gore-Tex labs!",
+            "date_created": "1443643231",
+            "loginId": "753",
+            "tags": "Array,Array,Array,Array,Array,Array",
+            "description": "Leanne visits the Gore-Tex headquarters in Maryland, USA to find out why DAKINE gloves made with Gore-Tex inserts create the best gloves on the market.",
+            "asset": {
+                "type": "mp4",
+                "hdvFlag": 0,
+                "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/90065001_1280x720.jpg",
+                "mediaDuration": 39,
+                "prettyDuration": "00:39",
+                "uploadDate": 1284748716,
+                "tags": "Array,Array,Array,Array,Array,Array",
+                "hookText": "Leanne visits the Gore-Tex headquarters in Maryland, USA to find out why DAKINE gloves made with Gore-Tex inserts create the best gloves on the market.",
+                "sources": []
+            },
+            "parentId": "168543",
+            "url": "\/dakine\/leanne-pelosi-at-the-gore-tex-labs\/168543-6418388"
+        },
+        {
+            "id": "6418387",
+            "title": "Sean Pettit checks out the Gore-Tex labs!",
+            "date_created": "1443643231",
+            "loginId": "753",
+            "tags": "Array,Array,Array,Array,Array",
+            "description": "Sean Pettit visits the Gore-Tex headquarters in Maryland, USA to find out why DAKINE gloves made with Gore-Tex inserts create the best gloves on the market.",
+            "asset": {
+                "type": "mp4",
+                "hdvFlag": 0,
+                "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/90065433_1280x720.jpg",
+                "mediaDuration": 44,
+                "prettyDuration": "00:44",
+                "uploadDate": 1284748954,
+                "tags": "Array,Array,Array,Array,Array",
+                "hookText": "Sean Pettit visits the Gore-Tex headquarters in Maryland, USA to find out why DAKINE gloves made with Gore-Tex inserts create the best gloves on the market.",
+                "sources": []
+            },
+            "parentId": "168543",
+            "url": "\/dakine\/sean-pettit-checks-out-the-gore-tex-labs\/168543-6418387"
+        },
+        {
+            "id": "6418386",
+            "title": "Mark Abma 2011 Winter Team Pack and Glove",
+            "date_created": "1443643231",
+            "loginId": "753",
+            "tags": "Array,Array,Array,Array,Array,Array",
+            "description": "Mark Abma 2011 Winter Team Pack and Glove",
+            "asset": {
+                "type": "mp4",
+                "hdvFlag": 0,
+                "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/93205015_1280x724.jpg",
+                "mediaDuration": 83,
+                "prettyDuration": "01:23",
+                "uploadDate": 1285951709,
+                "tags": "Array,Array,Array,Array,Array,Array",
+                "hookText": "",
+                "sources": []
+            },
+            "parentId": "168543",
+            "url": "\/dakine\/mark-abma-2011-winter-team-pack-and-glove\/168543-6418386"
+        }
+    ]
+}

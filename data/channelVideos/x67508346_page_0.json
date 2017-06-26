@@ -1,0 +1,53 @@
+{
+    "pageNumber": 0,
+    "data": [
+        {
+            "id": "67507879",
+            "title": "Lindsay Perry on Sonny's Porch \/ Dancing With The Devil",
+            "date_created": "1436811229",
+            "loginId": "753",
+            "tags": "",
+            "description": "Sonny's Porch is a respite for traveling bands looking to get off the road to ride some waves, eat some food, shoot some pool, or just crash for a few hours. If they feel like playing some music on our back porch... we're stoked",
+            "asset": {
+                "type": "youtube",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/2isayxWbtRI\/hqdefault.jpg",
+                "uploadDate": 1436811229,
+                "videoId": "2isayxWbtRI",
+                "title": "Lindsay Perry on Sonny's Porch \/ Dancing With The Devil",
+                "description": "Sonny's Porch is a respite for traveling bands looking to get off the road to ride some waves, eat some food, shoot some pool, or just crash for a few hours. If they feel like playing some music on our back porch... we're stoked",
+                "author": "Sun Bum",
+                "mediaDuration": 170,
+                "prettyDuration": "00:02:50",
+                "views": "493",
+                "uploadAsset": false,
+                "quality": ""
+            },
+            "parentId": "67508346",
+            "url": "\/sun-bum\/lindsay-perry-on-sonny-s-porch-dancing-with-the-devil\/67508346-67507879"
+        },
+        {
+            "id": "67507898",
+            "title": "Zoe Benedetto. Welcome to the team.",
+            "date_created": "1399561628",
+            "loginId": "753",
+            "tags": "",
+            "description": "Zoe Benedetto. Welcome to the team.",
+            "asset": {
+                "type": "youtube",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/w6FPt8dXGxM\/hqdefault.jpg",
+                "uploadDate": 1399561628,
+                "videoId": "w6FPt8dXGxM",
+                "title": "Zoe Benedetto. Welcome to the team.",
+                "description": "",
+                "author": "Sun Bum",
+                "mediaDuration": 15,
+                "prettyDuration": "00:00:15",
+                "views": "472",
+                "uploadAsset": false,
+                "quality": ""
+            },
+            "parentId": "67508346",
+            "url": "\/sun-bum\/zoe-benedetto-welcome-to-the-team\/67508346-67507898"
+        }
+    ]
+}

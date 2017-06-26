@@ -1,0 +1,54 @@
+{
+    "title": "Never Hide \/\/ Animation",
+    "description": "Somewhere at the intersection of Never Hide and eye candy.",
+    "referenceId": "zQjM-6QZMlk",
+    "date_created": "1348838009",
+    "date_modified": "1466185227",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "2",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "66178243",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "5",
+    "entityIdParent": "3764406",
+    "titleTextEncoded": "Never-Hide-Animation",
+    "category": "",
+    "duration": 34,
+    "settings": "",
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/zQjM-6QZMlk\/hqdefault.jpg",
+        "uploadDate": 1348838009,
+        "videoId": "zQjM-6QZMlk",
+        "title": "Never Hide \/\/ Animation",
+        "description": "Somewhere at the intersection of Never Hide and eye candy.",
+        "author": "Ray-Ban Films",
+        "mediaDuration": 34,
+        "prettyDuration": "00:00:34",
+        "views": "8415",
+        "uploadAsset": false,
+        "quality": ""
+    },
+    "transcripts": "[Music Playing]",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

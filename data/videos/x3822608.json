@@ -1,0 +1,74 @@
+{
+    "title": "Tilly's Spring 2015 - First Peek",
+    "description": "Tilly's Spring 2015 - First Peek",
+    "referenceId": null,
+    "date_created": "1424116896",
+    "date_modified": "1470242815",
+    "tags": "Tilly's, Spring, Shopping, Swim, Shorts, Tees, Bikinis",
+    "sourceId": "1",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": "Art___Design",
+    "VV_VI": "1299",
+    "CVV_VI": "131",
+    "engagement_score": "11",
+    "conversion_score": "10",
+    "id": "3822608",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "17",
+    "entityIdParent": "195929",
+    "titleTextEncoded": "Tilly-s-Spring-2015-First-Peek",
+    "category": null,
+    "duration": "130",
+    "settings": [],
+    "asset": {
+        "type": "mp4",
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/753\/canvas\/655\/368\/838233404-499458238.png",
+        "mediaDuration": "130",
+        "prettyDuration": "00:02:10",
+        "hookText": "Tilly's Spring 2015 - First Peek",
+        "tags": "Tilly's, Spring, Shopping, Swim, Shorts, Tees, Bikinis",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "https:\/\/d2mhchrq41duh4.cloudfront.net\/753\/3822608\/5cf5eb43_c0bc_4b26_863f_2a6385abbc52.mp4"
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/3822608\/720p_5cf5eb43_c0bc_4b26_863f_2a6385abbc52.mp4",
+                "quality": "720p"
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/3822608\/480p_5cf5eb43_c0bc_4b26_863f_2a6385abbc52.mp4",
+                "quality": "480p",
+                "tvpdefault": true
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/3822608\/360p_5cf5eb43_c0bc_4b26_863f_2a6385abbc52.mp4",
+                "quality": "360p"
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "conversion_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

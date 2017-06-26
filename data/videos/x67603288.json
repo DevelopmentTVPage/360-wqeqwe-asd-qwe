@@ -1,0 +1,54 @@
+{
+    "title": "Teaser Match Made In Levi's",
+    "description": "Teaser Match Made In Levi's",
+    "referenceId": "ktIn3UyYsr8",
+    "date_created": "1464908634",
+    "date_modified": "1472599292",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": "Levi_s",
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "3",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "67603288",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "18",
+    "entityIdParent": "168530",
+    "titleTextEncoded": "Teaser-Match-Made-In-Levi-s",
+    "category": "",
+    "duration": 55,
+    "settings": "",
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/ktIn3UyYsr8\/hqdefault.jpg",
+        "uploadDate": 1464908634,
+        "videoId": "ktIn3UyYsr8",
+        "title": "Teaser Match Made In Levi's",
+        "description": "El cruce entre dos artistas es un Big Bang, una explosi\u00f3n que da origen a otra manera de expresarse. Una prueba de que cada encuentro ampl\u00eda nuestro universo est\u00e9tico, y cada v\u00ednculo es una herramienta en la construcci\u00f3n de una nueva identidad.",
+        "author": "Levi's\u00ae",
+        "mediaDuration": 55,
+        "prettyDuration": "00:00:55",
+        "views": "43044",
+        "uploadAsset": false,
+        "quality": ""
+    },
+    "transcripts": "[Music Playing]",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

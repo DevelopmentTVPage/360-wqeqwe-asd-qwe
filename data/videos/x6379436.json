@@ -1,0 +1,46 @@
+{
+    "title": "etnies presents: Catching Up With Levi Sherwood",
+    "description": "Catching up with Levi Sherwood: October 2010",
+    "referenceId": null,
+    "date_created": "1440443439",
+    "date_modified": "1444178040",
+    "tags": "Catching up with Levi Sherwood,red bull fighters,freestyle,motocross,moto,October 2010",
+    "sourceId": "3",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6379436",
+    "loginId": "753",
+    "entityType": "1",
+    "titleTextEncoded": "etnies-presents-Catching-Up-With-Levi-Sherwood",
+    "category": null,
+    "duration": 195,
+    "settings": {},
+    "asset": {
+        "type": "mp4",
+        "hdvFlag": 1,
+        "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/109496226_1280x720.jpg",
+        "mediaDuration": 195,
+        "prettyDuration": "03:15",
+        "uploadDate": 1291776578,
+        "tags": "Catching up with Levi Sherwood,red bull fighters,freestyle,motocross,moto,October 2010",
+        "hookText": "http:\/\/www.facebook.com\/etnies Catching up with Levi Sherwood: October 2010",
+        "sources": [
+            {
+                "file": "https:\/\/player.vimeo.com\/external\/17585997.hd.mp4?s=3aa6e5e6efd3fe177030add43734166c&profile_id=113&oauth2_token_id=62432308"
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

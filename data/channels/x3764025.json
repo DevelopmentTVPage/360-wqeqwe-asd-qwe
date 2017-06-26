@@ -1,0 +1,30 @@
+{
+    "title": "C1RCA",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1409873458",
+    "date_modified": "1409874188",
+    "tags": "",
+    "sourceId": null,
+    "status": "approved",
+    "visibility": "1",
+    "id": "3764025",
+    "loginId": "753",
+    "entityType": "3",
+    "titleTextEncoded": "C1RCA",
+    "category": null,
+    "duration": null,
+    "settings": {
+        "canvasImage": "811587809-0.jpg",
+        "colorClass": "light",
+        "canvasType": "cropped",
+        "canvasCropped": "811587809-014400239.jpg",
+        "hideoos": 1,
+        "auto": {
+            "dynamic": 0
+        },
+        "optimize": 1,
+        "autoPlay": 0
+    },
+    "transcripts": null
+}

@@ -1,0 +1,46 @@
+{
+    "title": "Grand Opening Party at Malto's Done TF!",
+    "description": "http:\/\/www.facebook.com\/etnies",
+    "referenceId": null,
+    "date_created": "1440443402",
+    "date_modified": "1440443402",
+    "tags": "etnies,etnies skateboarding,Sean Malto,Done Training Facility,KC",
+    "sourceId": "3",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6379408",
+    "loginId": "753",
+    "entityType": "1",
+    "titleTextEncoded": "Grand-Opening-Party-at-Malto-s-Done-TF",
+    "category": null,
+    "duration": 130,
+    "settings": {},
+    "asset": {
+        "type": "mp4",
+        "sources": [
+            {
+                "file": "https:\/\/player.vimeo.com\/external\/21446164.sd.mp4?s=88cd449dc7bc56bf6d673628a1a036aa&profile_id=112&oauth2_token_id=62432308"
+            }
+        ],
+        "hdvFlag": 0,
+        "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/137950423_960x540.jpg",
+        "mediaDuration": 130,
+        "prettyDuration": "02:10",
+        "uploadDate": 1300983812,
+        "tags": "etnies,etnies skateboarding,Sean Malto,Done Training Facility,KC",
+        "hookText": "http:\/\/www.facebook.com\/etnies"
+    },
+    "transcripts": null,
+    "metrics_statistics": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

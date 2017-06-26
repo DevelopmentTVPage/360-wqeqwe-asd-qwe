@@ -1,0 +1,53 @@
+{
+    "title": "Bunny loves Dog (Basil loves Bibbo)",
+    "description": "Bunny loves Dog (Basil loves Bibbo)",
+    "referenceId": "fm-OAnd0b8Q",
+    "date_created": "1474408712",
+    "date_modified": "1474408954",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "2",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "68610369",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "156",
+    "entityIdParent": "3762188",
+    "titleTextEncoded": "Bunny-loves-Dog-Basil-loves-Bibbo",
+    "category": null,
+    "duration": 98,
+    "settings": null,
+    "asset": {
+        "type": "youtube",
+        "author": "Wild One",
+        "hdvFlag": 1,
+        "hookText": "",
+        "tags": "",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/fm-OAnd0b8Q\/hqdefault.jpg",
+        "videoId": "fm-OAnd0b8Q",
+        "mediaDuration": 98,
+        "prettyDuration": "00:01:38",
+        "uploadAsset": false,
+        "quality": ""
+    },
+    "transcripts": "Leave it, Leave it, Leave it, ah, ah, ah, leave, leave it.",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

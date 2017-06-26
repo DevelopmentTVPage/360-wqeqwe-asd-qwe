@@ -1,0 +1,31 @@
+{
+    "title": "Anti Hero",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1409864928",
+    "date_modified": "1409865404",
+    "tags": "",
+    "sourceId": null,
+    "status": "approved",
+    "visibility": "1",
+    "id": "3763986",
+    "loginId": "753",
+    "entityType": "3",
+    "titleTextEncoded": "Anti-Hero",
+    "category": null,
+    "duration": null,
+    "settings": {
+        "canvasImage": "457935675-0.jpg",
+        "colorClass": "light",
+        "canvasType": "cropped",
+        "autoPlay": 0,
+        "hideoos": 1,
+        "auto": {
+            "dynamic": 0,
+            "limit": 4
+        },
+        "optimize": 1,
+        "canvasCropped": "457935675-01721000732.jpg"
+    },
+    "transcripts": null
+}

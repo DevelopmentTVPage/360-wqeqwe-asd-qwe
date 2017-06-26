@@ -1,0 +1,54 @@
+{
+    "title": "Nike: Unlimited Pursuit",
+    "description": "'The End' is just something they put on movies. \n \nMusic: Lissie - Pursuit of Happiness (Kid Cudi cover)",
+    "referenceId": "SmLpiHDuLSE",
+    "date_created": "1471873550",
+    "date_modified": "1473209357",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": "Nike",
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "10",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "67602211",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "22",
+    "entityIdParent": "168513",
+    "titleTextEncoded": "Nike-Unlimited-Pursuit",
+    "category": "",
+    "duration": 40,
+    "settings": "",
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/SmLpiHDuLSE\/hqdefault.jpg",
+        "uploadDate": 1471873550,
+        "videoId": "SmLpiHDuLSE",
+        "title": "Nike: Unlimited Pursuit",
+        "description": "'The End' is just something they put on movies. Begin your story at http:\/\/nike.com\/justdoit\n \nMusic: Lissie - Pursuit of Happiness (Kid Cudi cover)",
+        "author": "Nike",
+        "mediaDuration": 40,
+        "prettyDuration": "00:00:40",
+        "views": "482977",
+        "uploadAsset": false,
+        "quality": ""
+    },
+    "transcripts": "[Music Playing]",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

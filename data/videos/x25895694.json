@@ -1,0 +1,55 @@
+{
+    "title": "Rusty Butcher - The Sportsters Strike Back - Star Wars",
+    "description": "The Sportsters Strikes Back | Episode 1 Filmed on location at our shop with #DarthVader and his bodyguards ripping around on the harley sportster.",
+    "referenceId": "mgBQ72X6hWU",
+    "date_created": "1453152558",
+    "date_modified": "1453152558",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "14",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "25895694",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "3",
+    "entityIdParent": "25844251",
+    "titleTextEncoded": "Rusty-Butcher-The-Sportsters-Strike-Back-Star-Wars",
+    "category": null,
+    "duration": "15",
+    "settings": {},
+    "asset": {
+        "sourceId": 4,
+        "videoId": "mgBQ72X6hWU",
+        "externalId": "mgBQ72X6hWU",
+        "description": "The Sportsters Strikes Back | Episode 1 Filmed on location at our shop with #DarthVader and his bodyguards ripping around on the harley sportster.",
+        "hookText": "The Sportsters Strikes Back | Episode 1 Filmed on location at our shop with #DarthVader and his bodyguards ripping around on the harley sportster.",
+        "author": "rustybutchertv",
+        "timeCreated": 1450731718,
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/mgBQ72X6hWU\/hqdefault.jpg",
+        "prettyDuration": "00:00:15",
+        "numViews": "419",
+        "mediaDuration": "15",
+        "definition": "hd",
+        "hdvFlag": 1
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

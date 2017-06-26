@@ -1,0 +1,54 @@
+{
+    "title": "Rip Curl Pro Portugal - Trials Highlights",
+    "description": "Rip Curl Pro Portugal - Trials Highlights",
+    "referenceId": "iPiBWUa50JI",
+    "date_created": "1286438323",
+    "date_modified": "1465345085",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "3",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "66090360",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "23",
+    "entityIdParent": "168546",
+    "titleTextEncoded": "Rip-Curl-Pro-Portugal-Trials-Highlights",
+    "category": "",
+    "duration": 128,
+    "settings": {},
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/iPiBWUa50JI\/hqdefault.jpg",
+        "uploadDate": 1286438323,
+        "videoId": "iPiBWUa50JI",
+        "title": "Rip Curl Pro Portugal - Trials Highlights",
+        "description": "",
+        "author": "Rip Curl",
+        "mediaDuration": 128,
+        "prettyDuration": "00:02:08",
+        "views": "7562",
+        "uploadAsset": false,
+        "quality": ""
+    },
+    "transcripts": "[Music Playing]",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

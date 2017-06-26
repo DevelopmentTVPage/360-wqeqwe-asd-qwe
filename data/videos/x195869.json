@@ -1,0 +1,59 @@
+{
+    "title": "Tilly's Summer Sound Check Tour - AJR",
+    "description": "Tilly's Summer Sound Check Tour stopped by Nashville, TN with a live performance by AJR! Check out their song \"I'm Ready\" from their EP \"I'm Ready\".",
+    "referenceId": null,
+    "date_created": "1407445551",
+    "date_modified": "1470246970",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": "Music",
+    "VV_VI": "53",
+    "CVV_VI": "1",
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "195869",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "28",
+    "entityIdParent": "195859",
+    "titleTextEncoded": "Tilly-s-Summer-Sound-Check-Tour-AJR",
+    "category": null,
+    "duration": "219",
+    "settings": [],
+    "asset": {
+        "author": "tillys",
+        "hdvFlag": 1,
+        "hookText": "Tilly's Summer Sound Check Tour stopped by Nashville, TN with a live performance by AJR! Check out their song \"I'm Ready\" from their EP \"I'm Ready\". For more...",
+        "tags": "",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/ygk8nEGjQJc\/maxresdefault.jpg",
+        "uploadDate": 1405362229,
+        "videoId": "ygk8nEGjQJc",
+        "mediaDuration": "219",
+        "prettyDuration": "00:03:39",
+        "uploadAsset": false,
+        "quality": ""
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "conversion_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

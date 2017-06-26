@@ -1,0 +1,53 @@
+{
+    "title": "Wiz Khalifa Collection By Converse",
+    "description": "Wiz Khalifa Collection by Converse is dropping at your nearest Foot Locker or at FootLocker.com on August 23rd.",
+    "referenceId": "zc8F2mTNhWE",
+    "date_created": "1444148815",
+    "date_modified": "1445971993",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "1",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6419385",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "282",
+    "entityIdParent": "168524",
+    "titleTextEncoded": "Wiz-Khalifa-Collection-By-Converse",
+    "category": null,
+    "duration": "66",
+    "settings": {},
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/zc8F2mTNhWE\/hqdefault.jpg",
+        "uploadDate": 1376593195,
+        "videoId": "zc8F2mTNhWE",
+        "title": "Wiz Khalifa Collection By Converse",
+        "description": "Wiz Khalifa Collection by Converse is dropping at your nearest Foot Locker or at FootLocker.com on August 23rd.",
+        "author": "converse",
+        "mediaDuration": "66",
+        "prettyDuration": "00:01:06",
+        "views": "397804",
+        "hookText": "Wiz Khalifa Collection by Converse is dropping at your nearest Foot Locker or at FootLocker.com on August 23rd."
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

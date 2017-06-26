@@ -1,0 +1,46 @@
+{
+    "title": "Curtis Ciszek Shred Flick",
+    "description": "Here is a compilation of Curtis Ciszek's winter snowboarding. Curtis has one of the most timeless styles in the game and his arsenal of tricks is growing at a scary pace. Check out the footage of him destroying the Whistler back country.",
+    "referenceId": null,
+    "date_created": "1440450113",
+    "date_modified": "1443832242",
+    "tags": "",
+    "sourceId": "3",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6380722",
+    "loginId": "753",
+    "entityType": "1",
+    "titleTextEncoded": "Curtis-Ciszek-Shred-Flick",
+    "category": null,
+    "duration": 101,
+    "settings": {},
+    "asset": {
+        "type": "mp4",
+        "hdvFlag": 1,
+        "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/142238080_295x166.jpg",
+        "mediaDuration": 101,
+        "prettyDuration": "01:41",
+        "uploadDate": 1299624653,
+        "tags": "",
+        "hookText": "Here is a compilation of Curtis Ciszek's winter snowboarding. Curtis has one of the most timeless styles in the game and his arsenal of tricks is growing at a scary pace. Check out the footage of him destroying the Whistler back country.",
+        "sources": [
+            {
+                "file": "https:\/\/player.vimeo.com\/external\/20809008.hd.mp4?s=07de063c4a7b066770ab183fb28325a1&profile_id=113&oauth2_token_id=56801069"
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

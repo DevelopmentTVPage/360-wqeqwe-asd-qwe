@@ -1,0 +1,53 @@
+{
+    "title": "AYC Spring 2014 Lookbook",
+    "description": "Asphalt Yacht Club Spring 2014 Lookbook Featuring: \nStevie Williams, Nyjah Huston, Blake Carpenter, and Ben Nordberg\n\nFilmed and edited by: Russell Houghten\nMusic by: The Anton Eye",
+    "referenceId": null,
+    "date_created": "1409867136",
+    "date_modified": "1470247924",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": "Asphalt_Yacht_Club",
+    "video_celeb": null,
+    "video_activity": "Art___Design",
+    "VV_VI": "27",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "3764005",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "1",
+    "entityIdParent": "3764001",
+    "titleTextEncoded": "AYC-Spring-2014-Lookbook",
+    "category": null,
+    "duration": "75",
+    "settings": [],
+    "asset": {
+        "author": "Asphalt Yacht Club",
+        "hdvFlag": 1,
+        "hookText": "Asphalt Yacht Club Spring 2014 Lookbook Featuring: Stevie Williams, Nyjah Huston, Blake Carpenter, and Ben Nordberg Filmed and edited by: Russell Houghten Mu...",
+        "tags": "",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/nSEMEFCpQt8\/maxresdefault.jpg",
+        "uploadDate": 1394599724,
+        "videoId": "nSEMEFCpQt8",
+        "mediaDuration": "75",
+        "prettyDuration": "00:01:15",
+        "uploadAsset": false,
+        "quality": ""
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

@@ -1,0 +1,48 @@
+{
+    "title": "etnies France welcomes Paul Grund",
+    "description": "etnies France welcomes Paul Grund",
+    "referenceId": "24330354",
+    "date_created": "1443720884",
+    "date_modified": "1449017858",
+    "tags": "skateboarding,Paul Grund,etnies,france",
+    "sourceId": "3",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6418539",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "90",
+    "entityIdParent": "168527",
+    "titleTextEncoded": "etnies-France-welcomes-Paul-Grund",
+    "category": null,
+    "duration": 98,
+    "settings": {},
+    "asset": {
+        "type": "mp4",
+        "hdvFlag": 0,
+        "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/159300030_960x540.jpg",
+        "mediaDuration": 98,
+        "prettyDuration": "01:38",
+        "uploadDate": 1306526054,
+        "tags": "skateboarding,Paul Grund,etnies,france",
+        "hookText": "etnies France welcomes Paul Grund\n\nFollow etnies on www.etnies.com and\/or  http:\/\/www.facebook.com\/etnies.europe",
+        "sources": [
+            {
+                "file": "https:\/\/player.vimeo.com\/external\/24330354.sd.mp4?s=1801e069004046e36653fed8031a4a05&profile_id=112&oauth2_token_id=62432308"
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

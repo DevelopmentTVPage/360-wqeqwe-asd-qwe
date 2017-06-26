@@ -1,0 +1,46 @@
+{
+    "title": "Dakine Campus Pack",
+    "description": "Check out 360\u00b0 views of the 2012 Campus Pack, shown in the Timber print.\n\nPack features:\n- Padded sleeve fits most 15\" laptops\n- Insulated cooler pocket\n- Organizer pocket\n- Fleece lined sunglass pocket\n- Mesh side pockets",
+    "referenceId": null,
+    "date_created": "1440450024",
+    "date_modified": "1440450024",
+    "tags": "",
+    "sourceId": "3",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6380655",
+    "loginId": "753",
+    "entityType": "1",
+    "titleTextEncoded": "Dakine-Campus-Pack",
+    "category": null,
+    "duration": 38,
+    "settings": {},
+    "asset": {
+        "type": "mp4",
+        "sources": [
+            {
+                "file": "https:\/\/player.vimeo.com\/external\/37273311.hd.mp4?s=82b3d86e71b5e8575610fab802f57818&profile_id=113&oauth2_token_id=56801069"
+            }
+        ],
+        "hdvFlag": 1,
+        "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/255980376_1280x720.jpg",
+        "mediaDuration": 38,
+        "prettyDuration": "00:38",
+        "uploadDate": 1329947209,
+        "tags": "",
+        "hookText": "Check out 360\u00b0 views of the 2012 Campus Pack, shown in the Timber print.\n\nPack features:\n- Padded sleeve fits most 15\" laptops\n- Insulated cooler pocket\n- Organizer pocket\n- Fleece lined sunglass pocket\n- Mesh side pockets"
+    },
+    "transcripts": null,
+    "metrics_statistics": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

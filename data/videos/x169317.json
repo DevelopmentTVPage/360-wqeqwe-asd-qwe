@@ -1,0 +1,51 @@
+{
+    "title": "DC SHOES: MATT MILLER: SKATEBOARDING IS FOREVER",
+    "description": "SKATEBOARDING IS FOREVER: MATT MILLER'S PART For more information check us out at http:\/\/www.dcshoes.com.",
+    "referenceId": null,
+    "date_created": "1401238532",
+    "date_modified": "1418181447",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "5",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "169317",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "10",
+    "entityIdParent": "168550",
+    "titleTextEncoded": "DC-SHOES-MATT-MILLER-SKATEBOARDING-IS-FOREVER",
+    "category": null,
+    "duration": "172",
+    "settings": [],
+    "asset": {
+        "author": "DC Shoes",
+        "hdvFlag": 1,
+        "hookText": "SKATEBOARDING IS FOREVER: MATT MILLER'S PART For more information check us out at http:\/\/www.dcshoes.com.",
+        "tags": "",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/447M0fHOUG4\/maxresdefault.jpg",
+        "uploadDate": 1264186205,
+        "videoId": "447M0fHOUG4",
+        "mediaDuration": "172",
+        "prettyDuration": "00:02:52"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

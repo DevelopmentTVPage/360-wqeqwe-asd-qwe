@@ -1,0 +1,73 @@
+{
+    "title": "Tilly's - Summer 2015",
+    "description": "Summer. The sun beats down. Layers come off. Sand everywhere. Salt everywhere. We follow the sun and its rays and chase it to the horizon each night. We get outside. We laugh. We live. \n\nSoak in the Tilly's Summer 2015 collection.",
+    "referenceId": null,
+    "date_created": "1431365603",
+    "date_modified": "1470242646",
+    "tags": "",
+    "sourceId": "1",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": "Art___Design",
+    "VV_VI": "3147",
+    "CVV_VI": "354",
+    "engagement_score": "28",
+    "conversion_score": "29",
+    "id": "3837737",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "12",
+    "entityIdParent": "195929",
+    "titleTextEncoded": "Tilly-s-Summer-2015",
+    "category": null,
+    "duration": "107",
+    "settings": [],
+    "asset": {
+        "type": "mp4",
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/753\/canvas\/655\/368\/500317476-2616478269.png",
+        "mediaDuration": "107",
+        "prettyDuration": "00:01:47",
+        "hookText": "Tilly's - Summer 2015",
+        "tags": "",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/3837737\/618de6e1_b992_4391_e310_c0db18417920.mp4"
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/3837737\/720p_618de6e1_b992_4391_e310_c0db18417920.mp4",
+                "quality": "720p"
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/3837737\/480p_618de6e1_b992_4391_e310_c0db18417920.mp4",
+                "quality": "480p"
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/3837737\/360p_618de6e1_b992_4391_e310_c0db18417920.mp4",
+                "quality": "360p"
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "conversion_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

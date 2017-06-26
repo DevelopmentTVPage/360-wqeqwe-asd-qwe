@@ -1,0 +1,46 @@
+{
+    "title": "X-Games",
+    "description": "The X Games is undoubtably the biggest contest of the year to all competitors of each sport. Here Tanner Hall, Bobby Brown, Kaya Turski, Sammy Carlson, and Sean Pettit talk about the importance of the event and how much pressure there is competing in this",
+    "referenceId": "21510274",
+    "date_created": "1443638109",
+    "date_modified": "1443638109",
+    "tags": "",
+    "sourceId": "3",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6418184",
+    "loginId": "753",
+    "entityType": "1",
+    "titleTextEncoded": "X-Games",
+    "category": null,
+    "duration": 281,
+    "settings": {},
+    "asset": {
+        "type": "mp4",
+        "sources": [
+            {
+                "file": "https:\/\/player.vimeo.com\/external\/21510274.hd.mp4?s=59160bd1ee3be105dab6da1c697cb965&profile_id=113&oauth2_token_id=56801069"
+            }
+        ],
+        "hdvFlag": 1,
+        "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/138417358_1280x720.jpg",
+        "mediaDuration": 281,
+        "prettyDuration": "04:41",
+        "uploadDate": 1301106363,
+        "tags": "",
+        "hookText": "The X Games is undoubtably the biggest contest of the year to all competitors of each sport. Here Tanner Hall, Bobby Brown, Kaya Turski, Sammy Carlson, and Sean Pettit talk about the importance of the event and how much pressure there is competing in this"
+    },
+    "transcripts": null,
+    "metrics_statistics": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

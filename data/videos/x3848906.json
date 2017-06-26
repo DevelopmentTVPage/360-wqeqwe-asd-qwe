@@ -1,0 +1,71 @@
+{
+    "title": "Hulk x WWE x Rook",
+    "description": "Hulk x WWE x Rook",
+    "referenceId": null,
+    "date_created": "1436815403",
+    "date_modified": "1436815620",
+    "tags": "",
+    "sourceId": "1",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "622",
+    "CVV_VI": "16",
+    "engagement_score": "5",
+    "conversion_score": "1",
+    "id": "3848906",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "0",
+    "entityIdParent": "3778165",
+    "titleTextEncoded": "Hulk-x-WWE-x-Rook",
+    "category": null,
+    "duration": "13",
+    "settings": [],
+    "asset": {
+        "type": "mp4",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/3848906\/fc6bbca4_55af_4400_81a7_5a3b566478ba.mp4"
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/3848906\/720p_fc6bbca4_55af_4400_81a7_5a3b566478ba.mp4",
+                "quality": "720p"
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/3848906\/480p_fc6bbca4_55af_4400_81a7_5a3b566478ba.mp4",
+                "quality": "480p"
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/3848906\/360p_fc6bbca4_55af_4400_81a7_5a3b566478ba.mp4",
+                "quality": "360p"
+            }
+        ],
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/753\/canvas\/655\/368\/527782852-024626375.png",
+        "mediaDuration": "13",
+        "prettyDuration": "00:00:13",
+        "hookText": "Hulk x WWE x Rook",
+        "tags": ""
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "conversion_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

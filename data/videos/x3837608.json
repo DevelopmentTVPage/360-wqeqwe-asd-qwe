@@ -1,0 +1,61 @@
+{
+    "title": "Billabong Surf Capsule Summer 2015",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1430952019",
+    "date_modified": "1430952022",
+    "tags": "",
+    "sourceId": "1",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "3837608",
+    "loginId": "753",
+    "entityType": "1",
+    "titleTextEncoded": "Billabong-Surf-Capsule-Summer-2015",
+    "category": null,
+    "duration": "70",
+    "settings": [],
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "70"
+        },
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/3837608\/720p_47d39_BBG_SUM15_SURF_CAPSULE_V4_FINAL.mp4",
+                "quality": "720p"
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/3837608\/480p_47d39_BBG_SUM15_SURF_CAPSULE_V4_FINAL.mp4",
+                "quality": "480p"
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/3837608\/360p_47d39_BBG_SUM15_SURF_CAPSULE_V4_FINAL.mp4",
+                "quality": "360p"
+            }
+        ],
+        "thumbnailUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/3837608\/a15aee7a78a814e1fcb2322a3c151304.png",
+        "hookText": "",
+        "type": "mp4",
+        "mediaDuration": "70",
+        "prettyDuration": "00:01:10",
+        "tags": ""
+    },
+    "transcripts": null,
+    "metrics_statistics": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

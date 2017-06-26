@@ -1,0 +1,63 @@
+{
+    "title": "NikeSB_30s.mp4",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1420070400",
+    "date_modified": "1426040597",
+    "tags": "",
+    "sourceId": "1",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "333",
+    "CVV_VI": null,
+    "engagement_score": "3",
+    "conversion_score": null,
+    "id": "3827148",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "2",
+    "entityIdParent": "3827150",
+    "titleTextEncoded": "NikeSB-30s-mp4",
+    "category": null,
+    "duration": "31",
+    "settings": [],
+    "asset": {
+        "type": "mp4",
+        "sources": [
+            {
+                "file": "https:\/\/d2mhchrq41duh4.cloudfront.net\/753\/3827148\/b842d885_29db_4810_c8c5_1150a057667a.mp4"
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/3827148\/720p_b842d885_29db_4810_c8c5_1150a057667a.mp4",
+                "quality": "720p"
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/3827148\/480p_b842d885_29db_4810_c8c5_1150a057667a.mp4",
+                "quality": "480p"
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/3827148\/360p_b842d885_29db_4810_c8c5_1150a057667a.mp4",
+                "quality": "360p"
+            }
+        ],
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/assets\/thumb\/mp4default.jpg",
+        "mediaDuration": "31",
+        "prettyDuration": "00:00:31"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

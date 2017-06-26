@@ -1,0 +1,39 @@
+{
+    "title": "Sperry",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1437523577",
+    "date_modified": "1437581469",
+    "tags": "",
+    "sourceId": null,
+    "status": "approved",
+    "visibility": "1",
+    "id": "3849769",
+    "loginId": "753",
+    "entityType": "3",
+    "titleTextEncoded": "Sperry",
+    "category": null,
+    "duration": null,
+    "settings": {
+        "canvasImage": "default_canvas3.jpg",
+        "colorClass": "light",
+        "canvasType": "gallery",
+        "autoPlay": 1,
+        "autoNext": 1,
+        "hideoos": 0,
+        "auto": {
+            "dynamic": 0,
+            "advanced": {
+                "title": "",
+                "description": "",
+                "category": "",
+                "brand": "",
+                "color": "",
+                "quantity": "",
+                "date_created": ""
+            }
+        },
+        "optimize": 0
+    },
+    "transcripts": null
+}

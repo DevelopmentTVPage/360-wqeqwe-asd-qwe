@@ -1,0 +1,48 @@
+{
+    "title": "Victor Daviet ABS",
+    "description": "Victor Daviet ABS",
+    "referenceId": "107758551",
+    "date_created": "1441409148",
+    "date_modified": "1455838667",
+    "tags": "",
+    "sourceId": "3",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6390417",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "308",
+    "entityIdParent": "168543",
+    "titleTextEncoded": "Victor-Daviet-ABS",
+    "category": null,
+    "duration": 89,
+    "settings": {},
+    "asset": {
+        "type": "mp4",
+        "hdvFlag": 1,
+        "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/491246647_1280x720.jpg",
+        "mediaDuration": 89,
+        "prettyDuration": "01:29",
+        "uploadDate": 1412199151,
+        "tags": "",
+        "hookText": "",
+        "sources": [
+            {
+                "file": "https:\/\/player.vimeo.com\/external\/107758551.hd.mp4?s=fcdc09ae23f4b6598cde18b4ab882277&profile_id=119&oauth2_token_id=56801069"
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

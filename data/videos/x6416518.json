@@ -1,0 +1,55 @@
+{
+    "title": "Arbor Snowboards :: 2016 Product Profiles - Element Black",
+    "description": "The board that started it all, The Element has been the cornerstone of our line for the past 20 years. With all-mountain proficiency, clean styling, and a focus on craftsmanship, this quintessential Arbor snowboard speaks to our core values and is sure to remain a classic for years to come. The Element is available in an upgraded version with a cleaner graphic and premium Palisander topsheet, or standard black, hand-dyed ash topsheet.",
+    "referenceId": "138650256",
+    "date_created": "1443461784",
+    "date_modified": "1454536853",
+    "tags": "Product Profiles,Product Video,Arbor,Snowboarding,Arbor Snowboards,Rocker System,Element Black,Element",
+    "sourceId": "3",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "1",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6416518",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "226",
+    "entityIdParent": "3763991",
+    "titleTextEncoded": "Arbor-Snowboards-2016-Product-Profiles-Element-Black",
+    "category": null,
+    "duration": 150,
+    "settings": {},
+    "asset": {
+        "type": "mp4",
+        "hdvFlag": 1,
+        "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/534102060_1280x720.jpg",
+        "mediaDuration": 150,
+        "prettyDuration": "02:30",
+        "uploadDate": 1441733235,
+        "tags": "Product Profiles,Product Video,Arbor,Snowboarding,Arbor Snowboards,Rocker System,Element Black,Element",
+        "hookText": "The board that started it all, The Element has been the cornerstone of our line for the past 20 years. With all-mountain proficiency, clean styling, and a focus on craftsmanship, this quintessential Arbor snowboard speaks to our core values and is sure to",
+        "sources": [
+            {
+                "file": "https:\/\/player.vimeo.com\/external\/138650256.hd.mp4?s=5e7c0928e90cf567ebdf83d562f581ce&profile_id=113&oauth2_token_id=74680278"
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

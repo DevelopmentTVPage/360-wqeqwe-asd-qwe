@@ -1,0 +1,51 @@
+{
+    "title": "Neff Headwear Skate Team Park Edit",
+    "description": "The Neff Headwear skate team headed West to Vegas, Arizona and Utah and stopped for some good old park skating.",
+    "referenceId": null,
+    "date_created": "1408996625",
+    "date_modified": "1418181930",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "1",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "3761276",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "3",
+    "entityIdParent": "3761235",
+    "titleTextEncoded": "Neff-Headwear-Skate-Team-Park-Edit",
+    "category": null,
+    "duration": "63",
+    "settings": [],
+    "asset": {
+        "author": "Neff Headwear",
+        "hdvFlag": 1,
+        "hookText": "The Neff Headwear skate team headed West to Vegas, Arizona and Utah and stopped for some good old park skating.",
+        "tags": "",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/H9D0s_N0BPQ\/maxresdefault.jpg",
+        "uploadDate": 1332977827,
+        "videoId": "H9D0s_N0BPQ",
+        "mediaDuration": "63",
+        "prettyDuration": "00:01:03"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

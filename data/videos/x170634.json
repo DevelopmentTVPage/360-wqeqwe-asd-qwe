@@ -1,0 +1,51 @@
+{
+    "title": "ELECTRIC INTRODUCES CHRIS COLE",
+    "description": "We are proud to announce that Chris Cole has joined the Electric family!",
+    "referenceId": null,
+    "date_created": "1401404156",
+    "date_modified": "1448496503",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "4",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "170634",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "8",
+    "entityIdParent": "168521",
+    "titleTextEncoded": "ELECTRIC-INTRODUCES-CHRIS-COLE",
+    "category": null,
+    "duration": "42",
+    "settings": [],
+    "asset": {
+        "author": "Electric Visual",
+        "hdvFlag": 1,
+        "hookText": "We are proud to announce that Chris Cole has joined the Electric family! Subscribe to Electric: http:\/\/www.youtube.com\/user\/electricglasses Like us on Facebo...",
+        "tags": "",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/EZxBQPM7kaw\/sddefault.jpg",
+        "uploadDate": 1389026775,
+        "videoId": "EZxBQPM7kaw",
+        "mediaDuration": "42",
+        "prettyDuration": "00:00:42"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

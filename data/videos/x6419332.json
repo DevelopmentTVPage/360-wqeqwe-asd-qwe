@@ -1,0 +1,53 @@
+{
+    "title": "Fox MX 2012- HC Vented Jersey",
+    "description": "New Fox 2012 Gear: HC Vented Jersey.",
+    "referenceId": "3n8G9ydkgQc",
+    "date_created": "1444071842",
+    "date_modified": "1444071842",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "1",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6419332",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "60",
+    "entityIdParent": "168514",
+    "titleTextEncoded": "Fox-MX-2012-HC-Vented-Jersey",
+    "category": null,
+    "duration": "35",
+    "settings": {},
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/3n8G9ydkgQc\/hqdefault.jpg",
+        "uploadDate": 1311794036,
+        "videoId": "3n8G9ydkgQc",
+        "title": "Fox MX 2012- HC Vented Jersey",
+        "description": "New Fox 2012 Gear: HC Vented Jersey.",
+        "author": "FoxHeadInc",
+        "mediaDuration": "35",
+        "prettyDuration": "00:00:35",
+        "views": "2684",
+        "hookText": "New Fox 2012 Gear: HC Vented Jersey."
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

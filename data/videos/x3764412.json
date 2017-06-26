@@ -1,0 +1,51 @@
+{
+    "title": "Battle of the Paddle Hawaii",
+    "description": "Rainbow Sandals Gerry Lopez Battle of the Paddle Hawaii. June 12-13. Duke Kahanamoku Beach at Ft. DeRussy, Waikiki.",
+    "referenceId": null,
+    "date_created": "1410205870",
+    "date_modified": "1447198414",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "3",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "3764412",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "0",
+    "entityIdParent": "3764405",
+    "titleTextEncoded": "Battle-of-the-Paddle-Hawaii",
+    "category": null,
+    "duration": "40",
+    "settings": [],
+    "asset": {
+        "author": "Rainbow Sandals",
+        "hdvFlag": 1,
+        "hookText": "Rainbow Sandals Gerry Lopez Battle of the Paddle Hawaii. June 12-13. Duke Kahanamoku Beach at Ft. DeRussy, Waikiki. Go to www.RainbowSandals.com for more info.",
+        "tags": "",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/v8Q3pJslhLk\/maxresdefault.jpg",
+        "uploadDate": 1269881545,
+        "videoId": "v8Q3pJslhLk",
+        "mediaDuration": "40",
+        "prettyDuration": "00:00:40"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

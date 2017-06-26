@@ -1,0 +1,51 @@
+{
+    "title": "adidas Skateboarding New Stripes",
+    "description": "adidas Skateboarding is proud to introduce three new Ams to the Global Team, Na-kel Smith, Miles Silvas & Tyshawn Jones.",
+    "referenceId": null,
+    "date_created": "1413226745",
+    "date_modified": "1418182105",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "10",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "3777437",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "100",
+    "entityIdParent": "168510",
+    "titleTextEncoded": "adidas-Skateboarding-New-Stripes",
+    "category": null,
+    "duration": "290",
+    "settings": [],
+    "asset": {
+        "author": "adidas Skateboarding",
+        "hdvFlag": 1,
+        "hookText": "adidas Skateboarding is proud to introduce three new Ams to the Global Team, Na-kel Smith, Miles Silvas & Tyshawn Jones.",
+        "tags": "",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/8PQGFxI3rcI\/maxresdefault.jpg",
+        "uploadDate": 1411369203,
+        "videoId": "8PQGFxI3rcI",
+        "mediaDuration": "290",
+        "prettyDuration": "00:04:50"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

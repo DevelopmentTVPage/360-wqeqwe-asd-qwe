@@ -1,0 +1,53 @@
+{
+    "title": "RePlacing Felipe Gustavo",
+    "description": "The second installment of the Replacing campaign features Felipe Gustavo in the streets of Los Angeles.",
+    "referenceId": null,
+    "date_created": "1413501050",
+    "date_modified": "1470271915",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": "LRG",
+    "video_celeb": null,
+    "video_activity": "Skating",
+    "VV_VI": "11",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "3778030",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "3",
+    "entityIdParent": "168518",
+    "titleTextEncoded": "RePlacing-Felipe-Gustavo",
+    "category": null,
+    "duration": "23",
+    "settings": [],
+    "asset": {
+        "author": "LRG Clothing",
+        "hdvFlag": 1,
+        "hookText": "The second installment of the Replacing campaign features Felipe Gustavo in the streets of Los Angeles.",
+        "tags": "",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/vg01wjZKqDk\/sddefault.jpg",
+        "uploadDate": 1396977153,
+        "videoId": "vg01wjZKqDk",
+        "mediaDuration": "23",
+        "prettyDuration": "00:00:23",
+        "uploadAsset": false,
+        "quality": ""
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

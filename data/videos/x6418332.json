@@ -1,0 +1,46 @@
+{
+    "title": "Wolle Nyvelt Shred Flick",
+    "description": "Wolle Nyvelt gets after the goods in Alaska and beyond...",
+    "referenceId": "18894852",
+    "date_created": "1443641126",
+    "date_modified": "1443641126",
+    "tags": "",
+    "sourceId": "3",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6418332",
+    "loginId": "753",
+    "entityType": "1",
+    "titleTextEncoded": "Wolle-Nyvelt-Shred-Flick",
+    "category": null,
+    "duration": 124,
+    "settings": {},
+    "asset": {
+        "type": "mp4",
+        "sources": [
+            {
+                "file": "https:\/\/player.vimeo.com\/external\/18894852.hd.mp4?s=60d6adfb1bb7a4a64c32bb50a72f3ac7&profile_id=113&oauth2_token_id=56801069"
+            }
+        ],
+        "hdvFlag": 1,
+        "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/142231269_1280x720.jpg",
+        "mediaDuration": 124,
+        "prettyDuration": "02:04",
+        "uploadDate": 1295308042,
+        "tags": "",
+        "hookText": "Wolle Nyvelt gets after the goods in Alaska and beyond..."
+    },
+    "transcripts": null,
+    "metrics_statistics": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

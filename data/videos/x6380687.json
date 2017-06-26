@@ -1,0 +1,46 @@
+{
+    "title": "DAKINE Trail Fox Event",
+    "description": "One of the best open bike contest in Europe, held in Flims, Switzertland. Three days of racing, running night and day, plus a big party and a great vibe!\nDAKINE team rider Ren\u00e9 Wildhaber wins again this year, dominating the three races!",
+    "referenceId": null,
+    "date_created": "1440450082",
+    "date_modified": "1444085466",
+    "tags": "Array,Array,Array,Array,Array,Array,Array",
+    "sourceId": "3",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6380687",
+    "loginId": "753",
+    "entityType": "1",
+    "titleTextEncoded": "DAKINE-Trail-Fox-Event",
+    "category": null,
+    "duration": 191,
+    "settings": {},
+    "asset": {
+        "type": "mp4",
+        "hdvFlag": 1,
+        "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/172343914_1280x720.jpg",
+        "mediaDuration": 191,
+        "prettyDuration": "03:11",
+        "uploadDate": 1310054857,
+        "tags": "Array,Array,Array,Array,Array,Array,Array",
+        "hookText": "One of the best open bike contest in Europe, held in Flims, Switzertland.  Three days of racing, running night and day, plus a big party and a great vibe!\n\nDAKINE team rider Ren\u00e9 Wildhaber wins again this year, dominating the three races!",
+        "sources": [
+            {
+                "file": "https:\/\/player.vimeo.com\/external\/26117306.hd.mp4?s=ecd308bfb3170ec7ee7a5c03d44cef2a&profile_id=113&oauth2_token_id=56801069"
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

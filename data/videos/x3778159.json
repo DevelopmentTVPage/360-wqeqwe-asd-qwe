@@ -1,0 +1,51 @@
+{
+    "title": "Day 4 Alesjaure - Abisko",
+    "description": "After a tought trek of 110 km the team finally hit the goal area in Abisko.\n\nhttp:\/\/www.fjallraven.com\/classic",
+    "referenceId": null,
+    "date_created": "1414109193",
+    "date_modified": "1444087476",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "5",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "3778159",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "6",
+    "entityIdParent": "3764303",
+    "titleTextEncoded": "Day-4-Alesjaure-Abisko",
+    "category": null,
+    "duration": "197",
+    "settings": [],
+    "asset": {
+        "author": "Fj\u00e4llr\u00e4ven",
+        "hdvFlag": 1,
+        "hookText": "After a tought trek of 110 km the team finally hit the goal area in Abisko.",
+        "tags": "",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/oJwS8u3tor0\/maxresdefault.jpg",
+        "uploadDate": 1407795690,
+        "videoId": "oJwS8u3tor0",
+        "mediaDuration": "197",
+        "prettyDuration": "00:03:17"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

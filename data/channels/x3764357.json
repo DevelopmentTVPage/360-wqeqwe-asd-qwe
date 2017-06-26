@@ -1,0 +1,32 @@
+{
+    "title": "...LOST",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1410195245",
+    "date_modified": "1443036753",
+    "tags": "",
+    "sourceId": null,
+    "status": "approved",
+    "visibility": "1",
+    "id": "3764357",
+    "loginId": "753",
+    "entityType": "3",
+    "titleTextEncoded": "LOST",
+    "category": null,
+    "duration": null,
+    "settings": {
+        "canvasImage": "507634100-0.jpg",
+        "colorClass": "light",
+        "canvasType": "cropped",
+        "canvasCropped": "507634100-7125547294.jpg",
+        "autoPlay": 1,
+        "hideoos": 1,
+        "auto": {
+            "dynamic": 0,
+            "limit": 12
+        },
+        "optimize": 1,
+        "autoNext": 1
+    },
+    "transcripts": null
+}

@@ -1,0 +1,59 @@
+{
+    "title": "Tillys Social Star Search: How To Enter",
+    "description": "Want to be the next Tillys Social Media Star?\n\nFind Out How To Enter Here: https:\/\/www.tillys.com\/socialstarsearch\n\n#SocialStarSearchContest",
+    "referenceId": "5J31SwRHZYo",
+    "date_created": "1469573889",
+    "date_modified": "1469574771",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "1793",
+    "CVV_VI": "211",
+    "engagement_score": "16",
+    "conversion_score": "17",
+    "id": "67135295",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "1",
+    "entityIdParent": "195929",
+    "titleTextEncoded": "Tillys-Social-Star-Search-How-To-Enter",
+    "category": null,
+    "duration": 90,
+    "settings": null,
+    "asset": {
+        "type": "youtube",
+        "author": "tillys",
+        "hdvFlag": 1,
+        "hookText": "Want to be the next Tillys Social Media Star?\n\nFind Out How To Enter Here: https:\/\/www.tillys.com\/socialstarsearch\n\n#SocialStarSearchContest",
+        "tags": "",
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/753\/canvas\/655\/368\/276440364-0219151074.png",
+        "videoId": "5J31SwRHZYo",
+        "mediaDuration": 90,
+        "prettyDuration": "00:01:30",
+        "uploadAsset": false,
+        "quality": ""
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "conversion_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

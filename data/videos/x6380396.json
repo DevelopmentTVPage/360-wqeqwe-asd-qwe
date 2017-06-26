@@ -1,0 +1,70 @@
+{
+    "title": "Sector 9 Product Guide - Striker",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1440446455",
+    "date_modified": "1440446458",
+    "tags": "",
+    "sourceId": "1",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "4",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6380396",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "4",
+    "entityIdParent": "3764445",
+    "titleTextEncoded": "Sector-9-Product-Guide-Striker",
+    "category": null,
+    "duration": "142",
+    "settings": {},
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "142"
+        },
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/6380396\/720p_7f4478f1bba90338f2d6160032eb7c55.mp4",
+                "quality": "720p"
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/6380396\/480p_7f4478f1bba90338f2d6160032eb7c55.mp4",
+                "quality": "480p"
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/6380396\/360p_7f4478f1bba90338f2d6160032eb7c55.mp4",
+                "quality": "360p"
+            }
+        ],
+        "thumbnailUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/6380396\/7f4478f1bba90338f2d6160032eb7c55.png",
+        "hookText": "",
+        "type": "mp4",
+        "mediaDuration": "142",
+        "prettyDuration": "00:02:22",
+        "tags": ""
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

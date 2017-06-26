@@ -1,0 +1,29 @@
+{
+    "title": "Freaker",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1409952574",
+    "date_modified": "1409953193",
+    "tags": "",
+    "sourceId": null,
+    "status": "approved",
+    "visibility": "1",
+    "id": "3764313",
+    "loginId": "753",
+    "entityType": "3",
+    "titleTextEncoded": "Freaker",
+    "category": null,
+    "duration": null,
+    "settings": {
+        "canvasImage": "846909195-0.jpg",
+        "colorClass": "light",
+        "canvasType": "cropped",
+        "canvasCropped": "846909195-078450330.jpg",
+        "hideoos": 1,
+        "auto": {
+            "dynamic": 0
+        },
+        "optimize": 1
+    },
+    "transcripts": null
+}

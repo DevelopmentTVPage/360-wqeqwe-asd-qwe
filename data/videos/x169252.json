@@ -1,0 +1,51 @@
+{
+    "title": "G-Shock Toughness Test - Hammer Test",
+    "description": "Casio's G-Shock created a series of tests to demonstrate how tough their watches are.",
+    "referenceId": null,
+    "date_created": "1401234083",
+    "date_modified": "1418181447",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "6",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "169252",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "7",
+    "entityIdParent": "168556",
+    "titleTextEncoded": "G-Shock-Toughness-Test-Hammer-Test",
+    "category": null,
+    "duration": "99",
+    "settings": [],
+    "asset": {
+        "author": "gshockus",
+        "hdvFlag": 0,
+        "hookText": "Casio's G-Shock created a series of tests to demonstrate how tough their watches are.",
+        "tags": "",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/Se3XFxycEhY\/hqdefault.jpg",
+        "uploadDate": 1242244921,
+        "videoId": "Se3XFxycEhY",
+        "mediaDuration": "99",
+        "prettyDuration": "00:01:39"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

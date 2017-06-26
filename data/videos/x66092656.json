@@ -1,0 +1,54 @@
+{
+    "title": "The Blonde Salad x Steve Madden Capsule Collection",
+    "description": "The video campaign of The Blonde Salad x Steve Madden Capsule Collection.",
+    "referenceId": "_sxgLDgGlM8",
+    "date_created": "1392050506",
+    "date_modified": "1468353813",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "2",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "66092656",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "23",
+    "entityIdParent": "66115248",
+    "titleTextEncoded": "The-Blonde-Salad-x-Steve-Madden-Capsule-Collection",
+    "category": "",
+    "duration": 61,
+    "settings": "",
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/_sxgLDgGlM8\/hqdefault.jpg",
+        "uploadDate": 1392050506,
+        "videoId": "_sxgLDgGlM8",
+        "title": "The Blonde Salad x Steve Madden Capsule Collection",
+        "description": "The video campaign of The Blonde Salad x Steve Madden Capsule Collection for Spring 2014.",
+        "author": "STEVE MADDEN",
+        "mediaDuration": 61,
+        "prettyDuration": "00:01:01",
+        "views": "1525",
+        "uploadAsset": false,
+        "quality": ""
+    },
+    "transcripts": "[Music Playing]",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

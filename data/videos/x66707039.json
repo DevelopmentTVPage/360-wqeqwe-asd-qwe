@@ -1,0 +1,54 @@
+{
+    "title": "Tillys Summer 2016",
+    "description": "Chase the rays. Seize the days. Summer starts now and we have you covered head to (bare) toes!",
+    "referenceId": "MyvN2_O5Ni0",
+    "date_created": "1462816801",
+    "date_modified": "1467996829",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "6",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "66707039",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "1",
+    "entityIdParent": "66707033",
+    "titleTextEncoded": "Tillys-Summer-2016",
+    "category": "",
+    "duration": 60,
+    "settings": "",
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/MyvN2_O5Ni0\/hqdefault.jpg",
+        "uploadDate": 1462816801,
+        "videoId": "MyvN2_O5Ni0",
+        "title": "Tillys Summer 2016",
+        "description": "Chase the rays. Seize the days. Summer starts now and we have you covered head to (bare) toes!",
+        "author": "tillys",
+        "mediaDuration": 60,
+        "prettyDuration": "00:01:00",
+        "views": "521",
+        "uploadAsset": false,
+        "quality": ""
+    },
+    "transcripts": "[Music Playing]",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

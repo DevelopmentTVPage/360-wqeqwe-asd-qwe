@@ -1,0 +1,51 @@
+{
+    "title": "Skullcandy: Eric Koston Signature Series",
+    "description": "What happens when you put the best street skater in the world in the same room as Skullandy and a handful of rattlesnakes?",
+    "referenceId": null,
+    "date_created": "1401322913",
+    "date_modified": "1450483741",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "1",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "170411",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "6",
+    "entityIdParent": "168537",
+    "titleTextEncoded": "Skullcandy-Eric-Koston-Signature-Series",
+    "category": null,
+    "duration": "84",
+    "settings": [],
+    "asset": {
+        "author": "Skullcandy",
+        "hdvFlag": 1,
+        "hookText": "Check the Koston Crusher at www.skullcandy.com\/crusher-eric-koston What happens when you put the best street skater in the world in the same room as Skulland...",
+        "tags": "",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/tJ-h3IuYTvI\/sddefault.jpg",
+        "uploadDate": 1386604668,
+        "videoId": "tJ-h3IuYTvI",
+        "mediaDuration": "84",
+        "prettyDuration": "00:01:24"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

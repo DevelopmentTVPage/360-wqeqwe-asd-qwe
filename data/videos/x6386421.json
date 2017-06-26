@@ -1,0 +1,55 @@
+{
+    "title": "etnies Proudly Welcomes Parker Coffin",
+    "description": "etnies Proudly Welcomes Parker Coffin",
+    "referenceId": null,
+    "date_created": "1441210469",
+    "date_modified": "1449087422",
+    "tags": "surf,surfing,parker coffin",
+    "sourceId": "3",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "4",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6386421",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "248",
+    "entityIdParent": "168527",
+    "titleTextEncoded": "etnies-Proudly-Welcomes-Parker-Coffin",
+    "category": null,
+    "duration": 15,
+    "settings": {},
+    "asset": {
+        "type": "mp4",
+        "hdvFlag": 0,
+        "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/451671052_1280x720.jpg",
+        "mediaDuration": 15,
+        "prettyDuration": "00:15",
+        "uploadDate": 1381535343,
+        "tags": "surf,surfing,parker coffin",
+        "hookText": "",
+        "sources": [
+            {
+                "file": "https:\/\/player.vimeo.com\/external\/76737451.sd.mp4?s=5d7fb370e582013a54b69f37635a0ec2&profile_id=112&oauth2_token_id=62432308"
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

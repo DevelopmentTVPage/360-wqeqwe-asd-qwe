@@ -1,0 +1,46 @@
+{
+    "title": "Steve Romaniuk",
+    "description": "Footage from the STUND2 web series tour",
+    "referenceId": "23280070",
+    "date_created": "1443638093",
+    "date_modified": "1443638093",
+    "tags": "Array,Array,Array,Array,Array",
+    "sourceId": "3",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6418179",
+    "loginId": "753",
+    "entityType": "1",
+    "titleTextEncoded": "Steve-Romaniuk",
+    "category": null,
+    "duration": 200,
+    "settings": {},
+    "asset": {
+        "type": "mp4",
+        "sources": [
+            {
+                "file": "https:\/\/player.vimeo.com\/external\/23280070.hd.mp4?s=984291fdae3cc298718c4fd5db85b435&profile_id=113&oauth2_token_id=56801069"
+            }
+        ],
+        "hdvFlag": 1,
+        "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/151409996_1280x720.jpg",
+        "mediaDuration": 200,
+        "prettyDuration": "03:20",
+        "uploadDate": 1304534997,
+        "tags": "Array,Array,Array,Array,Array",
+        "hookText": "Footage from the STUND2 web series tour"
+    },
+    "transcripts": null,
+    "metrics_statistics": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

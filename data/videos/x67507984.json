@@ -1,0 +1,54 @@
+{
+    "title": "Dickies Back to School 2015",
+    "description": "Dickies Back to School 2015",
+    "referenceId": "OymbWniU6sQ",
+    "date_created": "1440514217",
+    "date_modified": "1471394445",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "2",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "67507984",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "7",
+    "entityIdParent": "168551",
+    "titleTextEncoded": "Dickies-Back-to-School-2015",
+    "category": "",
+    "duration": 7,
+    "settings": "",
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/OymbWniU6sQ\/hqdefault.jpg",
+        "uploadDate": 1440514217,
+        "videoId": "OymbWniU6sQ",
+        "title": "Dickies Back to School 2015",
+        "description": "Dickies Back to School 2015",
+        "author": "Dickies",
+        "mediaDuration": 7,
+        "prettyDuration": "00:00:07",
+        "views": "1063",
+        "uploadAsset": false,
+        "quality": ""
+    },
+    "transcripts": "[No audio]",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

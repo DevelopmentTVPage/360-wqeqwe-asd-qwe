@@ -1,0 +1,73 @@
+{
+    "title": "Zio Ziegler Mural",
+    "description": "Zio Ziegler Mural",
+    "referenceId": null,
+    "date_created": "1436554268",
+    "date_modified": "1470249204",
+    "tags": "",
+    "sourceId": "1",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": "Vans",
+    "video_celeb": null,
+    "video_activity": "Art___Design",
+    "VV_VI": "2734",
+    "CVV_VI": "249",
+    "engagement_score": "25",
+    "conversion_score": "20",
+    "id": "3848809",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "28",
+    "entityIdParent": "195870",
+    "titleTextEncoded": "Zio-Ziegler-Mural",
+    "category": null,
+    "duration": "48",
+    "settings": [],
+    "asset": {
+        "type": "mp4",
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/753\/canvas\/655\/368\/920023606-40351169665.png",
+        "mediaDuration": "48",
+        "prettyDuration": "00:00:48",
+        "hookText": "Zio Ziegler Mural ",
+        "tags": "",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/3848809\/c7ce3076_f8e5_45e9_f87e_9524c2ee5042.mp4"
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/3848809\/720p_c7ce3076_f8e5_45e9_f87e_9524c2ee5042.mp4",
+                "quality": "720p"
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/3848809\/480p_c7ce3076_f8e5_45e9_f87e_9524c2ee5042.mp4",
+                "quality": "480p"
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/3848809\/360p_c7ce3076_f8e5_45e9_f87e_9524c2ee5042.mp4",
+                "quality": "360p"
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "conversion_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

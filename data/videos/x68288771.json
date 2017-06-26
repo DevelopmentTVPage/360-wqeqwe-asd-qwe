@@ -1,0 +1,53 @@
+{
+    "title": "DOG STEALS GOPRO...",
+    "description": "My dog max stole my go-pro whilst i was playing with it in the pool. Decided to go for a run with it whilst recording. pretty cool you get to see inside his mouth.",
+    "referenceId": "SIJqUfdFhHA",
+    "date_created": "1473354895",
+    "date_modified": "1473355811",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": "GoPro",
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "12",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "68288771",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "113",
+    "entityIdParent": "3762188",
+    "titleTextEncoded": "DOG-STEALS-GOPRO",
+    "category": null,
+    "duration": 50,
+    "settings": null,
+    "asset": {
+        "type": "youtube",
+        "author": "Luke Baldacchino",
+        "hdvFlag": 1,
+        "hookText": "my dog max stole my go-pro whilst i was playing with it in the pool. decided to go for a run with it whilst recording. pretty cool you get to see inside his mouth.",
+        "tags": "",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/SIJqUfdFhHA\/hqdefault.jpg",
+        "videoId": "SIJqUfdFhHA",
+        "mediaDuration": 50,
+        "prettyDuration": "00:00:50",
+        "uploadAsset": false,
+        "quality": ""
+    },
+    "transcripts": "Max, come in come on in, come in come on in, ohh haha. Max, haha. Dog panting.",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

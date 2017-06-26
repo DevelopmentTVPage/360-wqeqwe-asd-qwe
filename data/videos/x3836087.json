@@ -1,0 +1,57 @@
+{
+    "title": "Vans Propeller",
+    "description": "PROPELLER, A Vans Skateboarding Video featuring the Vans Pro Skate Team, and directed by Greg Hunt is available now. \n\nMusic: \u201cPerfect Tuesday\u201d written & performed by Randy Randall\n\nOffTheWall.TV is a digital online video network chronicling the unique aspects of Vans' brand of youth culture through original video projects and exclusive content exploring skate, surf, snow, BMX, girls' lifestyle, art and music. With more than 45 years of rich heritage and far-reaching influence in youth culture, OffTheWall.TV story-telling captures the creative expressions of Vans' \"Off the Wall\" identity.\n\n#OffTheWallTV",
+    "referenceId": null,
+    "date_created": "1430237191",
+    "date_modified": "1455836885",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "438",
+    "CVV_VI": "18",
+    "engagement_score": "4",
+    "conversion_score": "1",
+    "id": "3836087",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "6",
+    "entityIdParent": "195960",
+    "titleTextEncoded": "Vans-Propeller",
+    "category": null,
+    "duration": "48",
+    "settings": [],
+    "asset": {
+        "type": "youtube",
+        "author": "Vans",
+        "hdvFlag": 1,
+        "hookText": "Coming May 2015. PROPELLER, A Vans Skateboarding Video. Featuring the Vans Pro Skate team. Directed by Greg Hunt.\n\nMusic: \u201cPerfect Tuesday\u201d written & performed by Randy Randall",
+        "tags": "",
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/753\/canvas\/655\/368\/660733135-015772449.jpg",
+        "videoId": "NfA9mCCC1ZU",
+        "prettyDuration": "00:00:48",
+        "mediaDuration": "48"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "conversion_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

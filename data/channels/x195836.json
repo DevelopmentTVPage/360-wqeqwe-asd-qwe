@@ -1,0 +1,31 @@
+{
+    "title": "Beach",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1407359481",
+    "date_modified": "1407793075",
+    "tags": "",
+    "sourceId": null,
+    "status": "approved",
+    "visibility": "1",
+    "id": "195836",
+    "loginId": "753",
+    "entityType": "3",
+    "titleTextEncoded": "Beach",
+    "category": null,
+    "duration": null,
+    "settings": {
+        "canvasImage": "790090297-0.jpg",
+        "colorClass": "light",
+        "canvasType": "cropped",
+        "canvasCropped": "790090297-031220481458.jpg",
+        "hideoos": 1,
+        "auto": {
+            "dynamic": 0
+        },
+        "optimize": 1,
+        "autoPlay": 1,
+        "autoNext": 1
+    },
+    "transcripts": null
+}

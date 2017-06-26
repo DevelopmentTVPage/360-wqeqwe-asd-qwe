@@ -1,0 +1,41 @@
+{
+    "title": "Alien Workshop",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1401129184",
+    "date_modified": "1406940525",
+    "tags": "",
+    "sourceId": null,
+    "status": "approved",
+    "visibility": "1",
+    "id": "168555",
+    "loginId": "753",
+    "entityType": "3",
+    "titleTextEncoded": "Alien-Workshop",
+    "category": null,
+    "duration": null,
+    "settings": {
+        "canvasImage": "744085830-0.jpg",
+        "colorClass": "light",
+        "canvasType": "cropped",
+        "canvasCropped": "744085830-015116001050.jpg",
+        "auto": {
+            "dynamic": 0,
+            "limit": 8,
+            "cartIds": [],
+            "excIds": [
+                "169266",
+                "169267",
+                "169268",
+                "169270",
+                "169269",
+                "169272"
+            ]
+        },
+        "optimize": 1,
+        "autoPlay": 1,
+        "autoNext": 1,
+        "hideoos": 1
+    },
+    "transcripts": null
+}

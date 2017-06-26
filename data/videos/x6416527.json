@@ -1,0 +1,55 @@
+{
+    "title": "Arbor Snowboards :: 2016 Product Profiles - Steepwater",
+    "description": "A collaboration with Steve Klassen, 5x winner of the Verbier Extreme and owner Wave Rave Snowboard Shop in Mammoth. Steve\u2019s 20 years of R&D experience helped us create a rocket built for performance at speed and through variable, big mountain terrain. Expect Ferrari like acceleration and control.",
+    "referenceId": "138360385",
+    "date_created": "1443461785",
+    "date_modified": "1454537528",
+    "tags": "Product Profiles,Arbor Snowboards,Snowboarding,Camber,Steve Klassen,Wave Rave,Arbor,Steepwater,Product Video",
+    "sourceId": "3",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "3",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6416527",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "217",
+    "entityIdParent": "3763991",
+    "titleTextEncoded": "Arbor-Snowboards-2016-Product-Profiles-Steepwater",
+    "category": null,
+    "duration": 106,
+    "settings": {},
+    "asset": {
+        "type": "mp4",
+        "hdvFlag": 1,
+        "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/533674819_1280x720.jpg",
+        "mediaDuration": 106,
+        "prettyDuration": "01:46",
+        "uploadDate": 1441408116,
+        "tags": "Product Profiles,Arbor Snowboards,Snowboarding,Camber,Steve Klassen,Wave Rave,Arbor,Steepwater,Product Video",
+        "hookText": "A collaboration with Steve Klassen, 5x winner of the Verbier Extreme and owner Wave Rave Snowboard Shop in Mammoth. Steve\u2019s 20 years of R&D experience helped us create a rocket built for performance at speed and through variable, big mountain terrain. Exp",
+        "sources": [
+            {
+                "file": "https:\/\/player.vimeo.com\/external\/138360385.hd.mp4?s=8bd0f00a23b96c750e0c70136cc7959f&profile_id=119&oauth2_token_id=74680278"
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

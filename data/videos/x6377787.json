@@ -1,0 +1,55 @@
+{
+    "title": "Arbor Skateboards :: 2015 Product Profiles - Catalyst",
+    "description": "The Catalyst is an advanced drop-through for freestyle and freeride performance. This balanced concave twin-tip features wide kicktails and a performance shape for maximum control.\nL: 40.00\u201d W: 9.25\u201d WB: 28.50\u201d",
+    "referenceId": null,
+    "date_created": "1440437190",
+    "date_modified": "1454543991",
+    "tags": "Arbor,Arbor Skateboards,Catalyst,Skateboarding,Product Profiles,Cruiser Board,Longboard,Downhill,Drop Through,Kicktails",
+    "sourceId": "3",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "4",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6377787",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "306",
+    "entityIdParent": "3763991",
+    "titleTextEncoded": "Arbor-Skateboards-2015-Product-Profiles-Catalyst",
+    "category": null,
+    "duration": 87,
+    "settings": {},
+    "asset": {
+        "type": "mp4",
+        "hdvFlag": 0,
+        "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/522494098_1280x720.jpg",
+        "mediaDuration": 87,
+        "prettyDuration": "01:27",
+        "uploadDate": 1434136809,
+        "tags": "Arbor,Arbor Skateboards,Catalyst,Skateboarding,Product Profiles,Cruiser Board,Longboard,Downhill,Drop Through,Kicktails",
+        "hookText": "The Catalyst is an advanced drop-through for freestyle and freeride performance. This balanced concave twin-tip features wide kicktails and a performance shape for maximum control.\n\nL: 40.00\u201d  W: 9.25\u201d  WB: 28.50\u201d\n\nTo learn more about the Catalyst visit: ",
+        "sources": [
+            {
+                "file": "https:\/\/player.vimeo.com\/external\/130576699.sd.mp4?s=682a78c30e825c3398938463bf1ec9e8&profile_id=112&oauth2_token_id=74680278"
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

@@ -1,0 +1,53 @@
+{
+    "title": "The Go To Spot WIth Walker Ryan",
+    "description": "The Go To Spot WIth Walker Ryan",
+    "referenceId": null,
+    "date_created": "1409873697",
+    "date_modified": "1470253589",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": "C1RCA",
+    "video_celeb": null,
+    "video_activity": "Skating",
+    "VV_VI": "3",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "3764029",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "0",
+    "entityIdParent": "3764025",
+    "titleTextEncoded": "The-Go-To-Spot-WIth-Walker-Ryan",
+    "category": null,
+    "duration": "210",
+    "settings": [],
+    "asset": {
+        "author": "C1RCAskateboarding",
+        "hdvFlag": 0,
+        "hookText": "",
+        "tags": "",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/b2xXr199Vpk\/hqdefault.jpg",
+        "uploadDate": 1288649115,
+        "videoId": "b2xXr199Vpk",
+        "mediaDuration": "210",
+        "prettyDuration": "00:03:30",
+        "uploadAsset": false,
+        "quality": ""
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

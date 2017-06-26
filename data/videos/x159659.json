@@ -1,0 +1,50 @@
+{
+    "title": "LIVE FROM THE HURLEY STUDIO",
+    "description": "Dead Country sits down with Davey Warsop for an interview in the Hurley Studio before playing an acoustic set. Video: YB.",
+    "referenceId": null,
+    "date_created": "1398361010",
+    "date_modified": "1418181345",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "4",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "159659",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "17",
+    "entityIdParent": "158318",
+    "titleTextEncoded": "LIVE-FROM-THE-HURLEY-STUDIO",
+    "category": null,
+    "duration": "158",
+    "settings": [],
+    "asset": {
+        "author": "Hurley",
+        "videoId": "C032Pe8s1f4",
+        "hookText": "Dead Country sits down with Davey Warsop for an interview in the Hurley Studio before playing an acoustic set. Video: YB.",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/C032Pe8s1f4\/hqdefault.jpg",
+        "mediaDuration": "158",
+        "hdvFlag": 0,
+        "uploadDate": 1286600890,
+        "prettyDuration": "00:02:38"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

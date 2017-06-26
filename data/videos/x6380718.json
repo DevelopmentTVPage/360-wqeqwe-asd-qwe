@@ -1,0 +1,46 @@
+{
+    "title": "Damien Hobgood",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1440450113",
+    "date_modified": "1440450113",
+    "tags": "",
+    "sourceId": "3",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6380718",
+    "loginId": "753",
+    "entityType": "1",
+    "titleTextEncoded": "Damien-Hobgood",
+    "category": null,
+    "duration": 58,
+    "settings": {},
+    "asset": {
+        "type": "mp4",
+        "sources": [
+            {
+                "file": "https:\/\/player.vimeo.com\/external\/21490223.hd.mp4?s=768b7290e8bf56fa454287ff21461c2b&profile_id=113&oauth2_token_id=56801069"
+            }
+        ],
+        "hdvFlag": 1,
+        "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/138267910_1280x720.jpg",
+        "mediaDuration": 58,
+        "prettyDuration": "00:58",
+        "uploadDate": 1301070273,
+        "tags": "",
+        "hookText": ""
+    },
+    "transcripts": null,
+    "metrics_statistics": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

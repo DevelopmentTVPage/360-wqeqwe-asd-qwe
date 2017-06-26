@@ -1,0 +1,37 @@
+{
+    "title": "Full Tilt",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1401129109",
+    "date_modified": "1432834765",
+    "tags": "",
+    "sourceId": null,
+    "status": "approved",
+    "visibility": "1",
+    "id": "168549",
+    "loginId": "753",
+    "entityType": "3",
+    "titleTextEncoded": "Full-Tilt",
+    "category": null,
+    "duration": null,
+    "settings": {
+        "canvasImage": "513323911-0.jpg",
+        "colorClass": "light",
+        "canvasType": "cropped",
+        "canvasCropped": "513323911-1520580242.jpg",
+        "auto": {
+            "dynamic": 0,
+            "limit": 12,
+            "excIds": [
+                "169330",
+                "169329",
+                "169328"
+            ]
+        },
+        "optimize": 1,
+        "autoPlay": 1,
+        "autoNext": 1,
+        "hideoos": 1
+    },
+    "transcripts": null
+}

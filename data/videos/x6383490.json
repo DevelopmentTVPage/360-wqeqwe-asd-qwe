@@ -1,0 +1,55 @@
+{
+    "title": "Excess Baggage: Albert Nyberg",
+    "description": "Filmed all over the world, spanning an entire year, this is the excess footage of Albert Nyberg from etnies Presents: AB&A.",
+    "referenceId": null,
+    "date_created": "1440709430",
+    "date_modified": "1449100404",
+    "tags": "etnies,Albert Nyberg,Barney Page,Axel Cruysberghs,etnies presents,the berrics,AB&A,etnies presents AB&A,skateboarding,skate shoes,skate videos,volcom,volcom damn am,skate",
+    "sourceId": "3",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "2",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6383490",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "264",
+    "entityIdParent": "168527",
+    "titleTextEncoded": "Excess-Baggage-Albert-Nyberg",
+    "category": null,
+    "duration": 290,
+    "settings": {},
+    "asset": {
+        "type": "mp4",
+        "hdvFlag": 1,
+        "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/473060114_1280x720.jpg",
+        "mediaDuration": 290,
+        "prettyDuration": "04:50",
+        "uploadDate": 1398652336,
+        "tags": "etnies,Albert Nyberg,Barney Page,Axel Cruysberghs,etnies presents,the berrics,AB&A,etnies presents AB&A,skateboarding,skate shoes,skate videos,volcom,volcom damn am,skate",
+        "hookText": "Filmed all over the world, spanning an entire year, this is the excess footage of Albert Nyberg from etnies Presents: AB&A.\n\nWatch Albert's full part in AB&A:\nhttp:\/\/etnies.com\/blog\/2014\/1\/20\/etnies-presents-aba\/\n\nSee more of Albert and shop the Summer Sk",
+        "sources": [
+            {
+                "file": "https:\/\/player.vimeo.com\/external\/93106601.hd.mp4?s=b0aa4b8375785dca7ed3ce68db06bf2f&profile_id=113&oauth2_token_id=62432308"
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

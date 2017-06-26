@@ -1,0 +1,53 @@
+{
+    "title": "Louif Skate Day",
+    "description": "I shot this skateboarding with the intent of using it for a Day in the Life with Louif when I was staying with him in Quebec back in October. Unfortunately t...",
+    "referenceId": null,
+    "date_created": "1409866610",
+    "date_modified": "1470240422",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": "Ashbury",
+    "video_celeb": null,
+    "video_activity": "Skating",
+    "VV_VI": "1",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "3763997",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "125",
+    "entityIdParent": "3763996",
+    "titleTextEncoded": "Louif-Skate-Day",
+    "category": null,
+    "duration": "90",
+    "settings": [],
+    "asset": {
+        "author": "Ashbury Eyewear",
+        "hdvFlag": 1,
+        "hookText": "I shot this skateboarding with the intent of using it for a Day in the Life with Louif when I was staying with him in Quebec back in October. Unfortunately t...",
+        "tags": "",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/na4pyiag_Lo\/maxresdefault.jpg",
+        "uploadDate": 1387830760,
+        "videoId": "na4pyiag_Lo",
+        "mediaDuration": "90",
+        "prettyDuration": "00:01:30",
+        "uploadAsset": false,
+        "quality": ""
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

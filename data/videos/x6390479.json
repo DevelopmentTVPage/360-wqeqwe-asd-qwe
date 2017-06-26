@@ -1,0 +1,48 @@
+{
+    "title": "2014 Legendary Banked Slalom",
+    "description": "As we do every year the Dakine crew headed up to Mt. Baker for the Legendary Banked Slalom. This time around we brought our friends from Europe to experience the great event and it turned out to be a great weekend.",
+    "referenceId": "86678055",
+    "date_created": "1441409222",
+    "date_modified": "1441409222",
+    "tags": "",
+    "sourceId": "3",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6390479",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "246",
+    "entityIdParent": "168543",
+    "titleTextEncoded": "2014-Legendary-Banked-Slalom",
+    "category": null,
+    "duration": 259,
+    "settings": {},
+    "asset": {
+        "type": "mp4",
+        "sources": [
+            {
+                "file": "https:\/\/player.vimeo.com\/external\/86678055.sd.mp4?s=5008e78c277b6af456447632ab6c0bbf&profile_id=112&oauth2_token_id=56801069"
+            }
+        ],
+        "hdvFlag": 0,
+        "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/464441776_1280x720.jpg",
+        "mediaDuration": 259,
+        "prettyDuration": "04:19",
+        "uploadDate": 1392355556,
+        "tags": "",
+        "hookText": "As we do every year the Dakine crew headed up to Mt. Baker for the Legendary Banked Slalom. This time around we brought our friends from Europe to experience the great event and it turned out to be a great weekend."
+    },
+    "transcripts": null,
+    "metrics_statistics": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

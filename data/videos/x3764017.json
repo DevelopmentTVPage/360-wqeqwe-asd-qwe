@@ -1,0 +1,53 @@
+{
+    "title": "BR4SS - Freshen Up Your Top Drawer Ad (HD) (Sneaker Watch)",
+    "description": "Freshen up your drawer with the latest underwear from BR4SS",
+    "referenceId": null,
+    "date_created": "1409870898",
+    "date_modified": "1470252959",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": "BR4SS",
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "4",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "3764017",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "0",
+    "entityIdParent": "3764016",
+    "titleTextEncoded": "BR4SS-Freshen-Up-Your-Top-Drawer-Ad-HD-Sneaker-Watch",
+    "category": null,
+    "duration": "62",
+    "settings": [],
+    "asset": {
+        "author": "sneakerwatchtv",
+        "hdvFlag": 0,
+        "hookText": "http:\/\/www.sneakerwatch.com\/ Freshen up your drawer with the latest underwear from BR4SS.",
+        "tags": "",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/C41LKf9_wvk\/hqdefault.jpg",
+        "uploadDate": 1334767803,
+        "videoId": "C41LKf9_wvk",
+        "mediaDuration": "62",
+        "prettyDuration": "00:01:02",
+        "uploadAsset": false,
+        "quality": ""
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

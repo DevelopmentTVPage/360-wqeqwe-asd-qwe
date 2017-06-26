@@ -1,0 +1,46 @@
+{
+    "title": "Welcome to etnies UK: Mark Baines",
+    "description": "Mark Baines needs no introduction; a stalwart of the UK & European skate scene and true professional, he\u2019s killing it now harder than ever, with a seemingly endless slew of recent coverage and video parts. We\u2019re proud to welcome Mark to the etnies UK fami",
+    "referenceId": null,
+    "date_created": "1440443234",
+    "date_modified": "1440443234",
+    "tags": "etnies,skateboard,united kingdom,mark baines",
+    "sourceId": "3",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6379308",
+    "loginId": "753",
+    "entityType": "1",
+    "titleTextEncoded": "Welcome-to-etnies-UK-Mark-Baines",
+    "category": null,
+    "duration": 266,
+    "settings": {},
+    "asset": {
+        "type": "mp4",
+        "sources": [
+            {
+                "file": "https:\/\/player.vimeo.com\/external\/34832330.hd.mp4?s=2c71c205f007b1c1d6bd4d4eacfe470a&profile_id=113&oauth2_token_id=62432308"
+            }
+        ],
+        "hdvFlag": 1,
+        "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/237570821_1280x853.jpg",
+        "mediaDuration": 266,
+        "prettyDuration": "04:26",
+        "uploadDate": 1326190305,
+        "tags": "etnies,skateboard,united kingdom,mark baines",
+        "hookText": "Mark Baines needs no introduction; a stalwart of the UK & European skate scene and true professional, he\u2019s killing it now harder than ever, with a seemingly endless slew of recent coverage and video parts. We\u2019re proud to welcome Mark to the etnies UK fami"
+    },
+    "transcripts": null,
+    "metrics_statistics": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

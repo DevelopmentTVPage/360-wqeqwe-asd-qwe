@@ -1,0 +1,53 @@
+{
+    "title": "Penny Skateboards 4th of July Board",
+    "description": "Celebrate the Fourth of July with this patriotic, limited edition Penny Skateboard, available in the 22\" and 27\" decks sizes.",
+    "referenceId": null,
+    "date_created": "1440438938",
+    "date_modified": "1450319913",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "24",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6378083",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "22",
+    "entityIdParent": "3764400",
+    "titleTextEncoded": "Penny-Skateboards-4th-of-July-Board",
+    "category": null,
+    "duration": "15",
+    "settings": {},
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/6hWjABFhF_U\/hqdefault.jpg",
+        "uploadDate": 1403820983,
+        "videoId": "6hWjABFhF_U",
+        "title": "Penny Skateboards 4th of July Board",
+        "description": "Show your Stars and Stripes like Lizzie Armanto with this LIMITED EDITION 4th of July Penny Skateboard. Available in 22\" and 27\", get yours now at http:\/\/www.pennyskateboards.com\/4th-of-july",
+        "author": "Penny Skateboards",
+        "mediaDuration": "15",
+        "prettyDuration": "00:00:15",
+        "views": "43577",
+        "hookText": "Show your Stars and Stripes like Lizzie Armanto with this LIMITED EDITION 4th of July Penny Skateboard. Available in 22\" and 27\", get yours now at http:\/\/www.pennyskateboards.com\/4th-of-july"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

@@ -1,0 +1,55 @@
+{
+    "title": "Andrew Cannon Ad Day",
+    "description": "",
+    "referenceId": "27542739",
+    "date_created": "1443634005",
+    "date_modified": "1443634005",
+    "tags": "",
+    "sourceId": "3",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "1",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6418111",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "74",
+    "entityIdParent": "168543",
+    "titleTextEncoded": "Andrew-Cannon-Ad-Day",
+    "category": null,
+    "duration": 127,
+    "settings": {},
+    "asset": {
+        "type": "mp4",
+        "sources": [
+            {
+                "file": "https:\/\/player.vimeo.com\/external\/27542739.hd.mp4?s=ef355ef12cd44f7cf74061ccded6be9b&profile_id=113&oauth2_token_id=56801069"
+            }
+        ],
+        "hdvFlag": 1,
+        "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/182968826_1280x720.jpg",
+        "mediaDuration": 127,
+        "prettyDuration": "02:07",
+        "uploadDate": 1312996591,
+        "tags": "",
+        "hookText": ""
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

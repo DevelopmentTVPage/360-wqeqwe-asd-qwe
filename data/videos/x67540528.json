@@ -1,0 +1,54 @@
+{
+    "title": "Nike: Unlimited Will",
+    "description": "Limits are only limits if you let them be.",
+    "referenceId": "m7A3cBhvA0k",
+    "date_created": "1471460768",
+    "date_modified": "1471539952",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "1341",
+    "CVV_VI": null,
+    "engagement_score": "12",
+    "conversion_score": null,
+    "id": "67540528",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "14",
+    "entityIdParent": "168513",
+    "titleTextEncoded": "Nike-Unlimited-Will",
+    "category": "",
+    "duration": 40,
+    "settings": "",
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/m7A3cBhvA0k\/hqdefault.jpg",
+        "uploadDate": 1471460768,
+        "videoId": "m7A3cBhvA0k",
+        "title": "Nike: Unlimited Will",
+        "description": "Limits are only limits if you let them be.\nBegin your story here. http:\/\/gonike.me\/justdoit.",
+        "author": "Nike",
+        "mediaDuration": 40,
+        "prettyDuration": "00:00:40",
+        "views": "1047877",
+        "uploadAsset": false,
+        "quality": ""
+    },
+    "transcripts": "KYLE MAYNARD MOUNTAINEER\nHere is a man...working hard, pushing his limits. You got this? I got this. Cool. He's got this. Wait, what, you don't have arms. But you don't have legs either. Ha. Oh, really? I must have left them at home. You left them at... dude, that's not funny. You're on top of a mountain! UNLIMITED WILL You're on top of a mountain! UNLIMITED WILL That's dangerous. JUST DO IT.",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

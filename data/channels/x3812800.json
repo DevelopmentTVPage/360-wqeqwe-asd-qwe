@@ -1,0 +1,40 @@
+{
+    "title": "Reef",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1419983779",
+    "date_modified": "1421980457",
+    "tags": "",
+    "sourceId": null,
+    "status": "approved",
+    "visibility": "1",
+    "id": "3812800",
+    "loginId": "753",
+    "entityType": "3",
+    "titleTextEncoded": "Reef",
+    "category": null,
+    "duration": null,
+    "settings": {
+        "canvasImage": "263571165-0.jpg",
+        "colorClass": "light",
+        "canvasType": "cropped",
+        "canvasCropped": "263571165-001024575.jpg",
+        "hideoos": 1,
+        "auto": {
+            "dynamic": 0,
+            "advanced": {
+                "title": "",
+                "description": "",
+                "category": "",
+                "brand": "",
+                "color": "",
+                "quantity": "",
+                "date_created": ""
+            },
+            "limit": 4
+        },
+        "optimize": 1,
+        "autoPlay": 0
+    },
+    "transcripts": null
+}

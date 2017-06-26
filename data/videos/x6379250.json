@@ -1,0 +1,46 @@
+{
+    "title": "Aaron Ross: Here's My Number",
+    "description": "Aaron Ross shows off his new etnies Number Mid colorways for Fall 12.",
+    "referenceId": null,
+    "date_created": "1440443124",
+    "date_modified": "1443553327",
+    "tags": "etnies,etnies bmx,etnies Number Mid,Aaron Ross,Sunday Bikes,so call me maybe,carly rae jepsen",
+    "sourceId": "3",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6379250",
+    "loginId": "753",
+    "entityType": "1",
+    "titleTextEncoded": "Aaron-Ross-Here-s-My-Number",
+    "category": null,
+    "duration": 53,
+    "settings": {},
+    "asset": {
+        "type": "mp4",
+        "hdvFlag": 1,
+        "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/329855449_1280x721.jpg",
+        "mediaDuration": 53,
+        "prettyDuration": "00:53",
+        "uploadDate": 1344982500,
+        "tags": "etnies,etnies bmx,etnies Number Mid,Aaron Ross,Sunday Bikes,so call me maybe,carly rae jepsen",
+        "hookText": "#callmemaybe\nAaron Ross shows off his new etnies Number Mid colorways for Fall 12.",
+        "sources": [
+            {
+                "file": "https:\/\/player.vimeo.com\/external\/47552358.hd.mp4?s=9d1a18b977d08fbf68be9a708e8e41c8&profile_id=113&oauth2_token_id=62432308"
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

@@ -1,0 +1,46 @@
+{
+    "title": "Catching Up With Twitch: Rainy Day Edition",
+    "description": "Catching Up With Twitch: Rainy Day Edition",
+    "referenceId": null,
+    "date_created": "1440443386",
+    "date_modified": "1455843457",
+    "tags": "etnies,etnies MX,etnies Moto,etnies Auto,Twitch,Jeremy Stenberg,The X Life",
+    "sourceId": "3",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6379400",
+    "loginId": "753",
+    "entityType": "1",
+    "titleTextEncoded": "Catching-Up-With-Twitch-Rainy-Day-Edition",
+    "category": null,
+    "duration": 160,
+    "settings": {},
+    "asset": {
+        "type": "mp4",
+        "hdvFlag": 1,
+        "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/142516660_1280x720.jpg",
+        "mediaDuration": 160,
+        "prettyDuration": "02:40",
+        "uploadDate": 1302202207,
+        "tags": "etnies,etnies MX,etnies Moto,etnies Auto,Twitch,Jeremy Stenberg,The X Life",
+        "hookText": "http:\/\/www.facebook.com\/etnies",
+        "sources": [
+            {
+                "file": "https:\/\/player.vimeo.com\/external\/22091375.hd.mp4?s=6d32c2e186e24979c345528fb69c2840&profile_id=113&oauth2_token_id=62432308"
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

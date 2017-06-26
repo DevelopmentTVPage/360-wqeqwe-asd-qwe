@@ -1,0 +1,55 @@
+{
+    "title": "Vestal Roosevelt Watch",
+    "description": "[ VESTAL ROOSEVELT WATCH ]\nThe Roosevelt is a signature Vestal timepiece with its clean slim line case and straightforward dial. The premium 3 hand Japanese analog movement with date rests inside a multi-layered 42mm 316L solid stainless steel case. Laser-cut indexes then reveal a multi-layer dial that creates a unique design contrast for illuminating the hour markings. The 20mm wide genuine leather strap is integrated into the case with no lugs allowing the watch to hug your wrist and completing a clean and precise overall look and feel.\n\nSPECIFICATIONS:\nCASE: 42MM WIDE 316L STAINLESS STEEL \nBAND: 20MM WIDE PREMIUM GENUINE LEATHER\nBUCKLE: STAINLESS STEEL\nCRYSTAL: HARDENED MINERAL\nMOVEMENT: 3-HAND PREMIUM ANALOG WITH DATE. MADE IN JAPAN\nWATER RESISTANCE: 5 ATM \/ 50 METERS\nWRIST: MEDIUM\nOTHER::\nMULTI-LAYER CASE\nNO-LUG CONSTRUCTION\nMULTI-LAYER DIAL\nDATE WINDOW",
+    "referenceId": null,
+    "date_created": "1426290002",
+    "date_modified": "1455838229",
+    "tags": "Array,Array,Array,Array",
+    "sourceId": "3",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "5",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "3827165",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "1",
+    "entityIdParent": "3827161",
+    "titleTextEncoded": "Vestal-Roosevelt-Watch",
+    "category": null,
+    "duration": 84,
+    "settings": null,
+    "asset": {
+        "type": "mp4",
+        "hdvFlag": 0,
+        "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/452751271_1280x720.jpg",
+        "mediaDuration": 84,
+        "prettyDuration": "01:24",
+        "uploadDate": 1382478479,
+        "tags": "Array,Array,Array,Array",
+        "hookText": "[ VESTAL ROOSEVELT WATCH ]\n\nThe Roosevelt is a signature Vestal timepiece with its clean slim line case and straightforward dial. The premium 3 hand Japanese analog movement with date rests inside a multi-layered 42mm 316L solid stainless steel case. Lase",
+        "sources": [
+            {
+                "file": "https:\/\/player.vimeo.com\/external\/77543296.sd.mp4?s=903c9878f7c392e3c9d005e032c83894&profile_id=112&oauth2_token_id=57592639"
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

@@ -1,0 +1,70 @@
+{
+    "title": "SurfPlus- Tyler Warren",
+    "description": "Timeless essentials crafted with focus on durability while maintaining broken-in comfort and quality.",
+    "referenceId": "8c525ed3fd9697aa37ab09d932be373e",
+    "date_created": "1454633830",
+    "date_modified": "1454635949",
+    "tags": "",
+    "sourceId": null,
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "26020485",
+    "loginId": "753",
+    "entityType": "1",
+    "titleTextEncoded": "SurfPlus-Tyler-Warren",
+    "category": "",
+    "duration": 30,
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "30",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "30",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/26020485\/1080p_2425f_Tyler_surfplus_30.mp4",
+                "quality": "1080p"
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/26020485\/720p_2425f_Tyler_surfplus_30.mp4",
+                "quality": "720p"
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/26020485\/480p_2425f_Tyler_surfplus_30.mp4",
+                "quality": "480p"
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/26020485\/360p_2425f_Tyler_surfplus_30.mp4",
+                "quality": "360p"
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/26020485\/240p_2425f_Tyler_surfplus_30.mp4",
+                "quality": "240p"
+            }
+        ],
+        "thumbnailUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/26020485\/8c525ed3fd9697aa37ab09d932be373e.png",
+        "type": "mp4",
+        "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758218\/26020484\/dash.mpd",
+        "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758218\/26020484\/hls.m3u8"
+    },
+    "transcripts": "",
+    "metrics_statistics": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

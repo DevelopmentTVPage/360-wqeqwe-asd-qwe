@@ -1,0 +1,54 @@
+{
+    "title": "VLADIMIR \/\/ THE GREAT ESCAPE 2016 \/\/ DR. MARTENS",
+    "description": "Vladimir at The Great Escape 2016",
+    "referenceId": "FaI7ngzjPCg",
+    "date_created": "1465549297",
+    "date_modified": "1470181123",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": "Dr__Martens",
+    "video_celeb": "Vladimir",
+    "video_activity": "Music",
+    "VV_VI": "1",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "67135010",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "8",
+    "entityIdParent": "67134993",
+    "titleTextEncoded": "VLADIMIR-THE-GREAT-ESCAPE-2016-DR-MARTENS",
+    "category": "",
+    "duration": 211,
+    "settings": "",
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/FaI7ngzjPCg\/hqdefault.jpg",
+        "uploadDate": 1465549297,
+        "videoId": "FaI7ngzjPCg",
+        "title": "VLADIMIR \/\/ THE GREAT ESCAPE 2016 \/\/ DR. MARTENS",
+        "description": "Vladimir at The Great Escape 2016",
+        "author": "DrMartensOfficial",
+        "mediaDuration": 211,
+        "prettyDuration": "00:03:31",
+        "views": "141",
+        "uploadAsset": false,
+        "quality": ""
+    },
+    "transcripts": "[Music Playing]\nWe are Vladimir",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

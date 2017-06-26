@@ -1,0 +1,55 @@
+{
+    "title": "EVAN GEISELMAN'S HAWAII QUIVER",
+    "description": "Evan breaks down the five boards he brought to Hawaii. Video: PK.",
+    "referenceId": "K1BpnEPmmic",
+    "date_created": "1292437237",
+    "date_modified": "1449098349",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "3",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6545235",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "41",
+    "entityIdParent": "158318",
+    "titleTextEncoded": "EVAN-GEISELMAN-S-HAWAII-QUIVER",
+    "category": null,
+    "duration": "140",
+    "settings": {
+        "parentFeedId": "6544969",
+        "parentFeedLoginId": "753"
+    },
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/K1BpnEPmmic\/hqdefault.jpg",
+        "uploadDate": 1292437237,
+        "videoId": "K1BpnEPmmic",
+        "title": "EVAN GEISELMAN'S HAWAII QUIVER",
+        "description": "Evan breaks down the five boards he brought to Hawaii. Video: PK.",
+        "author": "hurley",
+        "mediaDuration": "140",
+        "prettyDuration": "00:02:20",
+        "views": "14679"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

@@ -1,0 +1,1119 @@
+{
+    "pageNumber": 7,
+    "data": [
+        {
+            "id": "67455321",
+            "title": "nataliehessingg",
+            "date_created": "1471020345",
+            "loginId": "753",
+            "tags": "",
+            "description": "nataliehessingg",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "26",
+                    "width": 640,
+                    "height": 360
+                },
+                "mediaDuration": "26",
+                "prettyDuration": "00:00:26",
+                "thumbnailUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67455321\/67657\/thumb-49643b2b04e76377b5b15e7df9f76860-00001.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67455321\/67657\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67455321\/67657\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67455321\/67657\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67455321\/67657\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "67314311",
+            "url": "\/star-search\/nataliehessingg6-mp4\/67314311-67455321"
+        },
+        {
+            "id": "67455319",
+            "title": "missangelwalker",
+            "date_created": "1471020343",
+            "loginId": "753",
+            "tags": "",
+            "description": "missangelwalker",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "10",
+                    "width": 640,
+                    "height": 640
+                },
+                "mediaDuration": "10",
+                "prettyDuration": "00:00:10",
+                "thumbnailUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67455319\/79eb7\/thumb-09f0f8deb64d802a4ebb2096778dade0-00001.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67455319\/79eb7\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67455319\/79eb7\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67455319\/79eb7\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 640
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67455319\/79eb7\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67455319\/79eb7\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 360,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67455319\/79eb7\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 240,
+                        "height": 240
+                    }
+                ]
+            },
+            "parentId": "67314311",
+            "url": "\/star-search\/missangelwalker6-1-mp4\/67314311-67455319"
+        },
+        {
+            "id": "67455318",
+            "title": "mcguffiemarissa",
+            "date_created": "1471020341",
+            "loginId": "753",
+            "tags": "",
+            "description": "mcguffiemarissa",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "10",
+                    "width": 640,
+                    "height": 640
+                },
+                "mediaDuration": "10",
+                "prettyDuration": "00:00:10",
+                "thumbnailUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67455318\/e2216\/thumb-4fc6307ddc69571eca0a45f3a445131f-00001.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67455318\/e2216\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67455318\/e2216\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67455318\/e2216\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 640
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67455318\/e2216\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67455318\/e2216\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 360,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67455318\/e2216\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 240,
+                        "height": 240
+                    }
+                ]
+            },
+            "parentId": "67314311",
+            "url": "\/star-search\/mcguffiemarissa6-mp4\/67314311-67455318"
+        },
+        {
+            "id": "67455301",
+            "title": "gracebedikian.music",
+            "date_created": "1471020311",
+            "loginId": "753",
+            "tags": "",
+            "description": "gracebedikian.music",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "54",
+                    "width": 640,
+                    "height": 360
+                },
+                "mediaDuration": "54",
+                "prettyDuration": "00:00:54",
+                "thumbnailUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67455301\/8c63e\/thumb-c5f58ffdc56cef22161d53b2171f987c-00001.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67455301\/8c63e\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67455301\/8c63e\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67455301\/8c63e\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67455301\/8c63e\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "67314311",
+            "url": "\/star-search\/gracebedikian-music6-2-mp4\/67314311-67455301"
+        },
+        {
+            "id": "67455320",
+            "title": "missangelwalker",
+            "date_created": "1471020344",
+            "loginId": "753",
+            "tags": "",
+            "description": "missangelwalker",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "10",
+                    "width": 640,
+                    "height": 640
+                },
+                "mediaDuration": "10",
+                "prettyDuration": "00:00:10",
+                "thumbnailUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67455320\/78e12\/thumb-2f6a2d7813d0ea9d8784bd0429326f8d-00001.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67455320\/78e12\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67455320\/78e12\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67455320\/78e12\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 640
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67455320\/78e12\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67455320\/78e12\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 360,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67455320\/78e12\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 240,
+                        "height": 240
+                    }
+                ]
+            },
+            "parentId": "67314311",
+            "url": "\/star-search\/missangelwalker6-mp4\/67314311-67455320"
+        },
+        {
+            "id": "67455309",
+            "title": "juh_bree_z",
+            "date_created": "1471020324",
+            "loginId": "753",
+            "tags": "",
+            "description": "juh_bree_z",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "54",
+                    "width": 640,
+                    "height": 360
+                },
+                "mediaDuration": "54",
+                "prettyDuration": "00:00:54",
+                "thumbnailUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67455309\/436c4\/thumb-347a146788e2c3d6715cd0435b21f222-00001.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67455309\/436c4\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67455309\/436c4\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67455309\/436c4\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67455309\/436c4\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "67314311",
+            "url": "\/star-search\/juh-bree-z6-2-mp4\/67314311-67455309"
+        },
+        {
+            "id": "67455300",
+            "title": "gracebedikian.music",
+            "date_created": "1471020310",
+            "loginId": "753",
+            "tags": "",
+            "description": "gracebedikian.music",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "60",
+                    "width": 640,
+                    "height": 360
+                },
+                "mediaDuration": "60",
+                "prettyDuration": "00:01:00",
+                "thumbnailUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67455300\/5a4cc\/thumb-c2d2eca3e129357fcbd580a454962cdb-00001.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67455300\/5a4cc\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67455300\/5a4cc\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67455300\/5a4cc\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67455300\/5a4cc\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "67314311",
+            "url": "\/star-search\/gracebedikian-music6-1-mp4\/67314311-67455300"
+        },
+        {
+            "id": "67455299",
+            "title": "gr7ffin",
+            "date_created": "1471020309",
+            "loginId": "753",
+            "tags": "",
+            "description": "gr7ffin",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "37",
+                    "width": 640,
+                    "height": 360
+                },
+                "mediaDuration": "37",
+                "prettyDuration": "00:00:37",
+                "thumbnailUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67455299\/8a964\/thumb-2f25865e17b8124354b19a5f92e985b0-00001.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67455299\/8a964\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67455299\/8a964\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67455299\/8a964\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67455299\/8a964\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "67314311",
+            "url": "\/star-search\/gr7ffin6-mp4\/67314311-67455299"
+        },
+        {
+            "id": "67455293",
+            "title": "doctorwhosyourdaddy89",
+            "date_created": "1471020294",
+            "loginId": "753",
+            "tags": "",
+            "description": "doctorwhosyourdaddy89",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "43",
+                    "width": 640,
+                    "height": 800
+                },
+                "mediaDuration": "43",
+                "prettyDuration": "00:00:43",
+                "thumbnailUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67455293\/55ef1\/thumb-c6485ed867fde4c929069dfb5ba16f44-00001.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67455293\/55ef1\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67455293\/55ef1\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67455293\/55ef1\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 800
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67455293\/55ef1\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 576,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67455293\/55ef1\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 384,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67455293\/55ef1\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 288,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67455293\/55ef1\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 192,
+                        "height": 240
+                    }
+                ]
+            },
+            "parentId": "67314311",
+            "url": "\/star-search\/doctorwhosyourdaddy896-2-mp4\/67314311-67455293"
+        },
+        {
+            "id": "67455298",
+            "title": "farahh_23",
+            "date_created": "1471020305",
+            "loginId": "753",
+            "tags": "",
+            "description": "farahh_23",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "32",
+                    "width": 640,
+                    "height": 360
+                },
+                "mediaDuration": "32",
+                "prettyDuration": "00:00:32",
+                "thumbnailUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67455298\/333c5\/thumb-f045c5b0d1cb298631035bb35939eb46-00001.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67455298\/333c5\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67455298\/333c5\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67455298\/333c5\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67455298\/333c5\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "67314311",
+            "url": "\/star-search\/farahh-236-mp4\/67314311-67455298"
+        },
+        {
+            "id": "67455297",
+            "title": "entoxicvted",
+            "date_created": "1471020305",
+            "loginId": "753",
+            "tags": "",
+            "description": "entoxicvted",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "51",
+                    "width": 640,
+                    "height": 480
+                },
+                "mediaDuration": "51",
+                "prettyDuration": "00:00:51",
+                "thumbnailUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67455297\/301dd\/thumb-174959dbac2f7079de1619456b9f984b-00001.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67455297\/301dd\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67455297\/301dd\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67455297\/301dd\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67455297\/301dd\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67455297\/301dd\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 240
+                    }
+                ]
+            },
+            "parentId": "67314311",
+            "url": "\/star-search\/entoxicvted6-mp4\/67314311-67455297"
+        },
+        {
+            "id": "67455294",
+            "title": "doctorwhosyourdaddy89",
+            "date_created": "1471020299",
+            "loginId": "753",
+            "tags": "",
+            "description": "doctorwhosyourdaddy89",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "47",
+                    "width": 640,
+                    "height": 800
+                },
+                "mediaDuration": "47",
+                "prettyDuration": "00:00:47",
+                "thumbnailUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67455294\/be424\/thumb-cbc9b68ecf9caff4057b58a9ec634d22-00001.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67455294\/be424\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67455294\/be424\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67455294\/be424\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 800
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67455294\/be424\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 576,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67455294\/be424\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 384,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67455294\/be424\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 288,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67455294\/be424\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 192,
+                        "height": 240
+                    }
+                ]
+            },
+            "parentId": "67314311",
+            "url": "\/star-search\/doctorwhosyourdaddy896-3-mp4\/67314311-67455294"
+        },
+        {
+            "id": "67455296",
+            "title": "emiiiif",
+            "date_created": "1471020303",
+            "loginId": "753",
+            "tags": "",
+            "description": "emiiiif",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "10",
+                    "width": 640,
+                    "height": 360
+                },
+                "mediaDuration": "10",
+                "prettyDuration": "00:00:10",
+                "thumbnailUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67455296\/99a5d\/thumb-188c6c12679ad41b6293657d8a873cdb-00001.jpg",
+                "type": "mp4",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67455296\/99a5d\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67455296\/99a5d\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "67314311",
+            "url": "\/star-search\/emiiiif6-mp4\/67314311-67455296"
+        },
+        {
+            "id": "67455295",
+            "title": "doctorwhosyourdaddy89",
+            "date_created": "1471020302",
+            "loginId": "753",
+            "tags": "",
+            "description": "doctorwhosyourdaddy89",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "39",
+                    "width": 640,
+                    "height": 800
+                },
+                "mediaDuration": "39",
+                "prettyDuration": "00:00:39",
+                "thumbnailUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67455295\/01c6c\/thumb-d56b14cb06aa3f87be85a056e3fe0f44-00001.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67455295\/01c6c\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67455295\/01c6c\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67455295\/01c6c\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 800
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67455295\/01c6c\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 576,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67455295\/01c6c\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 384,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67455295\/01c6c\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 288,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67455295\/01c6c\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 192,
+                        "height": 240
+                    }
+                ]
+            },
+            "parentId": "67314311",
+            "url": "\/star-search\/doctorwhosyourdaddy896-mp4\/67314311-67455295"
+        },
+        {
+            "id": "67455292",
+            "title": "dianagelso",
+            "date_created": "1471020290",
+            "loginId": "753",
+            "tags": "",
+            "description": "dianagelso",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "15",
+                    "width": 480,
+                    "height": 600
+                },
+                "mediaDuration": "15",
+                "prettyDuration": "00:00:15",
+                "thumbnailUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67455292\/554ef\/thumb-fcb55636c6fdcabff83edbd156cf03df-00001.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67455292\/554ef\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67455292\/554ef\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67455292\/554ef\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 600
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67455292\/554ef\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 384,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67455292\/554ef\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 288,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67455292\/554ef\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 192,
+                        "height": 240
+                    }
+                ]
+            },
+            "parentId": "67314311",
+            "url": "\/star-search\/dianagelso6-mp4\/67314311-67455292"
+        },
+        {
+            "id": "67455291",
+            "title": "devinsiebold",
+            "date_created": "1471020289",
+            "loginId": "753",
+            "tags": "",
+            "description": "devinsiebold",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "59",
+                    "width": 640,
+                    "height": 640
+                },
+                "mediaDuration": "59",
+                "prettyDuration": "00:00:59",
+                "thumbnailUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67455291\/d15a5\/thumb-2f9ef725f07edc3632a8d8ae4419c425-00001.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67455291\/d15a5\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67455291\/d15a5\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67455291\/d15a5\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 640
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67455291\/d15a5\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67455291\/d15a5\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 360,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67455291\/d15a5\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 240,
+                        "height": 240
+                    }
+                ]
+            },
+            "parentId": "67314311",
+            "url": "\/star-search\/devinsiebold6-mp4\/67314311-67455291"
+        },
+        {
+            "id": "67455290",
+            "title": "cq.amy",
+            "date_created": "1471020287",
+            "loginId": "753",
+            "tags": "",
+            "description": "cq.amy",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "18",
+                    "width": 640,
+                    "height": 640
+                },
+                "mediaDuration": "18",
+                "prettyDuration": "00:00:18",
+                "thumbnailUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67455290\/9a53f\/thumb-60541af3f65d17f7c617e34abbefc66d-00001.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67455290\/9a53f\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67455290\/9a53f\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67455290\/9a53f\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 640
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67455290\/9a53f\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67455290\/9a53f\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 360,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67455290\/9a53f\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 240,
+                        "height": 240
+                    }
+                ]
+            },
+            "parentId": "67314311",
+            "url": "\/star-search\/cq-amy6-mp4\/67314311-67455290"
+        },
+        {
+            "id": "67455289",
+            "title": "chloegines",
+            "date_created": "1471020285",
+            "loginId": "753",
+            "tags": "",
+            "description": "chloegines",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "15",
+                    "width": 480,
+                    "height": 480
+                },
+                "mediaDuration": "15",
+                "prettyDuration": "00:00:15",
+                "thumbnailUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67455289\/76aa6\/thumb-a0274c52a1542e836197aa2efe32712a-00001.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67455289\/76aa6\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67455289\/76aa6\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67455289\/76aa6\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67455289\/76aa6\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 360,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67455289\/76aa6\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 240,
+                        "height": 240
+                    }
+                ]
+            },
+            "parentId": "67314311",
+            "url": "\/star-search\/chloegines6-mp4\/67314311-67455289"
+        },
+        {
+            "id": "67455288",
+            "title": "brianna.sings16",
+            "date_created": "1471020284",
+            "loginId": "753",
+            "tags": "",
+            "description": "brianna.sings16",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "9",
+                    "width": 640,
+                    "height": 800
+                },
+                "mediaDuration": "9",
+                "prettyDuration": "00:00:09",
+                "thumbnailUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67455288\/98d28\/thumb-1950b2fe4f2549fa00e9c354b510c59b-00001.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67455288\/98d28\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67455288\/98d28\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67455288\/98d28\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 800
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67455288\/98d28\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 576,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67455288\/98d28\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 384,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67455288\/98d28\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 288,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67455288\/98d28\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 192,
+                        "height": 240
+                    }
+                ]
+            },
+            "parentId": "67314311",
+            "url": "\/star-search\/brianna-sings166-mp4\/67314311-67455288"
+        },
+        {
+            "id": "67455287",
+            "title": "bmx_spammm",
+            "date_created": "1471020282",
+            "loginId": "753",
+            "tags": "",
+            "description": "bmx_spammm",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "60",
+                    "width": 640,
+                    "height": 640
+                },
+                "mediaDuration": "60",
+                "prettyDuration": "00:01:00",
+                "thumbnailUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67455287\/4b6ec\/thumb-6218b9f2c0345464f8ff86f10e635611-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67455287\/4b6ec\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67455287\/4b6ec\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67455287\/4b6ec\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 640
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67455287\/4b6ec\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67455287\/4b6ec\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 360,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/67455287\/4b6ec\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 240,
+                        "height": 240
+                    }
+                ]
+            },
+            "parentId": "67314311",
+            "url": "\/star-search\/bmx-spammm6-mp4\/67314311-67455287"
+        }
+    ]
+}

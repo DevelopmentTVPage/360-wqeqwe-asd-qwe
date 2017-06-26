@@ -1,0 +1,55 @@
+{
+    "title": "Introducing Brian Kachinsky's Jameson 2 Mid",
+    "description": "Introducing Brian Kachinsky's Jameson 2 Mid",
+    "referenceId": "26447212",
+    "date_created": "1443720329",
+    "date_modified": "1449857991",
+    "tags": "Brian Kachinsky,etnies,bmx,Jameson 2 Mid,BK colorway,Chicago,Missouri",
+    "sourceId": "3",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "1",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6418512",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "107",
+    "entityIdParent": "168527",
+    "titleTextEncoded": "Introducing-Brian-Kachinsky-s-Jameson-2-Mid",
+    "category": null,
+    "duration": 226,
+    "settings": {},
+    "asset": {
+        "type": "mp4",
+        "hdvFlag": 1,
+        "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/181020727_1280x699.jpg",
+        "mediaDuration": 226,
+        "prettyDuration": "03:46",
+        "uploadDate": 1310678296,
+        "tags": "Brian Kachinsky,etnies,bmx,Jameson 2 Mid,BK colorway,Chicago,Missouri",
+        "hookText": "Introducing Brian Kachinsky's Jameson 2 Mid\n\nwww.etnies.com\nwww.facebook.com\/etnies\nwww.facebook.com\/etnies.europe",
+        "sources": [
+            {
+                "file": "https:\/\/player.vimeo.com\/external\/26447212.hd.mp4?s=29da8b21ac61ea6f363dac1e84560a6e&profile_id=113&oauth2_token_id=62432308"
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

@@ -1,0 +1,53 @@
+{
+    "title": "Kendall & Kylie Jenner for Madden Girl",
+    "description": "Get a look at the fun new collection from Kendall & Kylie Jenner for Madden Girl!",
+    "referenceId": null,
+    "date_created": "1410196115",
+    "date_modified": "1470271767",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": "Madden_Girl",
+    "video_celeb": null,
+    "video_activity": "Art___Design",
+    "VV_VI": "12",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "3764362",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "3",
+    "entityIdParent": "3764367",
+    "titleTextEncoded": "Kendall-Kylie-Jenner-for-Madden-Girl",
+    "category": null,
+    "duration": "48",
+    "settings": [],
+    "asset": {
+        "author": "STEVE MADDEN",
+        "hdvFlag": 1,
+        "hookText": "Get a look at the fun new collection from Kendall & Kylie Jenner for Madden Girl! #KendallKylieMaddenGirl.",
+        "tags": "",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/4HEarwWFJbY\/maxresdefault.jpg",
+        "uploadDate": 1392316029,
+        "videoId": "4HEarwWFJbY",
+        "mediaDuration": "48",
+        "prettyDuration": "00:00:48",
+        "uploadAsset": false,
+        "quality": ""
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

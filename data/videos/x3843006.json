@@ -1,0 +1,61 @@
+{
+    "title": "FEEL YOUR FASTEST: THE PHANTOM JULIAN ELITE",
+    "description": "Introducing Julian Wilson's signature boardshort, the Phantom Julian Elite: Built for Speed.",
+    "referenceId": null,
+    "date_created": "1432852551",
+    "date_modified": "1470243893",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": "Hurley",
+    "video_celeb": null,
+    "video_activity": "Surfing",
+    "VV_VI": "269",
+    "CVV_VI": "9",
+    "engagement_score": "2",
+    "conversion_score": null,
+    "id": "3843006",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "213",
+    "entityIdParent": "3764790",
+    "titleTextEncoded": "FEEL-YOUR-FASTEST-THE-PHANTOM-JULIAN-ELITE",
+    "category": null,
+    "duration": "37",
+    "settings": [],
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/5qynXDN9210\/hqdefault.jpg",
+        "uploadDate": 1427698800,
+        "videoId": "5qynXDN9210",
+        "title": "FEEL YOUR FASTEST: THE PHANTOM JULIAN ELITE",
+        "description": "Introducing Julian Wilson's signature boardshort, the Phantom Julian Elite: Built for Speed. Pre-order at http:\/\/bit.ly\/JulianElite.",
+        "author": "hurley",
+        "mediaDuration": "37",
+        "prettyDuration": "00:00:37",
+        "views": "7384",
+        "hookText": "Introducing Julian Wilson's signature boardshort, the Phantom Julian Elite: Built for Speed. ",
+        "uploadAsset": false,
+        "quality": ""
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "conversion_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

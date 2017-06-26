@@ -1,0 +1,54 @@
+{
+    "title": "G-SHOCK X Burton : U.S Open featuring Louie Vito",
+    "description": "G-SHOCK X Burton : U.S Open featuring Louie Vito",
+    "referenceId": "e5Iaj99jYvg",
+    "date_created": "1456763112",
+    "date_modified": "1472582900",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "2",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "67602805",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "28",
+    "entityIdParent": "168556",
+    "titleTextEncoded": "G-SHOCK-X-Burton-U-S-Open-featuring-Louie-Vito",
+    "category": "",
+    "duration": 30,
+    "settings": "",
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/e5Iaj99jYvg\/hqdefault.jpg",
+        "uploadDate": 1456763112,
+        "videoId": "e5Iaj99jYvg",
+        "title": "G-SHOCK X Burton : U.S Open featuring Louie Vito",
+        "description": "",
+        "author": "gshockus",
+        "mediaDuration": 30,
+        "prettyDuration": "00:00:30",
+        "views": "356",
+        "uploadAsset": false,
+        "quality": ""
+    },
+    "transcripts": "[Music Playing]",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

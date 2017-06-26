@@ -1,0 +1,56 @@
+{
+    "title": "ELEMENT BACKPACKS -- NICK GARCIA -- KEEP DISCOVERING",
+    "description": "ELEMENT BACKPACKS -- NICK GARCIA -- KEEP DISCOVERING",
+    "referenceId": null,
+    "date_created": "1417808298",
+    "date_modified": "1418182233",
+    "tags": "",
+    "sourceId": "1",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "3788210",
+    "loginId": "753",
+    "entityType": "1",
+    "titleTextEncoded": "ELEMENT-BACKPACKS-NICK-GARCIA-KEEP-DISCOVERING",
+    "category": null,
+    "duration": "15",
+    "settings": [],
+    "asset": {
+        "type": "mp4",
+        "sources": [
+            {
+                "file": "https:\/\/d2mhchrq41duh4.cloudfront.net\/753\/3788210\/c55e793b_1417_47ba_dd00_3f5e1a2d0413.mp4"
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/3788210\/720p_c55e793b_1417_47ba_dd00_3f5e1a2d0413.mp4",
+                "quality": "720p"
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/3788210\/480p_c55e793b_1417_47ba_dd00_3f5e1a2d0413.mp4",
+                "quality": "480p"
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/3788210\/360p_c55e793b_1417_47ba_dd00_3f5e1a2d0413.mp4",
+                "quality": "360p"
+            }
+        ],
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/753\/canvas\/655\/368\/617783956-025656393.jpg",
+        "mediaDuration": "15",
+        "prettyDuration": "00:00:15",
+        "hookText": "ELEMENT BACKPACKS -- NICK GARCIA -- KEEP DISCOVERING",
+        "tags": ""
+    },
+    "transcripts": null,
+    "metrics_statistics": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

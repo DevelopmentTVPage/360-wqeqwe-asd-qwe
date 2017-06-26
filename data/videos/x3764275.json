@@ -1,0 +1,53 @@
+{
+    "title": "Elwood Silas Baxter-Neal Artist Reel",
+    "description": "Silas Baxter-Neal's Artist Reel.",
+    "referenceId": null,
+    "date_created": "1409940140",
+    "date_modified": "1470263855",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": "Elwood",
+    "video_celeb": null,
+    "video_activity": "Skating",
+    "VV_VI": "3",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "3764275",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "2",
+    "entityIdParent": "3764272",
+    "titleTextEncoded": "Elwood-Silas-Baxter-Neal-Artist-Reel",
+    "category": null,
+    "duration": "122",
+    "settings": [],
+    "asset": {
+        "author": "elwoodclothing",
+        "hdvFlag": 0,
+        "hookText": "Silas Baxter-Neal's Artist Reel.",
+        "tags": "",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/x5iNO-11t40\/hqdefault.jpg",
+        "uploadDate": 1278449671,
+        "videoId": "x5iNO-11t40",
+        "mediaDuration": "122",
+        "prettyDuration": "00:02:02",
+        "uploadAsset": false,
+        "quality": ""
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

@@ -1,0 +1,48 @@
+{
+    "title": "Shop etnies Girls Spring",
+    "description": "etnies Girl Spring 2012 collection is available now... and it's still winter! Although you wouldn't know it by the 80 degree weather around here.",
+    "referenceId": "35348585",
+    "date_created": "1443553328",
+    "date_modified": "1450479917",
+    "tags": "etnies,etnies Girl,Spring 12 footwear & apparel",
+    "sourceId": "3",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6417825",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "165",
+    "entityIdParent": "168527",
+    "titleTextEncoded": "Shop-etnies-Girls-Spring",
+    "category": null,
+    "duration": 62,
+    "settings": {},
+    "asset": {
+        "type": "mp4",
+        "hdvFlag": 1,
+        "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/258047762_1280x698.jpg",
+        "mediaDuration": 62,
+        "prettyDuration": "01:02",
+        "uploadDate": 1327017743,
+        "tags": "etnies,etnies Girl,Spring 12 footwear & apparel",
+        "hookText": "etnies Girl Spring 2012 collection is available now... and it's still winter! Although you wouldn't know it by the 80 degree weather around here.\nhttp:\/\/etnies.com\/shop\/girls\/spring-12",
+        "sources": [
+            {
+                "file": "https:\/\/player.vimeo.com\/external\/35348585.hd.mp4?s=fb99d8575cb0ae547b34ec161f22fe8f&profile_id=113&oauth2_token_id=62432308"
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

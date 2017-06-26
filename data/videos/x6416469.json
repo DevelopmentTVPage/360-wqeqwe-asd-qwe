@@ -1,0 +1,70 @@
+{
+    "title": "Ultratide_Conner_Coffin_FULL_LENGTH.mp4",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1443458357",
+    "date_modified": "1443458365",
+    "tags": "",
+    "sourceId": "1",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "188",
+    "CVV_VI": null,
+    "engagement_score": "1",
+    "conversion_score": null,
+    "id": "6416469",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "4",
+    "entityIdParent": "168526",
+    "titleTextEncoded": "Ultratide-Conner-Coffin-FULL-LENGTH-mp4",
+    "category": null,
+    "duration": "193",
+    "settings": {},
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "193"
+        },
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/6416469\/720p_6f4b3_Ultratide_Conner_Coffin_FULL_LENGTH.mp4",
+                "quality": "720p"
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/6416469\/480p_6f4b3_Ultratide_Conner_Coffin_FULL_LENGTH.mp4",
+                "quality": "480p"
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/6416469\/360p_6f4b3_Ultratide_Conner_Coffin_FULL_LENGTH.mp4",
+                "quality": "360p"
+            }
+        ],
+        "thumbnailUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/6416469\/c741ab224c2ee3465422dc0acae45b9a.png",
+        "hookText": "",
+        "type": "mp4",
+        "mediaDuration": "193",
+        "prettyDuration": "00:03:13",
+        "tags": ""
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

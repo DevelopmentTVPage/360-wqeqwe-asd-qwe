@@ -1,0 +1,53 @@
+{
+    "title": "Kelly Slater - Perfect Ten - Volcom Pipe Pro 2014",
+    "description": "Volcom Pipe Pro 2014 Kelly Slater get a perfect wave",
+    "referenceId": null,
+    "date_created": "1401170329",
+    "date_modified": "1449872323",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "1",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "168568",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "155",
+    "entityIdParent": "168557",
+    "titleTextEncoded": "Kelly-Slater-Perfect-Ten-Volcom-Pipe-Pro-2014",
+    "category": null,
+    "duration": 86,
+    "settings": [],
+    "asset": {
+        "author": "Paulo Sousa",
+        "hdvFlag": 0,
+        "hookText": "Volcom Pipe Pro 2014 Kelly Slater get a perfect wave.",
+        "tags": "",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/r_f_rzF1ArE\/hqdefault.jpg",
+        "uploadDate": 1391642700,
+        "videoId": "r_f_rzF1ArE",
+        "mediaDuration": "86",
+        "prettyDuration": "01:26"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": [
+        "33"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

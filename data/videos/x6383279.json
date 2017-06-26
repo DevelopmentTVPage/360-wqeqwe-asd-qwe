@@ -1,0 +1,53 @@
+{
+    "title": "adidas Skateboarding Silas SLR",
+    "description": "Learn more about the new Silas SLR for adidas Skateboarding, combining vintage running style with a unique construction built for skate.",
+    "referenceId": null,
+    "date_created": "1440638230",
+    "date_modified": "1455845132",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "3",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6383279",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "83",
+    "entityIdParent": "168510",
+    "titleTextEncoded": "adidas-Skateboarding-Silas-SLR",
+    "category": null,
+    "duration": "193",
+    "settings": {},
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/5h34Zc-fko4\/hqdefault.jpg",
+        "uploadDate": 1390204802,
+        "videoId": "5h34Zc-fko4",
+        "title": "adidas Skateboarding Silas SLR",
+        "description": "Learn more about the new Silas SLR for adidas Skateboarding, combining vintage running style with a unique construction built for skate. Official Website: ...",
+        "author": "adidasSkateboarding",
+        "mediaDuration": "193",
+        "prettyDuration": "00:03:13",
+        "views": "111487",
+        "hookText": "Learn more about the new Silas SLR for adidas Skateboarding, combining vintage running style with a unique construction built for skate. Official Website: ..."
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

@@ -1,0 +1,54 @@
+{
+    "title": "Levi's\u00ae 711 Skinny",
+    "description": "The Levi's\u00ae 711 Skinny - denim built for a night to remember. A modern classic with endless possibilities. #LiveInLevis",
+    "referenceId": "_isnX-hY3f0",
+    "date_created": "1470193442",
+    "date_modified": "1472598987",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": "Levi_s",
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "2",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "67603275",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "16",
+    "entityIdParent": "168530",
+    "titleTextEncoded": "Levi-s-711-Skinny",
+    "category": "",
+    "duration": 17,
+    "settings": "",
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/_isnX-hY3f0\/hqdefault.jpg",
+        "uploadDate": 1470193442,
+        "videoId": "_isnX-hY3f0",
+        "title": "Levi's\u00ae 711 Skinny",
+        "description": "The Levi's\u00ae 711 Skinny - denim built for a night to remember. A modern classic with endless possibilities. #LiveInLevis\n\nShop the 711 Skinny: http:\/\/www.levi.com\/US\/en_US\/",
+        "author": "Levi's\u00ae",
+        "mediaDuration": 17,
+        "prettyDuration": "00:00:17",
+        "views": "228009",
+        "uploadAsset": false,
+        "quality": ""
+    },
+    "transcripts": "[Music Playing]",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

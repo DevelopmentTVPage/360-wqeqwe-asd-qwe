@@ -1,0 +1,51 @@
+{
+    "title": "GoPro: Munich By Night With Ryan Sheckler",
+    "description": "Shot 100% on the HD HERO3\u00ae camera \n\nRyan Sheckler takes to the streets of Munich, Germany on a night skate mission.\n\nMusic\nWe Are Wolves \"T.R.O.U.B.L.E.\"",
+    "referenceId": null,
+    "date_created": "1409248954",
+    "date_modified": "1449626203",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "1",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "3762194",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "6",
+    "entityIdParent": "3762188",
+    "titleTextEncoded": "GoPro-Munich-By-Night-With-Ryan-Sheckler",
+    "category": null,
+    "duration": "111",
+    "settings": [],
+    "asset": {
+        "author": "GoPro",
+        "hdvFlag": 1,
+        "hookText": "Shot 100% on the HD HERO3\u00ae camera from \u202ahttp:\/\/GoPro.com. Ryan Sheckler takes to the streets of Munich, Germany on a night skate mission. Music We Are Wolves...\u202c",
+        "tags": "",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/y4IdrG33AhI\/maxresdefault.jpg",
+        "uploadDate": 1395788494,
+        "videoId": "y4IdrG33AhI",
+        "mediaDuration": "111",
+        "prettyDuration": "00:01:51"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

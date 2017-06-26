@@ -1,0 +1,71 @@
+{
+    "title": "STANCE EXPRESSION SPRING 2015",
+    "description": "STANCE EXPRESSION SPRING 2015",
+    "referenceId": null,
+    "date_created": "1421713612",
+    "date_modified": "1450488157",
+    "tags": "",
+    "sourceId": "1",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "855",
+    "CVV_VI": "67",
+    "engagement_score": "7",
+    "conversion_score": "5",
+    "id": "3816139",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "1",
+    "entityIdParent": "195753",
+    "titleTextEncoded": "STANCE-EXPRESSION-SPRING-2015",
+    "category": null,
+    "duration": "76",
+    "settings": [],
+    "asset": {
+        "type": "mp4",
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/753\/canvas\/655\/368\/930804833-6181212641.png",
+        "mediaDuration": "76",
+        "prettyDuration": "00:01:16",
+        "hookText": "STANCE EXPRESSION SPRING 2015",
+        "tags": "",
+        "sources": [
+            {
+                "file": "https:\/\/d2mhchrq41duh4.cloudfront.net\/753\/3816139\/1b313ee0_f260_4aaf_9bd0_c0afa67479cc.mp4"
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/3816139\/720p_1b313ee0_f260_4aaf_9bd0_c0afa67479cc.mp4",
+                "quality": "720p"
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/3816139\/480p_1b313ee0_f260_4aaf_9bd0_c0afa67479cc.mp4",
+                "quality": "480p"
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/3816139\/360p_1b313ee0_f260_4aaf_9bd0_c0afa67479cc.mp4",
+                "quality": "360p"
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "conversion_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

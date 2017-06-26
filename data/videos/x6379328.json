@@ -1,0 +1,48 @@
+{
+    "title": "transparentsea voyage with chris del moro",
+    "description": "etnies\u2019 team rider Chris Del Moro is a constant advocate for the environment, appreciating the Earth in every way he can.  With the 2011 TransparentSea Voyage, he was part of a small crew of eight surfers, artists, musicians and environmentalists who took",
+    "referenceId": null,
+    "date_created": "1440443272",
+    "date_modified": "1440443272",
+    "tags": "etnies,Chris Del Moro,TransparentSea",
+    "sourceId": "3",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6379328",
+    "loginId": "753",
+    "entityType": "1",
+    "titleTextEncoded": "transparentsea-voyage-with-chris-del-moro",
+    "category": null,
+    "duration": 124,
+    "settings": [],
+    "asset": {
+        "type": "mp4",
+        "sources": [
+            {
+                "file": "https:\/\/player.vimeo.com\/external\/31814933.hd.mp4?s=22eff80ca0c881cafa79542b919e6981&profile_id=113&oauth2_token_id=62432308"
+            }
+        ],
+        "hdvFlag": 1,
+        "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/214725017_1280x720.jpg",
+        "mediaDuration": 124,
+        "prettyDuration": "02:04",
+        "uploadDate": 1320790470,
+        "tags": "etnies,Chris Del Moro,TransparentSea",
+        "hookText": "etnies\u2019 team rider Chris Del Moro is a constant advocate for the environment, appreciating the Earth in every way he can.  With the 2011 TransparentSea Voyage, he was part of a small crew of eight surfers, artists, musicians and environmentalists who took"
+    },
+    "transcripts": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "33"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

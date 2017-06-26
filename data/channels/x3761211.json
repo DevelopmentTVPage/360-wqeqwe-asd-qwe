@@ -1,0 +1,31 @@
+{
+    "title": "Backpacks",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1408749263",
+    "date_modified": "1409249226",
+    "tags": "",
+    "sourceId": null,
+    "status": "approved",
+    "visibility": "1",
+    "id": "3761211",
+    "loginId": "753",
+    "entityType": "3",
+    "titleTextEncoded": "Backpacks",
+    "category": null,
+    "duration": null,
+    "settings": {
+        "canvasImage": "821191730-0.jpg",
+        "colorClass": "light",
+        "canvasType": "cropped",
+        "canvasCropped": "821191730-0541024630.jpg",
+        "hideoos": 1,
+        "auto": {
+            "dynamic": 0,
+            "limit": 16
+        },
+        "optimize": 1,
+        "autoPlay": 0
+    },
+    "transcripts": null
+}

@@ -1,0 +1,54 @@
+{
+    "title": "Volcom Stone presents True To This: Kelly Slater",
+    "description": "Kelly Slater, True To This since '75.",
+    "referenceId": "cjMuvVZv6KE",
+    "date_created": "1435273812",
+    "date_modified": "1468348384",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "13",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "65524866",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "253",
+    "entityIdParent": "168557",
+    "titleTextEncoded": "Volcom-Stone-presents-True-To-This-Kelly-Slater",
+    "category": "",
+    "duration": 30,
+    "settings": "",
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/cjMuvVZv6KE\/hqdefault.jpg",
+        "uploadDate": 1435273812,
+        "videoId": "cjMuvVZv6KE",
+        "title": "Volcom Stone presents True To This: Kelly Slater",
+        "description": "Kelly Slater, True To This since '75.\nShop Kelly's surf essentials: http:\/\/www.volcom.com\/mens\/mens-collections\/kelly-slater-s-surf-essentials.html",
+        "author": "Volcom",
+        "mediaDuration": 30,
+        "prettyDuration": "00:00:30",
+        "views": "28373",
+        "uploadAsset": false,
+        "quality": ""
+    },
+    "transcripts": "True to this I think of loyalty probably. To be true to something is I think is to be dedicated to always be mindful of something, always be thinking about it obsessive maybe even but not in a psychopathic way, In a loving way. My name is Kelly Slater I've been true to this since 75' I think.",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

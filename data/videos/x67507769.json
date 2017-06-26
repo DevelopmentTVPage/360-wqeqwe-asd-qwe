@@ -1,0 +1,56 @@
+{
+    "title": "Fujifilm Instax Mini 90 (:30) Video (Travel)",
+    "description": "Fujifilm Instax Mini 90 (:30) Video (Travel)",
+    "referenceId": "AC8Ai0Dz3OM",
+    "date_created": "1443464754",
+    "date_modified": "1471387352",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "5",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "67507769",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "24",
+    "entityIdParent": "3764328",
+    "titleTextEncoded": "Fujifilm-Instax-Mini-90-30-Video-Travel",
+    "category": "",
+    "duration": 30,
+    "settings": "",
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/AC8Ai0Dz3OM\/hqdefault.jpg",
+        "uploadDate": 1443464754,
+        "videoId": "AC8Ai0Dz3OM",
+        "title": "Fujifilm Instax Mini 90 (:30) Video (Travel)",
+        "description": "",
+        "author": "Fujifilm North America",
+        "mediaDuration": 30,
+        "prettyDuration": "00:00:30",
+        "views": "81674",
+        "uploadAsset": false,
+        "quality": ""
+    },
+    "transcripts": "Share an original, Fujifilm instax mini 90",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": [
+        "25"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

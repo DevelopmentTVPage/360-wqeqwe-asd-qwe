@@ -1,0 +1,54 @@
+{
+    "title": "Instax Mini 8 -  Shoe audio 15sec",
+    "description": "Take One-of-a-Kind Pictures and Get them In 90 Seconds!",
+    "referenceId": "CeQXM0kVCGY",
+    "date_created": "1457967585",
+    "date_modified": "1471380858",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "1",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "67507751",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "18",
+    "entityIdParent": "3764328",
+    "titleTextEncoded": "Instax-Mini-8-Shoe-audio-15sec",
+    "category": "",
+    "duration": 15,
+    "settings": "",
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/CeQXM0kVCGY\/hqdefault.jpg",
+        "uploadDate": 1457967585,
+        "videoId": "CeQXM0kVCGY",
+        "title": "Instax Mini 8 -  Shoe audio 15sec",
+        "description": "Take One-of-a-Kind Pictures and Get them In 90 Seconds!\n\nFujifilmInstax.com",
+        "author": "Fujifilm North America",
+        "mediaDuration": 15,
+        "prettyDuration": "00:00:15",
+        "views": "112099",
+        "uploadAsset": false,
+        "quality": ""
+    },
+    "transcripts": "Share an original, Fujifilm instax mini 8",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

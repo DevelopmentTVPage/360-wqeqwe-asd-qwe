@@ -1,0 +1,53 @@
+{
+    "title": "Mike Watt for Altamont",
+    "description": "Mike Watt for Altamont.",
+    "referenceId": null,
+    "date_created": "1440613642",
+    "date_modified": "1450205141",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "1",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6383038",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "140",
+    "entityIdParent": "168548",
+    "titleTextEncoded": "Mike-Watt-for-Altamont",
+    "category": null,
+    "duration": "624",
+    "settings": {},
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/zECQwcNOb4A\/hqdefault.jpg",
+        "uploadDate": 1352186918,
+        "videoId": "zECQwcNOb4A",
+        "title": "Mike Watt for Altamont",
+        "description": "Mike Watt for Altamont. Shop the collection: https:\/\/altamontapparel.com\/collections\/mike-watt\/ http:\/\/altamontapparel.com http:\/\/facebook.com\/altamont ...",
+        "author": "Altamont",
+        "mediaDuration": "624",
+        "prettyDuration": "00:10:24",
+        "views": "17923",
+        "hookText": "Mike Watt for Altamont. Shop the collection: https:\/\/altamontapparel.com\/collections\/mike-watt\/ http:\/\/altamontapparel.com http:\/\/facebook.com\/altamont ..."
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

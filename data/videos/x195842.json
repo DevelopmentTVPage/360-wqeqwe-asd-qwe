@@ -1,0 +1,57 @@
+{
+    "title": "Meet the Barkers",
+    "description": "Vloggers, models, fashionistas; the list goes on and on for the Barker sisters. Older sister Cait and younger sister Shannon have taken the web by storm doli...",
+    "referenceId": null,
+    "date_created": "1407363137",
+    "date_modified": "1418181838",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "3",
+    "CVV_VI": "21",
+    "engagement_score": null,
+    "conversion_score": "1",
+    "id": "195842",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "1",
+    "entityIdParent": "195836",
+    "titleTextEncoded": "Meet-the-Barkers",
+    "category": null,
+    "duration": "105",
+    "settings": [],
+    "asset": {
+        "author": "tillys",
+        "hdvFlag": 1,
+        "hookText": "Vloggers, models, fashionistas; the list goes on and on for the Barker sisters. Older sister Cait and younger sister Shannon have taken the web by storm doli...",
+        "tags": "",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/kyrwmhH6KzY\/maxresdefault.jpg",
+        "uploadDate": 1400188719,
+        "videoId": "kyrwmhH6KzY",
+        "mediaDuration": "105",
+        "prettyDuration": "00:01:45"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "conversion_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

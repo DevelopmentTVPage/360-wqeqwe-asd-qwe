@@ -1,0 +1,46 @@
+{
+    "title": "Nick Tucker Ad Day",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1440450128",
+    "date_modified": "1440450128",
+    "tags": "Array,Array,Array,Array,Array,Array,Array,Array",
+    "sourceId": "3",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6380730",
+    "loginId": "753",
+    "entityType": "1",
+    "titleTextEncoded": "Nick-Tucker-Ad-Day",
+    "category": null,
+    "duration": 166,
+    "settings": {},
+    "asset": {
+        "type": "mp4",
+        "sources": [
+            {
+                "file": "https:\/\/player.vimeo.com\/external\/17608018.hd.mp4?s=711972e31ff3f3b9f0472d8fa752c0c1&profile_id=113&oauth2_token_id=56801069"
+            }
+        ],
+        "hdvFlag": 1,
+        "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/109664844_1280x720.jpg",
+        "mediaDuration": 166,
+        "prettyDuration": "02:46",
+        "uploadDate": 1291832942,
+        "tags": "Array,Array,Array,Array,Array,Array,Array,Array",
+        "hookText": ""
+    },
+    "transcripts": null,
+    "metrics_statistics": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

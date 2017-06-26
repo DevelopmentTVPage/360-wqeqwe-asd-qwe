@@ -1,0 +1,46 @@
+{
+    "title": "Dakine Reload Photo Pack With Harookz",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1440449898",
+    "date_modified": "1440449898",
+    "tags": "",
+    "sourceId": "3",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6380558",
+    "loginId": "753",
+    "entityType": "1",
+    "titleTextEncoded": "Dakine-Reload-Photo-Pack-With-Harookz",
+    "category": null,
+    "duration": 169,
+    "settings": {},
+    "asset": {
+        "type": "mp4",
+        "sources": [
+            {
+                "file": "https:\/\/player.vimeo.com\/external\/67738620.sd.mp4?s=4594f060a4fa8d0bd2e34cd211da0def&profile_id=112&oauth2_token_id=56801069"
+            }
+        ],
+        "hdvFlag": 0,
+        "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/440018933_1280x720.jpg",
+        "mediaDuration": 169,
+        "prettyDuration": "02:49",
+        "uploadDate": 1370447809,
+        "tags": "",
+        "hookText": ""
+    },
+    "transcripts": null,
+    "metrics_statistics": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

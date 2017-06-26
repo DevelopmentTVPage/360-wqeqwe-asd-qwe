@@ -1,0 +1,53 @@
+{
+    "title": "adidas Skateboarding Lucas & Friends Roadtrip",
+    "description": "In June of 2012 Lucas Puig and a few of his friends embarked on a roadtrip through the south of France showcasing his new pro model.",
+    "referenceId": null,
+    "date_created": "1441150192",
+    "date_modified": "1455844662",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "5",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6386174",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "72",
+    "entityIdParent": "168510",
+    "titleTextEncoded": "adidas-Skateboarding-Lucas-Friends-Roadtrip",
+    "category": null,
+    "duration": "397",
+    "settings": {},
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/6LDY1nbsZ2U\/hqdefault.jpg",
+        "uploadDate": 1341241128,
+        "videoId": "6LDY1nbsZ2U",
+        "title": "adidas Skateboarding Lucas & Friends Roadtrip",
+        "description": "In June of 2012 Lucas Puig and a few of his friends embarked on a roadtrip through the south of France showcasing his new pro model. Official Website: ...",
+        "author": "adidasSkateboarding",
+        "mediaDuration": "397",
+        "prettyDuration": "00:06:37",
+        "views": "181339",
+        "hookText": "In June of 2012 Lucas Puig and a few of his friends embarked on a roadtrip through the south of France showcasing his new pro model. Official Website: ..."
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

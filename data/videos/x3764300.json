@@ -1,0 +1,59 @@
+{
+    "title": "Filtrate Eyewear - Greg Valencia",
+    "description": "Commercial featuring my friend Greg Valencia for Filtrate Eyewear Filmed by: Levi Williams - Pablo Bosko Edited by: Pablo Bosko.",
+    "referenceId": null,
+    "date_created": "1409947428",
+    "date_modified": "1470266770",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": "Filtrate",
+    "video_celeb": null,
+    "video_activity": "Skating",
+    "VV_VI": "26",
+    "CVV_VI": "3",
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "3764300",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "1",
+    "entityIdParent": "3764298",
+    "titleTextEncoded": "Filtrate-Eyewear-Greg-Valencia",
+    "category": null,
+    "duration": "44",
+    "settings": [],
+    "asset": {
+        "author": "calikristos",
+        "hdvFlag": 1,
+        "hookText": "Commercial featuring my friend Greg Valencia for Filtrate Eyewear Filmed by: Levi Williams - Pablo Bosko Edited by: Pablo Bosko.",
+        "tags": "",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/W1f49PI6fCU\/maxresdefault.jpg",
+        "uploadDate": 1395288574,
+        "videoId": "W1f49PI6fCU",
+        "mediaDuration": "44",
+        "prettyDuration": "00:00:44",
+        "uploadAsset": false,
+        "quality": ""
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "conversion_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

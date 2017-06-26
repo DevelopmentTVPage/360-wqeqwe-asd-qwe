@@ -1,0 +1,50 @@
+{
+    "title": "LEI DAY 1: Morning Update",
+    "description": "Cote's Lei Day 1 morning update",
+    "referenceId": null,
+    "date_created": "1398814011",
+    "date_modified": "1449881530",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "1",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "164639",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "151",
+    "entityIdParent": "168557",
+    "titleTextEncoded": "LEI-DAY-1-Morning-Update",
+    "category": null,
+    "duration": "249",
+    "settings": [],
+    "asset": {
+        "author": "Volcom",
+        "videoId": "1ESAEIBJRHg",
+        "hookText": "Cote's Lei Day 1 morning update",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/1ESAEIBJRHg\/maxresdefault.jpg",
+        "mediaDuration": "249",
+        "hdvFlag": 1,
+        "uploadDate": 1264498223,
+        "prettyDuration": "00:04:09"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

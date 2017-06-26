@@ -1,0 +1,56 @@
+{
+    "title": "Dylan Graves - Volcom Pipe Pro 2013 Warrior",
+    "description": "Dylan Graves - Volcom Pipe Pro 2013 Warrior",
+    "referenceId": null,
+    "date_created": "1398813922",
+    "date_modified": "1455908376",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "3",
+    "CVV_VI": "1",
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "163263",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "168",
+    "entityIdParent": "168557",
+    "titleTextEncoded": "Dylan-Graves-Volcom-Pipe-Pro-2013-Warrior",
+    "category": null,
+    "duration": "47",
+    "settings": [],
+    "asset": {
+        "author": "Volcom",
+        "videoId": "yR_7dQkg8bM",
+        "hookText": "",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/yR_7dQkg8bM\/maxresdefault.jpg",
+        "mediaDuration": "47",
+        "hdvFlag": 1,
+        "uploadDate": 1359869668,
+        "prettyDuration": "00:00:47"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "conversion_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

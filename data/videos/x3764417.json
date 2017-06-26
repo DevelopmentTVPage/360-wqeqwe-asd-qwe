@@ -1,0 +1,53 @@
+{
+    "title": "Santa Cruz In the Park: Transworld",
+    "description": "\"Let's go to So Cal!\" The Santa Cruz team takes a trip down south to the Transworld skatepark. Featuring Emmanuel Guzman, Blake Johnson, Sid Melvin, Shuriken Shannon, Justin Strubing, Josh Stafford and Ron WhaleyI",
+    "referenceId": null,
+    "date_created": "1410207290",
+    "date_modified": "1470332796",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": "Santa_Cruz",
+    "video_celeb": null,
+    "video_activity": "Skating",
+    "VV_VI": "16",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "3764417",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "0",
+    "entityIdParent": "3764418",
+    "titleTextEncoded": "Santa-Cruz-In-the-Park-Transworld",
+    "category": null,
+    "duration": "172",
+    "settings": [],
+    "asset": {
+        "author": "Santa Cruz Skateboards",
+        "hdvFlag": 1,
+        "hookText": "\"Let's go to So Cal!\" The Santa Cruz team takes a trip down south to the Transworld skatepark. Featuring Emmanuel Guzman, Blake Johnson, Sid Melvin, Shuriken...",
+        "tags": "",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/p4vnYvdBD4Y\/sddefault.jpg",
+        "uploadDate": 1404750244,
+        "videoId": "p4vnYvdBD4Y",
+        "mediaDuration": "172",
+        "prettyDuration": "00:02:52",
+        "uploadAsset": false,
+        "quality": ""
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

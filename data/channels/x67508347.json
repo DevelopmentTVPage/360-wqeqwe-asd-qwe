@@ -1,0 +1,24 @@
+{
+    "title": "Lakai",
+    "description": null,
+    "referenceId": null,
+    "date_created": "1471370200",
+    "date_modified": "1481352089",
+    "tags": null,
+    "sourceId": null,
+    "status": "approved",
+    "visibility": "1",
+    "id": "67508347",
+    "loginId": "753",
+    "entityType": "3",
+    "titleTextEncoded": "Lakai",
+    "category": null,
+    "duration": null,
+    "settings": {
+        "canvasImage": "default_canvas3.jpg",
+        "colorClass": "light",
+        "canvasType": "gallery",
+        "enableSubscribers": true
+    },
+    "transcripts": null
+}

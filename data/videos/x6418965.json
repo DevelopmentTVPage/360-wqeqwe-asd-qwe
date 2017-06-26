@@ -1,0 +1,55 @@
+{
+    "title": "Joe Sexton for ThirtyTwo",
+    "description": "Joe Sexton",
+    "referenceId": "17584227",
+    "date_created": "1443816147",
+    "date_modified": "1449867767",
+    "tags": "www.thirtytwo.com,www.etnies.com,Day in the Life,joe Sexton",
+    "sourceId": "3",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "1",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6418965",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "30",
+    "entityIdParent": "168527",
+    "titleTextEncoded": "Joe-Sexton-for-ThirtyTwo",
+    "category": null,
+    "duration": 15,
+    "settings": {},
+    "asset": {
+        "type": "mp4",
+        "hdvFlag": 1,
+        "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/109481808_1280x720.jpg",
+        "mediaDuration": 15,
+        "prettyDuration": "00:15",
+        "uploadDate": 1291772209,
+        "tags": "www.thirtytwo.com,www.etnies.com,Day in the Life,joe Sexton",
+        "hookText": "www.thirtytwo.com\nwww.etnies.com\n\nJoe Sexton",
+        "sources": [
+            {
+                "file": "https:\/\/player.vimeo.com\/external\/17584227.hd.mp4?s=c0e787173e7423178fc1fc6326fe2bc6&profile_id=113&oauth2_token_id=62432308"
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

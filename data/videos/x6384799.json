@@ -1,0 +1,53 @@
+{
+    "title": "Element Skateboards: Nyjah Huston Tarot Card Series",
+    "description": "The Tarot Card series, Now available at Elementbrand.com",
+    "referenceId": null,
+    "date_created": "1440804571",
+    "date_modified": "1444171135",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "6",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6384799",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "106",
+    "entityIdParent": "168534",
+    "titleTextEncoded": "Element-Skateboards-Nyjah-Huston-Tarot-Card-Series",
+    "category": null,
+    "duration": "15",
+    "settings": {},
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/GU8gwM8DqpM\/hqdefault.jpg",
+        "uploadDate": 1416955132,
+        "videoId": "GU8gwM8DqpM",
+        "title": "Element Skateboards: Nyjah Huston Tarot Card Series",
+        "description": "The Tarot Card series, Now available at Elementbrand.com.",
+        "author": "elementvideochannel",
+        "mediaDuration": "15",
+        "prettyDuration": "00:00:15",
+        "views": "6632",
+        "hookText": "The Tarot Card series, Now available at Elementbrand.com."
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

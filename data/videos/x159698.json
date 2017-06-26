@@ -1,0 +1,52 @@
+{
+    "title": "LOWERS LEGACY: KELLY SLATER",
+    "description": "A look into Kelly's connection with Lower Trestles",
+    "referenceId": null,
+    "date_created": "1398361014",
+    "date_modified": "1450126677",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "7",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "159698",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "13",
+    "entityIdParent": "158318",
+    "titleTextEncoded": "LOWERS-LEGACY-KELLY-SLATER",
+    "category": null,
+    "duration": "123",
+    "settings": [],
+    "asset": {
+        "author": "Hurley",
+        "videoId": "1e4JIIbMK0A",
+        "hookText": "A look into Kelly's connection with Lower Trestles.",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/1e4JIIbMK0A\/hqdefault.jpg",
+        "mediaDuration": "123",
+        "hdvFlag": 0,
+        "uploadDate": 1284632027,
+        "prettyDuration": "00:02:03"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": [
+        "33"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

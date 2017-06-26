@@ -1,0 +1,76 @@
+{
+    "title": "COMP_COLORS_VIDEO_1080-3.mp4",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1443458365",
+    "date_modified": "1443458366",
+    "tags": "",
+    "sourceId": "1",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "273",
+    "CVV_VI": "5",
+    "engagement_score": "2",
+    "conversion_score": null,
+    "id": "6416470",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "3",
+    "entityIdParent": "168526",
+    "titleTextEncoded": "COMP-COLORS-VIDEO-1080-3-mp4",
+    "category": null,
+    "duration": "15",
+    "settings": {},
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "15"
+        },
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/6416470\/720p_50b2e_COMP_COLORS_VIDEO_1080-3.mp4",
+                "quality": "720p"
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/6416470\/480p_50b2e_COMP_COLORS_VIDEO_1080-3.mp4",
+                "quality": "480p"
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/6416470\/360p_50b2e_COMP_COLORS_VIDEO_1080-3.mp4",
+                "quality": "360p"
+            }
+        ],
+        "thumbnailUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/6416470\/eff7749f9425e8f85c5a856924290da2.png",
+        "hookText": "",
+        "type": "mp4",
+        "mediaDuration": "15",
+        "prettyDuration": "00:00:15",
+        "tags": ""
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "conversion_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

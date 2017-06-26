@@ -1,0 +1,30 @@
+{
+    "title": "BucketFeet ",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1409872692",
+    "date_modified": "1409873339",
+    "tags": "",
+    "sourceId": null,
+    "status": "approved",
+    "visibility": "1",
+    "id": "3764021",
+    "loginId": "753",
+    "entityType": "3",
+    "titleTextEncoded": "BucketFeet",
+    "category": null,
+    "duration": null,
+    "settings": {
+        "canvasImage": "956944526-0.jpg",
+        "colorClass": "light",
+        "canvasType": "cropped",
+        "canvasCropped": "956944526-018576343.jpg",
+        "autoPlay": 0,
+        "hideoos": 1,
+        "auto": {
+            "dynamic": 0
+        },
+        "optimize": 1
+    },
+    "transcripts": null
+}

@@ -1,0 +1,51 @@
+{
+    "title": "Theotis Beasley I Am Los Angeles",
+    "description": "Filmed and edited by Joris Debeij for http:\/\/iamlosangeles.com. http:\/\/altamontapparel.com\/contributors\/theotis-beasley\/",
+    "referenceId": null,
+    "date_created": "1401240859",
+    "date_modified": "1418181448",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "1",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "169332",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "153",
+    "entityIdParent": "168548",
+    "titleTextEncoded": "Theotis-Beasley-I-Am-Los-Angeles",
+    "category": null,
+    "duration": "253",
+    "settings": [],
+    "asset": {
+        "author": "Altamont",
+        "hdvFlag": 1,
+        "hookText": "Filmed and edited by Joris Debeij for http:\/\/iamlosangeles.com. http:\/\/altamontapparel.com\/contributors\/theotis-beasley\/",
+        "tags": "",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/9_P_vst_OGw\/maxresdefault.jpg",
+        "uploadDate": 1319155031,
+        "videoId": "9_P_vst_OGw",
+        "mediaDuration": "253",
+        "prettyDuration": "00:04:13"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

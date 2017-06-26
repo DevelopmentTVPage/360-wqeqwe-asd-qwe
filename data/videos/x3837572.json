@@ -1,0 +1,61 @@
+{
+    "title": "adidas Skateboarding Jack Fardell Intro",
+    "description": "adidas Skateboarding is pleased to welcome Jack Fardell to the Global Am team.",
+    "referenceId": null,
+    "date_created": "1430950593",
+    "date_modified": "1470245496",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": "Adidas",
+    "video_celeb": "Jack_Fardell",
+    "video_activity": "Skating",
+    "VV_VI": "203",
+    "CVV_VI": "4",
+    "engagement_score": "1",
+    "conversion_score": null,
+    "id": "3837572",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "90",
+    "entityIdParent": "168510",
+    "titleTextEncoded": "adidas-Skateboarding-Jack-Fardell-Intro",
+    "category": null,
+    "duration": "191",
+    "settings": [],
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/zCxtC6fwB9Y\/hqdefault.jpg",
+        "uploadDate": 1428519409,
+        "videoId": "zCxtC6fwB9Y",
+        "title": "adidas Skateboarding Jack Fardell Intro",
+        "description": "adidas Skateboarding is pleased to welcome Jack Fardell to the Global Am team.",
+        "author": "adidasSkateboarding",
+        "mediaDuration": "191",
+        "prettyDuration": "00:03:11",
+        "views": "71373",
+        "hookText": "adidas Skateboarding is pleased to welcome Jack Fardell to the Global Am team.",
+        "uploadAsset": false,
+        "quality": ""
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "conversion_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

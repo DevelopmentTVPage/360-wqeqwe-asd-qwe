@@ -1,0 +1,46 @@
+{
+    "title": "Jamie O'Brien: Out of the Water",
+    "description": "http:\/\/www.facebook.com\/etnies Jamie O'Brien: Out of the Water",
+    "referenceId": null,
+    "date_created": "1440443425",
+    "date_modified": "1440443425",
+    "tags": "etnies,surf,JOB,jamie o'brien,hawaii",
+    "sourceId": "3",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6379420",
+    "loginId": "753",
+    "entityType": "1",
+    "titleTextEncoded": "Jamie-O-Brien-Out-of-the-Water",
+    "category": null,
+    "duration": 169,
+    "settings": {},
+    "asset": {
+        "type": "mp4",
+        "sources": [
+            {
+                "file": "https:\/\/player.vimeo.com\/external\/19989302.hd.mp4?s=11b2dbcd522360000ae209b98e5def5e&profile_id=113&oauth2_token_id=62432308"
+            }
+        ],
+        "hdvFlag": 1,
+        "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/127241177_1280x720.jpg",
+        "mediaDuration": 169,
+        "prettyDuration": "02:49",
+        "uploadDate": 1297802040,
+        "tags": "etnies,surf,JOB,jamie o'brien,hawaii",
+        "hookText": "http:\/\/www.facebook.com\/etnies Jamie O'Brien: Out of the Water"
+    },
+    "transcripts": null,
+    "metrics_statistics": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

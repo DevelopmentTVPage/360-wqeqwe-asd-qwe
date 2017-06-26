@@ -1,0 +1,53 @@
+{
+    "title": "Cat dancing with Michael Jackson song",
+    "description": "Persian cat dancing with Micheal Jackson song",
+    "referenceId": "fmvQOvD4Rjo",
+    "date_created": "1473355117",
+    "date_modified": "1473355376",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": "GoPro",
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "14",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "68288772",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "112",
+    "entityIdParent": "3762188",
+    "titleTextEncoded": "Cat-dancing-with-Michael-Jackson-song",
+    "category": null,
+    "duration": 12,
+    "settings": null,
+    "asset": {
+        "type": "youtube",
+        "author": "Showan Pour",
+        "hdvFlag": 0,
+        "hookText": "Persian cat dancing with Micheal Jackson song \nFollow me on my Facebook page https:\/\/www.facebook.com\/pages\/Showan-the-cat\/1563884577193180?ref=aymt_homepage_panel",
+        "tags": "",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/fmvQOvD4Rjo\/hqdefault.jpg",
+        "videoId": "fmvQOvD4Rjo",
+        "mediaDuration": 12,
+        "prettyDuration": "00:00:12",
+        "uploadAsset": false,
+        "quality": ""
+    },
+    "transcripts": "[Music Playing]",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

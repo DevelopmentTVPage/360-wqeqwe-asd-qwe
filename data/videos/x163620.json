@@ -1,0 +1,50 @@
+{
+    "title": "CJ Hobgood",
+    "description": "CJ Hobgood",
+    "referenceId": null,
+    "date_created": "1398813967",
+    "date_modified": "1456347090",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "9",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "163620",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "5",
+    "entityIdParent": "168557",
+    "titleTextEncoded": "CJ-Hobgood",
+    "category": null,
+    "duration": "54",
+    "settings": [],
+    "asset": {
+        "author": "Volcom",
+        "videoId": "VQJRvntEz0s",
+        "hookText": "",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/VQJRvntEz0s\/maxresdefault.jpg",
+        "mediaDuration": "54",
+        "hdvFlag": 1,
+        "uploadDate": 1338017051,
+        "prettyDuration": "00:00:54"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

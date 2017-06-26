@@ -1,0 +1,55 @@
+{
+    "title": "Sammy Carlson Presents his 2013 Dakine Team Impreza Glove!",
+    "description": "Sammy's Winter 2013 Signature Series glove is a collaborative effort between Sammy and our in-house designers, featuring unique colors, prints and graphics. Part of his collection also features a coordinated pack - the Sammy Carlson Team Heli Pro.",
+    "referenceId": "47752218",
+    "date_created": "1443631445",
+    "date_modified": "1450466603",
+    "tags": "",
+    "sourceId": "3",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "2",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6418012",
+    "loginId": "753",
+    "entityType": "1",
+    "sortOrder": "153",
+    "entityIdParent": "168543",
+    "titleTextEncoded": "Sammy-Carlson-Presents-his-2013-Dakine-Team-Impreza-Glove",
+    "category": null,
+    "duration": 94,
+    "settings": {},
+    "asset": {
+        "type": "mp4",
+        "hdvFlag": 1,
+        "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/332083668_1280x720.jpg",
+        "mediaDuration": 94,
+        "prettyDuration": "01:34",
+        "uploadDate": 1345243718,
+        "tags": "",
+        "hookText": "Sammy's Winter 2013 Signature Series glove is a collaborative effort between Sammy and our in-house designers, featuring unique colors, prints and graphics. Part of his collection also features a coordinated pack - the Sammy Carlson Team Heli Pro.",
+        "sources": [
+            {
+                "file": "https:\/\/player.vimeo.com\/external\/47752218.hd.mp4?s=fab20d5c392b71c5191e1476c53a0830&profile_id=113&oauth2_token_id=56801069"
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}
