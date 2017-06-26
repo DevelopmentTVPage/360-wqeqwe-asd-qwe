@@ -10,6 +10,6 @@
     "type": "solo",
     "title": "qweasd",
     "name": "qweasd",
-    "channelId": "168553",
+    "channelId": "3764335",
     "layout": "bootstrap"
 }
