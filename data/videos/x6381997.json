@@ -19,6 +19,8 @@
     "id": "6381997",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "11",
+    "entityIdParent": "6381989",
     "titleTextEncoded": "Krux-Trucks-Presents-Jammin-with-Mr-Sid-Melvin",
     "category": null,
     "duration": "89",
@@ -37,7 +39,14 @@
         "hookText": "You like to party? With the new Krux Party Pack you\u2019ll be holding down the streets in style! \nSid Melvin hits up the local Kernside DIY & serves up some tasty maneuvers. The Party Pack includes: Two Trucks, Eight (8) Glow Sticks, Stickers, and Wax (not in"
     },
     "transcripts": null,
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

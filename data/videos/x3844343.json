@@ -19,6 +19,8 @@
     "id": "3844343",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "0",
+    "entityIdParent": "3764258",
     "titleTextEncoded": "WHILE-SHE-SLEEPS-PERFORM-LIFE-IN-TENSION-LIVE-DR-MARTE",
     "category": null,
     "duration": "165",
@@ -35,7 +37,14 @@
         "mediaDuration": "165"
     },
     "transcripts": null,
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

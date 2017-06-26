@@ -19,6 +19,8 @@
     "id": "67134997",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "50",
+    "entityIdParent": "3764789",
     "titleTextEncoded": "CHOCOMOO-DR-MARTENS-AW16-STANDFORSOMETHING-FILM",
     "category": "",
     "duration": 30,
@@ -38,7 +40,14 @@
         "quality": ""
     },
     "transcripts": "Since I was young I always loved drawing, so I studied by myself, and kept on practicing. I got a lot of inspirational from things like music and traveling. Drawing is the only way for me to fully express myself, so even if I lose the chance to do this as a living I'll always keep drawing.",
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

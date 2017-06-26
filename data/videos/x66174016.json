@@ -19,6 +19,8 @@
     "id": "66174016",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "24",
+    "entityIdParent": "3762188",
     "titleTextEncoded": "GoPro-Shooting-Freerunning-with-Jason-Paul",
     "category": "",
     "duration": 113,
@@ -38,7 +40,14 @@
         "quality": ""
     },
     "transcripts": "Hey I'm Jess Paul right now in beautiful band Canada at this really nice scenic lake and today I am going to show you how I shoot freerunning with the hero pro black. That's cool I can hit that rock and I can jump up there. The different shots that I usually get is like a wide establishing shot, showing people the jump. Where I'm at, what I'm about to do and they can get a really nice impression of the whole big picture. I like to crop in show how big is by doing a low angle shot of the action. Get in slow mo so you can slow it down. And then to wrap it up I usually get a POV shot, just giving the people that first-person experience of what it feels to be like a freerunner and just give that sensation of actually doing a flip. And that's it, that was like the key ingredients big establishment shot, POV shot, low angle and slow mo and you got a really nice freerunning sequence. Sick! Cool I like it a lot. Stop it, yeah, heck yeah. Sick. Nice.",
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

@@ -19,6 +19,8 @@
     "id": "3782065",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "11",
+    "entityIdParent": "3764445",
     "titleTextEncoded": "Sector-9-Halloween-Ghoul-Duel",
     "category": null,
     "duration": "319",
@@ -35,7 +37,14 @@
         "prettyDuration": "00:05:19"
     },
     "transcripts": null,
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

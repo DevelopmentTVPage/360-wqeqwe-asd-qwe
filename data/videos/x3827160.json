@@ -19,6 +19,8 @@
     "id": "3827160",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "9",
+    "entityIdParent": "3764445",
     "titleTextEncoded": "Sector-9-Product-Guide-Downhill-Division",
     "category": null,
     "duration": "90",
@@ -56,7 +58,14 @@
         ]
     },
     "transcripts": null,
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

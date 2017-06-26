@@ -19,6 +19,8 @@
     "id": "6419632",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "199",
+    "entityIdParent": "168524",
     "titleTextEncoded": "How-To-Name-Your-Band",
     "category": null,
     "duration": "67",
@@ -37,7 +39,14 @@
         "hookText": "Your search for a band name ends here. Just pause our band name machine to create one. (Disclaimer: Converse is not really in the Global Education Business ..."
     },
     "transcripts": null,
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": [
         "26"
     ],

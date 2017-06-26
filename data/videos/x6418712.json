@@ -19,6 +19,8 @@
     "id": "6418712",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "150",
+    "entityIdParent": "168514",
     "titleTextEncoded": "Ken-Roczen-Chad-Reed-and-Ricky-Carmichael-Fox-Instinct-Boot",
     "category": null,
     "duration": "63",
@@ -37,7 +39,14 @@
         "hookText": "The Fox Instinct boot is the most revolutionary motocross boot ever developed. The mission was clear: Engineer new technology aimed at enhancing the ..."
     },
     "transcripts": null,
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

@@ -19,6 +19,8 @@
     "id": "6416570",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "472",
+    "entityIdParent": "168524",
     "titleTextEncoded": "Converse-CONS-Coach-s-Waffle-Fleece-Jacket",
     "category": null,
     "duration": "33",
@@ -37,7 +39,14 @@
         "hookText": "Inspired by the late 80\u2019s\/early 90\u2019s adoption of sportswear in skate culture the essential 100% cotton jacket is perfect for complete freedom of motion. Crafted with a textured double knit fabric with a waffle knit on the interior for warmth and durabilit"
     },
     "transcripts": null,
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

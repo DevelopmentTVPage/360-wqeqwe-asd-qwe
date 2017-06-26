@@ -19,6 +19,8 @@
     "id": "6383229",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "113",
+    "entityIdParent": "168534",
     "titleTextEncoded": "ELEMENT-MAKE-IT-COUNT-FRANCE-2015",
     "category": null,
     "duration": "212",
@@ -37,7 +39,14 @@
         "hookText": "Congrats to DAMIEN PHILIPPE who won the MAKE IT COUNT contest in Paris, France !\n\nDamien won a spot in the European Finals that will take place in Bolzano, Italy, and a chance to win a trip to California to compete for Element sponsorship at Nyjah's park!"
     },
     "transcripts": null,
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

@@ -19,6 +19,8 @@
     "id": "6414247",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "241",
+    "entityIdParent": "168514",
     "titleTextEncoded": "360-Intake-Jersey-The-Most-Advanced-Racewear-For-Today-s-Motocross-Athlete",
     "category": null,
     "duration": "41",
@@ -37,7 +39,14 @@
         "hookText": "360 Jersey Features: -Moisture Wicking Polyester Main Body Fabric -Athletic Precision Fit Collar & Cuffs -Micro Mesh Back Panel for Enhanced Air Flow -Drop ..."
     },
     "transcripts": null,
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

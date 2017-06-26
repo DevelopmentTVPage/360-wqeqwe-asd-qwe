@@ -19,6 +19,8 @@
     "id": "6419009",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "3",
+    "entityIdParent": "6381989",
     "titleTextEncoded": "Cody-Chapman-Rips-the-Cannery-for-Santa-Cruz-Skateboards",
     "category": null,
     "duration": "54",
@@ -37,7 +39,14 @@
         "hookText": "Cody Chapman aka Cold Chap set up the Jeff Kendall Snake Reissue deck and hits the NHS Cannery for Santa Cruz Skateboards! The dude is on fire. Colds Clips!\nFilmed by Joe Perrin (@joeperrin)\nFollow Cody on Instagram: @coldchapman"
     },
     "transcripts": null,
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

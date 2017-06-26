@@ -19,6 +19,8 @@
     "id": "6419483",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "252",
+    "entityIdParent": "168524",
     "titleTextEncoded": "Black-Rebel-Motorcycle-Club-Hate-The-Taste-Live-Converse-Represent-SF",
     "category": null,
     "duration": "240",
@@ -37,7 +39,14 @@
         "hookText": "Black Rebel Motorcycle Club kicked off Converse Represent San Francisco with a huge bang, returning for a homecoming show at Slim's. Following sets from ..."
     },
     "transcripts": null,
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

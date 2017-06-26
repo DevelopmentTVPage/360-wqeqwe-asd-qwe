@@ -19,6 +19,8 @@
     "id": "6379819",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "316",
+    "entityIdParent": "168514",
     "titleTextEncoded": "Fox-MTB-Presents-Spring-15-Women-s-Trail-Collection-with-Katrina-Strand-and-Myriam-Nicole",
     "category": null,
     "duration": "79",
@@ -37,7 +39,14 @@
         "hookText": "Check out Katrina Strand and Myriam Nicole having fun on trail bikes. They are riding in the new 2015 Fox women's trail collection. \n\nMusic:\nBloods Band\n\"No Fun\"\nWork It Out\nmintyfresh.com\nBloodsband.com"
     },
     "transcripts": null,
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

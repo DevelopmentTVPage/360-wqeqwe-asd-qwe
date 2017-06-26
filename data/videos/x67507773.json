@@ -19,6 +19,8 @@
     "id": "67507773",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "27",
+    "entityIdParent": "3764328",
     "titleTextEncoded": "FUJIFILM-X-T10-Product-Video",
     "category": "",
     "duration": 15,
@@ -38,7 +40,14 @@
         "quality": ""
     },
     "transcripts": "[Music Playing]",
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": [
         "12"
     ],

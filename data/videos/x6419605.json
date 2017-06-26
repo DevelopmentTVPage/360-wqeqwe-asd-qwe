@@ -19,6 +19,8 @@
     "id": "6419605",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "214",
+    "entityIdParent": "168524",
     "titleTextEncoded": "Converse-Wall-to-Wall-Austin-Texas",
     "category": null,
     "duration": "128",
@@ -37,7 +39,14 @@
         "hookText": "LA-based multimedia artist Sage Vaughn took the Wall to Wall series to unchartered territory in Austin during March, creating our first ever 3-D installation..."
     },
     "transcripts": null,
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

@@ -19,6 +19,8 @@
     "id": "6416553",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "30",
+    "entityIdParent": "168534",
     "titleTextEncoded": "ELEMENT-LOS-ANGELES-MAKE-IT-COUNT-2012-INTERNATIONAL-SKATE-CONTEST-SERIES",
     "category": null,
     "duration": "211",
@@ -37,7 +39,14 @@
         "hookText": "Over 200 entrants and a massive crowd of viewers crammed the Explore The Berrics park in Los Angeles to take part in the 2012 MAKE IT COUNT International ..."
     },
     "transcripts": null,
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

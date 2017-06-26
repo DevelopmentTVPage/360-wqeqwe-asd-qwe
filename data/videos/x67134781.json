@@ -19,6 +19,8 @@
     "id": "67134781",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "66",
+    "entityIdParent": "168538",
     "titleTextEncoded": "JanSport-Pack-Review-Reilly",
     "category": "",
     "duration": 76,
@@ -38,7 +40,14 @@
         "quality": ""
     },
     "transcripts": "Hey guys it's Jayson i'm a senior product developer at JanSport and today I'm going to walk you through one of our best selling products. Today we're taking a look at the Reilley backpack it's a small to medium-sized backpack so if you don't have a lot of gear to carry it's a great pack for you. This pack is 23 liters and it's made of a premium corridor fabric and has high-quality suede leather touch points, so we're going around to the back side we have a fully padded back panel as well as padded straight straps and a really nice suede leather carry handle on the top so getting into the main compartment the zipper goes really low so you have a really wide mouth access to your main compartment makes it easy to load and unload. We have our 15 inch laptop sleeve in front of that, really nice organizer got two slots here and some pen slots so going around to the front of the pack really quick stash zippered pocket here great for smaller items, your wallet keys. And last little on the pole installed zippered pocket here on the side perfect for smaller tablets or power cords and that's it for the Reilley nice medium sized pack for your items on the go, always backed by our lifetime guarantee",
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

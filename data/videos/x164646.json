@@ -19,6 +19,8 @@
     "id": "164646",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "201",
+    "entityIdParent": "168557",
     "titleTextEncoded": "BS-Premiere-Tour",
     "category": null,
     "duration": "204",
@@ -34,7 +36,14 @@
         "prettyDuration": "00:03:24"
     },
     "transcripts": null,
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

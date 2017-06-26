@@ -19,6 +19,8 @@
     "id": "6381994",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "13",
+    "entityIdParent": "6381989",
     "titleTextEncoded": "Strange-Notes-Presents-Flatground-Filibuster-with-Sean-Conover",
     "category": null,
     "duration": "125",
@@ -37,7 +39,14 @@
         "hookText": "Flatground Filibuster: Sean Conover\n\nStrange Notes Presents: Flatground Filibuster! You get one try, and one try only to stack as many Flatground tricks as possible! Conover does so with ripping style, and makes it look easy! Conover skates for Creature S"
     },
     "transcripts": null,
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

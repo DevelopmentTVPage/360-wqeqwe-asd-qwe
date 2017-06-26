@@ -19,6 +19,8 @@
     "id": "68389460",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "17",
+    "entityIdParent": "168526",
     "titleTextEncoded": "NIXON-RIFFE-Professional-Spearfisherman-Ryder-DeVoe",
     "category": "",
     "duration": 193,
@@ -38,7 +40,14 @@
         "quality": ""
     },
     "transcripts": "When I walk down the dock in the morning I have thought of the perfect scenario and I just have to keep it under control and not get too excited because it doesn't happen everyday it's a rare occurrence but you always just have to put your time in. You're always hoping you're going to get a fish but a lot of it is just driving and getting your technique better and just hoping that the school swims by, but if not you're having a great day on the water it\u2019s better than being in an office. There's never a dull moment there\u2019s always the next thing and the next big fish to hunt or the next big wave to surf in. I just feel like there's never like you can never master it there's always more you know, you got to expect the unexpected you never know what's going to swim up or what's going to happen. There's a lot of timing involved when making a dive and coming up of a dive and I have all these certain rests that I have set in my head for a certain amount of time and when I do them you want to make sure everything is accurate. A lot of times you're just cruising the kelp or blue water I mean it's just nice to be in the ocean you know just even if you don't shoot a fish it\u2019s just always good. Kelp diving is pretty special to me because it's in my backyard and one of the days I went out there it was 80 to 100 foot. The kelp was like super big that time of year and it was just this kind of like a the whole like tiny human, huge environment like you dive down to like 80 feet and you look up and there\u2019s this giant underwater forest around you with bait and sea lions and it\u2019s just pretty amazing. I feel like passion drives success if you're super into something no matter what people say to you like oh you're wasting your time blah,blah, blah, if you feel like this is a good opportunity for you, if you feel like this is a good direction to go and you're super into it I feel like you should just keep going and keep going and you've got to make sure you're on track like you could get all your work done and have the most fun in the world surfing or diving or fishing or boating whatever it is I mean I feel like why would you stop you know. My name is Ryder DeVoe I'm 17 and from Encinitas, California and spear fish.",
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

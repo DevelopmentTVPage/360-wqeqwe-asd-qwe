@@ -19,6 +19,8 @@
     "id": "67602814",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "36",
+    "entityIdParent": "168556",
     "titleTextEncoded": "G-SHOCK-X-COMPLEX-Black-Scale",
     "category": "",
     "duration": 85,
@@ -38,7 +40,14 @@
         "quality": ""
     },
     "transcripts": "My name is Mega, and I'm the creative director of Black Scale for the four elements of Black Scale are birth, government, identity, and death. The first five years we wanted to focus on that story line because that's what the brand was about we were learning. We took that first five years to use those elements and now we're on the stage of rebirth, we're more mature a lot older. You know as you get older the collection changes with you because you change as a person so it's a lot different today than when we first started because we've grown so much. The rebirth it's really refreshing because we get to actually change some things about the company that we didn't know when we first started. Collaborating with brands like g-shock for us is the true essence of collaborating it's nice to really really interact with their product and see if what we do can compliment what they do. G-shock is a forever brand G-shock is for everyone it's the culture that g-shock pushes forward is what we appreciate the most at Black Scale.",
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

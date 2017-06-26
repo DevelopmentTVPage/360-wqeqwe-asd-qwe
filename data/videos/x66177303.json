@@ -19,6 +19,8 @@
     "id": "66177303",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "43",
+    "entityIdParent": "66186028",
     "titleTextEncoded": "Run-without-Your-Phone-Under-Armour-SpeedForm-Gemini-2-Record-Equipped",
     "category": "",
     "duration": 80,
@@ -38,7 +40,14 @@
         "quality": ""
     },
     "transcripts": "get ready to start running with your you a speed form gemini 2 record equipped shoes if you haven't connected them yet view the setting of your shoe video before you get started. Running with auto run means you can leave your phone at home and let your shoes do all the work. To start an auto run you'll need to reach a pace of 11 minutes per mile or faster for the shoes to recognize your run to start track. If you take a break during your run the shoes will pause for up to three minutes of walking or no movement if you break for longer your shoes will save your first run and start tracking a new one separate. Your shoes can store up to five runs to sync your runs open the map my run app tap the gear page and tap the shoe in your list of connected devices then press sync on the shoe settings page. Syncing should only take a few seconds to complete if you have any trouble you can find help it gemini2.ua.com. To check out your progress tap the view workouts tab on the shoe setting screen work outs recorded with your smart shoes have a special record equip badge, tap any workout to dig into the details and analyze your data make every run a smart run with your UA speedform Gemini 2 record equipped shoes.",
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

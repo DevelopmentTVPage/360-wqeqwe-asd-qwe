@@ -19,6 +19,8 @@
     "id": "195851",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "8",
+    "entityIdParent": "195850",
     "titleTextEncoded": "The-Globe-Mahalo-at-Tilly-s",
     "category": null,
     "duration": "191",

@@ -19,6 +19,8 @@
     "id": "6414567",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "480",
+    "entityIdParent": "168524",
     "titleTextEncoded": "DIY-Skate-Structures-Converse-CONS-Project",
     "category": null,
     "duration": "590",
@@ -37,7 +39,14 @@
         "hookText": "Build, design, create and skate DIY structures with Doug Moore, Brent Kronmueller, Dillon Buss and Kenny Anderson. Directed by Jon Holland For more details ..."
     },
     "transcripts": null,
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

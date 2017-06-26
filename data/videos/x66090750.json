@@ -19,6 +19,8 @@
     "id": "66090750",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "24",
+    "entityIdParent": "195960",
     "titleTextEncoded": "The-Story-of-Vans-Teaser-50th-Anniversary-VANS",
     "category": "",
     "duration": 30,
@@ -38,7 +40,14 @@
         "quality": ""
     },
     "transcripts": "[Music Playing]",
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

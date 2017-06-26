@@ -19,6 +19,8 @@
     "id": "6384778",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "302",
+    "entityIdParent": "168514",
     "titleTextEncoded": "Fox-Girls-Presents-Our-Way-Austin-Texas",
     "category": null,
     "duration": "158",
@@ -37,7 +39,14 @@
         "hookText": "We live for the outdoors. We crave the thrill for adventure, We explore the unexplored, We are strong, We are not afraid to try, We are free spirited, We strive for ..."
     },
     "transcripts": null,
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

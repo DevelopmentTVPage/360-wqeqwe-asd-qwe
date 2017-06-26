@@ -19,6 +19,8 @@
     "id": "66172260",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "16",
+    "entityIdParent": "168515",
     "titleTextEncoded": "Leon-Bridges-On-His-Coming-Home-Nod-Beats-By-Dre",
     "category": "",
     "duration": 23,
@@ -38,7 +40,14 @@
         "quality": ""
     },
     "transcripts": "When I found out I got nominated I couldn't believe it you know, it's it's crazy that my record would be worthy for an R&B nomination. I freaked out for a little bit, and then I did a little happy dance, give them a little bit of this, gonna give them a swang, gonna do that thing, hmm hmm hmm, yeah you know a little bit of that.",
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

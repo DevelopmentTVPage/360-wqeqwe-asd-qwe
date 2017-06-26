@@ -19,6 +19,8 @@
     "id": "6383226",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "116",
+    "entityIdParent": "168534",
     "titleTextEncoded": "Skate-the-Lake-Element-YMCA-Skate-Camp-2015",
     "category": null,
     "duration": "60",
@@ -37,7 +39,14 @@
         "hookText": "Join us for an unforgettable summer in the pristine wilderness of the Sierra Nevadas. Element pro's at every session, camp starts June 28th!\n\nGet all the info, schedule and rates at skatecamp.org"
     },
     "transcripts": null,
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

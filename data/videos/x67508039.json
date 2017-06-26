@@ -19,6 +19,8 @@
     "id": "67508039",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "29",
+    "entityIdParent": "168551",
     "titleTextEncoded": "Long-Sleeve-Heavyweight-Henley",
     "category": "",
     "duration": 35,
@@ -38,7 +40,14 @@
         "quality": ""
     },
     "transcripts": "The Long Sleeve Heavyweight Henley Shirt by Dickies. This heavyweight 100% soft cotton Jersey Knit shirt is a workplace classic, with a spacious fit for all kinds of work activity. Featuring a single chest pocket, a tag-less label for comfort, and taped neck and shoulder seams for longer wear, this heavy-duty tee will have you covered in any situation. Dickies, Quality Workwear since 1922.",
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

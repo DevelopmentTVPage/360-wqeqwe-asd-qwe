@@ -19,6 +19,8 @@
     "id": "6396363",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "508",
+    "entityIdParent": "168524",
     "titleTextEncoded": "Converse-Rubber-Tracks-x-Moog",
     "category": null,
     "duration": "34",
@@ -37,7 +39,14 @@
         "hookText": "Apply for the opportunity to get a free day of recording at Converse Rubber Tracks in Brooklyn, NY with producer Nick Hook, Moog gear, and The Moog Model ..."
     },
     "transcripts": null,
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

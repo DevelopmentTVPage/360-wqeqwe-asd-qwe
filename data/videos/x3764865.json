@@ -19,6 +19,8 @@
     "id": "3764865",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "3",
+    "entityIdParent": "3764861",
     "titleTextEncoded": "5-5-with-Ben-Raemers",
     "category": null,
     "duration": "133",

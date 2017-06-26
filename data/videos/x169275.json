@@ -19,6 +19,8 @@
     "id": "169275",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "3",
+    "entityIdParent": "168555",
     "titleTextEncoded": "Omar-Salazar-iPro-Lens-System",
     "category": null,
     "duration": "57",

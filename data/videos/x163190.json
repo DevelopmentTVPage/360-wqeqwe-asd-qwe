@@ -19,6 +19,8 @@
     "id": "163190",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "115",
+    "entityIdParent": "168557",
     "titleTextEncoded": "Peaks-to-Point-Breaks-Volcom-Snow-Chile-Trip-2012",
     "category": null,
     "duration": "274",
@@ -34,7 +36,14 @@
         "prettyDuration": "00:04:34"
     },
     "transcripts": null,
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

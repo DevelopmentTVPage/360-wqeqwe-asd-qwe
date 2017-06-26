@@ -19,6 +19,8 @@
     "id": "67508008",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "24",
+    "entityIdParent": "168551",
     "titleTextEncoded": "Dickies-FR-insulated-duck-jacket-with-hood",
     "category": "",
     "duration": 66,
@@ -38,7 +40,14 @@
         "quality": ""
     },
     "transcripts": "The Flame-Resistant Insulated Duck Jacket with Hood, by Dickies. This tough jacket is ergonomically designed to provide superior performance, protection and comfort. It\u2019s engineered with a durable 10.5 oz 100% cotton Duck fabric that\u2019s FR treated, has an ARC Rating of 39, is rated HRC (Hazard Risk Category) Category Level 3 and is NFPA 70E compliant. It will stand up to harsh working situations with double-needle stitched seams, two durable front pockets and rib knit cuffs and waistband. While safe, it\u2019s also built for comfort and utility with a durable zip front with interior storm flap, a three-piece adjustable drawstring hood, and a 10.5 oz Ultra Soft moda-quilt lining. This rugged jacket will be with you for many long years. Dickies, quality workwear since 1922.",
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

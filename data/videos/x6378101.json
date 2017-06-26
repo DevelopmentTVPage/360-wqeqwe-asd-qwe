@@ -19,6 +19,8 @@
     "id": "6378101",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "7",
+    "entityIdParent": "3764400",
     "titleTextEncoded": "Penny-Skateboards-Holiday-Series-Polka",
     "category": null,
     "duration": "48",
@@ -37,7 +39,14 @@
         "hookText": "This video features professional skateboarders in a controlled environment.\nAlways skate within your limits, have fun & get out there! http:\/\/www.pennyskateboards.com\n\nSkater: Jackson Pilz\n\nMusic By: DJ Slynk"
     },
     "transcripts": null,
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

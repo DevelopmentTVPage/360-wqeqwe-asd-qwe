@@ -19,6 +19,8 @@
     "id": "6419153",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "101",
+    "entityIdParent": "3763996",
     "titleTextEncoded": "ASHBURY-FLOW-PART-RUDY-GARCIA",
     "category": null,
     "duration": "83",
@@ -37,7 +39,14 @@
         "hookText": "Shot by: Erick Sandoval , Martin Renteria , Fernando Pe\u00f1a, and Andrew Pagano. Edited by: Ransacker."
     },
     "transcripts": null,
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

@@ -19,6 +19,8 @@
     "id": "6418731",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "362",
+    "entityIdParent": "168524",
     "titleTextEncoded": "Converse-Jack-Purcell-x-Hancock-Vulcanised-Articles",
     "category": null,
     "duration": "36",
@@ -37,7 +39,14 @@
         "hookText": "Converse and Hancock Vulcanised Articles partner for a weatherized take on the Converse Jack Purcell sneaker. The British clothiers bring their expertise in ..."
     },
     "transcripts": null,
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

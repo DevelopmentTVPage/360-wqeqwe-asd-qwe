@@ -19,6 +19,8 @@
     "id": "6419872",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "150",
+    "entityIdParent": "168524",
     "titleTextEncoded": "Converse-Wall-to-Wall-Series-Toronto-with-Artist-Troy-Lovegates",
     "category": null,
     "duration": "102",
@@ -37,7 +39,14 @@
         "hookText": "Troy Lovegates began painting on streets in 1988, and his legend has grown in Canada and beyond ever since. His Wall to Wall piece in Toronto mixes ..."
     },
     "transcripts": null,
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

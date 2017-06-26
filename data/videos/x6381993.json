@@ -19,6 +19,8 @@
     "id": "6381993",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "14",
+    "entityIdParent": "6381989",
     "titleTextEncoded": "Jimmy-Carlin-Flatground-Filibuster",
     "category": null,
     "duration": "114",
@@ -37,7 +39,14 @@
         "hookText": "Flashing back to the very first Flatground Filibuster with Jimmy Carlin. This originally aired on a Strange Notes Super Show episode, and Jimmy started the series out strong! You get one try, and one try only! READY, GO! Jimmy rides for Krux Trucks, Ricta"
     },
     "transcripts": null,
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

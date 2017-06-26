@@ -19,6 +19,8 @@
     "id": "6416541",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "220",
+    "entityIdParent": "168514",
     "titleTextEncoded": "Fox-Girls-Presents-We-Live-Way-of-the-Road-Fall-2013",
     "category": null,
     "duration": "164",
@@ -37,7 +39,14 @@
         "hookText": "All restraints removed, living a wild ride, sharing a common bond. It's the way of the road. Free spirits, adventurous attitudes and the freedom of exploring the ..."
     },
     "transcripts": null,
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

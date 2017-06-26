@@ -19,6 +19,8 @@
     "id": "3763947",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "3",
+    "entityIdParent": "3763931",
     "titleTextEncoded": "Nice-Hat-Hero-47-30",
     "category": null,
     "duration": "30",

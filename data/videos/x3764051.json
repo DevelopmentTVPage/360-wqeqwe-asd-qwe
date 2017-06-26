@@ -19,6 +19,8 @@
     "id": "3764051",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "3",
+    "entityIdParent": "3764050",
     "titleTextEncoded": "crooks-diamon-party-vm2",
     "category": null,
     "duration": "104",

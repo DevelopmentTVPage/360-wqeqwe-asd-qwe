@@ -19,6 +19,8 @@
     "id": "187314",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "1",
+    "entityIdParent": "187312",
     "titleTextEncoded": "Tilly-s-Summer-Sound-Check-Tour-Motion-City-Soundtrack",
     "category": null,
     "duration": "215",

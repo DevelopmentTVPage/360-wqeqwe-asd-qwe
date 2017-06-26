@@ -19,6 +19,8 @@
     "id": "6384827",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "543",
+    "entityIdParent": "168524",
     "titleTextEncoded": "Alpes-x-Griefjoy-\u00e0-l-Olympia-Converse-Avant-Poste",
     "category": null,
     "duration": "308",
@@ -37,7 +39,14 @@
         "hookText": "Alpes produces a heavy, hypnotic sounds always accompanied by their signature carefree vocals. Launched in September 2013, the Converse Avant-Poste ..."
     },
     "transcripts": null,
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

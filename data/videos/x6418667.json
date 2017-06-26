@@ -19,6 +19,8 @@
     "id": "6418667",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "404",
+    "entityIdParent": "168524",
     "titleTextEncoded": "Converse-Wall-to-Wall-Victor-Reyes-in-San-Francisco",
     "category": null,
     "duration": "87",
@@ -37,7 +39,14 @@
         "hookText": "Victor Reyes's colorful brand of muralism was brought alive in the mission district in the newest Converse Wall to Wall."
     },
     "transcripts": null,
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

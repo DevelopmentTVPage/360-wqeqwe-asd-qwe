@@ -19,6 +19,8 @@
     "id": "6413657",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "481",
+    "entityIdParent": "158318",
     "titleTextEncoded": "CLOSE-YOUR-EYES-IN-THE-HURLEY-STUDIOS-KINGS-OF-JOHN-PAYNE-ACOUSTIC",
     "category": null,
     "duration": "289",
@@ -37,7 +39,14 @@
         "hookText": "Awhile back we had our friends, Close Your Eyes here in the Hurley Studios. We recently found an acoustic version of their song, 'Kings of John Payne' and ..."
     },
     "transcripts": null,
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

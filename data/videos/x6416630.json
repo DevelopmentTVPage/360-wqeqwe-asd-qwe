@@ -19,6 +19,8 @@
     "id": "6416630",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "49",
+    "entityIdParent": "168533",
     "titleTextEncoded": "VonZipper-Wil-Hahn-in-The-Beefy-Motocross-Goggle",
     "category": null,
     "duration": "15",
@@ -37,7 +39,14 @@
         "hookText": "Wil Hahn has been appointed as the Ride Captain of our FreeWheelers MX club!! Welcome to the team!\n\nA bone in cut from the VZ meat locker. The VonZipper Beefy motorcycle goggle will convert even the most die-hard vegetarian into a carnivore. The forward v"
     },
     "transcripts": null,
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

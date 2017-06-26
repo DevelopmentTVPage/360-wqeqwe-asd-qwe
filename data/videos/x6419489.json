@@ -19,6 +19,8 @@
     "id": "6419489",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "246",
+    "entityIdParent": "168524",
     "titleTextEncoded": "Antwon-performs-In-Dark-Denim-feat-Kerry-McCoy-of-Deafheaven-Converse-Rubber-Tracks-Ready-Set",
     "category": null,
     "duration": "195",
@@ -37,7 +39,14 @@
         "hookText": "Rapper Antwon is a soon-to-be Bay Area institution, riding a wave of blog buzz and guest verses to become one of San Francisco's most talked about artists. P..."
     },
     "transcripts": null,
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

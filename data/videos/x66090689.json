@@ -19,6 +19,8 @@
     "id": "66090689",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "19",
+    "entityIdParent": "195960",
     "titleTextEncoded": "Darren-Navarette-1st-Place-Masters-Run-2016-Vans-Pool-Party-VANS",
     "category": "",
     "duration": 80,
@@ -38,7 +40,14 @@
         "quality": ""
     },
     "transcripts": "Does so much for skateboarding, you look at half of the guys in the pro final today, are guys that grew up under Darren's wing, exactly. Yeah future skateboard is doing a ton out there for the next generation. And Darren's just a fun guy to skate with, he's got a great attitude, he's geeky, and his love of skateboarding, and will bring up some really interesting topics to talk about, but uh he's got a unique style nobody skates like Darren. Back side tail slide in the square grabbing the nose, got 30 seconds to go right now, good run so far for the vertical vampire. Yup, Darren coming in right there trademark invert. And we'll see Darren loves to throw the heela monsters and a handful of a sort of signature  tricks, the capped and rack. When I think it nabs I think about the back rail reaver, oh yeah yeah, and Darren's competitive vert days he had a some really unique. Feeble to fakie that's going to be time that is a perfect first run for Darren Navarette.",
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

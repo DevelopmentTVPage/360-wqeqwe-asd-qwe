@@ -19,6 +19,8 @@
     "id": "6419321",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "310",
+    "entityIdParent": "168524",
     "titleTextEncoded": "Slow-Magic-Youth-Group-Converse-Red-Light-Sessions",
     "category": null,
     "duration": "285",
@@ -37,7 +39,14 @@
         "hookText": "Slow Magic, the delightful sounding electronic artist swung by Converse Rubber Tracks to play their track \"Youth Group\" for a Red Light Radio Session. For mo..."
     },
     "transcripts": null,
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

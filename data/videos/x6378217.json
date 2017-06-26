@@ -19,6 +19,8 @@
     "id": "6378217",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "542",
+    "entityIdParent": "158318",
     "titleTextEncoded": "TOURNOTES-JBAY-REACTIONS",
     "category": null,
     "duration": "138",
@@ -37,7 +39,14 @@
         "hookText": "Nature comes face to face with instinct in the latest #TOURNOTES, featuring Mick Fanning and Julian Wilson."
     },
     "transcripts": null,
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

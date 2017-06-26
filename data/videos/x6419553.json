@@ -19,6 +19,8 @@
     "id": "6419553",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "242",
+    "entityIdParent": "168524",
     "titleTextEncoded": "Starlight-Girls-Converse-Rubber-Tracks-Oh-Hello",
     "category": null,
     "duration": "97",
@@ -37,7 +39,14 @@
         "hookText": "Meet Starlight Girls, a four piece who's unique writing process enables them to create original songs strengthened by each of the members talents. Listen to ..."
     },
     "transcripts": null,
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

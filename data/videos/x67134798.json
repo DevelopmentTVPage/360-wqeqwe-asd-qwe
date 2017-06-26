@@ -19,6 +19,8 @@
     "id": "67134798",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "13",
+    "entityIdParent": "168538",
     "titleTextEncoded": "JanSport-Pack-Review-Right-Pack-Digital-Edition",
     "category": "",
     "duration": 109,
@@ -38,7 +40,14 @@
         "quality": ""
     },
     "transcripts": "Hey guys it's Jayson i'm a senior product developer at jansport and today I'm going to walk you through one of our best selling products today we're going to take a look at the right back digital edition this is part of jansports digital collection this pack has all the same great features of the original right back but it's upgraded to carry and organize all of your digital gear this pack comes in at 31 liters and it comes in a variety of really cool premium fabrics the best part about this pack is a really nice high-quality suede leather bottom that's the way it is also on the zipper pulls moving around to the back panel got a fully padded back panel here upgraded straight straps these are slightly thicker than the original right back this chapter thick and padded with a nice breathable mesh on the underside a quick grab haul loop on the top here all right moving into the main compartment here we have a really nice custom printed liner this is actually a map of seattle where jansport was founded on the back we have a 15 inch laptop sleeve this is fully padded with the webbing and velcro keeper to keep everything nice and secure in front of that dedicated tablet compartment that's soft line and phoned yeah all right move around to the front of the bag we have a compartment here with their organizer panel it's got a little mesh super compartment on this side and another slot compartment here as well as a pen loop and last the little quick stash pocket on the front or other smaller items so that's it the jansport right pack digital edition lifetime guaranteed",
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

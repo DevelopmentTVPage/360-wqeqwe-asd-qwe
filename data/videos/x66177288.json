@@ -19,6 +19,8 @@
     "id": "66177288",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "25",
+    "entityIdParent": "66186028",
     "titleTextEncoded": "Full-Count-A-Day-In-The-Life-Of-Francisco-Lindor",
     "category": "",
     "duration": 93,
@@ -38,7 +40,14 @@
         "quality": ""
     },
     "transcripts": "[Music Playing] Early morning... we're already here at the gym. About to do some agility today. We're going to the batting cage , we gotta hit, if we hit we eat. If we don't hit, it's a struggle in there. I'm done with my day, I'm gonna go eat with my girlfriend, a couple of friends, follow me. I'm officially done well you guys take care and be safe, UA.",
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

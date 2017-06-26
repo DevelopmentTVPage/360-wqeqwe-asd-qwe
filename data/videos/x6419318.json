@@ -19,6 +19,8 @@
     "id": "6419318",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "64",
+    "entityIdParent": "168514",
     "titleTextEncoded": "Fox-MX-2012-Proframe-LC-Roost-Deflector",
     "category": null,
     "duration": "49",
@@ -37,7 +39,14 @@
         "hookText": "New Fox 2012 Gear: Proframe LC Roost Deflector."
     },
     "transcripts": null,
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

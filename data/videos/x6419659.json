@@ -19,6 +19,8 @@
     "id": "6419659",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "212",
+    "entityIdParent": "158318",
     "titleTextEncoded": "FIN-OPENING",
     "category": null,
     "duration": "104",
@@ -37,7 +39,14 @@
         "hookText": "Last night's film premiere at Hurley )( Space. Video: YB."
     },
     "transcripts": null,
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": [
         "2"
     ],

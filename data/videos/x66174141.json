@@ -19,6 +19,8 @@
     "id": "66174141",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "76",
+    "entityIdParent": "3762188",
     "titleTextEncoded": "GoPro-Awards-Screamin-Skiin",
     "category": "",
     "duration": 128,
@@ -38,7 +40,14 @@
         "quality": ""
     },
     "transcripts": "Oh my God it's so good. What did I get myself into. Yeah! Wohoo! F*ck Yeah!  F*ck Yeah! Woohoo! Wohoooooo! Yeah Buddy! woohooo!... it's so good. Oh my God, I'm so tired. Why am I so tired?",
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

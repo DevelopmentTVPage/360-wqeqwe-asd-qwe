@@ -19,6 +19,8 @@
     "id": "6418254",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "71",
+    "entityIdParent": "168543",
     "titleTextEncoded": "Tanner-Hall-is-Back",
     "category": null,
     "duration": 153,
@@ -39,7 +41,14 @@
         ]
     },
     "transcripts": null,
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": [
         "2"
     ],

@@ -19,6 +19,8 @@
     "id": "6414165",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "192",
+    "entityIdParent": "168527",
     "titleTextEncoded": "Lean-Mean",
     "category": null,
     "duration": 110,
@@ -39,7 +41,14 @@
         "hookText": "Brian Kachinsky is Lean & Mean.\n\nhttp:\/\/www.facebook.com\/etnies\nhttp:\/\/etnies.com\/blog\/2012\/6\/11\/lean-mean\/"
     },
     "transcripts": null,
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

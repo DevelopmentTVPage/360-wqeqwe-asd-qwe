@@ -19,6 +19,8 @@
     "id": "3831812",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "3",
+    "entityIdParent": "3831810",
     "titleTextEncoded": "RASTACLAT-SUMMER-VIBES",
     "category": null,
     "duration": "99",

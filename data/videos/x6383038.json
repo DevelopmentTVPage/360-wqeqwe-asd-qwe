@@ -19,6 +19,8 @@
     "id": "6383038",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "140",
+    "entityIdParent": "168548",
     "titleTextEncoded": "Mike-Watt-for-Altamont",
     "category": null,
     "duration": "624",
@@ -37,7 +39,14 @@
         "hookText": "Mike Watt for Altamont. Shop the collection: https:\/\/altamontapparel.com\/collections\/mike-watt\/ http:\/\/altamontapparel.com http:\/\/facebook.com\/altamont ..."
     },
     "transcripts": null,
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

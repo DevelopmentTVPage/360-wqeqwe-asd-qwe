@@ -19,6 +19,8 @@
     "id": "3761232",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "4",
+    "entityIdParent": "3761211",
     "titleTextEncoded": "Kelty-TraiLogic-PK-50-Backpack",
     "category": null,
     "duration": "160",

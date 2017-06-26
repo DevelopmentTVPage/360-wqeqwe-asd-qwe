@@ -19,6 +19,8 @@
     "id": "6416493",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "9",
+    "entityIdParent": "6381989",
     "titleTextEncoded": "Sebo-Walker-Van-Life-Tee-for-Independent-Trucks",
     "category": null,
     "duration": "125",
@@ -37,7 +39,14 @@
         "hookText": "Get in the Van! Sebo Walker put his brain skills on paper, and came through with this Signature T-Shirt! What\u2019s Van Life all about? Sebo introduces his new Signature Tee, and dishes out some quick footed trickery for Independent Trucks and Strange Notes.\n"
     },
     "transcripts": null,
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

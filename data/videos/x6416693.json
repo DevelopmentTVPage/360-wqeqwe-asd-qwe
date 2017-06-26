@@ -19,6 +19,8 @@
     "id": "6416693",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "14",
+    "entityIdParent": "168533",
     "titleTextEncoded": "VonZipper-Malia-Manuel-in-the-Trudie",
     "category": null,
     "duration": "20",
@@ -37,7 +39,14 @@
         "hookText": "This is not a tale of war. It is a story of love while the cannons roar and the fireworks burst overhead. Make some of your own, whilst wearing the Trudie..."
     },
     "transcripts": null,
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

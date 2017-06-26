@@ -19,6 +19,8 @@
     "id": "67134708",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "93",
+    "entityIdParent": "168538",
     "titleTextEncoded": "JanSport-Pack-Review-Driver-8",
     "category": "",
     "duration": 118,
@@ -38,7 +40,14 @@
         "quality": ""
     },
     "transcripts": "Hey guys my name is Jayson I'm a senior product developer at jansport and today I'm going to be walking through some really cool products. All right let's take a look at the driver 8 backpack its  36 liters and is constructed of a 600 denier polyester as well as a forward to 2010 your velocity nylon this is a great bag if you want to carry a lot of heavy gear a lot of heavy books we're competing and it's also a great travel piece so this will carry about three or four days worth close to start the back panel there's a fully padded back pat on the back here and it has an aluminum two-stage handle system as well as 80 millimeter wheels on the bottom and a skidpad hear that protects the bag from abrasion when you're going upstairs or on a bumpy sidewalk also on the back panel you have these tuck away show chef so you can pull out to convert to a backpack so you just click to the d-ring over here and when you don't need it is simply tuck it away and you're ready to go on the side of the bag you have a mesh water bottle pocket here and on the top there's a padded grab handle so this is a two-compartment backpack in the main compartment this is a compartment with the most capacity you have a padded laptop sleeve that fits up to a 15 inch laptop it also has a webbing keeper here to keep your laptop secure the middle compartment here is just another large capacity zone for storing and organizing your large bulky items and moving on to the front of the dive there's a zippered pocket here that has two pockets with a flat closer to store and secure items and it also has a key clip here on the top and lastly on the front of the bag is another quick stash zippered pocket here for storing your smaller items like your wallet your sunglasses and accuse or you're out cables so that's it for the driver 8 backpack this bag is guaranteed for life.",
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

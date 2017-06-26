@@ -19,6 +19,8 @@
     "id": "6378177",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "26",
+    "entityIdParent": "3764281",
     "titleTextEncoded": "enjoi-pocket-tee-s",
     "category": null,
     "duration": "60",
@@ -37,7 +39,14 @@
         "hookText": "Zack Wallin\u200b puts his enjoi pocket tee to good use with Blue, Miika, and Will. New enjoi pocket tee's available in skate shops now! #15yearsofenjoi."
     },
     "transcripts": null,
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

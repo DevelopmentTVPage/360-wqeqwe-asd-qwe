@@ -19,6 +19,8 @@
     "id": "6416515",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "430",
+    "entityIdParent": "158318",
     "titleTextEncoded": "THE-MONTHLY-THROW-UP-TIM-HENDRICKS",
     "category": null,
     "duration": "184",
@@ -37,7 +39,14 @@
         "hookText": "Clean composition, bold lines, one badass Samurai -- It's no wonder legendary tattoo artist Tim Hendricks has been so influenced by Japanese art and print ..."
     },
     "transcripts": null,
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

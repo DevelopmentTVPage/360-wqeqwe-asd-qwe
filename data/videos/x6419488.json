@@ -19,6 +19,8 @@
     "id": "6419488",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "247",
+    "entityIdParent": "168524",
     "titleTextEncoded": "Golden-Void-performs-Rise-to-the-Out-of-Reach-Smiling-Raven-Converse-Rubber-Tracks-Ready-Set",
     "category": null,
     "duration": "376",
@@ -37,7 +39,14 @@
         "hookText": "Bay area heavy rock supergroup Golden Void materialized from Earthless guitarist Isaiah Mitchell's blazingly psychedelic riffs, Assemble Head in Sunburst Sou..."
     },
     "transcripts": null,
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

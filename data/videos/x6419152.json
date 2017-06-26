@@ -19,6 +19,8 @@
     "id": "6419152",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "102",
+    "entityIdParent": "3763996",
     "titleTextEncoded": "Le-Boutique-Du-Skate-Laurent-Nicolas-Paquin",
     "category": null,
     "duration": "317",
@@ -37,7 +39,14 @@
         "hookText": "Laurent has recently gained part ownership in a Quebec City skateshop, Le Boutique Du Skate as well as start his own skateboard brand Crapsack. I was in ..."
     },
     "transcripts": null,
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

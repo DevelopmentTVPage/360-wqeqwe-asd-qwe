@@ -19,6 +19,8 @@
     "id": "6383274",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "10",
+    "entityIdParent": "168553",
     "titleTextEncoded": "Del-the-Funky-Homosapien-Create-Your-Vision-The-Process",
     "category": null,
     "duration": "210",
@@ -37,7 +39,14 @@
         "hookText": "Del talks about his process and inspiration, performs in San Diego, and drops a hint about his next project. Del wears the Fire Drill, get yours at Arnette.com."
     },
     "transcripts": null,
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

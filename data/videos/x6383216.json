@@ -19,6 +19,8 @@
     "id": "6383216",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "535",
+    "entityIdParent": "158318",
     "titleTextEncoded": "HURLEY-YOUTH-AUSTRALIA",
     "category": null,
     "duration": "332",
@@ -37,7 +39,14 @@
         "hookText": "Kai Hing welcomes Barron Mamiya, Hiroto Ohara and Jake Marshall to the rugged coast of Australia in the latest installment of Hurley Youth."
     },
     "transcripts": null,
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

@@ -19,6 +19,8 @@
     "id": "6383232",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "110",
+    "entityIdParent": "168534",
     "titleTextEncoded": "Element-x-Jeremy-Fish-The-Zipper-Series-Full-Video",
     "category": null,
     "duration": "78",
@@ -37,7 +39,14 @@
         "hookText": "This season, Element partners with San Francisco-based artist Jeremy Fish to bring his highly acclaimed \"Zipper Series\" to our board graphics.\n\nExploring the theme of evolution and authenticity, his whimsical designs have been re-tooled for our hardgoods "
     },
     "transcripts": null,
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

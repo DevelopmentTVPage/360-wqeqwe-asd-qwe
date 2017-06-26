@@ -19,6 +19,8 @@
     "id": "6419631",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "200",
+    "entityIdParent": "168524",
     "titleTextEncoded": "Converse-Rubber-Tracks-Austin-Hanni-El-Khatib-Family-Live",
     "category": null,
     "duration": "168",
@@ -37,7 +39,14 @@
         "hookText": "Hanni El Khatib and band mates Hayden Tobin (Guitar\/Keys), Adrian Rodriguez (Bass), Ron Marinelli (Drums) were all over Austin playing shows and soaking in t..."
     },
     "transcripts": null,
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

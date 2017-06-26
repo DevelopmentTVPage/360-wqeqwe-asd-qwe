@@ -19,6 +19,8 @@
     "id": "6413817",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "55",
+    "entityIdParent": "168534",
     "titleTextEncoded": "ELEMENT-WELCOME-TO-THE-FAMILY-TRENT-McCLUNG",
     "category": null,
     "duration": "98",
@@ -37,7 +39,14 @@
         "hookText": "Element is proud to welcome Trent McCLung to the family with his official video part. Music by: Tearjerker \"So Dead\" Rare tearjerker.ca."
     },
     "transcripts": null,
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

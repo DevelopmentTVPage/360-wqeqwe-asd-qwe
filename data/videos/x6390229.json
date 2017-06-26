@@ -19,6 +19,8 @@
     "id": "6390229",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "75",
+    "entityIdParent": "168534",
     "titleTextEncoded": "RAY-BARBEE-THE-ELEMENT-PERSPECTIVE",
     "category": null,
     "duration": "180",
@@ -37,7 +39,14 @@
         "hookText": "A proven legend in front of the lens, Element Advocate Ray Barbee is equally talented behind it. Ray ignites the Element \"Perspective\" program, a series of s..."
     },
     "transcripts": null,
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

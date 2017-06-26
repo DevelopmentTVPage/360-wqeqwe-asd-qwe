@@ -19,6 +19,8 @@
     "id": "170527",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "13",
+    "entityIdParent": "168529",
     "titleTextEncoded": "Let-Me-Live-Episode-2-I-ll-Take-It",
     "category": null,
     "duration": "317",
@@ -35,7 +37,14 @@
         "prettyDuration": "00:05:17"
     },
     "transcripts": null,
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

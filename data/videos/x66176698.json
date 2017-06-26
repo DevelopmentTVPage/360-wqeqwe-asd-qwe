@@ -19,6 +19,8 @@
     "id": "66176698",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "5",
+    "entityIdParent": "66220746",
     "titleTextEncoded": "The-North-Face-The-Power-in-Me-Untouched-Ground",
     "category": "",
     "duration": 217,
@@ -38,7 +40,14 @@
         "quality": ""
     },
     "transcripts": "You look out at this sea of mountains around you. And suddenly you feel like, so small. Just a piece of nothing. On the other hand, it's so good to feel that. It doesn't scare me. so now more and more I want to step on routes which nobody has touched. Amazing view. From 2002 until now I've done 26 expeditions. I've climbed five of the highest peaks in the world without artificial oxygen. Namaste, we are on summit. Something like this is just in front of you and you think it attracts you. that's what exploration is about, I think. But almost everything you can imagine can go wrong. I was with a friend from japan, Kazuya. We climbed three days in the North face of Ama Dablam and it was really challenging. Then we popped out at this ridge and there we got stuck because the snow was so different than we expected. And we called the helicopter and they picked me up and then they went again to Kazuya and then the rotor hit the ridge and the helicopter crashes and the pilot and co-pilot die. I am still alive, because of these guys. Whatever is possible to change that story, I would do but it's not possible and I have to accept it. Even if it's the darkest moment. We came back to Kathmandu and we went to their families and the mother told me 'Okay David, you should live a happy life but you have to live now the life of the others.' And you look in the eyes of the mother and you think... Of course this accident is something which will be always part of my journey. \"Yeah I got you.\" But I want to see even more now because I have to live for two. To climb a new route on Everest it's a new step for me, a new level of exploration. road to Everest starts now.",
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

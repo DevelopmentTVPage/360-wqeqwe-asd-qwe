@@ -19,6 +19,8 @@
     "id": "67134786",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "71",
+    "entityIdParent": "168538",
     "titleTextEncoded": "JanSport-Pack-Review-SuperBreak",
     "category": "",
     "duration": 56,
@@ -38,7 +40,14 @@
         "quality": ""
     },
     "transcripts": "Hey guys my name is Ahren I'm a pack designer here at jansport and today I'm going to walk you through one of our best selling products. Today I'm gonna tell you about the superbreak it is the iconic every day JanSport pack , it's 25 litres made out of 600 denier polyester which is lightweight and abrasion resistant. So looking at the back panel we've got a center padded back panel, it's quilted as well as padded straight straps, as well as a haully. The main compartment is plenty big to hold all your books and gear our front pocket it's a great secondary for smaller items that you want to keep organized and quick access got my phone in there some headphones, and some pens so there you have it the jansport superbreak our iconic pack available in a variety of colors and prints and always guaranteed for life",
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

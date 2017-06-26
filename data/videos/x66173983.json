@@ -19,6 +19,8 @@
     "id": "66173983",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "99",
+    "entityIdParent": "3762188",
     "titleTextEncoded": "GoPro-BTS-The-Story-of-Giants-Inside-the-VR-Shoot",
     "category": "",
     "duration": 189,
@@ -38,7 +40,14 @@
         "quality": ""
     },
     "transcripts": "I got bugs all over me it's just been kind of a Daily thing,  Mosquitoes and flies The Flies aren't so bad they're just annoying Mosquitoes there's less of them so They're not so bad either all in all It's not so bad.In fact it's  perfect. Hi.Hi,  how are you. Good yourself. Very well. Awesome. My name is Daniel I'm a production artist a GoPro Anyone should have peace about the giant sequoias. Michael Gusti",
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

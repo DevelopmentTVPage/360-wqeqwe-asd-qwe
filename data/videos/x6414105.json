@@ -19,6 +19,8 @@
     "id": "6414105",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "491",
+    "entityIdParent": "168524",
     "titleTextEncoded": "\u00c4nimal-Pixelated-Thoughts-Converse-Red-Light-Sessions",
     "category": null,
     "duration": "206",
@@ -37,7 +39,14 @@
         "hookText": "Indie electronica from production duo \u00c4nimal as they hook up with guest vocalist Iris van Lommerse and Lennart de Vries (on drums) to play an experimental Re."
     },
     "transcripts": null,
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

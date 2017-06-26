@@ -19,6 +19,8 @@
     "id": "6419430",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "273",
+    "entityIdParent": "168524",
     "titleTextEncoded": "Rough-Francis-Black-Red-Converse-Red-Light-Sessions",
     "category": null,
     "duration": "173",
@@ -37,7 +39,14 @@
         "hookText": "Inspired by the pioneering pro-punk played by their dads in Death in the 70s, Rough Francis were born to continue that legacy. They joined a re-formed Death ..."
     },
     "transcripts": null,
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

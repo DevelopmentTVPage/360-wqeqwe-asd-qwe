@@ -19,6 +19,8 @@
     "id": "67134709",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "94",
+    "entityIdParent": "168538",
     "titleTextEncoded": "JanSport-Pack-Review-Digital-Accessories",
     "category": "",
     "duration": 124,
@@ -38,7 +40,14 @@
         "quality": ""
     },
     "transcripts": "Hey guys I'm Ahren pack designer here at jansport and today I'm going to walk you through some awesome new products. Today I'm going to walk you through some of our digital accessories let's take a look at the bento box it's a digital accessory organizer that's fully padded get a nice haul handle on the top open up the main compartment you see a zippered mesh pocket on the lid great for keeping chords tangle-free the main compartment you've got a nice big space for headphones or larger items but also have our pop and lock feature it's great for smaller items keep them from getting everything else in the bag it's made out of a really structured foam keep everything nice and safe let's take a look at the right pouch to slightly smaller version of our iconic right back designed to hold accessories it's got 600 denier polyester is the main and the same premium suede on the bottom there's a whole handle on the top so you can clip it to your bag as well as elastic straps you can strap it on somewhere else the main pocket is nice big space here you can hold the power brick external battery there's also a little mesh in the back there to keep things separate in front of that's a nice little pocket great for keeping a cable organized and tangle free and then a tiny little pocket in the front that will fit your jump drive there you have it let's take a look at the power brake it's a digital accessory organizer open it up and see a nice big mesh pocket up here keep anything up your separate and organized big main space and figure power brick as well as a lot of the organizer pocket so you got a little guys down here for flash drives in the front got a little pen pocket up here for a pen or pencil it's made out of a nice structured phone to keep everything nice and safe and there you have it the power brick from jansport as always guaranteed for life.",
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

@@ -19,6 +19,8 @@
     "id": "67134794",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "79",
+    "entityIdParent": "168538",
     "titleTextEncoded": "JanSport-Pack-Review-Envoy",
     "category": "",
     "duration": 124,
@@ -38,7 +40,14 @@
         "quality": ""
     },
     "transcripts": "Hey guys my name is Ahren I'm a pack designer here at jansport and today I'm going to walk you through one of our best selling products i'm going to show you the Envoy this is a digital bag part of our digital collection all designed to carry, organize, and protect your digital gear and accessories. It's 33 liters so it's a really large bag it's made out of the 600 denier polyester which is really lightweight and durable on the back side here you'll notice it's really nicely padded plush S curve shoulder straps as well as a fully padded back panel and a quick grab haul loop. On the side we've got dual water bottle pockets on each side of this pack, alright let's check out the main compartment, so on the back here you've got a quick access dedicated 15 inch laptop sleeve. The main compartment is a cavernous zone for all your bigger carry items in the third pocket this is kind of a slimmer pocket but also features a lot of capacity it's great for notebooks, magazines and then you've got your organizer pocket up front here this is really a nice large pocket easy to get into and this is where you're going to find your organizer panel got a nice drop zone right here plus a place for your phone and any other cord or smaller items. On the side here you're going to notice a little tablet pocket that is fully plush lined will fit up to a 10 inch tablet as well as an additional quick zip pocket for any small on-the-go items we've also got a nice little slash pocket here I like to keep my headphones in there keep them tangle free and then on the bottom we've got a dedicated cord pocket so it's big enough for your power brig. We've also got some lashing points underneath there's a nice compression straps, great for lashing bulkier items to the bottom of your bag so there you have it the Envoy by jansport always guaranteed for life.",
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

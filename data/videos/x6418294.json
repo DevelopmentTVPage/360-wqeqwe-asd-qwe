@@ -19,6 +19,8 @@
     "id": "6418294",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "51",
+    "entityIdParent": "168543",
     "titleTextEncoded": "X-Games",
     "category": null,
     "duration": 281,
@@ -39,7 +41,14 @@
         "hookText": "The X Games is undoubtably the biggest contest of the year to all competitors of each sport. Here Tanner Hall, Bobby Brown, Kaya Turski, Sammy Carlson, and Sean Pettit talk about the importance of the event and how much pressure there is competing in this"
     },
     "transcripts": null,
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

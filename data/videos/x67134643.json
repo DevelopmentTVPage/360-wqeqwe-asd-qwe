@@ -19,6 +19,8 @@
     "id": "67134643",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "111",
+    "entityIdParent": "168510",
     "titleTextEncoded": "Jessica-Ennis-Hill-Speed-Takes-Goals-adidas",
     "category": "",
     "duration": 42,
@@ -38,7 +40,14 @@
         "quality": ""
     },
     "transcripts": "Hahaha. Setting goals is really important it raises your level of expectation on performance, but you have to have things to focus on, and things to give you that drive when you don't want to get up and train because the weather is horrible and your body is hurting. You always have that motivation of wanting to better what you've done run a little bit faster, jump a little bit higher I'm very much an explosive athlete. I have that natural speed I can just find that extra gear and push on, my ultimate goal is to get back on the podium and defend my title.",
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

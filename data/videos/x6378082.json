@@ -19,6 +19,8 @@
     "id": "6378082",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "23",
+    "entityIdParent": "3764400",
     "titleTextEncoded": "Lizzie-Armanto-X-Penny-Skateboards-in-San-Francisco",
     "category": null,
     "duration": "89",
@@ -37,7 +39,14 @@
         "hookText": "Come along as X Games Gold Medalist, Lizzie Armanto, takes us on a tour of San Francisco. \n\n For more Penny Skateboards X Lizzie Armanto videos, head to http:\/\/www.pennyskateboards.com"
     },
     "transcripts": null,
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

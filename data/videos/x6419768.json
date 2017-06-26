@@ -19,6 +19,8 @@
     "id": "6419768",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "188",
+    "entityIdParent": "168524",
     "titleTextEncoded": "Converse-Rubber-Tracks-Track-of-the-Week-Moe-Pope-records-Pressure",
     "category": null,
     "duration": "182",
@@ -37,7 +39,14 @@
         "hookText": "This week's \"Track of the Week\" features the single \"Pressure\" from Converse Rubber Tracks recording artist Moe Pope and Quills. See the band set up, decide ."
     },
     "transcripts": null,
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

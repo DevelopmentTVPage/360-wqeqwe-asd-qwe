@@ -19,6 +19,8 @@
     "id": "6390431",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "294",
+    "entityIdParent": "168543",
     "titleTextEncoded": "Dakine-Trek-26L-Pack",
     "category": null,
     "duration": 41,
@@ -39,7 +41,14 @@
         "hookText": "Check out 360\u00b0 views of the 2015 Trek 26L Pack in Range.\nFeatures: \n- Padded laptop sleeve\n- Fits most 17\" laptops\n- Interior mesh pocket\n- Adjustable sternum strap\n- Side access\n\nView the product: http:\/\/www.dakine.com\/p\/backpacks\/parkdale-collection\/fal"
     },
     "transcripts": null,
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

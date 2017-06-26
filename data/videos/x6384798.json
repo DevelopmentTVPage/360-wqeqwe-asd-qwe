@@ -19,6 +19,8 @@
     "id": "6384798",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "107",
+    "entityIdParent": "168534",
     "titleTextEncoded": "DOGTOWN-X-BRANCH-DISTRIBUTION-COLLAB",
     "category": null,
     "duration": "193",
@@ -37,7 +39,14 @@
         "hookText": "Branch Distribution is proud to present an exclusive collection curated by Jim \"Red Dog\" Muir, creator of Dogtown. Original art was created by Ric Clayton ak..."
     },
     "transcripts": null,
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": [
         "30"
     ],

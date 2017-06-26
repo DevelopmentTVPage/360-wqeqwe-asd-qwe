@@ -19,6 +19,8 @@
     "id": "66228278",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "235",
+    "entityIdParent": "168557",
     "titleTextEncoded": "Mike-Hill-AoSA-2016-TCT-Global-Champs-Volcom-Surf",
     "category": "",
     "duration": 114,
@@ -38,7 +40,14 @@
         "quality": ""
     },
     "transcripts": "My name is Mike Hill, I'm the founder of a AoSA image out here in Huntington Beach, California. I currently am blessed with being able to make amazing things for different companies involving displays, banners, build outs, trade show booths out of reclaimed materials from local waste streams, as well as new materials that's made from old stuff and things that can be recycled. It's very important for me in this company to be working with reclaimed materials as well as natural materials because we have it finite resource on this planet, so might as well use it appropriately if we have the option. The company's ethos is based around reclaimed and recyclable materials, cause it just makes common sense. I love working Volcom in general because I started working them like in 94 and it's been a long road and very very exciting to see their trajectory. This is our second working with the TCT championships and it's been a good one. Volcom basically comes to us with a postcard saying let's design some trophies out of this little postcard and then we look at what scrap we have, what processes we can do, and we design around it, try to make something that's fun, different, unique for Volcom and obviously the people that just rip at surfing, and deserve to get something that special and unique, so this year it's a really fun, playful trophy and i'm hoping that everyone enjoys it.",
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

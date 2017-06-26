@@ -19,6 +19,8 @@
     "id": "6386885",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "498",
+    "entityIdParent": "158318",
     "titleTextEncoded": "TOURNOTES-JOHN-JOHN-FLORENCE-S-WORKOUT",
     "category": null,
     "duration": "54",
@@ -37,7 +39,14 @@
         "hookText": "Downtime calls for serious training. John John Florence takes you through his pre-heat shorebreak routine. See more from John John at ..."
     },
     "transcripts": null,
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": [
         "2",
         "17"

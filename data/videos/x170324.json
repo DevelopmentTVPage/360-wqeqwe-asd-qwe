@@ -19,6 +19,8 @@
     "id": "170324",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "4",
+    "entityIdParent": "168546",
     "titleTextEncoded": "Rip-Curl-GromSearch-International-Final-2014-Highlights-La",
     "category": null,
     "duration": "202",
@@ -35,7 +37,14 @@
         "prettyDuration": "00:03:22"
     },
     "transcripts": null,
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

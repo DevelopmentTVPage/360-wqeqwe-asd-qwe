@@ -19,6 +19,8 @@
     "id": "195846",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "10",
+    "entityIdParent": "195845",
     "titleTextEncoded": "Roxy-Activewear-at-Tilly-s",
     "category": null,
     "duration": "103",

@@ -19,6 +19,8 @@
     "id": "6416627",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "52",
+    "entityIdParent": "168533",
     "titleTextEncoded": "VonZipper-Andy-Nieblas-in-the-Lesmore",
     "category": null,
     "duration": "47",
@@ -37,7 +39,14 @@
         "hookText": "We are firm believers in the \"if you can't lose it tan it\" way of life. And it is matter of course that every now and again the good life catches up with you. Reel it in, and be an advocate for quality over quantity. Less is more in Lesmore sunglasses..."
     },
     "transcripts": null,
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

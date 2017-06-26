@@ -19,6 +19,8 @@
     "id": "66177304",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "44",
+    "entityIdParent": "66186028",
     "titleTextEncoded": "Setting-Up-Your-UA-HealthBox-Under-Armour-HealthBox",
     "category": "",
     "duration": 187,
@@ -38,7 +40,14 @@
         "quality": ""
     },
     "transcripts": "Introducing ua health box the world's first connected fitness system created specifically to measure monitor and manage the factors that determine how you feel to get started remove your ua  band ua scale and ua heart rate from the box we have also provided a charging cable for your band extra strap and ejector pin in the compartment below the heart rate strap we also recommend you view the QuickStart guide located just above the band compartment this document gives you the basics of how to get there ua health box set up and ready to use ua record is the app that will seem to your health box fitness data and enable other features on your connected devices go to the appstore your iphone or android smartphone search for ua record and download once you have installed ua record create an account be sure to enter your height and weight which will help ua record better calculate calories burned and other steps the app will let you know that it's time to connect are ua devices when you get to this screen take a moment to turn on all the devices in your ua healthbox first power up your ua band do this by pressing and holding on the red button on the side if for some reason it doesn't turn on charged with the charging cable provided in the box next power up your ua scale pick it up turn it over and pull the battery tab out of the compartment on the back.this turns it on and get it ready to connect then put it down on a hard surface finally unfold the ua heart rate strap and snap the puck into it there's an arrow indicating proper orientation on the back of the book it's time to get your devices connected go back to ua record and tap the help box item at the top of the list ua record will now search for the band it should only take a few seconds to find it you should now see a cold displayed in ua record if using an android phone check this code matches the number on your band that's it ua band is synced up with the ua record account hit the continue button to get your ua scale set up just like your band ua record now look for your scale this should only take a few seconds once ua rector find your scale you need to briefly step on it to confirm the connection make sure the scale is on a hard surface like a wood floor when doing this ua scale is now confirmed once connected you will be prompted to choose your body fat measurement preference now you'll need to provide the ua skill with your home Wi-Fi connection this is required in order to sync your daily way in with ua record to make sure u a rectifies your heart rate device press the sensor pads on the back of your ua heart rate strap you'll see the puck start flashing blue once discovered your ua heartrate book will turn a solid blue now you can confirm it in ua record ua health boxes set up and you're ready to exercise smarter feel better and live longer for more information about ua record in healthbox go to underarmour.com ",
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

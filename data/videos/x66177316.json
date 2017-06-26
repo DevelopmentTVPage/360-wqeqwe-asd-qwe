@@ -19,6 +19,8 @@
     "id": "66177316",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "16",
+    "entityIdParent": "66186028",
     "titleTextEncoded": "Mitch-Marner-Under-Armour-Interview",
     "category": "",
     "duration": 74,
@@ -38,7 +40,14 @@
         "quality": ""
     },
     "transcripts": "I'm Mitch Marner and this is my Under Armour Interview. Growing up I had a nickname when I was really young, I don't know where it came from people used to call me Mickey Mouse. He's a small guy and had an energy that could last a lifetime, and you know never needed to rest he would always just be 24\/7 and that was one that kind of stuck with me for a little bit. Craziest prank, uh we have a hose in our shower that the water can go out like burning hot, almost too hot, so I remember someone was washing their hair or something and I walked in and someone turned it on and suddenly nobody really new about it,  and everybody just started feeling lava on their skin. Growing up I played multiple sports, I played lacrosse, soccer with school I usually sometimes play baseball, summertime is kind of crazy and our family household too cause my brother is playing hockey. Us playing hockey, we're both playing lacrosse, and soccer so a lot of driving around for my parents. Piece of Under Armour equipment that's I guess my whole under suits and everything I wear under my equipment to my tights, my upper and bottom tights, those two things I need to have in my hockey equipment or else it's to uncomfortable for me I can't deal with it.",
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

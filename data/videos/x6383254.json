@@ -19,6 +19,8 @@
     "id": "6383254",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "553",
+    "entityIdParent": "168524",
     "titleTextEncoded": "Useless-Eaters-Out-In-The-Night-Converse-Red-Light-Session",
     "category": null,
     "duration": "138",
@@ -37,7 +39,14 @@
         "hookText": "www.converse-music.com An energetic lightning storm of vocals and riffs. Useless Eaters 80's-inspired angular rhythms during their Red Light Session in ..."
     },
     "transcripts": null,
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

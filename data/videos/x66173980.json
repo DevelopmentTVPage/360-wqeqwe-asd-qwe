@@ -19,6 +19,8 @@
     "id": "66173980",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "94",
+    "entityIdParent": "3762188",
     "titleTextEncoded": "GoPro-Awards-Freedom-The-Horse-is-Liberated",
     "category": "",
     "duration": 203,
@@ -38,7 +40,14 @@
         "quality": ""
     },
     "transcripts": "Don't sleep. Don't sleep. Don't sleep. She got in here, the wood boards broke on her weight so we got some hay in there maybe she can press that hay down get a little bit higher. Don't die. Don't die. On the other side we called the fire department as you can see they showed in, in force. If she doesn't want to get up on her own, we definitely won't be able to lift her out. Marek, maybe we should get the hoses now? Okay. Marek you take it here...and someone take the other side. Got it? Lower her a bit. We need more guys in front! I've had horses for 13 years never had anything happen like this before. I'm at a lost for ideas. It will be okay. Hey Adam. She is standing up once again, but at one point I really thought...\"This is it.\" Give her some room! Slow..slow...adjust her foot! Guys, now the hoses! Four guys on each side! Three, two, one! After twelve hours of being stuck, Freedom was liberated, and is now happily roaming a pasture in Poland.",
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

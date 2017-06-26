@@ -19,6 +19,8 @@
     "id": "6416557",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "26",
+    "entityIdParent": "168534",
     "titleTextEncoded": "ELEMENT-LEVI-BROWN-MAKE-IT-COUNT-2012-INTERNATIONAL-SKATE-CONTEST-SERIES",
     "category": null,
     "duration": "48",
@@ -37,7 +39,14 @@
         "hookText": "Levi Brown discusses the Element \"MAKE IT COUNT\" International Contest Series. Overall contest winner receives an all expenses paid trip to join fellow winne."
     },
     "transcripts": null,
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

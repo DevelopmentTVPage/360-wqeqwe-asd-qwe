@@ -19,6 +19,8 @@
     "id": "6417895",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "137",
+    "entityIdParent": "168527",
     "titleTextEncoded": "etnies-Taka-Time-at-the-Compound",
     "category": null,
     "duration": 122,
@@ -39,7 +41,14 @@
         "hookText": "etnies spent some time with Taka Higashino at The Compound.\nhttp:\/\/etnies.com\nhttp:\/\/www.facebook.com\/etnies"
     },
     "transcripts": null,
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

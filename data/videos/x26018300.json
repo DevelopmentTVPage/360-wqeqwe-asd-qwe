@@ -19,6 +19,8 @@
     "id": "26018300",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "13",
+    "entityIdParent": "168510",
     "titleTextEncoded": "adidas-Arthur-Zanetti-It-s-Forever-or-Never",
     "category": "",
     "duration": "84",
@@ -36,7 +38,14 @@
         "views": "53442"
     },
     "transcripts": "",
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

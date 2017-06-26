@@ -19,6 +19,8 @@
     "id": "6418680",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "151",
+    "entityIdParent": "168514",
     "titleTextEncoded": "Ryan-Dungey-Ken-Roczen-Chad-Reed-and-Ricky-Carmichael-Fox-V4-Motocross-Helmet",
     "category": null,
     "duration": "77",
@@ -37,7 +39,14 @@
         "hookText": "In creating the V4 helmet, Fox exceeded the needs of the world's most demanding sport, Motocross. If you're serious about motocross, this is your helmet."
     },
     "transcripts": null,
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

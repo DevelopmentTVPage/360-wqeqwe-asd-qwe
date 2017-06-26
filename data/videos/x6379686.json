@@ -19,6 +19,8 @@
     "id": "6379686",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "48",
+    "entityIdParent": "168553",
     "titleTextEncoded": "How-To-Build-a-DIY-Skate-Curb-Yer-Welcome",
     "category": null,
     "duration": "216",
@@ -37,7 +39,14 @@
         "hookText": "DIY Slappy Curbs featuring Jimmy Cao, Peter Smolik, Kellen James, Jamie Palmore, Brandon Turner, Pat Duffy, and more! Go skate the curbs from this episode at Slappys Garage in San Diego."
     },
     "transcripts": null,
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

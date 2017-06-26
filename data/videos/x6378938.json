@@ -19,6 +19,8 @@
     "id": "6378938",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "120",
+    "entityIdParent": "168523",
     "titleTextEncoded": "Emerica-Proudly-Presents-the-Westgate-CC",
     "category": null,
     "duration": "19",
@@ -37,7 +39,14 @@
         "hookText": "Emerica is proud to announce the release of Brandon\u2019s new pro model shoe, The Westgate CC, coming in at $65.\n\nThe Westgate CC is a slimmed down version with a more accessible price point. It has a G6 foam midsole for impact protection, while the cup sole "
     },
     "transcripts": null,
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

@@ -19,6 +19,8 @@
     "id": "67134698",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "83",
+    "entityIdParent": "168538",
     "titleTextEncoded": "JanSport-Pack-Review-Wanderer",
     "category": "",
     "duration": 109,
@@ -38,7 +40,14 @@
         "quality": ""
     },
     "transcripts": "Hey guys my name is Jayson I'm a senior product developer jansport and today I'm going to be walking through some really cool product today we're going to take a look at the wanderer this is a 27 liter pack made out of a premium corridor fabric this fabric is super durable and it's a really abrasion resistance on the bottom panel here you'll notice Jen sports iconic suede leather bottom and you can also find this way leather on the lashes for on the front as well as on the zipper pulls all right let's start with the back panel you have a fully padded back panel and large padded straps and on the top here you have a wedding holder we were onto the side of the bag you have expandable gusseted water bottle pocket that will expand to accommodate different gear you want to throw in here and we're not using it to lay flat on the profile of bag all right this is a two-compartment bag so starting with this back compartment here inside of this pocket is a padded 15 inch laptop sleeve and in the main compartment here for large capacity department to stash all of your large bulky items on the front of the bag is a zippered pocket great spot to stash your tablet also fits a book really well or her headphones and on the front zipper pocket in this pocket you'll have your organizer paddle it's a two pocket organizer to stash your smaller gear and in the middle you have two slots for pens and pencils and finally on the bag is a quick staff super pocket on the front to throw your wallet or your keys or sunglasses in right so that's it for The Wanderer backpack this bag is guaranteed for life",
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

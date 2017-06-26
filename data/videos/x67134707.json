@@ -19,6 +19,8 @@
     "id": "67134707",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "92",
+    "entityIdParent": "168538",
     "titleTextEncoded": "JanSport-Pack-Review-Fox-Hole",
     "category": "",
     "duration": 84,
@@ -38,7 +40,14 @@
         "quality": ""
     },
     "transcripts": "Hey guys I'm Ahren back designer here at jansport and today I'm going to walk you through some awesome new product. Today we're going to look at the fox hole it's part of our outside collection this is a 28 liter pack it's made out of 600 denier polyester and features synthetic leather touch points take a look at the back first you've got really nice padded straight scraps with a webbing detail as well as a fully padded back panel this is also where you'll find our versatile sleeve that's fully padded and meant to hold a 15 inch laptop or a 3-liter hydration system on the side you've got a nice big water bottle pocket and a nice big zipper for your main compartment makes it really easy to get into all your gear this is also where you going to find your tablet sleeve as well as great spot the store cables your phone sunglasses or pens any other small items that you want easy access to on the go can go up in this top pocket here nice little loft easy to get to without opening up your main compartment as well as another little zipper pocket up front great for stashing dinner items like a notebook you've also got a daisy chain down the front and lashing loops on the bottom and put a jacket or a yoga mat under there so there you have it that's your foxhole as always guaranteed for life.",
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

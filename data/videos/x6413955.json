@@ -19,6 +19,8 @@
     "id": "6413955",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "446",
+    "entityIdParent": "158318",
     "titleTextEncoded": "TOURNOTES-PYZEL-SHAPES",
     "category": null,
     "duration": "130",
@@ -37,7 +39,14 @@
         "hookText": "\"Here's the theory: if you want to make a million dollars in shaping, start with $3 million. Then you're set!\" More wisdom from Jon Pyzel (shaper to some of the ..."
     },
     "transcripts": null,
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

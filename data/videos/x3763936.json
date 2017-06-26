@@ -19,6 +19,8 @@
     "id": "3763936",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "8",
+    "entityIdParent": "3763931",
     "titleTextEncoded": "47-Brand-SXSW-2014",
     "category": null,
     "duration": "59",

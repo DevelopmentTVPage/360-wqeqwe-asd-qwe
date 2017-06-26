@@ -19,6 +19,8 @@
     "id": "6384784",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "296",
+    "entityIdParent": "168514",
     "titleTextEncoded": "FOXHEAD-EUROPE-Presents-MXON-LATVIA-2014",
     "category": null,
     "duration": "198",
@@ -37,7 +39,14 @@
         "hookText": "This year's FIM Motocross of Nations marked the 68th edition in style as a total of 14 Fox athletes were selected to ride for the country and battle it out in Kegums, ..."
     },
     "transcripts": null,
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

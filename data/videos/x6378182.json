@@ -19,6 +19,8 @@
     "id": "6378182",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "31",
+    "entityIdParent": "3764281",
     "titleTextEncoded": "RAEMERS-RULES-enjoi-s-banned-super-bowl-cut-commercial",
     "category": null,
     "duration": "72",
@@ -37,7 +39,14 @@
         "hookText": "bad boy ben raemers breaks down the rules of american football."
     },
     "transcripts": null,
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

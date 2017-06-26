@@ -19,6 +19,8 @@
     "id": "6414104",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "492",
+    "entityIdParent": "168524",
     "titleTextEncoded": "Deer-Tick-White-Havoc",
     "category": null,
     "duration": "248",
@@ -37,7 +39,14 @@
         "hookText": "White Havoc\u201d is the first single bringing holiday cheer from Converse Rubber Tracks' holiday music EP, Noise To the World 2. Deer Tick recorded and mixed th..."
     },
     "transcripts": null,
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

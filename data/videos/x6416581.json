@@ -19,6 +19,8 @@
     "id": "6416581",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "461",
+    "entityIdParent": "168524",
     "titleTextEncoded": "Nego-E-Caos-Rubber-Tracks-Live",
     "category": null,
     "duration": "213",
@@ -37,7 +39,14 @@
         "hookText": "S\u00e3o Paulo's hometown rapper Nego E delivered a hypnotic performance before Busta Rhymes on night 3 of Converse Rubber Tracks Brasil. For more on ..."
     },
     "transcripts": null,
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

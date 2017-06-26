@@ -19,6 +19,8 @@
     "id": "66173927",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "49",
+    "entityIdParent": "3762188",
     "titleTextEncoded": "GoPro-Introducing-GoPro-Care",
     "category": "",
     "duration": 48,
@@ -38,7 +40,14 @@
         "quality": ""
     },
     "transcripts": "Why am I scared? Alright here we go. 7, 6, 5. Go ahead. It's a GoPro go for it. Go! Rip away! Woo! Ahh! GoPro care, you break it, we'll replace it. Get covered for two years. Haha, woah, yeah!",
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

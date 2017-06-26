@@ -19,6 +19,8 @@
     "id": "6386067",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "88",
+    "entityIdParent": "168534",
     "titleTextEncoded": "ELEMENT-MAKE-IT-COUNT-2014-WILD-CARD",
     "category": null,
     "duration": "15",
@@ -37,7 +39,14 @@
         "hookText": "If Make it Count didn't come to your town this year, theres still a chance to win a trip to the finals. Post 15 sec. of your best footage at your local park ..."
     },
     "transcripts": null,
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

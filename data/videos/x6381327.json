@@ -19,6 +19,8 @@
     "id": "6381327",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "121",
+    "entityIdParent": "168534",
     "titleTextEncoded": "The-Explorer-Element-Camp-Collection-Backpack",
     "category": null,
     "duration": "101",
@@ -37,7 +39,14 @@
         "hookText": "This season, Element partners with famed product designer Industrial Alchemy from Seattle. Known for their technical design prowess for outdoor goods, we've sourced the most durable fabrics and married them with sleek design and one of-a-kind functional f"
     },
     "transcripts": null,
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

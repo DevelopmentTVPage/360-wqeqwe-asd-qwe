@@ -19,6 +19,8 @@
     "id": "66090745",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "27",
+    "entityIdParent": "195960",
     "titleTextEncoded": "The-Story-of-Vans-Action-Sports-50th-Anniversary-VANS",
     "category": "",
     "duration": 40,
@@ -38,7 +40,14 @@
         "quality": ""
     },
     "transcripts": "These shoes were inspired by surfing adopted by skating and embraced by everything that came after. So we return the favor, shining a spotlight on the sports we love from the North Shore to the French Alps and all the bowls, breaks, ramps and parks in between. Because without them we'd be just another deck shoe, killing it in the yacht game. And the skaters were down with the punks, and the punks were making music. Some people see our shoes as a blank canvas.",
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

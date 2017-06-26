@@ -19,6 +19,8 @@
     "id": "6414113",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "483",
+    "entityIdParent": "168524",
     "titleTextEncoded": "Converse-CONS-Graffiti-Artist-Kaput",
     "category": null,
     "duration": "155",
@@ -37,7 +39,14 @@
         "hookText": "Graffiti artist Kaput takes us on a nostalgic trip through the concrete jungle of NYC, as we watch what he does best and reminisce about the city of lights t..."
     },
     "transcripts": null,
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

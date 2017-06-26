@@ -19,6 +19,8 @@
     "id": "6386003",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "99",
+    "entityIdParent": "168523",
     "titleTextEncoded": "Emerica-MADE-Chapter-One-Teaser-Collin-Provost-Video-Coming-Soon",
     "category": null,
     "duration": "16",
@@ -37,7 +39,14 @@
         "hookText": "Emerica MADE Chapter One Teaser: Collin Provost. Video Coming Soon. #MadeInEmerica ..."
     },
     "transcripts": null,
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": [
         "32"
     ],

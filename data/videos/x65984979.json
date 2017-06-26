@@ -19,6 +19,8 @@
     "id": "65984979",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "549",
+    "entityIdParent": "158318",
     "titleTextEncoded": "HURLEY-YOUTH-NOAH-BESCHEN",
     "category": "",
     "duration": 250,
@@ -38,7 +40,14 @@
         "quality": ""
     },
     "transcripts": "My name is Noah Beschen, and I\u2019m from the North Shore Oahu, and I\u2019m 15 years old. my favorite part about home is probably just how small it is just everything is right here. Growing up on the North Shore is like the best thing ever. I went to school at Sunset Beach elementary school which is right by my house, I literally got on my bike and ride to school right there and take like one minute, and I\u2019ll just go to school, and after school me and my friends would go across the street look at pipe and all the waves right there and watch the best surfers in the world and the best waves in the world. Before I wanted to like be a pro surfer I was more into skating like I was going everywhere skating like I want to be a pro skater, I don\u2019t know I just started skating less and surfing more and more and more and just to the point where I just only surfed. Like my first memory like a really good wave was probably when I was around like ten, my dad pushed me like a backdoor wave and I got like barreled and came out and I was like all siked, that's probably one of my best like memories of surfing. I'm extremely lucky to be able to live here and surf these waves and just enjoy it. [Music Playing]",
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

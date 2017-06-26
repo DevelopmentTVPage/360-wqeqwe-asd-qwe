@@ -19,6 +19,8 @@
     "id": "6419477",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "258",
+    "entityIdParent": "168524",
     "titleTextEncoded": "IEPI-Veronica-Torr-Converse-Make-Noise",
     "category": null,
     "duration": "264",
@@ -37,7 +39,14 @@
         "hookText": "IEPI are an instrumental 3-piece from the town of Banyoles, Spain. They craft frenetic tunes that oscillate between electronica and the harder edges of elect..."
     },
     "transcripts": null,
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

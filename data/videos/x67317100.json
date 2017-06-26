@@ -19,6 +19,8 @@
     "id": "67317100",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "83",
+    "entityIdParent": "3762188",
     "titleTextEncoded": "GoPro-Paragliding-Over-Rio-de-Janeiro",
     "category": "",
     "duration": 136,
@@ -38,7 +40,14 @@
         "quality": ""
     },
     "transcripts": "[Background noise] \n[Music Playing]",
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": [
         "25"
     ],

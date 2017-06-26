@@ -19,6 +19,8 @@
     "id": "3761225",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "11",
+    "entityIdParent": "3761211",
     "titleTextEncoded": "Element-Mohave-3-0-Backpack",
     "category": null,
     "duration": "62",

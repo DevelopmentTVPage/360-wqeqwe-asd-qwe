@@ -19,6 +19,8 @@
     "id": "6417994",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "179",
+    "entityIdParent": "168514",
     "titleTextEncoded": "FOX-MTB-Presents-2013-Gear-Launch-Shoot",
     "category": null,
     "duration": "180",
@@ -37,7 +39,14 @@
         "hookText": "Here is some more footage from our 2013 Rampage Pro Carbon helmet and Mtb gear shoot. It features some of our Fox Mtb team riders shot in NorCal."
     },
     "transcripts": null,
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

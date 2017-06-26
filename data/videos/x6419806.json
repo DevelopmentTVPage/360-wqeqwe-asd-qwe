@@ -19,6 +19,8 @@
     "id": "6419806",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "174",
+    "entityIdParent": "168524",
     "titleTextEncoded": "Converse-Rubber-Tracks-Minor-Soul-records-That-s-Just-Love",
     "category": null,
     "duration": "197",
@@ -37,7 +39,14 @@
         "hookText": "Recorded at Converse Rubber Tracks, Minor Soul's single \"That's Just Love\" is this week's \"Track of the Week\". The band wasted no time exploring the state-of..."
     },
     "transcripts": null,
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

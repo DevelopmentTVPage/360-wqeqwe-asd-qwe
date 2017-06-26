@@ -19,6 +19,8 @@
     "id": "67602793",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "21",
+    "entityIdParent": "168556",
     "titleTextEncoded": "G-SHOCK-X-Michael-Burns-Master-Of-G",
     "category": "",
     "duration": 263,
@@ -38,7 +40,14 @@
         "quality": ""
     },
     "transcripts": "I'm Mike Burns and I'm a six generation lobster fisherman my family has a commercial fishing background that's where I came from. Half of my family dig clamps and the other half of my family fish lobster, and when I was small I did a little of both but what I really like to do was spend time with my father on his lobster boat and so I lean towards being a lobster fisherman. At the age of 18 you know how we kind of like to butt against our father's every once in a while, one day I come home and he was pretty mad at me and he said you need some military in your life and I went right down to the mep station and signed right up just to show my father that I can do it. I served the United States Marine Corps [laughs] Well after 20 years I had a decision and I chose to come home and spend some time with my parents and my children got my lobster license back and got back into lobstering. My typical day starts about three o'clock in the morning when my alarm clock goes off then I pick up my son and we get down to the wharf and the first thing we do is go right into a frozen bait cooler and start dumping barrels of bait getting them aboard the boat. Once that boat just got its bait aboard we head out into the darkness. You know all of our gear and even our clothing is methodically thought off right down to the watch that I wear. I personally have been a casio watch wearing guy my whole life. I started wearing them when I was in the Marine Corps and since I've been home I've been wearing Casio's ever since I've been lobsterin, right now I'm wearing a Gulf master G-Shock. A lot of times I use the easy touch features of the buttons here to illuminate my watch during the hours of darkness, up here dealing with the fog a lot of times if I step away from my electronics for a few minutes this watch right here has a built-in compass which is really handy with one-touch I can tell my general direction and in a matter of seconds and not have to go all the way back up to the wheelhouse to get a sense of where my boat is. On this watch I can review the current temperatures too and that's very important in the winter when we're get ready to make ice or not because if you start throwing lobsters into those banding trays but the temperature is down below 32 degrees the clausal freeze you got to start pulling lobsters out of the tray and there'll be no claws on them. You don't want your lobsters to be freezing this watch right here goes from icey extremes right into a hot water tank right back to icey extremes back and forth all day long and just never fails. On these boats we're always banging into each other banging on the rails slamming them on traps so on and so forth these watches they got to be able to take a beating. Tides and moon phases have a lot to do with lobster fishing on certain moons people have gear in certain places and and they know whether or not they're going to catch and also down to the lobster bolts they wait on certain moons to go by and a certain tied to be over and then they know they're going to start to catch of the new mold. The Gulf master has both a tide and a moon phase which is very helpful this watch right here gives me all the information I know and comes home with me every night and is ready for another day. Salt water is in my veins I grew up on it's all I ever remember and when I came home I returned to it. My grandfather said something once to me that I'll never forget he told me that works a healer if you want to live a healthy life get out there and work and so that's what we do up here in Maine so I  work from sunup to sundown every season and it keeps me healthy. Life up here in some ways is very simple I wouldn't have it any other way.",
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

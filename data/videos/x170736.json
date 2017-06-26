@@ -19,6 +19,8 @@
     "id": "170736",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "20",
+    "entityIdParent": "168512",
     "titleTextEncoded": "Billabong-Pro-Tahiti-2013-Wipeouts-Day-1",
     "category": null,
     "duration": "138",
@@ -37,7 +39,14 @@
         "quality": ""
     },
     "transcripts": null,
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

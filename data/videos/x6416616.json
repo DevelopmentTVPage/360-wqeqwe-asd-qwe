@@ -19,6 +19,8 @@
     "id": "6416616",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "57",
+    "entityIdParent": "168533",
     "titleTextEncoded": "Josh-Grant-in-the-VonZipper-Beefy-MX-Welcome-to-the-FreewheelersMX",
     "category": null,
     "duration": "15",
@@ -37,7 +39,14 @@
         "hookText": ""
     },
     "transcripts": null,
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

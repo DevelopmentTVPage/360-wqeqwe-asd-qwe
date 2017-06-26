@@ -19,6 +19,8 @@
     "id": "6378089",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "17",
+    "entityIdParent": "3764400",
     "titleTextEncoded": "Penny-Pouch-Backpack-Range",
     "category": null,
     "duration": "42",
@@ -37,7 +39,14 @@
         "hookText": "http:\/\/www.pennyskateboards.com\n\nThe Penny \"Pouch\" was developed through the necessity of getting to your destination on your skateboard and being able to carry your board in a simple and functional way once you get there. Not only do these backpacks serv"
     },
     "transcripts": null,
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

@@ -19,6 +19,8 @@
     "id": "6413819",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "53",
+    "entityIdParent": "168534",
     "titleTextEncoded": "ELEMENTAL-AWARENESS-HIGH-DESERT-SOLITAIRE-RESERVATION-TOUR",
     "category": null,
     "duration": "144",
@@ -37,7 +39,14 @@
         "hookText": "Elemental Awareness headed out to the Apache Reservation in San Carlos, AZ to build a mini ramp for the kids in the community. We have been visiting this res."
     },
     "transcripts": null,
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

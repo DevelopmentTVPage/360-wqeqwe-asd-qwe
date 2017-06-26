@@ -19,6 +19,8 @@
     "id": "66754500",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "1",
+    "entityIdParent": "195859",
     "titleTextEncoded": "Sound-of-Sorry-A-Social-Experiment-in-Courage",
     "category": "",
     "duration": 227,
@@ -38,7 +40,14 @@
         "quality": ""
     },
     "transcripts": "[Music Playing]\nSusie I'm sorry for lying. I'm sorry for hurting you, and for any effects I may have caused.\nI'm sorry for being inconsiderate. \nI'm sorry I was so hard on you all the time, You're a pretty amazing guy.\nSorry I lost your trust.\nI'm sorry I wasn't there for you mom when you needed me.",
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": [
         "31"
     ],

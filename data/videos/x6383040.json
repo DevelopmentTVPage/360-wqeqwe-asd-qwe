@@ -19,6 +19,8 @@
     "id": "6383040",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "138",
+    "entityIdParent": "168548",
     "titleTextEncoded": "BB-Bastidas-for-Altamont",
     "category": null,
     "duration": "106",
@@ -37,7 +39,14 @@
         "hookText": "http:\/\/altamontapparel.com\/articles\/2012\/04\/16\/bb-bastidas-for-altamont\/ https:\/\/www.facebook.com\/BBastidasArt http:\/\/altamontapparel.com ..."
     },
     "transcripts": null,
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

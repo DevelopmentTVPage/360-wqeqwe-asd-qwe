@@ -19,6 +19,8 @@
     "id": "6418005",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "160",
+    "entityIdParent": "168543",
     "titleTextEncoded": "Dakine-Low-Roller",
     "category": null,
     "duration": 46,
@@ -35,7 +37,14 @@
         "hookText": "Check out 360\u00b0 views of the 2013 Low Roller Snowboard Bag in Bridgeport.\nLow Roller Features:\n- Fully padded board protection\n- Exterior access boot pockets\n- Full length two way zipper\n- High quality urethane wheels\n- Dual end carry handles\n- Lockable zi"
     },
     "transcripts": null,
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

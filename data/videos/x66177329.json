@@ -19,6 +19,8 @@
     "id": "66177329",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "11",
+    "entityIdParent": "66186028",
     "titleTextEncoded": "Drew-Doughty-Under-Armour-Interview",
     "category": "",
     "duration": 127,
@@ -38,7 +40,14 @@
         "quality": ""
     },
     "transcripts": "I'm Drew Doughty and this is my Under Armour interview. Wake up in the morning head to the rink, have some breakfast, have a coffee, kind of relax for a bit, get in the gym, stretched get on the ice, have a pre-game skate, then I go out to lunch with the boys, have a pre-game meal, get home, go for nap, get up from that drive to the game and then before the game I you know get a little massage, do a little stretching, eat something, play soccer, and after that get in the shower, get dressed, get in the ice p.m. skate and then try to win a game. I really don't have too many superstitions the only thing I maybe do is put everything on my right side before my left but that's not even in hockey that's just in life, I'll put my right shoe on before my left shoe so really I don't have any superstitions at all I have a routine and everyone kind of has their own routine, but if that routine is broken up or anything it doesn't affect me. One piece of Under Armour equipment I can't live without would probably be my shoes, I love all their stuff obviously, but their shoes they're very comfy, they're light, they're good for training, they're also good for casual kind of things just going out for a walk or whatever it may be and yeah so their shoes I think are great. My hometown is London, Ontario I go back there every summer I bought a house there a little while back, it's my home and there's no other way to explain it's a great town all my buddies are there all my family is there, there's lots to do were not far from Toronto, we can drive up, but we're not far from the States, you can drive that way and I don't know, I just have fun I don't do much with my time in the summer besides golf, and play tennis, so uh I can do a lot of that in London. The biggest moment in my career so far it would be tough to say, I'd probably say I don't know I think the first Stanley Cup is always the first Stanley Cup, but I had a lot of good things happen to me in hockey so far, and I hope they continue to happen.",
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

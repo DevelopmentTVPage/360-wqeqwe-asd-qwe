@@ -19,6 +19,8 @@
     "id": "66174173",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "116",
+    "entityIdParent": "3762188",
     "titleTextEncoded": "GoPro-Pelican-Learns-To-Fish",
     "category": "",
     "duration": 186,
@@ -38,7 +40,14 @@
         "quality": ""
     },
     "transcripts": "He's adopted the camp as his flock now we've been teaching him pretty much everything he needs to know, we want to try to get him fishing for himself we're spending a bit of time with him in the water um swimming, and diving under the water. Come on boy, also I take him out kayaking and he's been dragging his bill in the water trying to hopefully that fish might swim in, it's very optimistic. The problem of the great white pelican is that they normally here together in a, in a flock, and that way they're quite successful but as a solitary bird it's going to be difficult for him to really be able to catch enough fish to survive it's going to be a challenge for him. He hasn't uh hasn't got the rest of his flock to help him out with fishing here. We're going to spend as much time with him in the water and you know he's, he'll get the idea. Boy this is how it's done, wait did he get one? I think he got one, oh yeah he did, oh good boy, good boy.",
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

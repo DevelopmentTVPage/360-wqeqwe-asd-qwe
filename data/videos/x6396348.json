@@ -19,6 +19,8 @@
     "id": "6396348",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "10",
+    "entityIdParent": "168548",
     "titleTextEncoded": "Altamont-Presents-The-Peyote-Collection",
     "category": null,
     "duration": "37",
@@ -37,7 +39,14 @@
         "hookText": "The Peyote Collection: http:\/\/altamontapparel.com\/articles\/2015\/3\/23\/introducing-the-peyote-collection\/ Sharp bursts of reds and yellows live in harmony with ..."
     },
     "transcripts": null,
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

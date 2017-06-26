@@ -19,6 +19,8 @@
     "id": "6377775",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "27",
+    "entityIdParent": "3764400",
     "titleTextEncoded": "Penny-Skateboards-create-your-own-design-in-3D",
     "category": null,
     "duration": "54",
@@ -37,7 +39,14 @@
         "hookText": "The first true 3D skateboard customiser is now available exclusively on http:\/\/customiser.pennyskateboards.com\/au\/\nCreate your own unique design from the size, to the individual colours of your deck, trucks and wheels. Customise your new board even furthe"
     },
     "transcripts": null,
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

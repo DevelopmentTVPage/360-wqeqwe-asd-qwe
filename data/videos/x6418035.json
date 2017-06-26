@@ -19,6 +19,8 @@
     "id": "6418035",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "130",
+    "entityIdParent": "168543",
     "titleTextEncoded": "Austin-Smith-presents-his-2013-Dakine-Team-Mission-Pack",
     "category": null,
     "duration": 119,
@@ -39,7 +41,14 @@
         "hookText": "Austin Smith's Winter 2013 Signature Series pack is a collaborative effort between Austin and our in-house designers, featuring unique colors, prints and graphics. Part of his collection also features a coordinated glove - the Austin Smith Team Bronco glo"
     },
     "transcripts": null,
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

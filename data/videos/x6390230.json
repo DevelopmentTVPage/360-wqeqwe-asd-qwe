@@ -19,6 +19,8 @@
     "id": "6390230",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "74",
+    "entityIdParent": "168534",
     "titleTextEncoded": "THE-EVAN-SMITH-CRUISER-OPEN-MINDS-LEAD-TO-OPEN-DOORS",
     "category": null,
     "duration": "61",
@@ -37,7 +39,14 @@
         "hookText": "Evan Smith takes his new cruiser for a test drive through the desolate streets of his own backyard, Pittsburgh, PA. Shape is designed by Evan himself, ensuri..."
     },
     "transcripts": null,
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

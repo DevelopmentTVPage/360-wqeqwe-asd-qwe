@@ -19,6 +19,8 @@
     "id": "6390502",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "223",
+    "entityIdParent": "168543",
     "titleTextEncoded": "Dakine-Annie-Boulanger-Womens-Team-Heli-Pro-18L",
     "category": null,
     "duration": 43,
@@ -35,7 +37,14 @@
         "hookText": "Check out 360\u00b0 views of the 2014 Annie Boulanger Womens Team Heli Pro 18L.\nFeatures: \n- Contoured harness designed specifically to fit a woman's frame\n- Vertical snowboard carry\n- Diagonal ski carry\n- Fleece lined goggle pocket\n- Laptop sleeve\n- Fits most"
     },
     "transcripts": null,
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

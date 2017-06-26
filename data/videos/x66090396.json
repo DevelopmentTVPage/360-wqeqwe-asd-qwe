@@ -19,6 +19,8 @@
     "id": "66090396",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "21",
+    "entityIdParent": "168546",
     "titleTextEncoded": "Tip-2-Tip-A-Girls-Touch-Episode-4-1-Style",
     "category": "",
     "duration": 176,
@@ -38,7 +40,14 @@
         "quality": ""
     },
     "transcripts": "Love them completely. My name is Alana Blanchard, I'm Bethany Hamilton, Stephanie Gilmore, I'm Tyler Wright, we're going to make a band. It's going to be called glitter and the Shaman. They're still trying to learn who's playing what instrument. I feel like Tyler's a base player, Alana is front dancer and singer, and Bethany every time we get into the water she just sings, she loves singing. Those two look good upfront. Bethany she can pretty much do it all contemporary, hip-hop, salsa you name it. Bethany is crazy, I don't know how she does it, but it's just phenomenal to watch. For me surfing with one arm I guess in a way it's a surprise for a lot of people.  She's one of the most inspirational human beings in the planet. And then we have Alana Blanchard who is Bethany's fellow Hawaiian friend. I have been friends with Alana since I was like 7 or something, she's just this really funny, she just has these one lanas. I'm a weirdo, I don't even think she knows that she's funny. She just says things that are so out there. I have trunks on, but just to warn you guys I still get butt shots. Um my surfing is like an eagle I kind of like spread my wings and go like that. My surfing, I don't know how to describe that. Tyler is a very very naturally talented young surfer. She's just it's super excited about everything, I think she just proving on getting a big barrel kind of freaks me out. Well Steph's 3x world champ, and she  surfs amazing and super cool. I was playing guitar and smiling. I love hanging out with all 3 of the girls, so to get to be in a boat with them and surf perfect waves, so we can push each other, and then come back to the boat and having cooking lessons and just laugh about it is just the best thing ever. Coming next on Tip 2 Tip, Ahh come on booboo, theres something just so exciting about hearing that woo!",
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

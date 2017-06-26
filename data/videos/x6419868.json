@@ -19,6 +19,8 @@
     "id": "6419868",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "154",
+    "entityIdParent": "168524",
     "titleTextEncoded": "Converse-Pro-Streets-Naples",
     "category": null,
     "duration": "153",
@@ -37,7 +39,14 @@
         "hookText": "For our next and final Pro Streets stop in Europe, some true Neapolitans showed us what makes their city so special. Find out more by visiting www.prostreets..."
     },
     "transcripts": null,
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": [
         "7"
     ],

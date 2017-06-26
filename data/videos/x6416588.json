@@ -19,6 +19,8 @@
     "id": "6416588",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "62",
+    "entityIdParent": "168533",
     "titleTextEncoded": "VonZipper-Hell-On-Wheels-MC-Collaboration",
     "category": null,
     "duration": "122",
@@ -37,7 +39,14 @@
         "hookText": "Shop HOW Sunglasses: http:\/\/vzus.co\/q24cP\n\nStory: This VonZipper \/ Hell On Wheels MC Collaboration is born in the run what you brung spirit. Jail stripes, classic British Motorbike colors and grease under your fingernails never looked so good. Prime the c"
     },
     "transcripts": null,
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

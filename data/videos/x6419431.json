@@ -19,6 +19,8 @@
     "id": "6419431",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "272",
+    "entityIdParent": "168524",
     "titleTextEncoded": "Smokey-Robotic-Barefoot-Converse-Rubber-Tracks",
     "category": null,
     "duration": "171",
@@ -37,7 +39,14 @@
         "hookText": "Check out the original music video created by Chris Capelluto for Smokey Robotic, who recorded their song \"Barefoot\" at Converse Rubber Tracks studio."
     },
     "transcripts": null,
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

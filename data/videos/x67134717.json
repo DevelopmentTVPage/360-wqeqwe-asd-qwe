@@ -19,6 +19,8 @@
     "id": "67134717",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "102",
+    "entityIdParent": "168538",
     "titleTextEncoded": "LiveOutside2016-Rio-de-Janeiro-Episode-4",
     "category": "",
     "duration": 108,
@@ -38,7 +40,14 @@
         "quality": ""
     },
     "transcripts": "[Music Playing]\nSo this is what's cool about Rio de Janeiro- there's the urban part that's very strong and the nature is also very present in an urban space. Everyone that comes to visit Rio should be outside not a city to be inside. \n[Music Playing]",
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

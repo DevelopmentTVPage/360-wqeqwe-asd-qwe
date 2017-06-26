@@ -19,6 +19,8 @@
     "id": "6416611",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "6",
+    "entityIdParent": "168534",
     "titleTextEncoded": "ELEMENT-MOHAVE-BACKPACK-STARRING-MIKE-KERSHNAR",
     "category": null,
     "duration": "82",
@@ -37,7 +39,14 @@
         "hookText": "The Mohave backpack, loaded with an unending amount of compartments and stash pockets, can practically carry the weight of the world. In honor of its diversi..."
     },
     "transcripts": null,
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

@@ -19,6 +19,8 @@
     "id": "67753265",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "21",
+    "entityIdParent": "168513",
     "titleTextEncoded": "Unlimited-Scout-Bassett",
     "category": "",
     "duration": 137,
@@ -38,7 +40,14 @@
         "quality": ""
     },
     "transcripts": "There's really no greater satisfaction than knowing that you've done something that people didn't think you could do. When I ran for the first time at 14 years old I've never felt that feeling ever in my life doing anything else. There was the most freeing and liberating experience and I knew that that's what I wanted to do with my life. I was born to be a runner, that was good. Four years ago I attempted to make my very first u.s. team, I went into the competition with very high hopes and I was dead last in the race by a lot, and I left those games at one of the lowest points I had ever been in my whole life. I quit my job, I said I don't care what it takes, if I have to live out of my car i'm going to live out of my car to pursue my dream full time. When you want something so bad you're gonna do whatever it takes you will stop at nothing! Not only did I make the World Championships team that next year, but I won the 100 meters at the u.s. trials. Only a year after coming in dead last. When you surrender, when you quit, you're allowing something else to have power over you. No, the only person that's going to have power over me is me.",
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

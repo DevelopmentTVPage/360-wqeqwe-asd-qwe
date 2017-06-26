@@ -19,6 +19,8 @@
     "id": "6416556",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "27",
+    "entityIdParent": "168534",
     "titleTextEncoded": "ELEMENT-FUTURE-NATURE-AM-VIDEO-TRAILER",
     "category": null,
     "duration": "80",
@@ -37,7 +39,14 @@
         "hookText": "FUTURE NATURE, The Element Am Video starring Nick Garcia, Julian Davidson, Boo Johnson, Madars Apse, and Evan Smith. Available May 1st, 2012 ..."
     },
     "transcripts": null,
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

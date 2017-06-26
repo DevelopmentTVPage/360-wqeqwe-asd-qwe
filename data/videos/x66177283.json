@@ -19,6 +19,8 @@
     "id": "66177283",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "23",
+    "entityIdParent": "66186028",
     "titleTextEncoded": "One-Push-Under-Armour-HealthBox",
     "category": "",
     "duration": 66,
@@ -38,7 +40,14 @@
         "quality": ""
     },
     "transcripts": "with one push of a button someone will bring you food deliver flowers to your mom drive you wherever you want to go one push of a button stranger will go on a date with you leave their homes can make it your own changing tires team shirt wash your pants or drop off your underwear fluffed and folded one push of a button the guy will walk your dog feed your dog train your dog, bring you a brand-new mattress turn on your lights clean your room wash your dishes, set up your speakers, even order you a helicopter or at one push of a button nothing happens. Unless you make it happen.",
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

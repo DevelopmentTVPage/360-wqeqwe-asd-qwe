@@ -19,6 +19,8 @@
     "id": "66174207",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "57",
+    "entityIdParent": "3762188",
     "titleTextEncoded": "GoPro-Chilean-Horse-Rescue",
     "category": "",
     "duration": 132,
@@ -38,7 +40,14 @@
         "quality": ""
     },
     "transcripts": "On my 21st birthday, this was the first storm of the season and the snow was about four feet deep. I pointed out a rock that was in the distance,  \"dude check it out\" realized it was a horse.I decided to group pack over there. The horse was gonna die unless we did something. \" Come one, come one girl, come on. Brett she alright? Go that way, go over that way.",
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

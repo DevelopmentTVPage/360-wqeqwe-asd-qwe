@@ -19,6 +19,8 @@
     "id": "6390494",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "231",
+    "entityIdParent": "168543",
     "titleTextEncoded": "Dakine-Tanner-Hall-Team-Fillmore-Mitt",
     "category": null,
     "duration": 45,
@@ -39,7 +41,14 @@
         "hookText": "Check out 360\u00b0 views of the 2014 Tanner Hall Team Fillmore Mitt.\nFeatures: \n- Insert: DK Dry waterproof\n- Insulation: High loft synthetic [ 60g \/ 170g ]\n- Palm: Durable water repellent leather\n- Shell: Nylon \/ Poly with DWR treatment\n- Lining: 230g fleece"
     },
     "transcripts": null,
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

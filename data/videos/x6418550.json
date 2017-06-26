@@ -19,6 +19,8 @@
     "id": "6418550",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "360",
+    "entityIdParent": "158318",
     "titleTextEncoded": "PHANTOM-FUSE-2-ATTRIBUTES",
     "category": null,
     "duration": "30",

@@ -19,6 +19,8 @@
     "id": "6419913",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "140",
+    "entityIdParent": "168524",
     "titleTextEncoded": "Converse-Ready-Set-Get-Lost-Hunters-Deadbeat-Live",
     "category": null,
     "duration": "158",
@@ -37,7 +39,14 @@
         "hookText": "Hunters, one of the most talked about bands of a busy festival season in NYC, kicked off our Ready, Set: Get Lost series with an incredible performance on th..."
     },
     "transcripts": null,
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

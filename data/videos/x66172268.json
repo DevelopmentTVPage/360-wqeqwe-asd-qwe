@@ -19,6 +19,8 @@
     "id": "66172268",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "11",
+    "entityIdParent": "168515",
     "titleTextEncoded": "Cam-s-Prayer-My-Way-featuring-Future-Beats-by-Dre",
     "category": "",
     "duration": 30,
@@ -38,7 +40,14 @@
         "quality": ""
     },
     "transcripts": "Dear God, People say you should be yourself, but they never consider me. I know you moted me different, you placed purpose on my shoulders, so now I come to you. Lord give me the strength to finish this my way. [Music Playing]",
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

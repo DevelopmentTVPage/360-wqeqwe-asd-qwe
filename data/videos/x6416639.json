@@ -19,6 +19,8 @@
     "id": "6416639",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "43",
+    "entityIdParent": "168533",
     "titleTextEncoded": "VonZipper-Frankie-Harrer-in-the-Wingding",
     "category": null,
     "duration": "33",
@@ -37,7 +39,14 @@
         "hookText": "Crash-land in style and touch down into a featherbed of aviator awesomeness. Weather it's in a space capsule or a refrigerator box, re-enter the earth's atmosphere in the Wingding."
     },
     "transcripts": null,
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

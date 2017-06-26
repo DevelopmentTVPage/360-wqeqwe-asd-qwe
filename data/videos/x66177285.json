@@ -19,6 +19,8 @@
     "id": "66177285",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "26",
+    "entityIdParent": "66186028",
     "titleTextEncoded": "Controls-Under-Armour-Headphones-Wireless-Engineered-by-JBL",
     "category": "",
     "duration": 39,
@@ -38,7 +40,14 @@
         "quality": ""
     },
     "transcripts": "ua headphones wireless engineered by JBL feature a three-button Mike to easily handle volume music and calls to raise or lower your volume press the top and bottom buttons. To play or pause your music press the middle button skip to the next track by holding down the top button or go back to the previous track by holding down the bottom button calls can be answered or ended by pressing the middle button.",
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

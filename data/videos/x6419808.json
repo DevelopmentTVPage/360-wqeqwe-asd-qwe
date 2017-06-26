@@ -19,6 +19,8 @@
     "id": "6419808",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "172",
+    "entityIdParent": "168524",
     "titleTextEncoded": "Converse-City-Carnage-Slideshow",
     "category": null,
     "duration": "57",
@@ -37,7 +39,14 @@
         "hookText": "2012 Converse City Carnage told through Instagram photos. Featured cities include New York, Montreal and Toronto. Track: Dialtone by Viva Viva."
     },
     "transcripts": null,
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

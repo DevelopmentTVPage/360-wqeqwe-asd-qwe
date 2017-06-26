@@ -19,6 +19,8 @@
     "id": "6383577",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "130",
+    "entityIdParent": "168548",
     "titleTextEncoded": "Theotis-Beasley-Sponsor-Me-Review-43-Nuno-Cardoso",
     "category": null,
     "duration": "295",
@@ -37,7 +39,14 @@
         "hookText": "http:\/\/facebook.com & http:\/\/altamontapparel.com Theotis Beasley Sponsor Me Review #43, with Garrett Hill to review Nuno Cardoso: 20 years old from Porto, ..."
     },
     "transcripts": null,
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

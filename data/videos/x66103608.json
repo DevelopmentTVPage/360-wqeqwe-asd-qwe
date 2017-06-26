@@ -19,6 +19,8 @@
     "id": "66103608",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "4",
+    "entityIdParent": "66115242",
     "titleTextEncoded": "Giving-Partner-Spotlight-Kilimanjaro-Centre-for-Community-Ophthalmology-KCCO",
     "category": "",
     "duration": 83,
@@ -36,7 +38,14 @@
         "views": "2678"
     },
     "transcripts": "My name is Shetha Sridharan and I am the Sight program coordinator at Seva Foundation. We're in mar region in Tanzania and we're working with Kilimanjaro Center for community ophthalmology. TOMS and KCCO have a great relationship, we're able to reach a huge under-served population through our each campaign's, and through the TOMS program we're able to support medical treatments and surgeries here in mar region and in other regions. In Uganda and Ethiopia. Community outreach is vital because so many of the patients that KCCO see are from rural areas that don't have access to any kind of eye center. I think the impact that community outreach has is it builds trust in the community. When a patient has a life-changing surgery or receives eye glasses they're able to be an example and so once they actually go back to their homes they're able to say I had this successful treatment, or I had this successful surgery, look at me I'm thriving, and that is huge towards bringing back more patients. I think for me the most amazing part is post-op, being able to talk to a patient after they've had a sight saving surgery and see their operated eye light up, it's pretty amazing.",
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

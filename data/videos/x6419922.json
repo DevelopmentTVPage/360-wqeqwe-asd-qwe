@@ -19,6 +19,8 @@
     "id": "6419922",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "133",
+    "entityIdParent": "168524",
     "titleTextEncoded": "Converse-x-Decibel-Collaboration-The-Shrine-talk-rock-and-skateboarding",
     "category": null,
     "duration": "163",
@@ -37,7 +39,14 @@
         "hookText": "Fuzzy psych specialists The Shrine are causing waves in the rock world with their scuzzed out, throwback tunes. But they are just as comfortable ripping up p..."
     },
     "transcripts": null,
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

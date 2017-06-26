@@ -19,6 +19,8 @@
     "id": "6390192",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "493",
+    "entityIdParent": "158318",
     "titleTextEncoded": "TOURNOTES-JOHN-JOHN-FLORENCE-KELLY-SLATER-AND-THE-HEAT",
     "category": null,
     "duration": "95",
@@ -37,7 +39,14 @@
         "hookText": "John John Florence and Kelly Slater discuss their historical heat, which took place during arguably the greatest surfing contest of all time at Teahupo'o."
     },
     "transcripts": null,
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

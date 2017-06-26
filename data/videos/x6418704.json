@@ -19,6 +19,8 @@
     "id": "6418704",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "379",
+    "entityIdParent": "168524",
     "titleTextEncoded": "The-Shrine-x-Barrett-Avner-Rare-Breed-In-The-Studio",
     "category": null,
     "duration": "163",
@@ -37,7 +39,14 @@
         "hookText": "Stream and download \"Rare Breed\" here: https:\/\/soundcloud.com\/conversemusic\/sets\/cons-ep \"Rare Breed\" was produced by Eliminator with music by The ..."
     },
     "transcripts": null,
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

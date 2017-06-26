@@ -19,6 +19,8 @@
     "id": "6384780",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "300",
+    "entityIdParent": "168514",
     "titleTextEncoded": "Fox-Wake-Presents-2014-Toronto-Boat-Show",
     "category": null,
     "duration": "181",
@@ -37,7 +39,14 @@
         "hookText": "2014 Toronto Boat Show, The cornucopia of indoor Wakeboarding \/ Wakeskating exhibitions. Shaun Murray broke his foot just before the Toronto show last year ..."
     },
     "transcripts": null,
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

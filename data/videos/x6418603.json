@@ -19,6 +19,8 @@
     "id": "6418603",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "82",
+    "entityIdParent": "168527",
     "titleTextEncoded": "etnies-Presents-Pura-Vida-Part-3-Buy-A-Shoe-Plant-A-Tree",
     "category": null,
     "duration": 257,
@@ -39,7 +41,14 @@
         "hookText": "http:\/\/www.facebook.com\/etnies etnies Presents: Pura Vida, Part 3. Buy a Shoe Plant a Tree"
     },
     "transcripts": null,
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

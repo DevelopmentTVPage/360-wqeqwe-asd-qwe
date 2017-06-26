@@ -19,6 +19,8 @@
     "id": "6418665",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "406",
+    "entityIdParent": "168524",
     "titleTextEncoded": "Converse-Rubber-Tracks-Track-of-the-Week-Hear-Me-Now-by-Klink-Clock",
     "category": null,
     "duration": "138",
@@ -37,7 +39,14 @@
         "hookText": "The first instalment of \"Track of the Week\" from Converse Rubber Tracks Paris, features behind-the-scene footage from Parisian band, Klink Clock as they reco..."
     },
     "transcripts": null,
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

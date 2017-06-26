@@ -19,6 +19,8 @@
     "id": "6419459",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "280",
+    "entityIdParent": "158318",
     "titleTextEncoded": "HURLEY-ROCKS-YOU-BACK-TO-SCHOOL-ASBURY-PARK-NJ",
     "category": null,
     "duration": "74",
@@ -37,7 +39,14 @@
         "hookText": "Rosie O'Laskey, Mike Escamilla, local act Brick + Mortar and headlining act Surfer Blood all helped to kick off an awesome Hurley Rocks You Back to School ..."
     },
     "transcripts": null,
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

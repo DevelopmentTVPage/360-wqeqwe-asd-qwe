@@ -19,6 +19,8 @@
     "id": "66173940",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "151",
+    "entityIdParent": "3762188",
     "titleTextEncoded": "GoPro-Aaron-Chase-Teaches-Mountain-Biking-to-Toddlers",
     "category": "",
     "duration": 160,
@@ -38,7 +40,14 @@
         "quality": ""
     },
     "transcripts": "Hey are you guys ready to go riding?\nWere are we going?\nWere going biking.\nI'm going to, I'm going go into the mountain.\nI can go fast down the ramps.\nYeah we are just going to go slow, okay.\nBecause why?\nso you don't fall and get a boo boo.\nDaddy I have to go slow on there because because because I can't stand a boo boo.\nOkay go ahead.\nIt's making me dikuwis.\nYou can do it bud.\nIt's making me dikuwis.\nHere I'm going to hold to you okay.\nokay.\nGo ahead I'll hold on to you, okay.\nBroden wait up, wait for me Broden.\naaaahhh\nKeep cruising, okay go over there.\nOh my gosh.\nYou okay Benny come here, get you up.\nDust it off, you are doing so good. Get back on your bike, keep riding but keep your hands on the handle bars okay.\nOkay\naaaaahhh\nUse your brakes buddy use your brakes.\nGood job, high five boys.\nFin give him a high five, Knuckles knuckles.\nStop doing that.\nKnuckles bud\nStop doing that.\nokay stop punching each other.",
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

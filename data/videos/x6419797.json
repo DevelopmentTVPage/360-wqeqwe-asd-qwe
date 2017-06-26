@@ -19,6 +19,8 @@
     "id": "6419797",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "181",
+    "entityIdParent": "168524",
     "titleTextEncoded": "Hollydays-Des-animaux-Converse-Avant-Poste",
     "category": null,
     "duration": "136",
@@ -37,7 +39,14 @@
         "hookText": "Hollydays' electro pop is filled with sweet melodies and accents. Watch them play the iconic mezzanine stage at the legendary Caf\u00e9 Charbon on Rue Oberkampf, Paris.\n\nConverse Avant-Poste is a long-term celebration of emerging artists & musicians in the reg"
     },
     "transcripts": null,
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

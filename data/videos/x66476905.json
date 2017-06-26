@@ -19,6 +19,8 @@
     "id": "66476905",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "1",
+    "entityIdParent": "3827150",
     "titleTextEncoded": "TVPage-TEST-VIDEO",
     "category": null,
     "duration": 139,
@@ -37,7 +39,14 @@
         "quality": ""
     },
     "transcripts": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequatur vel aliquam omnis alias repudiandae hic aliquid dolore eveniet quisquam, ipsum temporibus quia labore earum minima, dignissimos fugit. Officia est, soluta!\n\nNam exercitationem deserunt eaque soluta magnam, pariatur incidunt minus veniam qui repudiandae hic eos aperiam accusantium non natus commodi vero, molestias possimus quia corporis nisi autem? Error esse alias, voluptatibus!\n\nAspernatur velit fugit reprehenderit, porro quibusdam vel facere quo enim explicabo illum sunt odio at nesciunt assumenda veritatis ab voluptatibus aut blanditiis id fugiat unde, placeat ex sequi. Quod, velit.\n\nQuod amet, ipsam earum voluptatum, totam, omnis vitae voluptatibus officia quas error neque sunt explicabo iure ut. Totam molestias, sunt sapiente earum! Ea architecto porro aliquam maxime alias, recusandae nam!",
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

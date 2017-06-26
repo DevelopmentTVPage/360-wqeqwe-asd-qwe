@@ -19,6 +19,8 @@
     "id": "6386076",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "535",
+    "entityIdParent": "168524",
     "titleTextEncoded": "Wolf-Alice-Giant-Peach-Converse-Rubber-Tracks-Live",
     "category": null,
     "duration": "266",
@@ -37,7 +39,14 @@
         "hookText": "www.converse-music.com North London's Wolf Alice headlined London's very first CRT Live at Haringey's The Boogaloo pub last month, performing their ..."
     },
     "transcripts": null,
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

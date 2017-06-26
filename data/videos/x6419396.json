@@ -19,6 +19,8 @@
     "id": "6419396",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "30",
+    "entityIdParent": "168514",
     "titleTextEncoded": "Ricky-Carmichael-Fox-Photoshoot-on-a-2-stroke-Fox",
     "category": null,
     "duration": "373",
@@ -37,7 +39,14 @@
         "hookText": "Ricky comes out of retirement for a fox photoshoot. He preferred the 2-stroke over the 4-stroke on this day. 2 stroke sounds so nice."
     },
     "transcripts": null,
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

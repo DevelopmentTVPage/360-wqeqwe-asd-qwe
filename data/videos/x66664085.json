@@ -19,6 +19,8 @@
     "id": "66664085",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "38",
+    "entityIdParent": "168546",
     "titleTextEncoded": "Day-3-Lay-Day-Waikiki-2016-Rip-Curl-GromSearch-International-Final",
     "category": "",
     "duration": 77,
@@ -38,7 +40,14 @@
         "quality": ""
     },
     "transcripts": "[Inaudible]  [Music Playing]",
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

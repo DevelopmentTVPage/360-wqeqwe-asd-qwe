@@ -19,6 +19,8 @@
     "id": "6419566",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "231",
+    "entityIdParent": "168524",
     "titleTextEncoded": "Zered-Bassett-Star-Player-Skate-Teaser",
     "category": null,
     "duration": "34",
@@ -37,7 +39,14 @@
         "hookText": "Zered was a hometown legend in Cape Cod, Massachusetts before reaching the age of 18. He quickly rose from an unknown ripper in the E.S.T. video series to ..."
     },
     "transcripts": null,
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

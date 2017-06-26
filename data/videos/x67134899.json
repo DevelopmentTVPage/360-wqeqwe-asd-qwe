@@ -19,6 +19,8 @@
     "id": "67134899",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "45",
+    "entityIdParent": "168538",
     "titleTextEncoded": "Touring-The-Mission-with-Sirron-Norris-Live-Outside-Day-1-San-Francisco",
     "category": "",
     "duration": 86,
@@ -38,7 +40,14 @@
         "quality": ""
     },
     "transcripts": "Call me if you see the mission mostly the mmission is turning into a lot of kinda graffiti based murals. (yeah, mhm).  The thing with the the classic mission style is great colors, depressing content. (yeah haha). I don't know, He left or whatever, but yeah I mean you know this is like a perfect example in terms of like murals telling stories. The history of the mission in terms of my experience with it and uh I thought that the one thing that was synonymous with the mission I  feel was gentrification, but I also feel like gentrification is a battle especially at the time that I was paying this was a battle that was already lost. I thought it was kind of cool and important to be able to kind of talk about gentrification in in in terms of my experience with it and kind of be a little bit cynical with it. We're gonna build these condos here but we're gonna make them organic fair-trade condos you know so that makes it all right for it to be here, for sure. I love that downtown is a castle, that's a real cool idea, yeah oh yeah. I really pushed it big time on my Brian Street one because I really feel like San Francisco is kind of like this fairy tale cartoon Disneyland. Why sit there and be like all gentrification is so bad well with me essentially the mission would not be the mission if it wasn't gentrified to begin with, so yeah you know (that looks like a hipster) I tried to be fun you know, I tried to be fun and that's what you know history is just like everybody tries to be unique but you know you're unique together and that yeah.",
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

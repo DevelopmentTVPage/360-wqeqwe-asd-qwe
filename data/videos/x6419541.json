@@ -19,6 +19,8 @@
     "id": "6419541",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "228",
+    "entityIdParent": "158318",
     "titleTextEncoded": "SALLY-FITZGIBBONS-2012-AUSTRALIAN-OPEN-OF-SURFING-WOMEN-S-CHAMPION",
     "category": null,
     "duration": "70",
@@ -37,7 +39,14 @@
         "hookText": "Hurley -- Australian Open of Surfing -- Manly 2012 -- Day 9 What broken wrist? A sore Sally Fitzgibbons, and reigning US Open champion, pushed through the ..."
     },
     "transcripts": null,
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

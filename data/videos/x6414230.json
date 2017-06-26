@@ -19,6 +19,8 @@
     "id": "6414230",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "258",
+    "entityIdParent": "168514",
     "titleTextEncoded": "Fox-Presents-Fall-Deluxe-2013",
     "category": null,
     "duration": "128",
@@ -37,7 +39,14 @@
         "hookText": "DLX \"Individual style is what draws people to a person and separates great from average\" - Pete Fox ELEVATE & REFINE: contempt for mediocrity drives us to ..."
     },
     "transcripts": null,
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

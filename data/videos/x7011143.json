@@ -19,6 +19,8 @@
     "id": "7011143",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "9",
+    "entityIdParent": "3763996",
     "titleTextEncoded": "TOO-OLD-TOO-FAT-TYTF-TOO-YOUNG-TOO-FIT-MONTAGE-PART",
     "category": "",
     "duration": "189",
@@ -38,7 +40,14 @@
         "quality": ""
     },
     "transcripts": "",
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

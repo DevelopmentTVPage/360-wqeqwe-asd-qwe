@@ -19,6 +19,8 @@
     "id": "6419878",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "144",
+    "entityIdParent": "168524",
     "titleTextEncoded": "Converse-Ready-Set-Get-Lost-Mac-DeMarco-Cooking-Up-Something-Good-Live",
     "category": null,
     "duration": "161",
@@ -37,7 +39,14 @@
         "hookText": "Mac DeMarco is quickly establishing himself as Brooklyn's preeminent singer songwriter. The 22 year old and his band visited us at the Brooklyn Navy Yard and."
     },
     "transcripts": null,
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

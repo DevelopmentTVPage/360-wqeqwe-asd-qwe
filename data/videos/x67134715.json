@@ -19,6 +19,8 @@
     "id": "67134715",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "100",
+    "entityIdParent": "168538",
     "titleTextEncoded": "JanSport-Pack-Review-Ashford",
     "category": "",
     "duration": 118,
@@ -38,7 +40,14 @@
         "quality": ""
     },
     "transcripts": "Hey guys i'm Ahren pack designer here at jansport and today I'm going to walk you through some awesome new product today we're going to take a look at the Ashford it's part of our outdoor collection this is a 31.5 liter pack it's made up of a 420 denier polyester as well as a nylon diamond . Bobby on the back here you'll find your S curve shoulder straps that are dual density padded with perforated holes for breathability as well as a sternum strap and a waist belt to help secure heavier loads the back you've got really nicely padded and air mesh pods here with the center channel down the middle for increased breathability as well as a little port for your hydration and your webbing hall loop you've got mesh water bottle pockets on each side as well as a compression strap the main compartment of the bag is where you're going to find a personal padded pocket that's designed to hold a 15 inch laptop or a 3-liter hydration system on top you've got a nice little veal off pocket here this is just quick easy access to shades or anything else you want to keep scratch-free it's plush lined the secondary compartment has a nice big number ten zipper and also has a plush line tablet sleeve up top we've got an additional easy access pocket this is where you find your carabiner key clip pen loops and a zippered mesh pocket for any small items you want secure and visible on the front of the pack you've got an overflow storage pocket made up of a nice big stretch mesh as well as coated webbing daisy chains and a coded webbing blinker light tab so there you have it the Ashford as always guaranteed for life.",
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

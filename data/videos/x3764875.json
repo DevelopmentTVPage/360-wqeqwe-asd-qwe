@@ -19,6 +19,8 @@
     "id": "3764875",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "0",
+    "entityIdParent": "3764873",
     "titleTextEncoded": "Kelty-Mockingbird",
     "category": null,
     "duration": "50",

@@ -19,6 +19,8 @@
     "id": "66287523",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "230",
+    "entityIdParent": "168557",
     "titleTextEncoded": "Sustainable-Surf-2016-TCT-Global-Champs-Volcom-Surf",
     "category": "",
     "duration": 80,
@@ -38,7 +40,14 @@
         "quality": ""
     },
     "transcripts": "The Deep Blue Surfing Event certification is a way for any surf contest to reduce its footprint on the environment and inspire fans and employees to live a more sustainable lifestyle. If you're going to do an event at lowers it's important to minimize your impact and try to give back to the local community and support all the people who are working hard to protect trustles and lowers throughout the year. The Volcom TCT finalists is a Deep Blue Surfing Event this is achieved by using biodiesel and the generators to power the webcast. By capturing and recycling plastics throughout the event we made into new clothing with repreve. By encouraging the use of reusable water bottles and water refilling stations throughout the event site and by supporting the senator free state parks foundation through the Volcom True to Trustles. One final thing they're doing is measuring carbon footprint of the whole event that means the energy used both by the event itself and all the travel of the athletes, by plane, by car, from all over the world to come to the event. That's measured and calculated in terms of a total carbon footprint of the event which is then offset by using high-quality carbon offsets from wildlife works.",
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

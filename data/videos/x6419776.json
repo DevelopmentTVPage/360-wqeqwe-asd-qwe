@@ -19,6 +19,8 @@
     "id": "6419776",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "182",
+    "entityIdParent": "168524",
     "titleTextEncoded": "Converse-Rubber-Tracks-Oh-Hello-Sid-Sriram",
     "category": null,
     "duration": "119",
@@ -37,7 +39,14 @@
         "hookText": "Meet Sid Sriram, who was born in South India and moved to California when he was just one year old. For college, Sid attended Berkley College of Music and as ..."
     },
     "transcripts": null,
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

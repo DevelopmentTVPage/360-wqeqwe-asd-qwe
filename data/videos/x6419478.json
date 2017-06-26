@@ -19,6 +19,8 @@
     "id": "6419478",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "257",
+    "entityIdParent": "168524",
     "titleTextEncoded": "Trajano-Iker-Jim\u00e9nez-Converse-Make-Noise",
     "category": null,
     "duration": "338",
@@ -37,7 +39,14 @@
         "hookText": "Madrid post-punk outfit (and some of our Make Noise winners) Trajano are yet to release their first album, but already one of the rising stars most touted fo..."
     },
     "transcripts": null,
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

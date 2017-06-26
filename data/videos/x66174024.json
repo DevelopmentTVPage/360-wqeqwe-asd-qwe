@@ -19,6 +19,8 @@
     "id": "66174024",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "52",
+    "entityIdParent": "3762188",
     "titleTextEncoded": "GoPro-Finding-Missy-Series-Trailer",
     "category": "",
     "duration": 88,
@@ -38,7 +40,14 @@
         "quality": ""
     },
     "transcripts": "Keep your eye on lane number five, that is Missy Franklin that is Centennial, Colorado. Is there anything this lady can't do. \" We were sitting in complete joy going, our daughter is an Olympian, she's an Olympian.\" I want to make a cannonball into this pool and show people who I am. Missy Franklin lane number five. Water has a way of balancing you, hoping you float but you feel just splitting right through the water. Missy Franklin with a good push and it's gonna be, Missy Franklin gets it. A lot of times my switcher is off. For me that is something that keeps me calm and keeps me relaxed. Never resented swimming for making me give up so much, it's just been this incredible journey. Missy Franklin she's just infectious, she's probably the best ambassador we have north Cal. We made the sacrifices and we put the work in. Was it totally worth it? Absolutely. \"Maybe you're pressing the wrong button.\" \"Do you press the front one\".",
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

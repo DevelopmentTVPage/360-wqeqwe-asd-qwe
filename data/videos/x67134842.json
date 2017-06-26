@@ -19,6 +19,8 @@
     "id": "67134842",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "38",
+    "entityIdParent": "168538",
     "titleTextEncoded": "LiveOutside-SF-Episode-11-Mural-Unveiling",
     "category": "",
     "duration": 144,
@@ -38,7 +40,14 @@
         "quality": ""
     },
     "transcripts": "You ready?\n[Music Playing]\nWe're Painted Palms, we're from San Francisco, we want to thank JanSport, we want to thank Amanda Lyn, and Alynn-Mags for making this beautiful, beautiful mural",
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

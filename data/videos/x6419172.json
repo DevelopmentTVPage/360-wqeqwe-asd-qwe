@@ -19,6 +19,8 @@
     "id": "6419172",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "83",
+    "entityIdParent": "3763996",
     "titleTextEncoded": "AN-AFTERNOON-WITH-SPANKY-AT-LINCOLN-PARK",
     "category": null,
     "duration": "78",
@@ -37,7 +39,14 @@
         "hookText": "An afternoon with Kevin \"Spanky\" Long at Lincoln Park."
     },
     "transcripts": null,
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

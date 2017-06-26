@@ -19,6 +19,8 @@
     "id": "6414160",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "197",
+    "entityIdParent": "168527",
     "titleTextEncoded": "Winky-Pop-Goes-Green",
     "category": null,
     "duration": 143,
@@ -39,7 +41,14 @@
         "hookText": "Wilko & Simpo go green side by side at WinkyPop for a good ol' Goofy vs Regular session. Go green yourself with the etnies Jameson 2 Eco, available now at etnies.com:\n\nhttp:\/\/etnies.com\/blog\/2012\/6\/04\/winky-pop-goes-green\/\nhttp:\/\/www.facebook.com\/etnies"
     },
     "transcripts": null,
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

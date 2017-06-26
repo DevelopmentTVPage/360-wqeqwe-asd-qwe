@@ -19,6 +19,8 @@
     "id": "6390342",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "280",
+    "entityIdParent": "168514",
     "titleTextEncoded": "Fox-MX-Presents-2014-Daytona-RCSX",
     "category": null,
     "duration": "185",
@@ -37,7 +39,14 @@
         "hookText": "5th Annual Ricky Carmichael Daytona Amateur Supercross."
     },
     "transcripts": null,
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

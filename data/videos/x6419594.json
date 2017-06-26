@@ -19,6 +19,8 @@
     "id": "6419594",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "224",
+    "entityIdParent": "168524",
     "titleTextEncoded": "Converse-x-Decibel-The-Dillinger-Escape-Plan",
     "category": null,
     "duration": "406",
@@ -37,7 +39,14 @@
         "hookText": "The Dillinger Escape Plan have always been a band that has defied convention. Whether it be their albums or live show you come to expect the unexpected."
     },
     "transcripts": null,
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

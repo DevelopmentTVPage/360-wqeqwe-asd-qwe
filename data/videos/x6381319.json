@@ -19,6 +19,8 @@
     "id": "6381319",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "125",
+    "entityIdParent": "168534",
     "titleTextEncoded": "Mason-Silva-Welcome-to-the-Family-Element",
     "category": null,
     "duration": "26",
@@ -37,7 +39,14 @@
         "hookText": "Growing up in Manhattan Beach, with a father whose surfed over 1,000 days in a row, young Mason was destined to be in the water, but as fate would have it his calling was in the streets. Mason was first noticed by Element at a MAKE IT COUNT contest in 201"
     },
     "transcripts": null,
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

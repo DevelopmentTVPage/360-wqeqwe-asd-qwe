@@ -19,6 +19,8 @@
     "id": "6413663",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "21",
+    "entityIdParent": "168523",
     "titleTextEncoded": "Emerica-s-Stay-Gold-Deluxe-Edition-book-DVD",
     "category": null,
     "duration": "104",
@@ -37,7 +39,14 @@
         "hookText": "Stay Gold Deluxe Edition #MadeInEmerica #EmericaG6 facebook.com\/Emerica twitter.com\/Emerica youtube.com\/Emerica instagram @Emerica."
     },
     "transcripts": null,
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

@@ -19,6 +19,8 @@
     "id": "66090395",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "22",
+    "entityIdParent": "168546",
     "titleTextEncoded": "Tip-2-Tip-A-Girls-Touch-Episode-4-2-Soiree",
     "category": "",
     "duration": 169,
@@ -38,7 +40,14 @@
         "quality": ""
     },
     "transcripts": "This is no contest. Your miles away from anything out here so it's good to just switch off. Since we've been on the boat we've just been surfing, um eating amazing foods, snorkeling, just having fun together laughing and just enjoying each others presence.  We've been fishing a lot and pretty much we've all got caught a fish. Fishing actually really cool not the whole sitting around waiting, but the you know the whole woo. There's something so exciting about hearing that woo. It's pretty sick, nice colors. So I don't know how you cook these things, but um it looks pretty tasty. We are hanging out with the locals on the beach it's good fun. The sunsets has been to us like amazing and um we got to barrow some of the locals canoes and i was just kind of canoeing around the sunset. It's good they're just go on a trip with friends and just yeah, enjoy life together. Having fun being in paradise I guess is nice. Coming next on Tip 2 Tip,\nwe're just literally entering the perfect storm right now. Woah! We kind of went to a new area of the menteurs and there was a lot of breaks that were just unbelieve.",
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

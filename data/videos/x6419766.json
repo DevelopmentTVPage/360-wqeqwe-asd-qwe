@@ -19,6 +19,8 @@
     "id": "6419766",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "190",
+    "entityIdParent": "168524",
     "titleTextEncoded": "Converse-Rubber-Tracks-Geek-Out-Guitar-Mic-ing",
     "category": null,
     "duration": "358",
@@ -37,7 +39,14 @@
         "hookText": "In this segment of Geek Out presented by Guitar Center, the Converse Rubber Tracks team demonstrates the basic microphone placement for recording an ..."
     },
     "transcripts": null,
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

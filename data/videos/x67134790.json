@@ -19,6 +19,8 @@
     "id": "67134790",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "75",
+    "entityIdParent": "168538",
     "titleTextEncoded": "JanSport-Pack-Review-Fox-Hole",
     "category": "",
     "duration": 121,
@@ -38,7 +40,14 @@
         "quality": ""
     },
     "transcripts": "Hey guys my name is Ahren I'm a pack designer here at jansport and today I'm going to walk you through one of our best selling products today we're going to talk about the fox hole, it's a 25 liter pack made out of 600 denier polyester it's a great lightweight durable fabric the back of this pack first thing we're going to notice is our S curve ergonomic shoulder straps. These are really nicely padded with a soft touch mesh underneath the back panel is fully padded and quilted and also has a zippered pocket down the side for access to your 15 inch laptop sleeve this also serves as a great spot for hydration we've got a hydration port here on the top around the side of the pack we've got dual water bottle pockets. Lets take a look in the inside, get a nice wide mouth zipper here and really open it up and get into things so inside is where you're going to find your blush line tablet pocket as well as our signature mountain ord this features a padded and plush line pocket great place for earbuds to keep them tangle free as well as your phone also you're going to notice our Caribbean  key clip here that's anodized as well as a mesh pocket that keeps smaller items organized and visible we also got pen loops on either side of this organizer. For any quick access items on the top here you'll find a nice quick stash pocket this is a nice place to drop any quick items, I'll put my sunglasses in there and then on the front you've got a Napoleon style zipper it's great for kind of larger quick access items for charging cables or wallet or notebook to go in there. On the bottom we've got dual compression straps those are also great for gear loops if you want to put like a wet beach towel or something you want to keep separate from the rest of your load. We've got a faux leather lashing square here, it's great to click on a bike light as well as our faux leather jansport label, so there you have it the fox hole always guaranteed for life. Check it out.",
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

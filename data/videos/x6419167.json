@@ -19,6 +19,8 @@
     "id": "6419167",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "87",
+    "entityIdParent": "3763996",
     "titleTextEncoded": "TOO-OLD-TOO-FAT-THREE",
     "category": null,
     "duration": "199",
@@ -37,7 +39,14 @@
         "hookText": "FOOTAGE DISCLAIMER: I let Mike handle the camera for a while at the banks and he didn't know how to use it. So ease up on your critique of the filming!"
     },
     "transcripts": null,
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

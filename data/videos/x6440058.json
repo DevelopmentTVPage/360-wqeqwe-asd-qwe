@@ -19,6 +19,8 @@
     "id": "6440058",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "119",
+    "entityIdParent": "168524",
     "titleTextEncoded": "The-Kills-perform-Pots-and-Pans-at-Converse-City-Carnage-NYC",
     "category": null,
     "duration": "416",
@@ -39,7 +41,14 @@
         "views": "3516"
     },
     "transcripts": null,
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

@@ -19,6 +19,8 @@
     "id": "67134716",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "101",
+    "entityIdParent": "168538",
     "titleTextEncoded": "LiveOutside2016-Rio-de-Janeiro-Episode-5",
     "category": "",
     "duration": 119,
@@ -38,7 +40,14 @@
         "quality": ""
     },
     "transcripts": "[Music Playing]\nThe graffiti our team is trying to make something new, something fresh.\n[Music Playing]",
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

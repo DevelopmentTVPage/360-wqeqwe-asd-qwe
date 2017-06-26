@@ -19,6 +19,8 @@
     "id": "67134702",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "87",
+    "entityIdParent": "168538",
     "titleTextEncoded": "JanSport-Pack-Review-Node",
     "category": "",
     "duration": 104,
@@ -38,7 +40,14 @@
         "quality": ""
     },
     "transcripts": "Hey guys my name is Jayson I'm a senior product developer transport and today I'm going to be walking through some really cool product today we're going to take a look at the node backpack part of our digital collection it's a 27 liter pack and is constructed of a 210 denier nailhead you have a fully padded back panel with a mesh overlay for breathability and comfort ergonomic s-curve shoulder shots with a soft lining underneath and a webbing haul loop at the top on the women's know the shoulder straps are specifically designed for a woman's body is slightly narrower and shorter but we also relocated the ladder locks to the bottom of the bag to remove the bulb from under the arms this pack comes equipped with dual water bottle pockets on the side these I have a lot of capacity and they stretched out so you can accommodate a lot of gear here in the main compartment you have a laptop sleeve that holds up to a 15 inch laptop and one of the great features of this pack is the dedicated pocket here for your headphones so this pocket will fit a wide variety of headphones and it makes it really easy to access when you're commuting or you're on the go on the front of the bag is another zippered pocket here this is where you have an organizer panel you have a padded tablet sleeve that fits up to a 10 inch tablet a pocket on this side pocket on this side and two slots in the middle for pens or pencils and this bag also comes with a keychain clip and finally on the very front of the bag is a expandable over full pocket which is great for storing your cords and cables so that's it for the node backpack this bag is guaranteed for life.",
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

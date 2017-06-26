@@ -19,6 +19,8 @@
     "id": "66174293",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "101",
+    "entityIdParent": "3762188",
     "titleTextEncoded": "GoPro-Power-Soccer-With-Adaptive-Sports-Athletes",
     "category": "",
     "duration": 264,
@@ -38,7 +40,14 @@
         "quality": ""
     },
     "transcripts": "You know in the world of soccer there's a lot of different ways people are involved, it's the world game because it provides that opportunity for some many people to play and compete and you think about the opportunities that you've had. Then perhaps you can turn that around and be part of something where you help create that for other people who haven't had that chance. My name is Margaret and I have congenital muscular dist-ropy, I think that people get distracted by a wheelchair or by a ventilator and that people often forget that there's a person there. Awesome, guards in the back? Yup guards in the trunk. Being involved in Power Soccer you kind of learn (cool) that you value your chair. All right, right this way guys, that button might work, the upper button, yup. That's the great thing is that you're able to experience the whole being on a team, playing a sport, playing a competitive sport. You know that's one of the really great parts about having power soccer, yeah, like that, yep exactly and now it'll fit. Okay one pin right? Yes. People with disabilities sometimes they're not thought of as athletes, hey let's go circle up, we need a circle. Let's split up we'll go bombers over here, shockers over here. This really changes perspectives for not only Society, (that's better April) but also for the person themselves. My name is Jonathan Newman I'm the Adult Sports Coordinator for the Bay Area outreach and recreation program, otherwise known as BOAR. You know really people need to look past the chair, they need to look past the crutches, it's just people playing soccer. [Team talking] Good Job. Really awesome that Power Soccer allows you to kind of you know embrace your wheelchair and enjoy playing the sport. Well at first I thought that I wouldn't like playing Power Soccer just because I was like I don't need sports, but I definitely do every now and then think back and say you know gosh it would've been really nice to have that outlet or that you know sport. Power Soccer is one of the most freeing things that I have. [Team talking] The biggest obstacle for these athletes is our society's attitude towards people with disabilities. What people need to do more than look at the differences, look at the similarities. Having that opportunity to compete and work as a team and encourage your teammates, that's just a priceless thing. Good, good job guys our ball. Let's go, almost, yeah I know. I'll try it next time. I wonder if we can wear these during the games, you can.",
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

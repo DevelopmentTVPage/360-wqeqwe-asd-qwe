@@ -19,6 +19,8 @@
     "id": "66107224",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "7",
+    "entityIdParent": "66115250",
     "titleTextEncoded": "Surfer-Burpees",
     "category": "",
     "duration": 46,
@@ -38,7 +40,14 @@
         "quality": ""
     },
     "transcripts": "Hey I'm Bethany Hamilton hanging out here at one of my favorite beaches and I want to show you one of my favorite ab moves it's called the surfer burpee. What we're gonna do is get down, lay on your back. Make sure hold your core in good, keep make sure you keep your knees wide so that they're not coming in, and power through that jump.",
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

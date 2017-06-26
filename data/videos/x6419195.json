@@ -19,6 +19,8 @@
     "id": "6419195",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "73",
+    "entityIdParent": "3763996",
     "titleTextEncoded": "ASHBURY-WELCOMES-CURTIS-WOODMAN",
     "category": null,
     "duration": "85",
@@ -37,7 +39,14 @@
         "hookText": "Curtis Woodman is in the woods and on a tear. Here is his welcome to the team video! Big thank you to Jesse Burtner and Think Thank! Footage provided by Think ..."
     },
     "transcripts": null,
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

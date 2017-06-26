@@ -19,6 +19,8 @@
     "id": "6417882",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "191",
+    "entityIdParent": "168514",
     "titleTextEncoded": "Fox-Brigade-Amateur-Spotlight-Zaca-Station-Invasion",
     "category": null,
     "duration": "133",
@@ -37,7 +39,14 @@
         "hookText": "A few of the Fox Brigade riders invade Zaca Station for some moto fun. The Swayback \"What A Pity\" Album: Double Four Time Courtesy of: VQ Creative LLC ..."
     },
     "transcripts": null,
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

@@ -19,6 +19,8 @@
     "id": "6383581",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "126",
+    "entityIdParent": "168548",
     "titleTextEncoded": "The-Art-Of-Chase-I-Am-Los-Angeles",
     "category": null,
     "duration": "240",
@@ -37,7 +39,14 @@
         "hookText": "Filmed and edited by Joris Debeij for http:\/\/iamlosangeles.com. http:\/\/altamontapparel.com\/contributors\/the-art-of-chase\/"
     },
     "transcripts": null,
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

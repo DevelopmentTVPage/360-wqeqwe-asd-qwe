@@ -19,6 +19,8 @@
     "id": "66178034",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "23",
+    "entityIdParent": "3764406",
     "titleTextEncoded": "Soulection-by-Ray-Ban-x-Boiler-Room",
     "category": "",
     "duration": 51,
@@ -38,7 +40,14 @@
         "quality": ""
     },
     "transcripts": "[Music Playing]\nSoulection, for my favorite political before I was apart of it, it's the energy. \nSoulection was just this place where I can just go and be excepted in this warm, welcoming, environment with just amazing people. \nThere is a genre of soulection music, it is the sound of now like it really is, it's a recipe a little bit of old a lot of new, something, a clap here, a man oh 8 here, you know shake it all up and  her you go, soulection.",
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

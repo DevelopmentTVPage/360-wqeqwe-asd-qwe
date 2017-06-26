@@ -19,6 +19,8 @@
     "id": "66172316",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "26",
+    "entityIdParent": "168515",
     "titleTextEncoded": "Tracy-Morgan-in-World-s-Greatest-Dad-Presented-By-Beats",
     "category": "",
     "duration": 15,
@@ -38,7 +40,14 @@
         "quality": ""
     },
     "transcripts": "Does this look like a gift for the World's Greatest Dad? No, it ain't! It looks like a gift for the world's lousiest dad given by the world's lousiest son. I want Beats by Dre! Please make it happen family.",
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

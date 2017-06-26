@@ -19,6 +19,8 @@
     "id": "6439801",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "95",
+    "entityIdParent": "168524",
     "titleTextEncoded": "Converse-RubberTracks-Track-of-the-Week-The-Business-People-record-Your-Heart",
     "category": null,
     "duration": "154",
@@ -39,7 +41,14 @@
         "views": "1912"
     },
     "transcripts": null,
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

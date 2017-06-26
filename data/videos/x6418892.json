@@ -19,6 +19,8 @@
     "id": "6418892",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "311",
+    "entityIdParent": "158318",
     "titleTextEncoded": "TOURNOTES-JOHN-JOHN-FLORENCE-S-ANKLE-INJURY",
     "category": null,
     "duration": "108",
@@ -37,7 +39,14 @@
         "hookText": "John John Florence walks us through the air that ended with a trip to the doctor and a sprained ankle. Good news is that it's not as bad as it could be and that ..."
     },
     "transcripts": null,
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

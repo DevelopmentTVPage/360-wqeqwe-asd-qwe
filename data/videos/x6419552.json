@@ -19,6 +19,8 @@
     "id": "6419552",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "243",
+    "entityIdParent": "168524",
     "titleTextEncoded": "Starlight-Girls-Converse-Rubber-Tracks-Track-of-the-Week",
     "category": null,
     "duration": "92",
@@ -37,7 +39,14 @@
         "hookText": "The single \"Rock My World Events\" by Starlight Girls is this week's \"Track of the Week\". The band came to Converse Rubber Tracks and experimented with ..."
     },
     "transcripts": null,
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

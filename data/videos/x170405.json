@@ -19,6 +19,8 @@
     "id": "170405",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "6",
+    "entityIdParent": "168538",
     "titleTextEncoded": "Live-Outside-Day-5-Riding-in-Phoenix",
     "category": null,
     "duration": "124",
@@ -35,7 +37,14 @@
         "prettyDuration": "00:02:04"
     },
     "transcripts": null,
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": [
         "25"
     ],

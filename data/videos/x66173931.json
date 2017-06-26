@@ -19,6 +19,8 @@
     "id": "66173931",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "147",
+    "entityIdParent": "3762188",
     "titleTextEncoded": "GoPro-VR-BTS-Filming-The-Carnival-Mask-Maker",
     "category": "",
     "duration": 169,
@@ -38,7 +40,14 @@
         "quality": ""
     },
     "transcripts": "Hi my name is mike foul and we're in Venice Italy shooting carnival and 360 degrees miracle video it's a little bit we met up with Giada she introduced us w founder of , kana started making masks over 30 years ago and brought back the math wearing traditional took the carnival and venice figured i love how modern let me know I got to get younger brother Bheema like a little bit funny be great yes where what is it that you would prefer to shoot like him working I'm so some history of the masks a little bit of the working so I'm and the expiration everything the camera the camera 360 camera though truth be told that it's everything wow this is perfect let me grab one shot in here see because it's really as you want they can stop me about the history here yeah yeah yeah because he i have also more material ok ok put this channel through so it's a little interesting filling in for 60 because I'm it sees everything so I can't hide I can't be like oh so how long you been doing this like because I'm part of it yes one rule with the camera is we can't get any closer than this with it so if you walk over here don't walk like buy it like this you have to walk around yeah i'll let you know when we are hidden and then and then go for it just get in there have him explain everything, yeah. How's that for behind the scenes?",
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

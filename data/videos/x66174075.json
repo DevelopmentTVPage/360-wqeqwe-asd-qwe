@@ -19,6 +19,8 @@
     "id": "66174075",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "115",
+    "entityIdParent": "3762188",
     "titleTextEncoded": "GoPro-Awards-Telluride-Avalanche-Dogs",
     "category": "",
     "duration": 207,
@@ -38,7 +40,14 @@
         "quality": ""
     },
     "transcripts": "This is Lady B of Hemlock hollow and she's 5 years old and she is one of our Telluride avalanche rescue dogs, and going to work is her favorite thing. Summers are ok for her but coming to work in the morning everyday is the best thing she just gets really excited about it and she knows that that's kind of what she does. Here in Telluride we have have five avalanche dogs that work on the mountains we have four different stations so we try to supply each station with a certified dog should we have a slide inbound, so we're going to be able to get to that slide very quickly. These dogs heart rates increase to over 200 beats per minute when they're working and when they're getting excited, they they scream and sometimes it's embarrassing they make so much noise knowing that they're going to work they're just communicating, that's how we feel on a powder day when we go yahoo these dogs are winning and squealing and wiggling all around getting ready to go to work. This is Saide, she's a second-year avalanche dog we worked together last year, it was our first year so we train quite often with the dogs it's a game for them the ski patroller that goes into the dog hole gets buried with a toy. The dog is focused on getting that toy it just so happens to be attached to a human that hones in their prey drive and allows them to smell for the human, find the toy and to dig it up. Attention all patrol units we have report of an outbound avalanche we need to proceed with dogs, immediate search pack, and as many units available to commend the search. Saide I need you to search, can you do a good search? Saide search, after they dig they get their toy there's a bit of a tug for it inside the inside the hole and when they come out their praise is playing with the hands and showing off that toy. I think from the get-go these dogs are rewarded by given the opportunity to be on the mountain here and to try to develop the skill. Man's best friend are the perfect animal you know the only the only thing I don't like is that their life spans are are limited you know you're lucky if you can get 13 or 14 years out of a dog and I just like to think that that's why their tails are always wagging because they know that their life isn't that long, so they're going to be happy for all the years that you're going to share with them.",
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

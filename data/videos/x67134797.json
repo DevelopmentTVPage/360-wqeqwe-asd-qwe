@@ -19,6 +19,8 @@
     "id": "67134797",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "12",
+    "entityIdParent": "168538",
     "titleTextEncoded": "JanSport-Pack-Review-Digibreak",
     "category": "",
     "duration": 88,
@@ -38,7 +40,14 @@
         "quality": ""
     },
     "transcripts": "Hey guys my name is Ahren, I'm a pack designer here at jansport and today I'm going to walk you through one of our best selling products all right i'm going to show you hear the digi break this is based on our classic superbreak silhouette it's been outfitted to carry and organized and protect all your digital gear so this thing is 25 litres and it's made out of 600 denier polyester that's nice lightweight and abrasion resistant so back of the pack you going to find your standard straight cut shoulder straps are fully padded as well as a fully padded back panel and a haul loop and the main compartment here this is where you're going to find your 15 inch laptop sleeve as well as the bottom of this entire pack is padded so anything you put in there is going to be well protected on the front you'll notice this quick drop pocket here got a nice secret tablet pocket here that is fully plus lined as well as padded and then we've got your accessory pocket up here this is where you're going to find your Ord panel we've got a nice big pocket here for carrion cords or other little items and some pen pockets here in that nice little space of capacity for quick grab\n1:17items so that's it that's the digi break it's always backed by a lifetime guarantee",
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

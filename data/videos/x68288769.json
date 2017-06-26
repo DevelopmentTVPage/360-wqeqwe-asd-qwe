@@ -19,6 +19,8 @@
     "id": "68288769",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "111",
+    "entityIdParent": "3762188",
     "titleTextEncoded": "epic-dog-sings-with-owner",
     "category": null,
     "duration": 88,
@@ -37,7 +39,14 @@
         "quality": ""
     },
     "transcripts": "Quincy we are going on a road trip woah! Yes, absolutely. [Singing] Quincy it's time to go to the vet. [Music Playing] Come here, come here, come here, hi, ohh, Quincy, Quincy come back. Quincy Where you going? Quincy please don't leave me, please! [Music Playing] Quincy! Quincy I graduated college woohoo, yes! Quincy I'm so sad, [Cries] Quincy your favorite show Scooby-Doo is on Scooby-doobie- doo! Woah! [Singing] I\u2019m taking you to the vet, woohoo, Quincy you hate the vet. Quincy we ran out of data this month. [Cries] Quincy can I have your cell phone please? Oh!",
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

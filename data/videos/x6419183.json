@@ -19,6 +19,8 @@
     "id": "6419183",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "349",
+    "entityIdParent": "168524",
     "titleTextEncoded": "Chinoi-Peaches-Converse-Avant-Poste",
     "category": null,
     "duration": "156",
@@ -37,7 +39,14 @@
         "hookText": "Formed in 2012, French electro rock band Chinoi mix pop melody and seismic rythmics to create their fresh sound. Chinoi recorded this live version of \"Peache..."
     },
     "transcripts": null,
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

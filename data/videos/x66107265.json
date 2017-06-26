@@ -19,6 +19,8 @@
     "id": "66107265",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "0",
+    "entityIdParent": "66115250",
     "titleTextEncoded": "Jack-Sparrow-Bethany-Hamilton-Interview",
     "category": "",
     "duration": 119,
@@ -38,7 +40,14 @@
         "quality": ""
     },
     "transcripts": "Hello, Hi, Is that uh, is that your movie? Um yup. Oh that's cool, you know uh I have a movie myself. Really? Yes, actually uh there's 4 of them, so yeah. So uh are you going to ask me about my movie? Interview me or anything? Um well I was actually hoping this would be about my movie. Oh right right, well what's your movie about again? Um it's called soul surfer, and it's about my life, um I'm a surfer and I lost my arm to a shark, right. When I was like 13, 13 that's young. And then yeah, and then I made a come, I made a comeback and continued surfing and just about the journey of that, and it's exciting! Sounds inspiring, yes. I just um you know I thought about surfing myself, but from getting from one place to the other, but I just decided you know why not just take a ship. I think your dreads might get catch on the reef. Oh really? Yeah, and that could be bad. I always thought that was always the oceans kind of thing, but I guess you're right. I don't want like a fish stuck in here or pieces of coral. Well you know what, I think we should go see it. Yeah definitely, lets go! Oh wait it's this way, it's this way. Oh no wait, oh no wait, no it's actually this way. [Music Playing].",
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

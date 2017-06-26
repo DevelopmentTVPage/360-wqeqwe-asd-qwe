@@ -19,6 +19,8 @@
     "id": "6439761",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "97",
+    "entityIdParent": "168524",
     "titleTextEncoded": "Converse-Rubber-Tracks-Geek-Out-with-Flosstradamus",
     "category": null,
     "duration": "129",
@@ -39,7 +41,14 @@
         "views": "9838"
     },
     "transcripts": null,
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

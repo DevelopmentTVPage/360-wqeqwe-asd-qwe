@@ -19,6 +19,8 @@
     "id": "6383241",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "32",
+    "entityIdParent": "168553",
     "titleTextEncoded": "Javier-Sarmiento",
     "category": null,
     "duration": "80",
@@ -37,7 +39,14 @@
         "hookText": "Javi's style was bred in Spain but has reached the globe. Here are a few clips of him from our travels."
     },
     "transcripts": null,
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

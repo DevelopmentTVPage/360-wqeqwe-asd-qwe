@@ -19,6 +19,8 @@
     "id": "66174219",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "37",
+    "entityIdParent": "3762188",
     "titleTextEncoded": "GoPro-for-a-Cause-the-Mauli-Ola-Foundation",
     "category": "",
     "duration": 172,
@@ -38,7 +40,14 @@
         "quality": ""
     },
     "transcripts": "I don't really know what makes me different. If they were to describe me they would say that I'm funny, but I can also be a little bit crazy. Hi, my name is Caryn Stroter, Breana's mom, Cystic Fibrosis attacks the respiratory and digestive system and Breana was diagnosed at age 6 with that. The Mauli Ola Foundation takes kids with Cystic Fibrosis and teaches them how to surf, surfing makes Breana healthier not only the benefits of the salt water and breathing, but the physical activities as well. It's almost like a natural treatment, but in reality they're having fun. Everyday I wake up and then I do my breathing treatment, and my best I've never known what it was like to not have CF so I don't really know the difference. Seeing kids make surfing and ocean activities a huge part of their lifestyle and the results are amazing. I'm really happy to be in position to be able to offer this therapy, we get so many testimonials from different families just saying how much it's improved their life and I just fell in love with the program. I feel that since I have CF I do work twice as hard to be good at what I do, there's like worst diseases, I'm kind of lucky because if I didn't have CF I might have not have even been surfing right now.",
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

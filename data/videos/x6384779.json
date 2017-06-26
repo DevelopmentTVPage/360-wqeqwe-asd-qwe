@@ -19,6 +19,8 @@
     "id": "6384779",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "301",
+    "entityIdParent": "168514",
     "titleTextEncoded": "FOX-MTB-Presents-Cam-McCaul-2014-Fox-Fall-Gear-Shoot",
     "category": null,
     "duration": "132",
@@ -37,7 +39,14 @@
         "hookText": "Check out this video of Cam McCaul ripping trails and doing what he does best in our fall 2014 gear - available now on foxhead.com\/bike."
     },
     "transcripts": null,
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

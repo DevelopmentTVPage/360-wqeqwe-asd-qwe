@@ -19,6 +19,8 @@
     "id": "170335",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "13",
+    "entityIdParent": "168546",
     "titleTextEncoded": "Mirage-Daily-Wrap-Rd-1-Moche-Rip-Curl-Pro-Portugal-2013",
     "category": null,
     "duration": "227",
@@ -35,7 +37,14 @@
         "prettyDuration": "00:03:47"
     },
     "transcripts": null,
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

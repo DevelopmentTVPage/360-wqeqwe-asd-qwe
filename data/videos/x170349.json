@@ -19,6 +19,8 @@
     "id": "170349",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "2",
+    "entityIdParent": "168545",
     "titleTextEncoded": "Journeymen-Taming-the-Epic",
     "category": null,
     "duration": "161",

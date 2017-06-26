@@ -19,6 +19,8 @@
     "id": "66174037",
     "loginId": "753",
     "entityType": "1",
+    "sortOrder": "100",
+    "entityIdParent": "3762188",
     "titleTextEncoded": "GoPro-BTS-The-Last-of-the-Rhinos-Inside-the-VR-Shoot",
     "category": "",
     "duration": 244,
@@ -38,7 +40,14 @@
         "quality": ""
     },
     "transcripts": "Alright are we ready. Okay. okay everyone behind the crate. Hi I'm Bradford Schmidt and we're in an undisclosed location in Botswana Africa one of the ways we want to capture this experience with spherically you take six gopro cameras and record every angle of an environment and then when you stitch that together in post-production the audience can actually step inside and freely look around when right over the top of that thing that's incredible that was gold rolling rolling rolling rolling right I think two months ago we got a cool and owner in South Africa said to us if you're going to move these runners I've got 15 but you have to move them immediately approaches are here now and shooting the Lord what can I jump in with you yeah almost there we're gonna be in front in a vehicle it's possible that he's going to come out of charge and obviously if he comes out we don't want to anybody anywhere in in line of sight but also the same time we definitely don't want him to be antagonized okay everybody be on the crate oh my god you are you ready i just talked about and I that was a good one yeah let the Rhino rubbing on on the shaft get off me like God",
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null
